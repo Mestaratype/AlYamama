@@ -58,10 +58,11 @@ jobs:
     - name: setup site
       run: cp scripts/index.html out/index.html
     - name: Deploy
-      uses: actions/upload-pages-artifact@v3.0.1
+      uses: peaceiris/actions-gh-pages@v4
       if: ${{ github.ref == 'refs/heads/main' }}
       with:
-        path: ./out
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./out
     - name: Archive artifacts
       uses: actions/upload-artifact@v4
       with:
