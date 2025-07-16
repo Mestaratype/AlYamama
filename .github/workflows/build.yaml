@@ -6,6 +6,8 @@ jobs:
   build:
     name: Build and test
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python 3.11
@@ -94,6 +96,10 @@ jobs:
     name: Create and populate release
     needs: build
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      repository-projects: write
     if: contains(github.ref, 'refs/tags/')
     env:
       ZIP_NAME: ${{ needs.build.outputs.zip_name }}
