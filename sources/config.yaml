@@ -16,11 +16,11 @@ familyName: "Al Yamama"
 # binaries to live. But we'd recommend you stick to the defaults
 # especially if you are planning to upload your font to Google Fonts.
 
-# outputDir: ../fonts
-# vfDir: $outputDir/variable
-# ttDir: $outputDir/ttf
+outputDir: ../fonts
+vfDir: $outputDir/variable
+ttDir: $outputDir/ttf
 # otDir: $outputDir/otf
-# woffDir: $outputDir/webfonts
+woffDir: $outputDir/webfonts
 
 # The following entries, which are either "true" or "false"
 # determine which targets to build. We turn off OTFs for this demo.

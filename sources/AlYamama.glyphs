@@ -156911,7 +156911,7 @@ instanceInterpolations = {
 "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5" = 0.625;
 m001 = 0.375;
 };
-name = Semibold;
+name = SemiBold;
 weightClass = 600;
 },
 {
@@ -156941,7 +156941,7 @@ instanceInterpolations = {
 "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5" = 0.188;
 m001 = 0.812;
 };
-name = Extrabold;
+name = ExtraBold;
 weightClass = 800;
 },
 {
@@ -159734,9 +159734,6 @@ key = vendorID;
 value = MSTR;
 }
 );
-settings = {
-disablesNiceNames = 1;
-};
 stems = (
 {
 name = vstem0;
