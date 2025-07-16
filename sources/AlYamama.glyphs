@@ -3,7 +3,9 @@
 .formatVersion = 3;
 DisplayStrings = (
 I,
-"ابlHIOn"
+"ابlHIOn",
+"/lam-ar.fina",
+"/_part.finAlef"
 );
 axes = (
 {
@@ -155140,6 +155142,7 @@ script = arabic;
 {
 export = 0;
 glyphname = _part.finAlef;
+lastChange = "2025-07-16 17:35:02 +0000";
 layers = (
 {
 anchors = (
@@ -155179,47 +155182,6 @@ nodes = (
 }
 );
 width = 270;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (97,0);
-},
-{
-name = top;
-pos = (98,569);
-}
-);
-associatedMasterId = "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5";
-hints = (
-{
-name = _segment.strokeButt;
-origin = (0,1);
-type = Segment;
-}
-);
-layerId = "24240C5C-594C-43EF-A962-72F5D8B8BB9B";
-name = short;
-partSelection = {
-height = 2;
-};
-shapes = (
-{
-closed = 1;
-nodes = (
-(218,0,l),
-(218,76,l),
-(98,76,l),
-(130,32,l),
-(130,598,l),
-(121,598,l),
-(76,538,l),
-(76,0,l)
-);
-}
-);
-width = 218;
 },
 {
 anchors = (
