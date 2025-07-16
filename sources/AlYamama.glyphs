@@ -172,7 +172,7 @@ value = 1;
 }
 );
 date = "2025-07-16 17:18:50 +0000";
-familyName = AlYamama;
+familyName = "Al Yamama";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
@@ -156878,10 +156878,6 @@ width = 281;
 );
 instances = (
 {
-name = Regular;
-type = variable;
-},
-{
 axesValues = (
 0
 );
@@ -159684,12 +159680,6 @@ name = "Zona Descendente";
 type = "italic angle";
 }
 );
-note = "2023-11-02 Añadí el guillemotleft de la sans y los siguientes caracteres para cumplir con el encoding Mac Roman y Windows 1252: florin, dagger, daggerdbl, nbspace, softhyphen, micro. Eliminado el DOTLESSJ de las serif, que parece ser del AFI. eliminado guillemetleft ya que estaba guillemotleft
-
-
-2023-12-04	La curva descendente de KaiSymbol en mayusculas y minusculas debe parecerse más a  S y s, decidir una longitud parecida en redonda e italica. De momento lo marqué como no exportable. 
-
-2023-12-07	Correcciones en la cola descendente de Kaisymbol mayúsculo y minusculo.";
 properties = (
 {
 key = copyrights;
