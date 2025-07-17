@@ -14,81 +14,8 @@ tag = wght;
 );
 classes = (
 {
-code = "A AE AEacute Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eng Eogonek Eth F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde O OE Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde P Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron Tcommaaccent Thorn U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent acute.case breve.case caron.case caron.alt.case cedilla.case circumflex.case commaaccent.case dieresis.case dotaccent.case Germandbls grave.case hungarumlaut.case macron.case ogonek.case ring.case tilde.case F_B F_F F_F_B F_F_H F_F_I F_F_J F_F_K F_F_L F_F_T F_H F_I F_J F_K F_L F_T T_T
-";
-name = c2pc_c2sc;
-},
-{
-code = "zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf zero one two three four five six seven eight nine zero.fit one.fit two.fit three.fit four.fit five.fit six.fit seven.fit eight.fit nine.fit zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr";
-name = dnom_frac;
-},
-{
-code = "zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom";
-name = dnom_frac2;
-},
-{
-code = "a b c d e f g h i j k l m n o p q r s t u v w x y z zero one two three four five six seven eight nine period comma hyphen parenleft parenright cent dollar plus minus equal";
-name = dnom_frac_numr_sinf_subs_sups;
-},
-{
-code = "zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr";
-name = frac;
-},
-{
-code = "fraction uni215F zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom";
-name = frac2;
-},
-{
-code = "zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf zero one two three four five six seven eight nine zero.fit one.fit two.fit three.fit four.fit five.fit six.fit seven.fit eight.fit nine.fit";
-name = frac_numr;
-},
-{
-code = "zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr";
-name = frac_numr2;
-},
-{
-code = "zero one two three four five six seven eight nine zero.fit one.fit two.fit three.fit four.fit five.fit six.fit seven.fit eight.fit nine.fit";
-name = onum;
-},
-{
-code = "zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf";
-name = onum2;
-},
-{
-code = "a b c d e f g h i j k l m n o p q r s t u v w x y z egrave";
-name = ordn_sups;
-},
-{
-code = "a.sups b.sups c.sups d.sups e.sups f.sups g.sups h.sups i.sups j.sups k.sups l.sups m.sups n.sups o.sups p.sups q.sups r.sups s.sups t.sups u.sups v.sups w.sups x.sups y.sups z.sups egrave.sups";
-name = ordn_sups2;
-},
-{
-code = "zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf zero one two three four five six seven eight nine";
-name = pnum_tnum;
-},
-{
-code = "zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.fit one.fit two.fit three.fit four.fit five.fit six.fit seven.fit eight.fit nine.fit";
-name = pnum_tnum2;
-},
-{
-code = "a.subs b.subs c.subs d.subs e.subs f.subs g.subs h.subs i.subs j.subs k.subs l.subs m.subs n.subs o.subs p.subs q.subs r.subs s.subs t.subs u.subs v.subs w.subs x.subs y.subs z.subs zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs period.subs comma.subs hyphen.subs parenleft.subs parenright.subs cent.subs dollar.subs plus.subs minus.subs equal.subs";
-name = sinf_subs;
-},
-{
-code = "a ae aeacute aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring atilde b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eng eogonek eth f g gbreve gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i ij iacute ibreve icircumflex idieresis idotaccent igrave imacron iogonek itilde j jcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot lslash m n nacute ncaron ncommaaccent ntilde o oe oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash oslashacute otilde p q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent t tbar tcaron tcommaaccent thorn u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent acute breve caron caron.alt cedilla circumflex commaaccent dieresis dotaccent germandbls grave hungarumlaut macron ogonek ring tilde f_b f_f f_f_b f_f_h f_f_i f_f_j f_f_k f_f_l f_f_t f_h fi f_j f_k fl f_t t_t";
-name = smcp;
-},
-{
-code = "A.sc AE.sc AEacute.sc Aacute.sc Abreve.sc Acaron.sc Acircumflex.sc Adieresis.sc Agrave.sc Amacron.sc Aogonek.sc Aring.sc Atilde.sc B.sc C.sc Cacute.sc Ccaron.sc Ccedilla.sc Ccircumflex.sc Cdotaccent.sc D.sc Dcaron.sc Dcroat.sc E.sc Eacute.sc Ebreve.sc Ecaron.sc Ecircumflex.sc Edieresis.sc Edotaccent.sc Egrave.sc Emacron.sc Eng.sc Eogonek.sc Eth.sc F.sc G.sc Gbreve.sc Gcircumflex.sc Gcommaaccent.sc Gdotaccent.sc H.sc Hbar.sc Hcircumflex.sc I.sc IJ.sc Iacute.sc Ibreve.sc Icircumflex.sc Idieresis.sc Idotaccent.sc Igrave.sc Imacron.sc Iogonek.sc Itilde.sc J.sc Jcircumflex.sc K.sc Kcommaaccent.sc L.sc Lacute.sc Lcaron.sc Lcommaaccent.sc Ldot.sc Lslash.sc M.sc N.sc Nacute.sc Ncaron.sc Ncommaaccent.sc Ntilde.sc O.sc OE.sc Oacute.sc Obreve.sc Ocircumflex.sc Odieresis.sc Ograve.sc Ohungarumlaut.sc Omacron.sc Oslash.sc Oslashacute.sc Otilde.sc P.sc Q.sc R.sc Racute.sc Rcaron.sc Rcommaaccent.sc S.sc Sacute.sc Scaron.sc Scedilla.sc Scircumflex.sc Scommaaccent.sc T.sc Tbar.sc Tcaron.sc Tcommaaccent.sc Thorn.sc U.sc Uacute.sc Ubreve.sc Ucircumflex.sc Udieresis.sc Ugrave.sc Uhungarumlaut.sc Umacron.sc Uogonek.sc Uring.sc Utilde.sc V.sc W.sc Wacute.sc Wcircumflex.sc Wdieresis.sc Wgrave.sc X.sc Y.sc Yacute.sc Ycircumflex.sc Ydieresis.sc Ygrave.sc Z.sc Zacute.sc Zcaron.sc Z acute.sc breve.sc caron.sc caron.alt.sc cedilla.sc circumflex.sc commaaccent.sc dieresis.sc dotaccent.sc Germandbls.sc grave.sc hungarumlaut.sc macron.sc ogonek.sc ring.sc tilde.sc f_b.sc f_f.sc f_f_b.sc f_f_h.sc f_f_i.sc f_f_j.sc f_f_k.sc f_f_l.sc f_f_t.sc f_h.sc fi.sc f_j.sc f_k.sc fl.sc f_t.sc t_t.sc";
-name = smcp2;
-},
-{
-code = "a.sups b.sups c.sups d.sups e.sups f.sups g.sups h.sups i.sups j.sups k.sups l.sups m.sups n.sups o.sups p.sups q.sups r.sups s.sups t.sups u.sups v.sups w.sups x.sups y.sups z.sups zero.sups one.sups two.sups three.sups four.sups five.sups six.sups seven.sups eight.sups nine.sups period.sups comma.sups hyphen.sups parenleft.sups parenright.sups cent.sups dollar.sups plus.sups minus.sups equal.sups";
-name = sups;
-},
-{
 automatic = 1;
-code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Saltillo uni021A Lcommaaccent.loclMAH Ncommaaccent.loclMAH F_B F_F F_F_B F_F_H F_F_I F_F_J F_F_K F_F_L F_F_T F_H F_I F_J F_K F_L F_T T_T Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol";
+code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Saltillo uni021A Lcommaaccent.loclMAH Ncommaaccent.loclMAH Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol";
 name = Uppercase;
 }
 );
@@ -171,10 +98,12 @@ date = "2025-07-16 17:18:50 +0000";
 familyName = "Al Yamama";
 featurePrefixes = (
 {
+automatic = 1;
 code = "languagesystem DFLT dflt;
 
 languagesystem arab dflt;
-languagesystem latn NLD;
+
+languagesystem latn dflt;
 languagesystem latn AZE;
 languagesystem latn CRT;
 languagesystem latn KAZ;
@@ -184,20 +113,7 @@ languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn MAH;
 languagesystem latn CAT;
-languagesystem arab ARA;
-
-# Lookup definitions
-#
-
-lookup dnom_frac {
-# GSUB lookup 5, type 11 (Single)
-  sub @dnom_frac by @dnom_frac2;
-} dnom_frac;
-
-lookup frac_numr {
-# GSUB lookup 6, type 11 (Single)
-  sub @frac_numr by @frac_numr2;
-} frac_numr;
+languagesystem latn NLD;
 ";
 name = Languagesystems;
 }
@@ -207,27 +123,23 @@ features = (
 automatic = 1;
 code = "feature locl;
 feature subs;
+feature sinf;
 feature sups;
+feature numr;
+feature dnom;
 feature frac;
 feature ordn;
 feature pnum;
 feature tnum;
 feature onum;
-feature lnum;
 feature c2sc;
 feature smcp;
-feature sinf;
 feature case;
 feature init;
 feature medi;
 feature fina;
 ";
 tag = aalt;
-},
-{
-code = "pos @c2pc_c2sc <50 0 50 0>;
-";
-tag = cpsp;
 },
 {
 automatic = 1;
@@ -348,236 +260,452 @@ lookup locl_latn_4 {
 tag = locl;
 },
 {
-code = "# GSUB feature: Subscript
-# Lookups: 1
-
-  sub @dnom_frac_numr_sinf_subs_sups by @sinf_subs;";
+automatic = 1;
+code = "sub a by a.subs;
+sub b by b.subs;
+sub c by c.subs;
+sub d by d.subs;
+sub e by e.subs;
+sub f by f.subs;
+sub g by g.subs;
+sub h by h.subs;
+sub i by i.subs;
+sub j by j.subs;
+sub k by k.subs;
+sub l by l.subs;
+sub m by m.subs;
+sub n by n.subs;
+sub o by o.subs;
+sub p by p.subs;
+sub q by q.subs;
+sub r by r.subs;
+sub s by s.subs;
+sub t by t.subs;
+sub u by u.subs;
+sub v by v.subs;
+sub w by w.subs;
+sub x by x.subs;
+sub y by y.subs;
+sub z by z.subs;
+sub zero by zero.subs;
+sub one by one.subs;
+sub two by two.subs;
+sub three by three.subs;
+sub four by four.subs;
+sub five by five.subs;
+sub six by six.subs;
+sub seven by seven.subs;
+sub eight by eight.subs;
+sub nine by nine.subs;
+sub period by period.subs;
+sub comma by comma.subs;
+sub hyphen by hyphen.subs;
+sub parenleft by parenleft.subs;
+sub parenright by parenright.subs;
+sub cent by cent.subs;
+sub dollar by dollar.subs;
+sub plus by plus.subs;
+sub minus by minus.subs;
+sub equal by equal.subs;
+";
 tag = subs;
 },
 {
-code = "# GSUB feature: Superscript
-# Lookups: 2
-
-  sub @dnom_frac_numr_sinf_subs_sups by @sups;
-
+automatic = 1;
+code = "sub a by a.subs;
+sub b by b.subs;
+sub c by c.subs;
+sub d by d.subs;
+sub e by e.subs;
+sub f by f.subs;
+sub g by g.subs;
+sub h by h.subs;
+sub i by i.subs;
+sub j by j.subs;
+sub k by k.subs;
+sub l by l.subs;
+sub m by m.subs;
+sub n by n.subs;
+sub o by o.subs;
+sub p by p.subs;
+sub q by q.subs;
+sub r by r.subs;
+sub s by s.subs;
+sub t by t.subs;
+sub u by u.subs;
+sub v by v.subs;
+sub w by w.subs;
+sub x by x.subs;
+sub y by y.subs;
+sub z by z.subs;
+sub zero by zero.subs;
+sub one by one.subs;
+sub two by two.subs;
+sub three by three.subs;
+sub four by four.subs;
+sub five by five.subs;
+sub six by six.subs;
+sub seven by seven.subs;
+sub eight by eight.subs;
+sub nine by nine.subs;
+sub period by period.subs;
+sub comma by comma.subs;
+sub hyphen by hyphen.subs;
+sub parenleft by parenleft.subs;
+sub parenright by parenright.subs;
+sub cent by cent.subs;
+sub dollar by dollar.subs;
+sub plus by plus.subs;
+sub minus by minus.subs;
+sub equal by equal.subs;
+";
+tag = sinf;
+},
+{
+automatic = 1;
+code = "sub a by a.sups;
+sub b by b.sups;
+sub c by c.sups;
+sub d by d.sups;
+sub e by e.sups;
+sub egrave by egrave.sups;
+sub f by f.sups;
+sub g by g.sups;
+sub h by h.sups;
+sub i by i.sups;
+sub j by j.sups;
+sub k by k.sups;
+sub l by l.sups;
+sub m by m.sups;
+sub n by n.sups;
+sub o by o.sups;
+sub p by p.sups;
+sub q by q.sups;
+sub r by r.sups;
+sub s by s.sups;
+sub t by t.sups;
+sub u by u.sups;
+sub v by v.sups;
+sub w by w.sups;
+sub x by x.sups;
+sub y by y.sups;
+sub z by z.sups;
+sub zero by zero.sups;
+sub one by one.sups;
+sub two by two.sups;
+sub three by three.sups;
+sub four by four.sups;
+sub five by five.sups;
+sub six by six.sups;
+sub seven by seven.sups;
+sub eight by eight.sups;
+sub nine by nine.sups;
+sub period by period.sups;
+sub comma by comma.sups;
+sub hyphen by hyphen.sups;
+sub parenleft by parenleft.sups;
+sub parenright by parenright.sups;
+sub cent by cent.sups;
+sub dollar by dollar.sups;
+sub plus by plus.sups;
+sub minus by minus.sups;
+sub equal by equal.sups;
 ";
 tag = sups;
 },
 {
-code = "# GSUB feature: Fractions
-# Lookups: 3
-  lookup frac_numr;
-  sub slash by fraction;
-  sub @frac_numr' lookup frac_numr;
-  sub @frac2 @frac' lookup dnom_frac;
+automatic = 1;
+code = "sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+";
+tag = numr;
+},
+{
+automatic = 1;
+code = "sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+";
+tag = dnom;
+},
+{
+automatic = 1;
+code = "lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup UP {
+	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+} UP;
+lookup DOWN {
+	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+} DOWN;
 ";
 tag = frac;
 },
 {
-code = "# GSUB feature: Ordinals
-# Lookups: 1
-
- sub @ordn_sups by @ordn_sups2;";
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
 tag = ordn;
 },
 {
-code = "# GSUB feature: Proportional Figures
-# Lookups: 1
-
-  sub @pnum_tnum by @pnum_tnum2;
+automatic = 1;
+code = "sub zero.tosf by zero.osf;
+sub one.tosf by one.osf;
+sub two.tosf by two.osf;
+sub three.tosf by three.osf;
+sub four.tosf by four.osf;
+sub five.tosf by five.osf;
+sub six.tosf by six.osf;
+sub seven.tosf by seven.osf;
+sub eight.tosf by eight.osf;
+sub nine.tosf by nine.osf;
 ";
 tag = pnum;
 },
 {
-code = "# GSUB feature: Tabular Figures
-# Lookups: 1
-
-  sub @pnum_tnum2 by @pnum_tnum;";
+automatic = 1;
+code = "sub zero.osf by zero.tosf;
+sub one.osf by one.tosf;
+sub two.osf by two.tosf;
+sub three.osf by three.tosf;
+sub four.osf by four.tosf;
+sub five.osf by five.tosf;
+sub six.osf by six.tosf;
+sub seven.osf by seven.tosf;
+sub eight.osf by eight.tosf;
+sub nine.osf by nine.tosf;
+";
 tag = tnum;
 },
 {
-code = "# GSUB feature: Oldstyle Figures
-# Lookups: 1
-
-  sub @onum by @onum2;";
+automatic = 1;
+code = "sub zero by zero.tosf;
+sub one by one.tosf;
+sub two by two.tosf;
+sub three by three.tosf;
+sub four by four.tosf;
+sub five by five.tosf;
+sub six by six.tosf;
+sub seven by seven.tosf;
+sub eight by eight.tosf;
+sub nine by nine.tosf;
+";
 tag = onum;
 },
 {
-code = "# GSUB feature: Lining Figures
-# Lookups: 1
-
-  sub @onum2 by @onum;";
-tag = lnum;
-},
-{
-code = "# GSUB feature: Small Capitals From Capitals
-# Lookups: 1
-
-  sub @c2pc_c2sc by @smcp2;
+automatic = 1;
+code = "sub A by A.sc;
+sub Aacute by Aacute.sc;
+sub Abreve by Abreve.sc;
+sub Acaron by Acaron.sc;
+sub Acircumflex by Acircumflex.sc;
+sub Adieresis by Adieresis.sc;
+sub Agrave by Agrave.sc;
+sub Amacron by Amacron.sc;
+sub Aogonek by Aogonek.sc;
+sub Aring by Aring.sc;
+sub Atilde by Atilde.sc;
+sub AE by AE.sc;
+sub AEacute by AEacute.sc;
+sub B by B.sc;
+sub C by C.sc;
+sub Cacute by Cacute.sc;
+sub Ccaron by Ccaron.sc;
+sub Ccedilla by Ccedilla.sc;
+sub Ccircumflex by Ccircumflex.sc;
+sub Cdotaccent by Cdotaccent.sc;
+sub D by D.sc;
+sub Dcaron by Dcaron.sc;
+sub Dcroat by Dcroat.sc;
+sub Eth by Eth.sc;
+sub E by E.sc;
+sub Eacute by Eacute.sc;
+sub Ebreve by Ebreve.sc;
+sub Ecaron by Ecaron.sc;
+sub Ecircumflex by Ecircumflex.sc;
+sub Edieresis by Edieresis.sc;
+sub Edotaccent by Edotaccent.sc;
+sub Egrave by Egrave.sc;
+sub Emacron by Emacron.sc;
+sub Eogonek by Eogonek.sc;
+sub F by F.sc;
+sub G by G.sc;
+sub Gbreve by Gbreve.sc;
+sub Gcircumflex by Gcircumflex.sc;
+sub Gcommaaccent by Gcommaaccent.sc;
+sub Gdotaccent by Gdotaccent.sc;
+sub H by H.sc;
+sub Hbar by Hbar.sc;
+sub Hcircumflex by Hcircumflex.sc;
+sub I by I.sc;
+sub IJ by IJ.sc;
+sub Iacute by Iacute.sc;
+sub Ibreve by Ibreve.sc;
+sub Icircumflex by Icircumflex.sc;
+sub Idieresis by Idieresis.sc;
+sub Idotaccent by Idotaccent.sc;
+sub Igrave by Igrave.sc;
+sub Imacron by Imacron.sc;
+sub Iogonek by Iogonek.sc;
+sub Itilde by Itilde.sc;
+sub J by J.sc;
+sub Jcircumflex by Jcircumflex.sc;
+sub K by K.sc;
+sub Kcommaaccent by Kcommaaccent.sc;
+sub L by L.sc;
+sub Lacute by Lacute.sc;
+sub Lcaron by Lcaron.sc;
+sub Lcommaaccent by Lcommaaccent.sc;
+sub Ldot by Ldot.sc;
+sub Lslash by Lslash.sc;
+sub M by M.sc;
+sub N by N.sc;
+sub Nacute by Nacute.sc;
+sub Ncaron by Ncaron.sc;
+sub Ncommaaccent by Ncommaaccent.sc;
+sub Ntilde by Ntilde.sc;
+sub Eng by Eng.sc;
+sub O by O.sc;
+sub Oacute by Oacute.sc;
+sub Obreve by Obreve.sc;
+sub Ocircumflex by Ocircumflex.sc;
+sub Odieresis by Odieresis.sc;
+sub Ograve by Ograve.sc;
+sub Ohungarumlaut by Ohungarumlaut.sc;
+sub Omacron by Omacron.sc;
+sub Oslash by Oslash.sc;
+sub Oslashacute by Oslashacute.sc;
+sub Otilde by Otilde.sc;
+sub OE by OE.sc;
+sub P by P.sc;
+sub Thorn by Thorn.sc;
+sub Q by Q.sc;
+sub R by R.sc;
+sub Racute by Racute.sc;
+sub Rcaron by Rcaron.sc;
+sub Rcommaaccent by Rcommaaccent.sc;
+sub S by S.sc;
+sub Sacute by Sacute.sc;
+sub Scaron by Scaron.sc;
+sub Scedilla by Scedilla.sc;
+sub Scircumflex by Scircumflex.sc;
+sub Scommaaccent by Scommaaccent.sc;
+sub Germandbls by Germandbls.sc;
+sub T by T.sc;
+sub Tbar by Tbar.sc;
+sub Tcaron by Tcaron.sc;
+sub Tcommaaccent by Tcommaaccent.sc;
+sub U by U.sc;
+sub Uacute by Uacute.sc;
+sub Ubreve by Ubreve.sc;
+sub Ucircumflex by Ucircumflex.sc;
+sub Udieresis by Udieresis.sc;
+sub Ugrave by Ugrave.sc;
+sub Uhungarumlaut by Uhungarumlaut.sc;
+sub Umacron by Umacron.sc;
+sub Uogonek by Uogonek.sc;
+sub Uring by Uring.sc;
+sub Utilde by Utilde.sc;
+sub V by V.sc;
+sub W by W.sc;
+sub Wacute by Wacute.sc;
+sub Wcircumflex by Wcircumflex.sc;
+sub Wdieresis by Wdieresis.sc;
+sub Wgrave by Wgrave.sc;
+sub X by X.sc;
+sub Y by Y.sc;
+sub Yacute by Yacute.sc;
+sub Ycircumflex by Ycircumflex.sc;
+sub Ydieresis by Ydieresis.sc;
+sub Ygrave by Ygrave.sc;
+sub Z by Z.sc;
+sub Zacute by Zacute.sc;
+sub Zcaron by Zcaron.sc;
+sub Zdotaccent by Zdotaccent.sc;
+sub dieresiscomb by dieresiscomb.sc;
+sub dotaccentcomb by dotaccentcomb.sc;
+sub gravecomb by gravecomb.sc;
+sub acutecomb by acutecomb.sc;
+sub hungarumlautcomb by hungarumlautcomb.sc;
+sub circumflexcomb by circumflexcomb.sc;
+sub caroncomb by caroncomb.sc;
+sub brevecomb by brevecomb.sc;
+sub ringcomb by ringcomb.sc;
+sub tildecomb by tildecomb.sc;
+sub macroncomb by macroncomb.sc;
+sub commaaccent by commaaccent.sc;
+sub cedillacomb by cedillacomb.sc;
+sub ogonekcomb by ogonekcomb.sc;
+sub dieresis by dieresis.sc;
+sub dotaccent by dotaccent.sc;
+sub grave by grave.sc;
+sub acute by acute.sc;
+sub hungarumlaut by hungarumlaut.sc;
+sub circumflex by circumflex.sc;
+sub caron by caron.sc;
+sub breve by breve.sc;
+sub ring by ring.sc;
+sub tilde by tilde.sc;
+sub macron by macron.sc;
+sub cedilla by cedilla.sc;
+sub ogonek by ogonek.sc;
+sub caron.alt by caron.alt.sc;
 ";
 tag = c2sc;
 },
 {
-code = "# GSUB feature: Small Capitals
-# Lookups: 1
-
-  sub @smcp by @smcp2;
+automatic = 1;
+code = "sub dieresiscomb by dieresiscomb.sc;
+sub dotaccentcomb by dotaccentcomb.sc;
+sub gravecomb by gravecomb.sc;
+sub acutecomb by acutecomb.sc;
+sub hungarumlautcomb by hungarumlautcomb.sc;
+sub circumflexcomb by circumflexcomb.sc;
+sub caroncomb by caroncomb.sc;
+sub brevecomb by brevecomb.sc;
+sub ringcomb by ringcomb.sc;
+sub tildecomb by tildecomb.sc;
+sub macroncomb by macroncomb.sc;
+sub commaaccent by commaaccent.sc;
+sub cedillacomb by cedillacomb.sc;
+sub ogonekcomb by ogonekcomb.sc;
+sub dieresis by dieresis.sc;
+sub dotaccent by dotaccent.sc;
+sub grave by grave.sc;
+sub acute by acute.sc;
+sub hungarumlaut by hungarumlaut.sc;
+sub circumflex by circumflex.sc;
+sub caron by caron.sc;
+sub breve by breve.sc;
+sub ring by ring.sc;
+sub tilde by tilde.sc;
+sub macron by macron.sc;
+sub caron.alt by caron.alt.sc;
+sub cedilla by cedilla.sc;
+sub ogonek by ogonek.sc;
 ";
 tag = smcp;
 },
 {
 automatic = 1;
-code = "lookupflag IgnoreMarks;
-sub F F B by F_F_B;
-sub F F H by F_F_H;
-sub F F I by F_F_I;
-sub F F J by F_F_J;
-sub F F K by F_F_K;
-sub F F L by F_F_L;
-sub F F T by F_F_T;
-sub f f b by f_f_b;
-sub f f h by f_f_h;
-sub f f j by f_f_j;
-sub f f k by f_f_k;
-sub f f t by f_f_t;
-sub F B by F_B;
-sub F F by F_F;
-sub F H by F_H;
-sub F I by F_I;
-sub F J by F_J;
-sub F K by F_K;
-sub F L by F_L;
-sub F T by F_T;
-sub T T by T_T;
-sub f b by f_b;
-sub f h by f_h;
-sub f j by f_j;
-sub f k by f_k;
-sub f t by f_t;
-sub t t by t_t;
-lookup dlig_RTL {
-lookupflag IgnoreMarks;
-	sub lam-ar.init lam-ar.medi heh-ar.fina by lam_lam_heh-ar;
-	sub alefMaksura-ar.medi noon-ar.fina by alefMaksura_noon-ar.fina;
-	sub alefMaksura-ar.medi reh-ar.fina by alefMaksura_reh-ar.fina;
-} dlig_RTL;
-";
-tag = dlig;
-},
-{
-automatic = 1;
-code = "lookupflag IgnoreMarks;
-sub f f i by f_f_i;
-sub f f l by f_f_l;
-sub beh-ar.medi alefMaksura-ar.fina by beh_alefMaksura-ar.fina.liga;
-sub beh-ar.medi noon-ar.fina by beh_noon-ar.fina.liga;
-sub beh-ar.medi reh-ar.fina by beh_reh-ar.fina.liga;
-sub beh-ar.medi yeh-ar.fina by beh_yeh-ar.fina.liga;
-sub beh-ar.medi yehHamzaabove-ar.fina by beh_yehHamzaabove-ar.fina.liga;
-sub beh-ar.medi zain-ar.fina by beh_zain-ar.fina.liga;
-sub dad-ar.init alefMaksura-ar.fina by dad_alefMaksura-ar.liga;
-sub dad-ar.medi alefMaksura-ar.fina by dad_alefMaksura-ar.fina.liga;
-sub dad-ar.init reh-ar.fina by dad_reh-ar.liga;
-sub dad-ar.medi reh-ar.fina by dad_reh-ar.fina.liga;
-sub dad-ar.init yeh-ar.fina by dad_yeh-ar.liga;
-sub dad-ar.medi yeh-ar.fina by dad_yeh-ar.fina.liga;
-sub dad-ar.init yehHamzaabove-ar.fina by dad_yehHamzaabove-ar.liga;
-sub dad-ar.medi yehHamzaabove-ar.fina by dad_yehHamzaabove-ar.fina.liga;
-sub dad-ar.init zain-ar.fina by dad_zain-ar.liga;
-sub dad-ar.medi zain-ar.fina by dad_zain-ar.fina.liga;
-sub f f by f_f;
-sub feh-ar.init alefMaksura-ar.fina by feh_alefMaksura-ar.liga;
-sub feh-ar.init yeh-ar.fina by feh_yeh-ar.liga;
-sub feh-ar.init yehHamzaabove-ar.fina by feh_yehHamzaabove-ar.liga;
-sub noon-ar.medi alefMaksura-ar.fina by noon_alefMaksura-ar.fina.liga;
-sub noon-ar.medi noon-ar.fina by noon_noon-ar.fina.liga;
-sub noon-ar.medi reh-ar.fina by noon_reh-ar.fina.liga;
-sub noon-ar.medi yeh-ar.fina by noon_yeh-ar.fina.liga;
-sub noon-ar.medi yehHamzaabove-ar.fina by noon_yehHamzaabove-ar.fina.liga;
-sub noon-ar.medi zain-ar.fina by noon_zain-ar.fina.liga;
-sub qaf-ar.init alefMaksura-ar.fina by qaf_alefMaksura-ar.liga;
-sub qaf-ar.init yeh-ar.fina by qaf_yeh-ar.liga;
-sub qaf-ar.init yehHamzaabove-ar.fina by qaf_yehHamzaabove-ar.liga;
-sub sad-ar.init alefMaksura-ar.fina by sad_alefMaksura-ar.liga;
-sub sad-ar.medi alefMaksura-ar.fina by sad_alefMaksura-ar.fina.liga;
-sub sad-ar.init reh-ar.fina by sad_reh-ar.liga;
-sub sad-ar.medi reh-ar.fina by sad_reh-ar.fina.liga;
-sub sad-ar.init yeh-ar.fina by sad_yeh-ar.liga;
-sub sad-ar.medi yeh-ar.fina by sad_yeh-ar.fina.liga;
-sub sad-ar.init yehHamzaabove-ar.fina by sad_yehHamzaabove-ar.liga;
-sub sad-ar.medi yehHamzaabove-ar.fina by sad_yehHamzaabove-ar.fina.liga;
-sub sad-ar.init zain-ar.fina by sad_zain-ar.liga;
-sub sad-ar.medi zain-ar.fina by sad_zain-ar.fina.liga;
-sub seen-ar.init alefMaksura-ar.fina by seen_alefMaksura-ar.liga;
-sub seen-ar.medi alefMaksura-ar.fina by seen_alefMaksura-ar.fina.liga;
-sub seen-ar.init reh-ar.fina by seen_reh-ar.liga;
-sub seen-ar.medi reh-ar.fina by seen_reh-ar.fina.liga;
-sub seen-ar.init yeh-ar.fina by seen_yeh-ar.liga;
-sub seen-ar.medi yeh-ar.fina by seen_yeh-ar.fina.liga;
-sub seen-ar.init yehHamzaabove-ar.fina by seen_yehHamzaabove-ar.liga;
-sub seen-ar.medi yehHamzaabove-ar.fina by seen_yehHamzaabove-ar.fina.liga;
-sub seen-ar.init zain-ar.fina by seen_zain-ar.liga;
-sub seen-ar.medi zain-ar.fina by seen_zain-ar.fina.liga;
-sub sheen-ar.init alefMaksura-ar.fina by sheen_alefMaksura-ar.liga;
-sub sheen-ar.medi alefMaksura-ar.fina by sheen_alefMaksura-ar.fina.liga;
-sub sheen-ar.init reh-ar.fina by sheen_reh-ar.liga;
-sub sheen-ar.medi reh-ar.fina by sheen_reh-ar.fina.liga;
-sub sheen-ar.init yeh-ar.fina by sheen_yeh-ar.liga;
-sub sheen-ar.medi yeh-ar.fina by sheen_yeh-ar.fina.liga;
-sub sheen-ar.init yehHamzaabove-ar.fina by sheen_yehHamzaabove-ar.liga;
-sub sheen-ar.medi yehHamzaabove-ar.fina by sheen_yehHamzaabove-ar.fina.liga;
-sub sheen-ar.init zain-ar.fina by sheen_zain-ar.liga;
-sub sheen-ar.medi zain-ar.fina by sheen_zain-ar.fina.liga;
-sub teh-ar.medi alefMaksura-ar.fina by teh_alefMaksura-ar.fina.liga;
-sub teh-ar.medi noon-ar.fina by teh_noon-ar.fina.liga;
-sub teh-ar.medi reh-ar.fina by teh_reh-ar.fina.liga;
-sub teh-ar.medi yeh-ar.fina by teh_yeh-ar.fina.liga;
-sub teh-ar.medi yehHamzaabove-ar.fina by teh_yehHamzaabove-ar.fina.liga;
-sub teh-ar.medi zain-ar.fina by teh_zain-ar.fina.liga;
-sub theh-ar.medi alefMaksura-ar.fina by theh_alefMaksura-ar.fina.liga;
-sub theh-ar.medi noon-ar.fina by theh_noon-ar.fina.liga;
-sub theh-ar.medi reh-ar.fina by theh_reh-ar.fina.liga;
-sub theh-ar.medi yeh-ar.fina by theh_yeh-ar.fina.liga;
-sub theh-ar.medi yehHamzaabove-ar.fina by theh_yehHamzaabove-ar.fina.liga;
-sub theh-ar.medi zain-ar.fina by theh_zain-ar.fina.liga;
-sub yehHamzaabove-ar.medi alefMaksura-ar.fina by yehHamzaabove_alefMaksura-ar.fina.liga;
-sub yehHamzaabove-ar.medi noon-ar.fina by yehHamzaabove_noon-ar.fina.liga;
-sub yehHamzaabove-ar.medi reh-ar.fina by yehHamzaabove_reh-ar.fina.liga;
-sub yehHamzaabove-ar.medi yeh-ar.fina by yehHamzaabove_yeh-ar.fina.liga;
-sub yehHamzaabove-ar.medi yehHamzaabove-ar.fina by yehHamzaabove_yehHamzaabove-ar.fina.liga;
-sub yehHamzaabove-ar.medi zain-ar.fina by yehHamzaabove_zain-ar.fina.liga;
-sub yeh-ar.medi noon-ar.fina by yeh_noon-ar.fina.liga;
-sub yeh-ar.medi reh-ar.fina by yeh_reh-ar.fina.liga;
-sub yeh-ar.medi zain-ar.fina by yeh_zain-ar.fina.liga;
-sub f i by fi;
-sub f l by fl;
-";
-tag = liga;
-},
-{
-code = "# GSUB feature: Numerators
-# Lookups: 1
-
-  lookup frac_numr;
-";
-tag = numr;
-},
-{
-code = "# GSUB feature: Denominators
-# Lookups: 1
-
-  lookup dnom_frac;
-";
-tag = dnom;
-},
-{
-code = "# GSUB feature: Scientific inferiors
-# Lookups: 1
-
-  sub @dnom_frac_numr_sinf_subs_sups by @sinf_subs;";
-tag = sinf;
-},
-{
 code = "sub tonos by tonos.case;
 sub dieresiscomb by dieresiscomb.case;
 sub dotaccentcomb by dotaccentcomb.case;
@@ -760,6 +888,119 @@ lookup rlig_arab_0 {
 } rlig_arab_0;
 ";
 tag = rlig;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f f b by f_f_b;
+sub f f h by f_f_h;
+sub f f j by f_f_j;
+sub f f k by f_f_k;
+sub f f t by f_f_t;
+sub f b by f_b;
+sub f h by f_h;
+sub f j by f_j;
+sub f k by f_k;
+sub f t by f_t;
+sub t t by t_t;
+lookup dlig_RTL {
+lookupflag IgnoreMarks;
+	sub lam-ar.init lam-ar.medi heh-ar.fina by lam_lam_heh-ar;
+	sub alefMaksura-ar.medi noon-ar.fina by alefMaksura_noon-ar.fina;
+	sub alefMaksura-ar.medi reh-ar.fina by alefMaksura_reh-ar.fina;
+} dlig_RTL;
+";
+tag = dlig;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub beh-ar.medi alefMaksura-ar.fina by beh_alefMaksura-ar.fina.liga;
+sub beh-ar.medi noon-ar.fina by beh_noon-ar.fina.liga;
+sub beh-ar.medi reh-ar.fina by beh_reh-ar.fina.liga;
+sub beh-ar.medi yeh-ar.fina by beh_yeh-ar.fina.liga;
+sub beh-ar.medi yehHamzaabove-ar.fina by beh_yehHamzaabove-ar.fina.liga;
+sub beh-ar.medi zain-ar.fina by beh_zain-ar.fina.liga;
+sub dad-ar.init alefMaksura-ar.fina by dad_alefMaksura-ar.liga;
+sub dad-ar.medi alefMaksura-ar.fina by dad_alefMaksura-ar.fina.liga;
+sub dad-ar.init reh-ar.fina by dad_reh-ar.liga;
+sub dad-ar.medi reh-ar.fina by dad_reh-ar.fina.liga;
+sub dad-ar.init yeh-ar.fina by dad_yeh-ar.liga;
+sub dad-ar.medi yeh-ar.fina by dad_yeh-ar.fina.liga;
+sub dad-ar.init yehHamzaabove-ar.fina by dad_yehHamzaabove-ar.liga;
+sub dad-ar.medi yehHamzaabove-ar.fina by dad_yehHamzaabove-ar.fina.liga;
+sub dad-ar.init zain-ar.fina by dad_zain-ar.liga;
+sub dad-ar.medi zain-ar.fina by dad_zain-ar.fina.liga;
+sub f f by f_f;
+sub feh-ar.init alefMaksura-ar.fina by feh_alefMaksura-ar.liga;
+sub feh-ar.init yeh-ar.fina by feh_yeh-ar.liga;
+sub feh-ar.init yehHamzaabove-ar.fina by feh_yehHamzaabove-ar.liga;
+sub noon-ar.medi alefMaksura-ar.fina by noon_alefMaksura-ar.fina.liga;
+sub noon-ar.medi noon-ar.fina by noon_noon-ar.fina.liga;
+sub noon-ar.medi reh-ar.fina by noon_reh-ar.fina.liga;
+sub noon-ar.medi yeh-ar.fina by noon_yeh-ar.fina.liga;
+sub noon-ar.medi yehHamzaabove-ar.fina by noon_yehHamzaabove-ar.fina.liga;
+sub noon-ar.medi zain-ar.fina by noon_zain-ar.fina.liga;
+sub qaf-ar.init alefMaksura-ar.fina by qaf_alefMaksura-ar.liga;
+sub qaf-ar.init yeh-ar.fina by qaf_yeh-ar.liga;
+sub qaf-ar.init yehHamzaabove-ar.fina by qaf_yehHamzaabove-ar.liga;
+sub sad-ar.init alefMaksura-ar.fina by sad_alefMaksura-ar.liga;
+sub sad-ar.medi alefMaksura-ar.fina by sad_alefMaksura-ar.fina.liga;
+sub sad-ar.init reh-ar.fina by sad_reh-ar.liga;
+sub sad-ar.medi reh-ar.fina by sad_reh-ar.fina.liga;
+sub sad-ar.init yeh-ar.fina by sad_yeh-ar.liga;
+sub sad-ar.medi yeh-ar.fina by sad_yeh-ar.fina.liga;
+sub sad-ar.init yehHamzaabove-ar.fina by sad_yehHamzaabove-ar.liga;
+sub sad-ar.medi yehHamzaabove-ar.fina by sad_yehHamzaabove-ar.fina.liga;
+sub sad-ar.init zain-ar.fina by sad_zain-ar.liga;
+sub sad-ar.medi zain-ar.fina by sad_zain-ar.fina.liga;
+sub seen-ar.init alefMaksura-ar.fina by seen_alefMaksura-ar.liga;
+sub seen-ar.medi alefMaksura-ar.fina by seen_alefMaksura-ar.fina.liga;
+sub seen-ar.init reh-ar.fina by seen_reh-ar.liga;
+sub seen-ar.medi reh-ar.fina by seen_reh-ar.fina.liga;
+sub seen-ar.init yeh-ar.fina by seen_yeh-ar.liga;
+sub seen-ar.medi yeh-ar.fina by seen_yeh-ar.fina.liga;
+sub seen-ar.init yehHamzaabove-ar.fina by seen_yehHamzaabove-ar.liga;
+sub seen-ar.medi yehHamzaabove-ar.fina by seen_yehHamzaabove-ar.fina.liga;
+sub seen-ar.init zain-ar.fina by seen_zain-ar.liga;
+sub seen-ar.medi zain-ar.fina by seen_zain-ar.fina.liga;
+sub sheen-ar.init alefMaksura-ar.fina by sheen_alefMaksura-ar.liga;
+sub sheen-ar.medi alefMaksura-ar.fina by sheen_alefMaksura-ar.fina.liga;
+sub sheen-ar.init reh-ar.fina by sheen_reh-ar.liga;
+sub sheen-ar.medi reh-ar.fina by sheen_reh-ar.fina.liga;
+sub sheen-ar.init yeh-ar.fina by sheen_yeh-ar.liga;
+sub sheen-ar.medi yeh-ar.fina by sheen_yeh-ar.fina.liga;
+sub sheen-ar.init yehHamzaabove-ar.fina by sheen_yehHamzaabove-ar.liga;
+sub sheen-ar.medi yehHamzaabove-ar.fina by sheen_yehHamzaabove-ar.fina.liga;
+sub sheen-ar.init zain-ar.fina by sheen_zain-ar.liga;
+sub sheen-ar.medi zain-ar.fina by sheen_zain-ar.fina.liga;
+sub teh-ar.medi alefMaksura-ar.fina by teh_alefMaksura-ar.fina.liga;
+sub teh-ar.medi noon-ar.fina by teh_noon-ar.fina.liga;
+sub teh-ar.medi reh-ar.fina by teh_reh-ar.fina.liga;
+sub teh-ar.medi yeh-ar.fina by teh_yeh-ar.fina.liga;
+sub teh-ar.medi yehHamzaabove-ar.fina by teh_yehHamzaabove-ar.fina.liga;
+sub teh-ar.medi zain-ar.fina by teh_zain-ar.fina.liga;
+sub theh-ar.medi alefMaksura-ar.fina by theh_alefMaksura-ar.fina.liga;
+sub theh-ar.medi noon-ar.fina by theh_noon-ar.fina.liga;
+sub theh-ar.medi reh-ar.fina by theh_reh-ar.fina.liga;
+sub theh-ar.medi yeh-ar.fina by theh_yeh-ar.fina.liga;
+sub theh-ar.medi yehHamzaabove-ar.fina by theh_yehHamzaabove-ar.fina.liga;
+sub theh-ar.medi zain-ar.fina by theh_zain-ar.fina.liga;
+sub yehHamzaabove-ar.medi alefMaksura-ar.fina by yehHamzaabove_alefMaksura-ar.fina.liga;
+sub yehHamzaabove-ar.medi noon-ar.fina by yehHamzaabove_noon-ar.fina.liga;
+sub yehHamzaabove-ar.medi reh-ar.fina by yehHamzaabove_reh-ar.fina.liga;
+sub yehHamzaabove-ar.medi yeh-ar.fina by yehHamzaabove_yeh-ar.fina.liga;
+sub yehHamzaabove-ar.medi yehHamzaabove-ar.fina by yehHamzaabove_yehHamzaabove-ar.fina.liga;
+sub yehHamzaabove-ar.medi zain-ar.fina by yehHamzaabove_zain-ar.fina.liga;
+sub yeh-ar.medi noon-ar.fina by yeh_noon-ar.fina.liga;
+sub yeh-ar.medi reh-ar.fina by yeh_reh-ar.fina.liga;
+sub yeh-ar.medi zain-ar.fina by yeh_zain-ar.fina.liga;
+sub f i by fi;
+sub f l by fl;
+";
+tag = liga;
 }
 );
 fontMaster = (
@@ -13705,10 +13946,11 @@ width = 782;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_B;
 kernLeft = KO_F;
 kernRight = KO_B;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -13774,10 +14016,11 @@ metricRight = B;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_F;
 kernLeft = KO_F;
 kernRight = KO_F;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -13843,10 +14086,11 @@ metricRight = F;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_F_B;
 kernLeft = KO_F;
 kernRight = KO_B;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -13912,10 +14156,11 @@ metricRight = B;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_F_H;
 kernLeft = KO_F;
 kernRight = KO_H;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -13989,10 +14234,11 @@ metricRight = H;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_F_I;
 kernLeft = KO_F;
 kernRight = KO_H;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -14066,10 +14312,11 @@ metricRight = I;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_F_J;
 kernLeft = KO_F;
 kernRight = KO_N;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -14149,10 +14396,11 @@ metricRight = J;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_F_K;
 kernLeft = KO_F;
 kernRight = KO_K;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -14226,10 +14474,11 @@ metricRight = K;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_F_L;
 kernLeft = KO_F;
 kernRight = KO_L;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -14303,10 +14552,11 @@ metricRight = L;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_F_T;
 kernLeft = KO_F;
 kernRight = KO_T;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -14380,10 +14630,11 @@ metricRight = T;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_H;
 kernLeft = KO_F;
 kernRight = KO_H;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -14449,10 +14700,11 @@ metricRight = H;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_I;
 kernLeft = KO_F;
 kernRight = KO_H;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -14518,10 +14770,11 @@ metricRight = I;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_J;
 kernLeft = KO_F;
 kernRight = KO_N;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -14591,10 +14844,11 @@ metricRight = J;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_K;
 kernLeft = KO_F;
 kernRight = KO_K;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -14660,10 +14914,11 @@ metricRight = K;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_L;
 kernLeft = KO_F;
 kernRight = KO_L;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -14729,10 +14984,11 @@ metricRight = L;
 },
 {
 color = 3;
+export = 0;
 glyphname = F_T;
 kernLeft = KO_F;
 kernRight = KO_T;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -14798,10 +15054,11 @@ metricRight = T;
 },
 {
 color = 3;
+export = 0;
 glyphname = T_T;
 kernLeft = KO_T;
 kernRight = KO_T;
-lastChange = "2025-07-17 11:18:51 +0000";
+lastChange = "2025-07-17 12:35:35 +0000";
 layers = (
 {
 layerId = m001;
@@ -62115,8 +62372,9 @@ width = 476;
 },
 {
 color = 4;
+export = 0;
 glyphname = f_b.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -62182,8 +62440,9 @@ width = 861;
 },
 {
 color = 4;
+export = 0;
 glyphname = f_f.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -62249,8 +62508,9 @@ width = 788;
 },
 {
 color = 4;
+export = 0;
 glyphname = f_f_b.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -62325,8 +62585,9 @@ width = 1242;
 },
 {
 color = 4;
+export = 0;
 glyphname = f_f_h.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -62401,8 +62662,9 @@ width = 1365;
 },
 {
 color = 4;
+export = 0;
 glyphname = f_f_i.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -62477,8 +62739,9 @@ width = 1043;
 },
 {
 color = 4;
+export = 0;
 glyphname = f_f_j.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -62556,8 +62819,9 @@ width = 1065;
 },
 {
 color = 4;
+export = 0;
 glyphname = f_f_k.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -62632,8 +62896,9 @@ width = 1291;
 },
 {
 color = 4;
+export = 0;
 glyphname = f_f_l.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -62733,8 +62998,9 @@ width = 1611;
 },
 {
 color = 4;
+export = 0;
 glyphname = f_f_t.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -62814,8 +63080,9 @@ metricRight = T.sc;
 },
 {
 color = 4;
+export = 0;
 glyphname = f_h.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -62881,8 +63148,9 @@ width = 984;
 },
 {
 color = 4;
+export = 0;
 glyphname = f_j.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -62950,8 +63218,9 @@ width = 684;
 },
 {
 color = 4;
+export = 0;
 glyphname = f_k.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -63017,8 +63286,9 @@ width = 910;
 },
 {
 color = 4;
+export = 0;
 glyphname = f_t.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -63086,8 +63356,9 @@ metricRight = T.sc;
 },
 {
 color = 4;
+export = 0;
 glyphname = fi.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -63151,8 +63422,9 @@ width = 688;
 },
 {
 color = 4;
+export = 0;
 glyphname = fl.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;
@@ -63218,8 +63490,9 @@ width = 830;
 },
 {
 color = 4;
+export = 0;
 glyphname = t_t.sc;
-lastChange = "2025-07-17 11:14:36 +0000";
+lastChange = "2025-07-17 12:35:41 +0000";
 layers = (
 {
 layerId = m001;

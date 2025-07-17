@@ -7,7 +7,7 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - AlYamama.glyphs
+  - AlYamama2.glyphs
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
 familyName: "Al Yamama"
