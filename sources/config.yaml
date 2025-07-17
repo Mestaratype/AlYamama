@@ -7,10 +7,10 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - AlYamama2.glyphs
+  - Alyamama.glyphs
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
-familyName: "Al Yamama"
+familyName: "Alyamama"
 
 # Next you can supply alternative paths for where you want the
 # binaries to live. But we'd recommend you stick to the defaults
@@ -62,7 +62,7 @@ buildSmallCap: false
 # if you specify a dictionary which does not contain an entry
 # for each VF file built.
 stat:
-  AlYamama2[wght].ttf:
+  Alyamama[wght].ttf:
   - name: Weight
     tag: wght
     values:
@@ -70,6 +70,8 @@ stat:
       value: 400
       linkedValue: 700
       flags: 2
+    - name: Medium
+      value: 500
     - name: Light
       value: 300
     - name: SemiBold
