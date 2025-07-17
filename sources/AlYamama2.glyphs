@@ -1,11 +1,6 @@
 {
 .appVersion = "3414";
 .formatVersion = 3;
-DisplayStrings = (
-"هل الأمور تسير على مايرام?!
-ÍJ́íj́",
-"íj́ ÍJ́ /iacute_j.loclNLD"
-);
 axes = (
 {
 name = Weight;
@@ -669,6 +664,7 @@ sub cedilla by cedilla.sc;
 sub ogonek by ogonek.sc;
 sub caron.alt by caron.alt.sc;
 ";
+disabled = 1;
 tag = c2sc;
 },
 {
@@ -702,6 +698,7 @@ sub caron.alt by caron.alt.sc;
 sub cedilla by cedilla.sc;
 sub ogonek by ogonek.sc;
 ";
+disabled = 1;
 tag = smcp;
 },
 {
@@ -49968,7 +49965,7 @@ color = 4;
 glyphname = t_t;
 kernLeft = KO_t;
 kernRight = KO_t;
-lastChange = "2024-02-13 19:50:30 +0000";
+lastChange = "2025-07-17 12:41:55 +0000";
 layers = (
 {
 layerId = m001;
@@ -157287,6 +157284,17 @@ instances = (
 axesValues = (
 0
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
+}
+);
 instanceInterpolations = {
 "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5" = 1;
 };
@@ -157296,6 +157304,17 @@ weightClass = 300;
 {
 axesValues = (
 187
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
+}
 );
 instanceInterpolations = {
 "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5" = 0.813;
@@ -157313,6 +157332,17 @@ value = Regular;
 axesValues = (
 375
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
+}
+);
 instanceInterpolations = {
 "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5" = 0.625;
 m001 = 0.375;
@@ -157323,6 +157353,17 @@ weightClass = 600;
 {
 axesValues = (
 625
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
+}
 );
 instanceInterpolations = {
 "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5" = 0.375;
@@ -157343,6 +157384,17 @@ weightClass = 700;
 axesValues = (
 812
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
+}
+);
 instanceInterpolations = {
 "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5" = 0.188;
 m001 = 0.812;
@@ -157353,6 +157405,17 @@ weightClass = 800;
 {
 axesValues = (
 1000
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
+}
 );
 instanceInterpolations = {
 m001 = 1;
