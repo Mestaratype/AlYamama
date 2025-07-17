@@ -2,7 +2,9 @@
 .appVersion = "3414";
 .formatVersion = 3;
 DisplayStrings = (
-"FB /F_B  /F_F/F_F_B/F_F_H/F_F_I/F_F_J/F_F_K/F_F_L/F_F_T/F_H/F_I/F_J/F_K/F_L/F_T/T_T"
+"هل الأمور تسير على مايرام?!
+ÍJ́íj́",
+"/iacute_j.loclNLD"
 );
 axes = (
 {
@@ -12,7 +14,8 @@ tag = wght;
 );
 classes = (
 {
-code = "A AE AEacute Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eng Eogonek Eth F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde O OE Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde P Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron Tcommaaccent Thorn U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent acute.case breve.case caron.case caron.alt.case cedilla.case circumflex.case commaaccent.case dieresis.case dotaccent.case Germandbls grave.case hungarumlaut.case macron.case ogonek.case ring.case tilde.case";
+code = "A AE AEacute Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eng Eogonek Eth F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde O OE Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde P Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron Tcommaaccent Thorn U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent acute.case breve.case caron.case caron.alt.case cedilla.case circumflex.case commaaccent.case dieresis.case dotaccent.case Germandbls grave.case hungarumlaut.case macron.case ogonek.case ring.case tilde.case F_B F_F F_F_B F_F_H F_F_I F_F_J F_F_K F_F_L F_F_T F_H F_I F_J F_K F_L F_T T_T
+";
 name = c2pc_c2sc;
 },
 {
@@ -76,8 +79,7 @@ code = "a ae aeacute aacute abreve acaron acircumflex adieresis agrave amacron a
 name = smcp;
 },
 {
-code = "A.sc AE.sc AEacute.sc Aacute.sc Abreve.sc Acaron.sc Acircumflex.sc Adieresis.sc Agrave.sc Amacron.sc Aogonek.sc Aring.sc Atilde.sc B.sc C.sc Cacute.sc Ccaron.sc Ccedilla.sc Ccircumflex.sc Cdotaccent.sc D.sc Dcaron.sc Dcroat.sc E.sc Eacute.sc Ebreve.sc Ecaron.sc Ecircumflex.sc Edieresis.sc Edotaccent.sc Egrave.sc Emacron.sc Eng.sc Eogonek.sc Eth.sc F.sc G.sc Gbreve.sc Gcircumflex.sc Gcommaaccent.sc Gdotaccent.sc H.sc Hbar.sc Hcircumflex.sc I.sc IJ.sc Iacute.sc Ibreve.sc Icircumflex.sc Idieresis.sc Idotaccent.sc Igrave.sc Imacron.sc Iogonek.sc Itilde.sc J.sc Jcircumflex.sc K.sc Kcommaaccent.sc L.sc Lacute.sc Lcaron.sc Lcommaaccent.sc Ldot.sc Lslash.sc M.sc N.sc Nacute.sc Ncaron.sc Ncommaaccent.sc Ntilde.sc O.sc OE.sc Oacute.sc Obreve.sc Ocircumflex.sc Odieresis.sc Ograve.sc Ohungarumlaut.sc Omacron.sc Oslash.sc Oslashacute.sc Otilde.sc P.sc Q.sc R.sc Racute.sc Rcaron.sc Rcommaaccent.sc S.sc Sacute.sc Scaron.sc Scedilla.sc Scircumflex.sc Scommaaccent.sc T.sc Tbar.sc Tcaron.sc Tcommaaccent.sc Thorn.sc U.sc Uacute.sc Ubreve.sc Ucircumflex.sc Udieresis.sc Ugrave.sc Uhungarumlaut.sc Umacron.sc Uogonek.sc Uring.sc Utilde.sc V.sc W.sc Wacute.sc Wcircumflex.sc Wdieresis.sc Wgrave.sc X.sc Y.sc Yacute.sc Ycircumflex.sc Ydieresis.sc Ygrave.sc Z.sc Zacute.sc Zcaron.sc Z acute.sc breve.sc caron.sc caron.alt.sc cedilla.sc circumflex.sc commaaccent.sc dieresis.sc dotaccent.sc Germandbls.sc grave.sc hungarumlaut.sc macron.sc ogonek.sc ring.sc tilde.sc
-";
+code = "A.sc AE.sc AEacute.sc Aacute.sc Abreve.sc Acaron.sc Acircumflex.sc Adieresis.sc Agrave.sc Amacron.sc Aogonek.sc Aring.sc Atilde.sc B.sc C.sc Cacute.sc Ccaron.sc Ccedilla.sc Ccircumflex.sc Cdotaccent.sc D.sc Dcaron.sc Dcroat.sc E.sc Eacute.sc Ebreve.sc Ecaron.sc Ecircumflex.sc Edieresis.sc Edotaccent.sc Egrave.sc Emacron.sc Eng.sc Eogonek.sc Eth.sc F.sc G.sc Gbreve.sc Gcircumflex.sc Gcommaaccent.sc Gdotaccent.sc H.sc Hbar.sc Hcircumflex.sc I.sc IJ.sc Iacute.sc Ibreve.sc Icircumflex.sc Idieresis.sc Idotaccent.sc Igrave.sc Imacron.sc Iogonek.sc Itilde.sc J.sc Jcircumflex.sc K.sc Kcommaaccent.sc L.sc Lacute.sc Lcaron.sc Lcommaaccent.sc Ldot.sc Lslash.sc M.sc N.sc Nacute.sc Ncaron.sc Ncommaaccent.sc Ntilde.sc O.sc OE.sc Oacute.sc Obreve.sc Ocircumflex.sc Odieresis.sc Ograve.sc Ohungarumlaut.sc Omacron.sc Oslash.sc Oslashacute.sc Otilde.sc P.sc Q.sc R.sc Racute.sc Rcaron.sc Rcommaaccent.sc S.sc Sacute.sc Scaron.sc Scedilla.sc Scircumflex.sc Scommaaccent.sc T.sc Tbar.sc Tcaron.sc Tcommaaccent.sc Thorn.sc U.sc Uacute.sc Ubreve.sc Ucircumflex.sc Udieresis.sc Ugrave.sc Uhungarumlaut.sc Umacron.sc Uogonek.sc Uring.sc Utilde.sc V.sc W.sc Wacute.sc Wcircumflex.sc Wdieresis.sc Wgrave.sc X.sc Y.sc Yacute.sc Ycircumflex.sc Ydieresis.sc Ygrave.sc Z.sc Zacute.sc Zcaron.sc Z acute.sc breve.sc caron.sc caron.alt.sc cedilla.sc circumflex.sc commaaccent.sc dieresis.sc dotaccent.sc Germandbls.sc grave.sc hungarumlaut.sc macron.sc ogonek.sc ring.sc tilde.sc f_b.sc f_f.sc f_f_b.sc f_f_h.sc f_f_i.sc f_f_j.sc f_f_k.sc f_f_l.sc f_f_t.sc f_h.sc fi.sc f_j.sc f_k.sc fl.sc f_t.sc t_t.sc";
 name = smcp2;
 },
 {
@@ -86,7 +88,7 @@ name = sups;
 },
 {
 automatic = 1;
-code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Saltillo uni021A Lcommaaccent.loclMAH Ncommaaccent.loclMAH Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol";
+code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex I IJ Iacute_J.loclNLD Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Saltillo uni021A Lcommaaccent.loclMAH Ncommaaccent.loclMAH F_B F_F F_F_B F_F_H F_F_I F_F_J F_F_K F_F_L F_F_T F_H F_I F_J F_K F_L F_T T_T Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol";
 name = Uppercase;
 }
 );
@@ -329,17 +331,17 @@ lookup locl_latn_2 {
 } locl_latn_2;
 
 script latn;
-language CAT;
+language NLD;
 lookup locl_latn_3 {
-	sub  l' periodcentered' l by ldot;
-	sub  L' periodcentered' L by Ldot;
+	sub iacute j by iacute_j.loclNLD;
+	sub Iacute J by Iacute_J.loclNLD;
 } locl_latn_3;
 
 script latn;
-language NLD;
+language CAT;
 lookup locl_latn_4 {
-	sub iacute j' by jacute;
-	sub Iacute J' by Jacute;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
 } locl_latn_4;
 ";
 tag = locl;
@@ -415,46 +417,37 @@ code = "# GSUB feature: Small Capitals From Capitals
 tag = c2sc;
 },
 {
-automatic = 1;
-code = "sub dieresiscomb by dieresiscomb.sc;
-sub dotaccentcomb by dotaccentcomb.sc;
-sub gravecomb by gravecomb.sc;
-sub acutecomb by acutecomb.sc;
-sub hungarumlautcomb by hungarumlautcomb.sc;
-sub circumflexcomb by circumflexcomb.sc;
-sub caroncomb by caroncomb.sc;
-sub brevecomb by brevecomb.sc;
-sub ringcomb by ringcomb.sc;
-sub tildecomb by tildecomb.sc;
-sub macroncomb by macroncomb.sc;
-sub commaaccent by commaaccent.sc;
-sub cedillacomb by cedillacomb.sc;
-sub ogonekcomb by ogonekcomb.sc;
-sub dieresis by dieresis.sc;
-sub dotaccent by dotaccent.sc;
-sub grave by grave.sc;
-sub acute by acute.sc;
-sub hungarumlaut by hungarumlaut.sc;
-sub circumflex by circumflex.sc;
-sub caron by caron.sc;
-sub breve by breve.sc;
-sub ring by ring.sc;
-sub tilde by tilde.sc;
-sub macron by macron.sc;
-sub caron.alt by caron.alt.sc;
-sub cedilla by cedilla.sc;
-sub ogonek by ogonek.sc;
+code = "# GSUB feature: Small Capitals
+# Lookups: 1
+
+  sub @smcp by @smcp2;
 ";
 tag = smcp;
 },
 {
 automatic = 1;
 code = "lookupflag IgnoreMarks;
+sub F F B by F_F_B;
+sub F F H by F_F_H;
+sub F F I by F_F_I;
+sub F F J by F_F_J;
+sub F F K by F_F_K;
+sub F F L by F_F_L;
+sub F F T by F_F_T;
 sub f f b by f_f_b;
 sub f f h by f_f_h;
 sub f f j by f_f_j;
 sub f f k by f_f_k;
 sub f f t by f_f_t;
+sub F B by F_B;
+sub F F by F_F;
+sub F H by F_H;
+sub F I by F_I;
+sub F J by F_J;
+sub F K by F_K;
+sub F L by F_L;
+sub F T by F_T;
+sub T T by T_T;
 sub f b by f_b;
 sub f h by f_h;
 sub f j by f_j;
@@ -5220,6 +5213,53 @@ width = 690;
 }
 );
 unicode = 306;
+},
+{
+glyphname = Iacute_J.loclNLD;
+layers = (
+{
+layerId = "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (105,0);
+ref = acutecomb.case;
+},
+{
+pos = (311,0);
+ref = J;
+},
+{
+pos = (432,0);
+ref = acutecomb.case;
+}
+);
+width = 690;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (14,0);
+ref = acutecomb.case;
+},
+{
+pos = (384,0);
+ref = J;
+},
+{
+pos = (396,0);
+ref = acutecomb.case;
+}
+);
+width = 782;
+}
+);
 },
 {
 color = 4;
@@ -13662,11 +13702,10 @@ width = 686;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_B;
 kernLeft = KO_F;
 kernRight = KO_B;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -13732,11 +13771,10 @@ metricRight = B;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_F;
 kernLeft = KO_F;
 kernRight = KO_F;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -13802,11 +13840,10 @@ metricRight = F;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_F_B;
 kernLeft = KO_F;
 kernRight = KO_B;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -13872,11 +13909,10 @@ metricRight = B;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_F_H;
 kernLeft = KO_F;
 kernRight = KO_H;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -13950,11 +13986,10 @@ metricRight = H;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_F_I;
 kernLeft = KO_F;
 kernRight = KO_H;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -14028,11 +14063,10 @@ metricRight = I;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_F_J;
 kernLeft = KO_F;
 kernRight = KO_N;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -14112,11 +14146,10 @@ metricRight = J;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_F_K;
 kernLeft = KO_F;
 kernRight = KO_K;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -14190,11 +14223,10 @@ metricRight = K;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_F_L;
 kernLeft = KO_F;
 kernRight = KO_L;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -14268,11 +14300,10 @@ metricRight = L;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_F_T;
 kernLeft = KO_F;
 kernRight = KO_T;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -14346,11 +14377,10 @@ metricRight = T;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_H;
 kernLeft = KO_F;
 kernRight = KO_H;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -14416,11 +14446,10 @@ metricRight = H;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_I;
 kernLeft = KO_F;
 kernRight = KO_H;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -14486,11 +14515,10 @@ metricRight = I;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_J;
 kernLeft = KO_F;
 kernRight = KO_N;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -14560,11 +14588,10 @@ metricRight = J;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_K;
 kernLeft = KO_F;
 kernRight = KO_K;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -14630,11 +14657,10 @@ metricRight = K;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_L;
 kernLeft = KO_F;
 kernRight = KO_L;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -14700,11 +14726,10 @@ metricRight = L;
 },
 {
 color = 3;
-export = 0;
 glyphname = F_T;
 kernLeft = KO_F;
 kernRight = KO_T;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -14770,11 +14795,10 @@ metricRight = T;
 },
 {
 color = 3;
-export = 0;
 glyphname = T_T;
 kernLeft = KO_T;
 kernRight = KO_T;
-lastChange = "2025-07-16 22:38:30 +0000";
+lastChange = "2025-07-17 11:18:51 +0000";
 layers = (
 {
 layerId = m001;
@@ -30241,6 +30265,38 @@ width = 520;
 }
 );
 unicode = 307;
+},
+{
+glyphname = iacute_j.loclNLD;
+lastChange = "2025-07-17 11:06:51 +0000";
+layers = (
+{
+layerId = "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5";
+shapes = (
+{
+ref = iacute;
+},
+{
+pos = (266,0);
+ref = jacute;
+}
+);
+width = 520;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = iacute;
+},
+{
+pos = (309,0);
+ref = jacute;
+}
+);
+width = 595;
+}
+);
 },
 {
 color = 3;
@@ -62055,9 +62111,8 @@ width = 476;
 },
 {
 color = 4;
-export = 0;
 glyphname = f_b.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -62123,9 +62178,8 @@ width = 861;
 },
 {
 color = 4;
-export = 0;
 glyphname = f_f.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -62191,9 +62245,8 @@ width = 788;
 },
 {
 color = 4;
-export = 0;
 glyphname = f_f_b.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -62268,9 +62321,8 @@ width = 1242;
 },
 {
 color = 4;
-export = 0;
 glyphname = f_f_h.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -62345,9 +62397,8 @@ width = 1365;
 },
 {
 color = 4;
-export = 0;
 glyphname = f_f_i.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -62422,9 +62473,8 @@ width = 1043;
 },
 {
 color = 4;
-export = 0;
 glyphname = f_f_j.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -62502,9 +62552,8 @@ width = 1065;
 },
 {
 color = 4;
-export = 0;
 glyphname = f_f_k.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -62579,9 +62628,8 @@ width = 1291;
 },
 {
 color = 4;
-export = 0;
 glyphname = f_f_l.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -62681,9 +62729,8 @@ width = 1611;
 },
 {
 color = 4;
-export = 0;
 glyphname = f_f_t.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -62763,9 +62810,8 @@ metricRight = T.sc;
 },
 {
 color = 4;
-export = 0;
 glyphname = f_h.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -62831,9 +62877,8 @@ width = 984;
 },
 {
 color = 4;
-export = 0;
 glyphname = f_j.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -62901,9 +62946,8 @@ width = 684;
 },
 {
 color = 4;
-export = 0;
 glyphname = f_k.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -62969,9 +63013,8 @@ width = 910;
 },
 {
 color = 4;
-export = 0;
 glyphname = f_t.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -63039,9 +63082,8 @@ metricRight = T.sc;
 },
 {
 color = 4;
-export = 0;
 glyphname = fi.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -63105,9 +63147,8 @@ width = 688;
 },
 {
 color = 4;
-export = 0;
 glyphname = fl.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
@@ -63173,9 +63214,8 @@ width = 830;
 },
 {
 color = 4;
-export = 0;
 glyphname = t_t.sc;
-lastChange = "2025-07-16 22:38:47 +0000";
+lastChange = "2025-07-17 11:14:36 +0000";
 layers = (
 {
 layerId = m001;
