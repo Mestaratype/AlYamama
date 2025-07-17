@@ -30,30 +30,30 @@ fontspector version: 1.3.0
 - ⚠️ **WARN** fonts/variable/AlYamama[wght].ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.
 
 * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
-* U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
+* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
 * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
-* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, math, tifinagh
-* U+0305 COMBINING OVERLINE: try adding one of: elbasan, math, coptic, glagolitic, gothic
-* U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
-* U+0307 COMBINING DOT ABOVE: try adding one of: duployan, todhri, syriac, hebrew, malayalam, tifinagh, canadian-aboriginal, tai-le, old-permic, coptic, math
+* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, coptic, tifinagh, math
+* U+0305 COMBINING OVERLINE: try adding one of: elbasan, coptic, math, gothic, glagolitic
+* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
+* U+0307 COMBINING DOT ABOVE: try adding one of: syriac, coptic, math, duployan, malayalam, hebrew, tai-le, canadian-aboriginal, todhri, tifinagh, old-permic
 * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac
-* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
-* U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
+* U+030C COMBINING CARON: try adding one of: tai-le, cherokee
 * U+031A COMBINING LEFT ANGLE ABOVE: try adding math
 * U+0320 COMBINING MINUS SIGN BELOW: try adding syriac
-* U+0324 COMBINING DIAERESIS BELOW: try adding one of: duployan, syriac, cherokee
+* U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac, duployan
 * U+0325 COMBINING RING BELOW: try adding syriac
 * U+0326 COMBINING COMMA BELOW: try adding math
 * U+0327 COMBINING CEDILLA: try adding math
 * U+032C COMBINING CARON BELOW: try adding math
-* U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
+* U+0330 COMBINING TILDE BELOW: try adding one of: math, cherokee, syriac
 * U+0332 COMBINING LOW LINE: try adding math
 * U+033A COMBINING INVERTED BRIDGE BELOW: try adding math
 * U+0346 COMBINING BRIDGE ABOVE: try adding math
 * U+034D COMBINING LEFT RIGHT ARROW BELOW: try adding math
 * U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic
-* U+061F ARABIC QUESTION MARK: try adding one of: adlam, garay, syriac, thaana, hanifi-rohingya, arabic, nko, yezidi
-* U+0621 ARABIC LETTER HAMZA: try adding one of: syriac, arabic
+* U+061F ARABIC QUESTION MARK: try adding one of: adlam, arabic, nko, yezidi, syriac, hanifi-rohingya, thaana, garay
+* U+0621 ARABIC LETTER HAMZA: try adding one of: arabic, syriac
 * U+0622 ARABIC LETTER ALEF WITH MADDA ABOVE: try adding arabic
 * U+0623 ARABIC LETTER ALEF WITH HAMZA ABOVE: try adding arabic
 * U+0624 ARABIC LETTER WAW WITH HAMZA ABOVE: try adding arabic
@@ -79,7 +79,7 @@ fontspector version: 1.3.0
 * U+0638 ARABIC LETTER ZAH: try adding arabic
 * U+0639 ARABIC LETTER AIN: try adding arabic
 * U+063A ARABIC LETTER GHAIN: try adding arabic
-* U+0640 ARABIC TATWEEL: try adding one of: adlam, manichaean, old-uyghur, hanifi-rohingya, syriac, psalter-pahlavi, arabic, mandaic, sogdian
+* U+0640 ARABIC TATWEEL: try adding one of: mandaic, psalter-pahlavi, arabic, sogdian, old-uyghur, hanifi-rohingya, syriac, manichaean, adlam
 * U+0641 ARABIC LETTER FEH: try adding arabic
 * U+0642 ARABIC LETTER QAF: try adding arabic
 * U+0643 ARABIC LETTER KAF: try adding arabic
@@ -92,29 +92,29 @@ fontspector version: 1.3.0
 * U+064A ARABIC LETTER YEH: try adding arabic
 * U+064B ARABIC FATHATAN: try adding one of: arabic, syriac
 * U+064C ARABIC DAMMATAN: try adding one of: syriac, arabic
-* U+064D ARABIC KASRATAN: try adding one of: arabic, syriac
+* U+064D ARABIC KASRATAN: try adding one of: syriac, arabic
 * U+064E ARABIC FATHA: try adding one of: arabic, syriac
-* U+064F ARABIC DAMMA: try adding one of: arabic, syriac
-* U+0650 ARABIC KASRA: try adding one of: syriac, arabic
-* U+0651 ARABIC SHADDA: try adding one of: arabic, syriac
-* U+0652 ARABIC SUKUN: try adding one of: arabic, syriac
+* U+064F ARABIC DAMMA: try adding one of: syriac, arabic
+* U+0650 ARABIC KASRA: try adding one of: arabic, syriac
+* U+0651 ARABIC SHADDA: try adding one of: syriac, arabic
+* U+0652 ARABIC SUKUN: try adding one of: syriac, arabic
 * U+0653 ARABIC MADDAH ABOVE: try adding one of: arabic, syriac
-* U+0654 ARABIC HAMZA ABOVE: try adding one of: syriac, arabic
-* U+0655 ARABIC HAMZA BELOW: try adding one of: syriac, arabic
+* U+0654 ARABIC HAMZA ABOVE: try adding one of: arabic, syriac
+* U+0655 ARABIC HAMZA BELOW: try adding one of: arabic, syriac
 * U+0656 ARABIC SUBSCRIPT ALEF: try adding arabic
-* U+0660 ARABIC-INDIC DIGIT ZERO: try adding one of: hanifi-rohingya, yezidi, syriac, indic-siyaq-numbers, arabic, thaana
-* U+0661 ARABIC-INDIC DIGIT ONE: try adding one of: arabic, thaana, indic-siyaq-numbers, yezidi, syriac
-* U+0662 ARABIC-INDIC DIGIT TWO: try adding one of: thaana, yezidi, indic-siyaq-numbers, arabic, syriac
-* U+0663 ARABIC-INDIC DIGIT THREE: try adding one of: arabic, yezidi, thaana, syriac, indic-siyaq-numbers
-* U+0664 ARABIC-INDIC DIGIT FOUR: try adding one of: indic-siyaq-numbers, arabic, syriac, yezidi, thaana
-* U+0665 ARABIC-INDIC DIGIT FIVE: try adding one of: yezidi, arabic, indic-siyaq-numbers, thaana, syriac
-* U+0666 ARABIC-INDIC DIGIT SIX: try adding one of: indic-siyaq-numbers, arabic, thaana, yezidi, syriac
-* U+0667 ARABIC-INDIC DIGIT SEVEN: try adding one of: thaana, indic-siyaq-numbers, yezidi, arabic, syriac
-* U+0668 ARABIC-INDIC DIGIT EIGHT: try adding one of: yezidi, thaana, arabic, syriac, indic-siyaq-numbers
-* U+0669 ARABIC-INDIC DIGIT NINE: try adding one of: arabic, syriac, yezidi, thaana, indic-siyaq-numbers
+* U+0660 ARABIC-INDIC DIGIT ZERO: try adding one of: thaana, indic-siyaq-numbers, hanifi-rohingya, syriac, yezidi, arabic
+* U+0661 ARABIC-INDIC DIGIT ONE: try adding one of: thaana, arabic, yezidi, syriac, indic-siyaq-numbers
+* U+0662 ARABIC-INDIC DIGIT TWO: try adding one of: thaana, arabic, syriac, yezidi, indic-siyaq-numbers
+* U+0663 ARABIC-INDIC DIGIT THREE: try adding one of: arabic, syriac, thaana, yezidi, indic-siyaq-numbers
+* U+0664 ARABIC-INDIC DIGIT FOUR: try adding one of: arabic, indic-siyaq-numbers, thaana, yezidi, syriac
+* U+0665 ARABIC-INDIC DIGIT FIVE: try adding one of: thaana, yezidi, indic-siyaq-numbers, arabic, syriac
+* U+0666 ARABIC-INDIC DIGIT SIX: try adding one of: indic-siyaq-numbers, yezidi, thaana, syriac, arabic
+* U+0667 ARABIC-INDIC DIGIT SEVEN: try adding one of: arabic, indic-siyaq-numbers, syriac, thaana, yezidi
+* U+0668 ARABIC-INDIC DIGIT EIGHT: try adding one of: indic-siyaq-numbers, arabic, yezidi, syriac, thaana
+* U+0669 ARABIC-INDIC DIGIT NINE: try adding one of: arabic, syriac, yezidi, indic-siyaq-numbers, thaana
 * U+066E ARABIC LETTER DOTLESS BEH: try adding arabic
 * U+066F ARABIC LETTER DOTLESS QAF: try adding arabic
-* U+0670 ARABIC LETTER SUPERSCRIPT ALEF: try adding one of: syriac, arabic
+* U+0670 ARABIC LETTER SUPERSCRIPT ALEF: try adding one of: arabic, syriac
 * U+06A1 ARABIC LETTER DOTLESS FEH: try adding arabic
 * U+06A4 ARABIC LETTER VEH: try adding arabic
 * U+06BA ARABIC LETTER NOON GHUNNA: try adding arabic
@@ -182,8 +182,8 @@ fontspector version: 1.3.0
 * U+2260 NOT EQUAL TO: try adding math
 * U+2264 LESS-THAN OR EQUAL TO: try adding math
 * U+2265 GREATER-THAN OR EQUAL TO: try adding math
-* U+25CA LOZENGE: try adding one of: symbols, math
-* U+25CC DOTTED CIRCLE: try adding one of: warang-citi, marchen, bhaiksuki, cham, armenian, osage, caucasian-albanian, tirhuta, devanagari, batak, elbasan, kayah-li, lepcha, limbu, pahawh-hmong, newa, khudawadi, syloti-nagri, tagalog, meetei-mayek, oriya, duployan, grantha, ahom, chakma, manichaean, coptic, music, brahmi, tai-le, gunjala-gondi, malayalam, modi, kaithi, lao, nko, takri, thai, tagbanwa, kharoshthi, tibetan, sharada, bengali, wancho, hanifi-rohingya, thaana, hebrew, dogra, mahajani, yi, tai-tham, tai-viet, canadian-aboriginal, masaram-gondi, mandaic, old-permic, gujarati, gurmukhi, miao, kannada, hanunoo, khmer, mende-kikakui, mongolian, rejang, syriac, buginese, tamil, javanese, new-tai-lue, math, siddham, sinhala, adlam, symbols, telugu, balinese, sogdian, myanmar, soyombo, bassa-vah, zanabazar-square, buhid, psalter-pahlavi, khojki, saurashtra, tifinagh, phags-pa, sundanese
+* U+25CA LOZENGE: try adding one of: math, symbols
+* U+25CC DOTTED CIRCLE: try adding one of: marchen, tai-tham, devanagari, sundanese, elbasan, bassa-vah, newa, gujarati, pahawh-hmong, gurmukhi, hebrew, mende-kikakui, tai-viet, buginese, chakma, tagbanwa, wancho, kharoshthi, thaana, mongolian, adlam, math, lepcha, mandaic, meetei-mayek, tifinagh, tai-le, brahmi, caucasian-albanian, telugu, mahajani, phags-pa, duployan, lao, canadian-aboriginal, ahom, kannada, symbols, batak, syloti-nagri, balinese, limbu, manichaean, cham, myanmar, oriya, kayah-li, gunjala-gondi, takri, yi, modi, malayalam, javanese, miao, music, buhid, nko, soyombo, psalter-pahlavi, rejang, dogra, bhaiksuki, tagalog, khudawadi, armenian, osage, tibetan, kaithi, zanabazar-square, bengali, sharada, hanifi-rohingya, khojki, khmer, hanunoo, sinhala, coptic, siddham, saurashtra, old-permic, sogdian, warang-citi, grantha, tamil, masaram-gondi, syriac, new-tai-lue, tirhuta, thai
 
 Or you can add the above codepoints to one of the subsets supported by the font: greek, latin-ext, latin [code: unreachable-subsetting]
   
@@ -197,7 +197,7 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 </details>
 
 
-<details><summary>[13] fonts/variable/AlYamama[wght].ttf</summary>
+<details><summary>[14] fonts/variable/AlYamama[wght].ttf</summary>
 <div>
 
 
@@ -216,40 +216,40 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 | Glyph present in the font                        | Missing case-swapping counterpart                  |
 |--------------------------------------------------|----------------------------------------------------|
-| U+0292: LATIN SMALL LETTER EZH                   | U+01B7: LATIN CAPITAL LETTER EZH                   |
-| U+0268: LATIN SMALL LETTER I WITH STROKE         | U+0197: LATIN CAPITAL LETTER I WITH STROKE         |
-| U+0265: LATIN SMALL LETTER TURNED H              | U+A78D: LATIN CAPITAL LETTER TURNED H              |
-| U+01A5: LATIN SMALL LETTER P WITH HOOK           | U+01A4: LATIN CAPITAL LETTER P WITH HOOK           |
-| U+0263: LATIN SMALL LETTER GAMMA                 | U+0194: LATIN CAPITAL LETTER GAMMA                 |
-| U+025B: LATIN SMALL LETTER OPEN E                | U+0190: LATIN CAPITAL LETTER OPEN E                |
-| U+0254: LATIN SMALL LETTER OPEN O                | U+0186: LATIN CAPITAL LETTER OPEN O                |
-| U+026F: LATIN SMALL LETTER TURNED M              | U+019C: LATIN CAPITAL LETTER TURNED M              |
-| U+0288: LATIN SMALL LETTER T WITH RETROFLEX HOOK | U+01AE: LATIN CAPITAL LETTER T WITH RETROFLEX HOOK |
-| U+0257: LATIN SMALL LETTER D WITH HOOK           | U+018A: LATIN CAPITAL LETTER D WITH HOOK           |
-| U+A78B: LATIN CAPITAL LETTER SALTILLO            | U+A78C: LATIN SMALL LETTER SALTILLO                |
 | U+0269: LATIN SMALL LETTER IOTA                  | U+0196: LATIN CAPITAL LETTER IOTA                  |
-| U+AB53: LATIN SMALL LETTER CHI                   | U+A7B3: LATIN CAPITAL LETTER CHI                   |
-| U+028A: LATIN SMALL LETTER UPSILON               | U+01B1: LATIN CAPITAL LETTER UPSILON               |
-| U+029D: LATIN SMALL LETTER J WITH CROSSED-TAIL   | U+A7B2: LATIN CAPITAL LETTER J WITH CROSSED-TAIL   |
-| U+0275: LATIN SMALL LETTER BARRED O              | U+019F: LATIN CAPITAL LETTER O WITH MIDDLE TILDE   |
-| U+0283: LATIN SMALL LETTER ESH                   | U+01A9: LATIN CAPITAL LETTER ESH                   |
-| U+0289: LATIN SMALL LETTER U BAR                 | U+0244: LATIN CAPITAL LETTER U BAR                 |
-| U+0256: LATIN SMALL LETTER D WITH TAIL           | U+0189: LATIN CAPITAL LETTER AFRICAN D             |
+| U+0288: LATIN SMALL LETTER T WITH RETROFLEX HOOK | U+01AE: LATIN CAPITAL LETTER T WITH RETROFLEX HOOK |
 | U+027D: LATIN SMALL LETTER R WITH TAIL           | U+2C64: LATIN CAPITAL LETTER R WITH TAIL           |
-| U+0280: LATIN LETTER SMALL CAPITAL R             | U+01A6: LATIN LETTER YR                            |
-| U+0188: LATIN SMALL LETTER C WITH HOOK           | U+0187: LATIN CAPITAL LETTER C WITH HOOK           |
-| U+0264: LATIN SMALL LETTER RAMS HORN             | U+A7CB: LATIN CAPITAL LETTER RAMS HORN             |
-| U+0272: LATIN SMALL LETTER N WITH LEFT HOOK      | U+019D: LATIN CAPITAL LETTER N WITH LEFT HOOK      |
 | U+026C: LATIN SMALL LETTER L WITH BELT           | U+A7AD: LATIN CAPITAL LETTER L WITH BELT           |
-| U+0266: LATIN SMALL LETTER H WITH HOOK           | U+A7AA: LATIN CAPITAL LETTER H WITH HOOK           |
-| U+0253: LATIN SMALL LETTER B WITH HOOK           | U+0181: LATIN CAPITAL LETTER B WITH HOOK           |
-| U+0199: LATIN SMALL LETTER K WITH HOOK           | U+0198: LATIN CAPITAL LETTER K WITH HOOK           |
 | U+0259: LATIN SMALL LETTER SCHWA                 | U+018F: LATIN CAPITAL LETTER SCHWA                 |
-| U+0260: LATIN SMALL LETTER G WITH HOOK           | U+0193: LATIN CAPITAL LETTER G WITH HOOK           |
-| U+01AD: LATIN SMALL LETTER T WITH HOOK           | U+01AC: LATIN CAPITAL LETTER T WITH HOOK           |
-| U+026A: LATIN LETTER SMALL CAPITAL I             | U+A7AE: LATIN CAPITAL LETTER SMALL CAPITAL I       |
+| U+028C: LATIN SMALL LETTER TURNED V              | U+0245: LATIN CAPITAL LETTER TURNED V              |
+| U+029D: LATIN SMALL LETTER J WITH CROSSED-TAIL   | U+A7B2: LATIN CAPITAL LETTER J WITH CROSSED-TAIL   |
+| U+0264: LATIN SMALL LETTER RAMS HORN             | U+A7CB: LATIN CAPITAL LETTER RAMS HORN             |
+| U+026F: LATIN SMALL LETTER TURNED M              | U+019C: LATIN CAPITAL LETTER TURNED M              |
+| U+0280: LATIN LETTER SMALL CAPITAL R             | U+01A6: LATIN LETTER YR                            |
+| U+A78B: LATIN CAPITAL LETTER SALTILLO            | U+A78C: LATIN SMALL LETTER SALTILLO                |
 | U+028B: LATIN SMALL LETTER V WITH HOOK           | U+01B2: LATIN CAPITAL LETTER V WITH HOOK           |
-| U+028C: LATIN SMALL LETTER TURNED V              | U+0245: LATIN CAPITAL LETTER TURNED V              | [code: missing-case-counterparts]
+| U+01A5: LATIN SMALL LETTER P WITH HOOK           | U+01A4: LATIN CAPITAL LETTER P WITH HOOK           |
+| U+0257: LATIN SMALL LETTER D WITH HOOK           | U+018A: LATIN CAPITAL LETTER D WITH HOOK           |
+| U+0283: LATIN SMALL LETTER ESH                   | U+01A9: LATIN CAPITAL LETTER ESH                   |
+| U+0272: LATIN SMALL LETTER N WITH LEFT HOOK      | U+019D: LATIN CAPITAL LETTER N WITH LEFT HOOK      |
+| U+0188: LATIN SMALL LETTER C WITH HOOK           | U+0187: LATIN CAPITAL LETTER C WITH HOOK           |
+| U+025B: LATIN SMALL LETTER OPEN E                | U+0190: LATIN CAPITAL LETTER OPEN E                |
+| U+0266: LATIN SMALL LETTER H WITH HOOK           | U+A7AA: LATIN CAPITAL LETTER H WITH HOOK           |
+| U+026A: LATIN LETTER SMALL CAPITAL I             | U+A7AE: LATIN CAPITAL LETTER SMALL CAPITAL I       |
+| U+0254: LATIN SMALL LETTER OPEN O                | U+0186: LATIN CAPITAL LETTER OPEN O                |
+| U+0256: LATIN SMALL LETTER D WITH TAIL           | U+0189: LATIN CAPITAL LETTER AFRICAN D             |
+| U+0292: LATIN SMALL LETTER EZH                   | U+01B7: LATIN CAPITAL LETTER EZH                   |
+| U+0253: LATIN SMALL LETTER B WITH HOOK           | U+0181: LATIN CAPITAL LETTER B WITH HOOK           |
+| U+0263: LATIN SMALL LETTER GAMMA                 | U+0194: LATIN CAPITAL LETTER GAMMA                 |
+| U+0289: LATIN SMALL LETTER U BAR                 | U+0244: LATIN CAPITAL LETTER U BAR                 |
+| U+01AD: LATIN SMALL LETTER T WITH HOOK           | U+01AC: LATIN CAPITAL LETTER T WITH HOOK           |
+| U+0275: LATIN SMALL LETTER BARRED O              | U+019F: LATIN CAPITAL LETTER O WITH MIDDLE TILDE   |
+| U+0268: LATIN SMALL LETTER I WITH STROKE         | U+0197: LATIN CAPITAL LETTER I WITH STROKE         |
+| U+028A: LATIN SMALL LETTER UPSILON               | U+01B1: LATIN CAPITAL LETTER UPSILON               |
+| U+0199: LATIN SMALL LETTER K WITH HOOK           | U+0198: LATIN CAPITAL LETTER K WITH HOOK           |
+| U+0265: LATIN SMALL LETTER TURNED H              | U+A78D: LATIN CAPITAL LETTER TURNED H              |
+| U+0260: LATIN SMALL LETTER G WITH HOOK           | U+0193: LATIN CAPITAL LETTER G WITH HOOK           |
+| U+AB53: LATIN SMALL LETTER CHI                   | U+A7B3: LATIN CAPITAL LETTER CHI                   | [code: missing-case-counterparts]
   
   
 
@@ -272,338 +272,206 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 
 - 🔥 **FAIL** The following letters did not take part in smcp substitutions:
-* h
-* ae
-* eogonek
-* b
-* itilde
-* uni02AE
-* cdotaccent
-* ibreve
-* uni027D
-* uni026C
-* uni0281
-* uni0293
-* hcircumflex
-* scaron
-* uni02A4
-* iacute
-* racute
-* zacute
-* uni0258
-* phi
-* edotaccent
-* uni0286
-* uni02A6
-* uring
-* atilde
-* chi
-* uni0277
-* tcaron
-* tbar
-* scedilla
-* e
-* uni0276
-* iogonek
-* uni02A1
-* uni0296
-* epsilon
-* uacute
-* f
-* beta
-* ubreve
-* c
-* uni027C
-* uni026A
-* uni0253
-* uni02A3
-* o
-* tau
-* uni0250
-* iota
-* egrave
-* uni028D
-* aogonek
-* uni02AA
-* uni0271
-* uni02A0
-* g
-* uni02A9
-* uniAB53
-* jcircumflex
-* uhungarumlaut
-* uni0256
-* upsilondieresistonos
-* uni1D74
-* utilde
-* aacute
-* ohungarumlaut
-* dotlessi
-* lslash
-* ucircumflex
-* gamma
-* uni0252
-* uni02AF
-* dcaron
-* ij
-* oslash
-* hbar
-* uni1EF9
-* agrave
-* idieresis
-* ydieresis
-* uni0254
-* uni0287
-* uni0290
-* iotadieresistonos
-* y
-* ycircumflex
-* uni013C
-* uni0219
-* sacute
-* ccaron
-* eng
-* lambda
-* sigma
-* ograve
-* thorn
-* uni026D
-* uni0199
-* uni02A8
-* p
-* a
-* ocircumflex
-* uni0298
-* uni0282
-* etatonos
-* omega
-* q
-* wcircumflex
-* uni02A7
-* uni0274
-* uogonek
-* uni03D7
-* uni01CE
-* uni025D
-* ccedilla
-* uni0263
-* igrave
-* oslashacute
-* uni0255
-* nu
-* adieresis
-* zeta
-* oe
-* x
-* uni0261
-* uni0289
 * upsilon
+* uni0289
+* uni0237
+* uni0286
+* uni0274
+* eta
+* uni1D75
+* uni02AF
+* uni0266
+* uni027E
+* uni0273
+* uni029F
+* dotlessi
+* omegatonos
+* psi
+* uni02A4
+* uni0251
+* uni025D
+* uni0261
+* uni0267
+* etatonos
+* epsilontonos
+* uni0188
+* iota
+* gamma
+* uni1D6D
+* uni026E
+* uni0276
+* uni0290
+* uni027D
+* iotadieresistonos
+* uni028A
+* beta
+* uni0280
+* nu
+* uni01A5
+* uni025F
+* uni1D74
+* uni0268
+* uni027C
+* uni0260
+* uni028C
+* uni02AD
+* uni0269
+* uni028D
+* uni02A0
+* uni02A6
+* uni03D7
+* uni0259
+* uni0250
+* uni027A
+* uni0284
+* uni0299
+* uni1D70
+* uni025C
+* uni0298
+* uni01AD
+* uni0262
+* uni03BC
+* chi
+* uni1E21
+* uni0283
+* uni0254
+* uni0295
+* uni02AB
+* uni028E
+* upsilondieresistonos
+* uni026F
+* uni0257
+* uni02AE
+* pi
+* sigma
+* uni02A8
 * uni0275
+* uni1D6E
+* uni027F
+* uni02A1
+* uni0287
+* iotadieresis
+* xi
+* zeta
+* uni029D
+* uni00B5
+* uni026D
+* uni0271
+* uni0279
+* uni0292
+* florin
+* upsilondieresis
+* alpha
+* theta
+* uni1D6F
 * uni027B
 * omicrontonos
-* uni1D71
-* udieresis
-* lacute
-* uni025C
-* ncaron
-* ntilde
-* r
-* ygrave
-* fl
-* epsilontonos
-* umacron
-* zdotaccent
-* uni028F
-* uni028C
-* uni0157
-* uni1D76
-* uni1EBD
-* m
-* uni1D6E
-* amacron
-* uni0123
-* emacron
-* ugrave
-* ecaron
-* uni025B
-* uni021B.1
-* uni0265
-* uni027A
-* obreve
-* wdieresis
-* uni021B
-* uni026B
-* uni029E
-* wacute
-* abreve
-* uni0266
-* f_f_l
+* uni0199
+* uni0263
 * omicron
-* uni0272
-* f_f_i
-* uni025F
-* uni00B5
-* lcaron
-* ecircumflex
-* z
-* uni0188
-* u
-* j
-* theta
-* nacute
-* edieresis
-* uni1D73
-* omegatonos
-* uni1D6C
-* odieresis
-* pi
-* rho
-* uni0285
-* uni029D
-* aeacute
-* cacute
-* uni02AD
-* uni028A
-* uni0297
-* alphatonos
-* w
-* dcroat
-* psi
-* uni1D6F
-* k
-* uni0137
-* scircumflex
-* uni0262
-* ebreve
-* uni0278
-* otilde
-* uni02A2
-* uni03C2
-* uni0279
-* zcaron
-* uni029C
-* uni02A5
-* uni1D70
-* uni0284
 * kappa
-* uni02AB
-* uni1E21
-* yacute
-* upsilontonos
-* f_f
-* upsilondieresis
-* t
-* uni0295
-* eta
-* uni028B
-* uni026F
-* acircumflex
-* ldot
-* uni01A5
-* d
-* uni0260
-* uni0283
-* xi
-* uni027E
-* uni0270
-* aring
-* delta
-* s
-* uni0299
-* ccircumflex
-* uni0146
-* uni027F
-* i
-* uni0267
-* iotatonos
-* uni03BC
-* uni0257
-* uni0291
-* uni0237
-* icircumflex
-* oacute
-* omacron
-* uni0280
-* n
-* uni026E
-* gdotaccent
-* florin
-* uni028E
-* uni029A
-* eacute
-* germandbls
-* uni01AD
-* uni1D6D
-* l
+* uni0278
+* uni0255
 * uni025A
-* uni029F
-* uni029B
-* uni0273
-* alpha
-* uni0292
-* gcircumflex
-* fi
-* uni0251
-* uni02AC
-* uni1D75
-* iotadieresis
-* uni0269
-* wgrave
-* imacron
+* uni029E
+* uni0291
+* uni028F
+* epsilon
+* uni02A9
+* uni0282
+* uni0265
+* delta
+* uni02AA
+* tau
+* phi
+* omega
+* uni1D76
+* uni0285
+* uni1EF9
+* uni0258
+* uni026B
 * uni0288
-* uni025E
-* uni0268
-* eth
-* v
-* uni0259
+* uni0270
+* uni1D71
+* uniAB53
+* uni0253
+* upsilontonos
+* uni0252
+* uni02A5
+* uni0272
+* uni025B
+* uni0281
 * uni1D72
-* gbreve
+* uni026C
+* uni028B
+* uni029A
+* alphatonos
+* uni0277
+* uni0296
+* rho
+* uni1EBD
+* uni02A2
+* uni029C
+* uni021B.1
+* uni025E
+* lambda
+* uni1D6C
+* uni1D73
 * uni0264
-* rcaron [code: missing-smcp-lowercase]
+* uni0256
+* uni02A7
+* uni0293
+* iotatonos
+* uni029B
+* uni03C2
+* uni02A3
+* uni0297
+* uni02AC
+* uni026A [code: missing-smcp-lowercase]
   
   
 
 
 - 🔥 **FAIL** The following letters did not take part in c2sc substitutions:
-* Sigma
-* Upsilondieresis
-* Chi
-* Epsilon
-* Epsilontonos
-* Eta
-* Pi
-* Kappa
-* Psi
-* Gamma
-* Xi
-* uni1E20
-* Alpha
-* uniA78B
 * uni03CF
-* Omicron
-* uni1EBC
-* Omicrontonos
-* Upsilontonos
-* Iotatonos
-* Alphatonos
-* Theta
-* uni03A9
-* Mu
-* uni1EF8
-* Beta
-* uni0394
-* Upsilon
-* Iota
-* uni021A.1
-* Etatonos
-* Lambda
-* Omegatonos
 * Iotadieresis
-* Zeta
-* Tau
-* Rho
 * Phi
-* Nu [code: missing-c2sc-uppercase]
+* Etatonos
+* Nu
+* uni1E20
+* uniA78B
+* Lambda
+* Tau
+* Upsilon
+* Pi
+* Iota
+* Epsilon
+* Omicrontonos
+* uni021A.1
+* Omegatonos
+* Alphatonos
+* Zeta
+* Theta
+* Kappa
+* Mu
+* Omicron
+* uni03A9
+* uni1EF8
+* Xi
+* Sigma
+* uni1EBC
+* Upsilondieresis
+* Epsilontonos
+* Rho
+* Beta
+* Upsilontonos
+* Eta
+* uni0394
+* Psi
+* Alpha
+* Chi
+* Iotatonos
+* Gamma [code: missing-c2sc-uppercase]
   
   
 
@@ -640,59 +508,6 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 | Message                                                                                                                            | Languages                    |
 |------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
-| Small caps for Latin letters:                                                                                                      | * da_Latn (Danish)           |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ǿ' and shaping the text 'ǿ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
 | Small caps for Latin letters:                                                                                                      | * pl_Latn (Polish)           |
 |   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ą' and shaping the text 'ą' with features: smcp, the output is expected to be different, but was the same |                              |
@@ -749,8 +564,456 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 |   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
-| Auxiliary orthography codepoints:                                                                                                  | * en_Latn (English)          |
-|   The following auxiliary characters are missing from the font: ʻ                                                                  |                              |
+| Small caps for Latin letters:                                                                                                      | * it_Latn (Italian)          |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'õ' and shaping the text 'õ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ß' and shaping the text 'ß' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
+| Small caps for Latin letters:                                                                                                      | * ca_Latn (Catalan)          |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŀ' and shaping the text 'ŀ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
+| Auxiliary orthography codepoints:                                                                                                  | * de_Latn (German)           |
+|   The following auxiliary characters are missing from the font: ſ                                                                  | * fr_Latn (French)           |
+| Small caps for Latin letters:                                                                                                      | * lt_Latn (Lithuanian)       |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ą' and shaping the text 'ą' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'č' and shaping the text 'č' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ę' and shaping the text 'ę' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ė' and shaping the text 'ė' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'į' and shaping the text 'į' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'š' and shaping the text 'š' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ų' and shaping the text 'ų' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ž' and shaping the text 'ž' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ẽ' and shaping the text 'ẽ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĩ' and shaping the text 'ĩ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'õ' and shaping the text 'õ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ũ' and shaping the text 'ũ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+| Auxiliary orthography codepoints:                                                                                                  | * el_Grek (Greek)            |
+|   The following auxiliary characters are missing from the font: ἀ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἄ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἂ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἆ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἁ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἅ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἃ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἇ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ᾶ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἐ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἔ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἒ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἑ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἕ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἓ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἠ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἤ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἢ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἦ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἡ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἥ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἣ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἧ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ῆ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἰ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἴ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἲ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἶ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἱ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἵ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἳ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ἷ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ῖ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ῗ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὄ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὂ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὃ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὐ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὔ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὒ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὖ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὑ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὕ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὓ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὗ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ῦ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ῧ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὤ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὢ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὦ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὥ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὣ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ὧ                                                                  |                              |
+|   The following auxiliary characters are missing from the font: ῶ                                                                  |                              |
+| Small caps for Latin letters:                                                                                                      | * sq_Latn (Albanian)         |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+| Small caps for Latin letters:                                                                                                      | * sv_Latn (Swedish)          |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
+| Small caps for Latin letters:                                                                                                      | * da_Latn (Danish)           |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ǿ' and shaping the text 'ǿ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
+| Small caps for Latin letters:                                                                                                      | * lv_Latn (Latvian)          |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'č' and shaping the text 'č' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ģ' and shaping the text 'ģ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ķ' and shaping the text 'ķ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ļ' and shaping the text 'ļ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ņ' and shaping the text 'ņ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'š' and shaping the text 'š' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ž' and shaping the text 'ž' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŗ' and shaping the text 'ŗ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+| Small caps for Latin letters:                                                                                                      | * ro_Latn (Romanian)         |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ș' and shaping the text 'ș' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ț' and shaping the text 'ț' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ş' and shaping the text 'ş' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ţ' and shaping the text 'ţ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
 | Small caps for Latin letters:                                                                                                      | * es_Latn (Spanish)          |
 |   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
@@ -817,113 +1080,463 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 |   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ý' and shaping the text 'ý' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * sq_Latn (Albanian)         |
+| Small caps for Latin letters:                                                                                                      | * fr_Latn (French)           |
 |   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * hr_Latn (Croatian)         |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'č' and shaping the text 'č' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ć' and shaping the text 'ć' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'đ' and shaping the text 'đ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'š' and shaping the text 'š' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ž' and shaping the text 'ž' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * ro_Latn (Romanian)         |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ș' and shaping the text 'ș' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ț' and shaping the text 'ț' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ć' and shaping the text 'ć' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'õ' and shaping the text 'õ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ř' and shaping the text 'ř' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'š' and shaping the text 'š' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ß' and shaping the text 'ß' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ǔ' and shaping the text 'ǔ' with features: smcp, the output is expected to be different, but was the same |                              |
+| Small caps for Latin letters:                                                                                                      | * nl_Latn (Dutch)            |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ý' and shaping the text 'ý' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĳ' and shaping the text 'ĳ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
+| Small caps for Latin letters:                                                                                                      | * pt_Latn (Portuguese)       |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'õ' and shaping the text 'õ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
+| Small caps for Latin letters:                                                                                                      | * sk_Latn (Slovak)           |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'č' and shaping the text 'č' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ď' and shaping the text 'ď' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĺ' and shaping the text 'ĺ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ľ' and shaping the text 'ľ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ň' and shaping the text 'ň' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŕ' and shaping the text 'ŕ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'š' and shaping the text 'š' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ť' and shaping the text 'ť' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ý' and shaping the text 'ý' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ž' and shaping the text 'ž' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ş' and shaping the text 'ş' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ţ' and shaping the text 'ţ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ő' and shaping the text 'ő' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ř' and shaping the text 'ř' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ű' and shaping the text 'ű' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
+| Auxiliary orthography codepoints:                                                                                                  | * lt_Latn (Lithuanian)       |
+|   Shaper didn't attach acutecomb to Aogonek when shaping the text 'Ą́'                                                              |                              |
+|   Shaper didn't attach tildecomb to Aogonek when shaping the text 'Ą̃'                                                              |                              |
+|   Shaper didn't attach acutecomb to Eogonek when shaping the text 'Ę́'                                                              |                              |
+|   Shaper didn't attach tildecomb to Eogonek when shaping the text 'Ę̃'                                                              |                              |
+|   Shaper didn't attach acutecomb to Edotaccent when shaping the text 'Ė́'                                                           |                              |
+|   Shaper didn't attach tildecomb to Edotaccent when shaping the text 'Ė̃'                                                           |                              |
+|   Shaper didn't attach acutecomb to Idotaccent when shaping the text 'İ́'                                                           |                              |
+|   Shaper didn't attach acutecomb to Idotaccent when shaping the text 'İ́'                                                           |                              |
+|   Shaper didn't attach gravecomb to Idotaccent when shaping the text 'İ̀'                                                           |                              |
+|   Shaper didn't attach gravecomb to Idotaccent when shaping the text 'İ̀'                                                           |                              |
+|   Shaper didn't attach tildecomb to Idotaccent when shaping the text 'İ̃'                                                           |                              |
+|   Shaper didn't attach tildecomb to Idotaccent when shaping the text 'İ̃'                                                           |                              |
+|   Shaper didn't attach acutecomb to Iogonek when shaping the text 'Į́'                                                              |                              |
+|   Shaper didn't attach uni0307 to Iogonek when shaping the text 'Į̇́'                                                                |                              |
+|   Shaper didn't attach acutecomb to uni0307 when shaping the text 'Į̇́'                                                              |                              |
+|   Shaper didn't attach tildecomb to Iogonek when shaping the text 'Į̃'                                                              |                              |
+|   Shaper didn't attach uni0307 to Iogonek when shaping the text 'Į̇̃'                                                                |                              |
+|   Shaper didn't attach tildecomb to uni0307 when shaping the text 'Į̇̃'                                                              |                              |
+|   Shaper didn't attach tildecomb to J when shaping the text 'J̃'                                                                    |                              |
+|   Shaper didn't attach uni0307 to J when shaping the text 'J̇̃'                                                                      |                              |
+|   Shaper didn't attach tildecomb to uni0307 when shaping the text 'J̇̃'                                                              |                              |
+|   Shaper didn't attach tildecomb to L when shaping the text 'L̃'                                                                    |                              |
+|   Shaper didn't attach tildecomb to M when shaping the text 'M̃'                                                                    |                              |
+|   Shaper didn't attach tildecomb to R when shaping the text 'R̃'                                                                    |                              |
+|   Shaper didn't attach acutecomb to Uogonek when shaping the text 'Ų́'                                                              |                              |
+|   Shaper didn't attach tildecomb to Uogonek when shaping the text 'Ų̃'                                                              |                              |
+|   Shaper didn't attach acutecomb to Umacron when shaping the text 'Ū́'                                                              |                              |
+|   Shaper didn't attach tildecomb to Umacron when shaping the text 'Ū̃'                                                              |                              |
+|   Shaper didn't attach acutecomb to aogonek when shaping the text 'ą́'                                                              |                              |
+|   Shaper didn't attach tildecomb to aogonek when shaping the text 'ą̃'                                                              |                              |
+|   Shaper didn't attach acutecomb to eogonek when shaping the text 'ę́'                                                              |                              |
+|   Shaper didn't attach tildecomb to eogonek when shaping the text 'ę̃'                                                              |                              |
+|   Shaper didn't attach acutecomb to edotaccent when shaping the text 'ė́'                                                           |                              |
+|   Shaper didn't attach tildecomb to edotaccent when shaping the text 'ė̃'                                                           |                              |
+|   Shaper didn't attach uni0307 to i when shaping the text 'i̇́'                                                                      |                              |
+|   Shaper didn't attach acutecomb to uni0307 when shaping the text 'i̇́'                                                              |                              |
+|   Shaper didn't attach uni0307 to i when shaping the text 'i̇̀'                                                                      |                              |
+|   Shaper didn't attach gravecomb to uni0307 when shaping the text 'i̇̀'                                                              |                              |
+|   Shaper didn't attach uni0307 to i when shaping the text 'i̇̃'                                                                      |                              |
+|   Shaper didn't attach tildecomb to uni0307 when shaping the text 'i̇̃'                                                              |                              |
+|   Shaper didn't attach acutecomb to iogonek when shaping the text 'į́'                                                              |                              |
+|   Shaper didn't attach uni0307 to iogonek when shaping the text 'į̇́'                                                                |                              |
+|   Shaper didn't attach acutecomb to uni0307 when shaping the text 'į̇́'                                                              |                              |
+|   Shaper didn't attach tildecomb to iogonek when shaping the text 'į̃'                                                              |                              |
+|   Shaper didn't attach uni0307 to iogonek when shaping the text 'į̇̃'                                                                |                              |
+|   Shaper didn't attach tildecomb to uni0307 when shaping the text 'į̇̃'                                                              |                              |
+|   Shaper didn't attach tildecomb to j when shaping the text 'j̃'                                                                    |                              |
+|   Shaper didn't attach uni0307 to j when shaping the text 'j̇̃'                                                                      |                              |
+|   Shaper didn't attach tildecomb to uni0307 when shaping the text 'j̇̃'                                                              |                              |
+|   Shaper didn't attach tildecomb to l when shaping the text 'l̃'                                                                    |                              |
+|   Shaper didn't attach tildecomb to m when shaping the text 'm̃'                                                                    |                              |
+|   Shaper didn't attach tildecomb to r when shaping the text 'r̃'                                                                    |                              |
+|   Shaper didn't attach acutecomb to uogonek when shaping the text 'ų́'                                                              |                              |
+|   Shaper didn't attach tildecomb to uogonek when shaping the text 'ų̃'                                                              |                              |
+|   Shaper didn't attach acutecomb to umacron when shaping the text 'ū́'                                                              |                              |
+|   Shaper didn't attach tildecomb to umacron when shaping the text 'ū̃'                                                              |                              |
+| Small caps for Latin letters:                                                                                                      | * hu_Latn (Hungarian)        |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ő' and shaping the text 'ő' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ű' and shaping the text 'ű' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
+| Small caps for Latin letters:                                                                                                      | * tr_Latn (Turkish)          |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ğ' and shaping the text 'ğ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ı' and shaping the text 'ı' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ş' and shaping the text 'ş' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ß' and shaping the text 'ß' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
 | Small caps for Latin letters:                                                                                                      | * fi_Latn (Finnish)          |
 |   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
@@ -1034,16 +1647,13 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 |   When shaping the text 'þ' and shaping the text 'þ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * nb_Latn (Norwegian Bokmål) |
+| Small caps for Latin letters:                                                                                                      | * de_Latn (German)           |
 |   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
@@ -1054,9 +1664,110 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 |   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ß' and shaping the text 'ß' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ğ' and shaping the text 'ğ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ı' and shaping the text 'ı' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ş' and shaping the text 'ş' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
+| Small caps for Latin letters:                                                                                                      | * mt_Latn (Maltese)          |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ċ' and shaping the text 'ċ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ġ' and shaping the text 'ġ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ħ' and shaping the text 'ħ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ż' and shaping the text 'ż' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
+| Small caps for Latin letters:                                                                                                      | * en_Latn (English)          |
+|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
@@ -1068,33 +1779,51 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 |   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ǎ' and shaping the text 'ǎ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'č' and shaping the text 'č' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'đ' and shaping the text 'đ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ń' and shaping the text 'ń' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŋ' and shaping the text 'ŋ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'š' and shaping the text 'š' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŧ' and shaping the text 'ŧ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ž' and shaping the text 'ž' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
 | Auxiliary orthography codepoints:                                                                                                  | * fi_Latn (Finnish)          |
 |   The following auxiliary characters are missing from the font: Ǥ                                                                  |                              |
 |   The following auxiliary characters are missing from the font: Ʒ                                                                  |                              |
 |   The following auxiliary characters are missing from the font: Ǯ                                                                  |                              |
 |   The following auxiliary characters are missing from the font: ǥ                                                                  |                              |
+| Auxiliary orthography codepoints:                                                                                                  | * en_Latn (English)          |
+|   The following auxiliary characters are missing from the font: ʻ                                                                  |                              |
 | Small caps for Latin letters:                                                                                                      | * cy_Latn (Welsh)            |
 |   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
@@ -1167,193 +1896,6 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 |   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * lt_Latn (Lithuanian)       |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ą' and shaping the text 'ą' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'č' and shaping the text 'č' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ę' and shaping the text 'ę' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ė' and shaping the text 'ė' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'į' and shaping the text 'į' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'š' and shaping the text 'š' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ų' and shaping the text 'ų' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ž' and shaping the text 'ž' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ẽ' and shaping the text 'ẽ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĩ' and shaping the text 'ĩ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'õ' and shaping the text 'õ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ũ' and shaping the text 'ũ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * ca_Latn (Catalan)          |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŀ' and shaping the text 'ŀ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * de_Latn (German)           |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ß' and shaping the text 'ß' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ğ' and shaping the text 'ğ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ı' and shaping the text 'ı' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ş' and shaping the text 'ş' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
 | Small caps for Latin letters:                                                                                                      | * is_Latn (Icelandic)        |
 |   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
@@ -1391,72 +1933,62 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 |   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * fr_Latn (French)           |
+| Small caps for Latin letters:                                                                                                      | * nb_Latn (Norwegian Bokmål) |
 |   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ć' and shaping the text 'ć' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'õ' and shaping the text 'õ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ř' and shaping the text 'ř' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ǎ' and shaping the text 'ǎ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'č' and shaping the text 'č' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'đ' and shaping the text 'đ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ń' and shaping the text 'ń' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŋ' and shaping the text 'ŋ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'š' and shaping the text 'š' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ß' and shaping the text 'ß' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ŧ' and shaping the text 'ŧ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ǔ' and shaping the text 'ǔ' with features: smcp, the output is expected to be different, but was the same |                              |
-| Auxiliary orthography codepoints:                                                                                                  | * de_Latn (German)           |
-|   The following auxiliary characters are missing from the font: ſ                                                                  | * fr_Latn (French)           |
+|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ž' and shaping the text 'ž' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
 | Small caps for Latin letters:                                                                                                      | * sr_Latn (Serbian (Latin))  |
 |   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
@@ -1490,523 +2022,6 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 |   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * en_Latn (English)          |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * nl_Latn (Dutch)            |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ý' and shaping the text 'ý' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĳ' and shaping the text 'ĳ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * sv_Latn (Swedish)          |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * tr_Latn (Turkish)          |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ğ' and shaping the text 'ğ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ı' and shaping the text 'ı' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ş' and shaping the text 'ş' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ß' and shaping the text 'ß' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * lv_Latn (Latvian)          |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'č' and shaping the text 'č' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ģ' and shaping the text 'ģ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ķ' and shaping the text 'ķ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ļ' and shaping the text 'ļ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ņ' and shaping the text 'ņ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'š' and shaping the text 'š' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ž' and shaping the text 'ž' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŗ' and shaping the text 'ŗ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * pt_Latn (Portuguese)       |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'õ' and shaping the text 'õ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * mt_Latn (Maltese)          |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ċ' and shaping the text 'ċ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ġ' and shaping the text 'ġ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ħ' and shaping the text 'ħ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ż' and shaping the text 'ż' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * it_Latn (Italian)          |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'õ' and shaping the text 'õ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ß' and shaping the text 'ß' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * sk_Latn (Slovak)           |
-|   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'č' and shaping the text 'č' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ď' and shaping the text 'ď' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĺ' and shaping the text 'ĺ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ľ' and shaping the text 'ľ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ň' and shaping the text 'ň' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŕ' and shaping the text 'ŕ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'š' and shaping the text 'š' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ť' and shaping the text 'ť' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ý' and shaping the text 'ý' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ž' and shaping the text 'ž' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ő' and shaping the text 'ő' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ř' and shaping the text 'ř' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ű' and shaping the text 'ű' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
 | Small caps for Latin letters:                                                                                                      | * cs_Latn (Czech)            |
 |   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
@@ -2085,185 +2100,38 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 |   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
-| Small caps for Latin letters:                                                                                                      | * hu_Latn (Hungarian)        |
+| Small caps for Latin letters:                                                                                                      | * hr_Latn (Croatian)         |
 |   When shaping the text 'a' and shaping the text 'a' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'á' and shaping the text 'á' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'b' and shaping the text 'b' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'c' and shaping the text 'c' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'č' and shaping the text 'č' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ć' and shaping the text 'ć' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'd' and shaping the text 'd' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'đ' and shaping the text 'đ' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'e' and shaping the text 'e' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'é' and shaping the text 'é' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'f' and shaping the text 'f' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'g' and shaping the text 'g' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'h' and shaping the text 'h' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'i' and shaping the text 'i' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'í' and shaping the text 'í' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'j' and shaping the text 'j' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'k' and shaping the text 'k' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'l' and shaping the text 'l' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'm' and shaping the text 'm' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'n' and shaping the text 'n' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'o' and shaping the text 'o' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ó' and shaping the text 'ó' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ö' and shaping the text 'ö' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ő' and shaping the text 'ő' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'p' and shaping the text 'p' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'r' and shaping the text 'r' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 's' and shaping the text 's' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'š' and shaping the text 'š' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 't' and shaping the text 't' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'u' and shaping the text 'u' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ú' and shaping the text 'ú' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ü' and shaping the text 'ü' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ű' and shaping the text 'ű' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'v' and shaping the text 'v' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'z' and shaping the text 'z' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'à' and shaping the text 'à' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ă' and shaping the text 'ă' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'â' and shaping the text 'â' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'å' and shaping the text 'å' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ä' and shaping the text 'ä' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ã' and shaping the text 'ã' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ā' and shaping the text 'ā' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'æ' and shaping the text 'æ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ç' and shaping the text 'ç' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'è' and shaping the text 'è' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĕ' and shaping the text 'ĕ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ê' and shaping the text 'ê' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ë' and shaping the text 'ë' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ē' and shaping the text 'ē' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ì' and shaping the text 'ì' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ĭ' and shaping the text 'ĭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'î' and shaping the text 'î' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ï' and shaping the text 'ï' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ī' and shaping the text 'ī' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ñ' and shaping the text 'ñ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ò' and shaping the text 'ò' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŏ' and shaping the text 'ŏ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ô' and shaping the text 'ô' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ø' and shaping the text 'ø' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ō' and shaping the text 'ō' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'œ' and shaping the text 'œ' with features: smcp, the output is expected to be different, but was the same |                              |
+|   When shaping the text 'ž' and shaping the text 'ž' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'q' and shaping the text 'q' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ù' and shaping the text 'ù' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ŭ' and shaping the text 'ŭ' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'û' and shaping the text 'û' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ū' and shaping the text 'ū' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'w' and shaping the text 'w' with features: smcp, the output is expected to be different, but was the same |                              |
 |   When shaping the text 'x' and shaping the text 'x' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              |
-|   When shaping the text 'ÿ' and shaping the text 'ÿ' with features: smcp, the output is expected to be different, but was the same |                              |
-| Auxiliary orthography codepoints:                                                                                                  | * lt_Latn (Lithuanian)       |
-|   Shaper didn't attach acutecomb to Aogonek when shaping the text 'Ą́'                                                              |                              |
-|   Shaper didn't attach tildecomb to Aogonek when shaping the text 'Ą̃'                                                              |                              |
-|   Shaper didn't attach acutecomb to Eogonek when shaping the text 'Ę́'                                                              |                              |
-|   Shaper didn't attach tildecomb to Eogonek when shaping the text 'Ę̃'                                                              |                              |
-|   Shaper didn't attach acutecomb to Edotaccent when shaping the text 'Ė́'                                                           |                              |
-|   Shaper didn't attach tildecomb to Edotaccent when shaping the text 'Ė̃'                                                           |                              |
-|   Shaper didn't attach acutecomb to Idotaccent when shaping the text 'İ́'                                                           |                              |
-|   Shaper didn't attach acutecomb to Idotaccent when shaping the text 'İ́'                                                           |                              |
-|   Shaper didn't attach gravecomb to Idotaccent when shaping the text 'İ̀'                                                           |                              |
-|   Shaper didn't attach gravecomb to Idotaccent when shaping the text 'İ̀'                                                           |                              |
-|   Shaper didn't attach tildecomb to Idotaccent when shaping the text 'İ̃'                                                           |                              |
-|   Shaper didn't attach tildecomb to Idotaccent when shaping the text 'İ̃'                                                           |                              |
-|   Shaper didn't attach acutecomb to Iogonek when shaping the text 'Į́'                                                              |                              |
-|   Shaper didn't attach uni0307 to Iogonek when shaping the text 'Į̇́'                                                                |                              |
-|   Shaper didn't attach acutecomb to uni0307 when shaping the text 'Į̇́'                                                              |                              |
-|   Shaper didn't attach tildecomb to Iogonek when shaping the text 'Į̃'                                                              |                              |
-|   Shaper didn't attach uni0307 to Iogonek when shaping the text 'Į̇̃'                                                                |                              |
-|   Shaper didn't attach tildecomb to uni0307 when shaping the text 'Į̇̃'                                                              |                              |
-|   Shaper didn't attach tildecomb to J when shaping the text 'J̃'                                                                    |                              |
-|   Shaper didn't attach uni0307 to J when shaping the text 'J̇̃'                                                                      |                              |
-|   Shaper didn't attach tildecomb to uni0307 when shaping the text 'J̇̃'                                                              |                              |
-|   Shaper didn't attach tildecomb to L when shaping the text 'L̃'                                                                    |                              |
-|   Shaper didn't attach tildecomb to M when shaping the text 'M̃'                                                                    |                              |
-|   Shaper didn't attach tildecomb to R when shaping the text 'R̃'                                                                    |                              |
-|   Shaper didn't attach acutecomb to Uogonek when shaping the text 'Ų́'                                                              |                              |
-|   Shaper didn't attach tildecomb to Uogonek when shaping the text 'Ų̃'                                                              |                              |
-|   Shaper didn't attach acutecomb to Umacron when shaping the text 'Ū́'                                                              |                              |
-|   Shaper didn't attach tildecomb to Umacron when shaping the text 'Ū̃'                                                              |                              |
-|   Shaper didn't attach acutecomb to aogonek when shaping the text 'ą́'                                                              |                              |
-|   Shaper didn't attach tildecomb to aogonek when shaping the text 'ą̃'                                                              |                              |
-|   Shaper didn't attach acutecomb to eogonek when shaping the text 'ę́'                                                              |                              |
-|   Shaper didn't attach tildecomb to eogonek when shaping the text 'ę̃'                                                              |                              |
-|   Shaper didn't attach acutecomb to edotaccent when shaping the text 'ė́'                                                           |                              |
-|   Shaper didn't attach tildecomb to edotaccent when shaping the text 'ė̃'                                                           |                              |
-|   Shaper didn't attach uni0307 to i when shaping the text 'i̇́'                                                                      |                              |
-|   Shaper didn't attach acutecomb to uni0307 when shaping the text 'i̇́'                                                              |                              |
-|   Shaper didn't attach uni0307 to i when shaping the text 'i̇̀'                                                                      |                              |
-|   Shaper didn't attach gravecomb to uni0307 when shaping the text 'i̇̀'                                                              |                              |
-|   Shaper didn't attach uni0307 to i when shaping the text 'i̇̃'                                                                      |                              |
-|   Shaper didn't attach tildecomb to uni0307 when shaping the text 'i̇̃'                                                              |                              |
-|   Shaper didn't attach acutecomb to iogonek when shaping the text 'į́'                                                              |                              |
-|   Shaper didn't attach uni0307 to iogonek when shaping the text 'į̇́'                                                                |                              |
-|   Shaper didn't attach acutecomb to uni0307 when shaping the text 'į̇́'                                                              |                              |
-|   Shaper didn't attach tildecomb to iogonek when shaping the text 'į̃'                                                              |                              |
-|   Shaper didn't attach uni0307 to iogonek when shaping the text 'į̇̃'                                                                |                              |
-|   Shaper didn't attach tildecomb to uni0307 when shaping the text 'į̇̃'                                                              |                              |
-|   Shaper didn't attach tildecomb to j when shaping the text 'j̃'                                                                    |                              |
-|   Shaper didn't attach uni0307 to j when shaping the text 'j̇̃'                                                                      |                              |
-|   Shaper didn't attach tildecomb to uni0307 when shaping the text 'j̇̃'                                                              |                              |
-|   Shaper didn't attach tildecomb to l when shaping the text 'l̃'                                                                    |                              |
-|   Shaper didn't attach tildecomb to m when shaping the text 'm̃'                                                                    |                              |
-|   Shaper didn't attach tildecomb to r when shaping the text 'r̃'                                                                    |                              |
-|   Shaper didn't attach acutecomb to uogonek when shaping the text 'ų́'                                                              |                              |
-|   Shaper didn't attach tildecomb to uogonek when shaping the text 'ų̃'                                                              |                              |
-|   Shaper didn't attach acutecomb to umacron when shaping the text 'ū́'                                                              |                              |
-|   Shaper didn't attach tildecomb to umacron when shaping the text 'ū̃'                                                              |                              |
-| Auxiliary orthography codepoints:                                                                                                  | * el_Grek (Greek)            |
-|   The following auxiliary characters are missing from the font: ἀ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἄ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἂ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἆ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἁ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἅ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἃ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἇ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ᾶ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἐ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἔ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἒ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἑ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἕ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἓ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἠ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἤ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἢ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἦ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἡ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἥ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἣ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἧ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ῆ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἰ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἴ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἲ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἶ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἱ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἵ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἳ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ἷ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ῖ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ῗ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὄ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὂ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὃ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὐ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὔ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὒ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὖ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὑ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὕ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὓ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὗ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ῦ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ῧ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὤ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὢ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὦ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὥ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὣ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ὧ                                                                  |                              |
-|   The following auxiliary characters are missing from the font: ῶ                                                                  |                              | [code: warning-language-shaping]
+|   When shaping the text 'y' and shaping the text 'y' with features: smcp, the output is expected to be different, but was the same |                              | [code: warning-language-shaping]
   
   
 
@@ -2330,6 +2198,7 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 
     The following glyphs do not have the recommended number of contours:
+* T_T (unencoded): found 2, expected one of: {1}
 * uni029B (U+029B): found 2, expected one of: {1}
 * uni0255 (U+0255): found 1, expected one of: {2}
 * uni0188 (U+0188): found 2, expected one of: {1}
@@ -2370,22 +2239,22 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 * uni066E.init (unencoded): found 2, expected one of: {1}
 * uni0628 (U+0628): found 4, expected one of: {2}
 * uni062A (U+062A): found 5, expected one of: {2, 3}
-* uni062B (U+062B): found 6, expected one of: {4, 3, 2}
+* uni062B (U+062B): found 6, expected one of: {2, 3, 4}
 * uni0631 (U+0631): found 2, expected one of: {1}
 * uni0632 (U+0632): found 3, expected one of: {2}
 * uni0633 (U+0633): found 6, expected one of: {3, 1}
-* uni0634 (U+0634): found 9, expected one of: {0, 4, 3, 6}
+* uni0634 (U+0634): found 9, expected one of: {0, 6, 4, 3}
 * uni0635 (U+0635): found 6, expected one of: {2}
 * uni0636 (U+0636): found 7, expected one of: {3}
 * uni0637 (U+0637): found 4, expected one of: {2, 3}
 * uni0638 (U+0638): found 5, expected one of: {4, 3}
 * uni0639 (U+0639): found 2, expected one of: {1}
 * uni0641 (U+0641): found 5, expected one of: {2, 3}
-* uni06A4 (U+06A4): found 7, expected one of: {0, 5, 4}
+* uni06A4 (U+06A4): found 7, expected one of: {5, 0, 4}
 * uni06A1 (U+06A1): found 4, expected one of: {1, 2}
 * uni06A1.fina (unencoded): found 4, expected one of: {2}
 * uni066F.fina (unencoded): found 3, expected one of: {2}
-* uni0643 (U+0643): found 4, expected one of: {2, 1}
+* uni0643 (U+0643): found 4, expected one of: {1, 2}
 * uni0644 (U+0644): found 2, expected one of: {1}
 * uni0645 (U+0645): found 3, expected one of: {1, 2}
 * uni0646 (U+0646): found 3, expected one of: {2}
@@ -2393,12 +2262,12 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 * uni0647 (U+0647): found 1, expected one of: {2}
 * uni0624 (U+0624): found 4, expected one of: {3, 2}
 * uni0649 (U+0649): found 2, expected one of: {1}
-* uni064A (U+064A): found 4, expected one of: {2, 3}
+* uni064A (U+064A): found 4, expected one of: {3, 2}
 * uni0626 (U+0626): found 4, expected one of: {2}
 * uni0662 (U+0662): found 2, expected one of: {1}
 * uni0663 (U+0663): found 3, expected one of: {1}
 * uni0666 (U+0666): found 2, expected one of: {1}
-* asterisk (U+002A): found 6, expected one of: {1, 5, 2, 3}
+* asterisk (U+002A): found 6, expected one of: {5, 2, 1, 3}
 * uni02E5 (U+02E5): found 2, expected one of: {1}
 * uni02E9 (U+02E9): found 2, expected one of: {1}
 * uni02E6 (U+02E6): found 2, expected one of: {1}
@@ -2427,6 +2296,62 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 * uni0346 (U+0346): found 3, expected one of: {1}
 * uni0349 (U+0349): found 2, expected one of: {1}
 * uni034A (U+034A): found 2, expected one of: {1} [code: contour-count]
+  
+  
+
+</div>
+</details>
+
+
+
+
+
+<details>
+    <summary>⚠️ <b>WARN</b> Are there caret positions declared for every ligature? (ligature_carets)</summary>
+    <div>
+
+
+
+
+
+
+
+
+- ⚠️ **WARN** This font lacks caret positioning values for these ligature glyphs:
+	- * F_H
+* F_F
+* f_f_j.sc
+* F_F_I
+* f_f.sc
+* F_F_T
+* F_F_B
+* F_F_J
+* f_f_t.sc
+* f_t.sc
+* f_f_l.sc
+* F_K
+* t_t.sc
+* F_J
+* F_F_K
+* f_f_b.sc
+* fi.sc
+* fl.sc
+* T_T
+* f_f_h.sc
+* f_h.sc
+* f_f_i.sc
+* F_B
+* F_F_H
+* F_T
+* f_f_k.sc
+* F_L
+* f_b.sc
+* f_k.sc
+* F_I
+* F_F_L
+* f_j.sc
+
+ [code: incomplete-caret-pos-data]
   
   
 
@@ -2494,6 +2419,8 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 
 - ⚠️ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
+* uni004A0301
+* uni006A0301
 * uni0162.sc
 * Zdotaccent.sc
 * u.inferior
@@ -2510,7 +2437,20 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 * gafsarkashcenterar
 * doublestrokear
 * uni030C.alt.case
+* uni0308.sc
+* uni0307.sc
+* gravecomb.sc
+* acutecomb.sc
+* uni030B.sc
 * uni030C.alt.sc
+* uni0302.sc
+* uni030C.sc
+* uni0306.sc
+* uni030A.sc
+* tildecomb.sc
+* uni0304.sc
+* uni0327.sc
+* uni0328.sc
 * Dotlessi.sc [code: unreachable-glyphs]
   
   
@@ -2558,3298 +2498,3298 @@ replace the dot. (soft_dotted)</summary>
 
 
 
-- ⚠️ **WARN** The dot of soft dotted characters used in orthographies _must_ disappear in the following strings: * ɨ̧̀
+- ⚠️ **WARN** The dot of soft dotted characters used in orthographies _must_ disappear in the following strings: * į̄
+* į̀
+* į̂
+* į́
+* į̃
+* į̌
+* ɨ̧̀
 * ɨ̧̂
-* ɨ̧̌
 * ɨ̧́
-* ɨ̏
-* ɨ̋
+* ɨ̧̌
+* ɨ̄
 * ɨ̀
 * ɨ̂
 * ɨ̈
-* ɨ̌
-* ɨ̄
 * ɨ́
+* ɨ̋
+* ɨ̏
 * ɨ̃
-* į̀
-* į̂
-* į̌
-* į̄
-* į́
-* į̃
+* ɨ̌
+* i̋
+* i̊
+* j̄
 * j̀
 * j̈
-* j̄
 * j́
-* j̃
-* i̋
-* i̊The dot of soft dotted characters _should_ disappear in other cases, for example: * ʲ̩̏
-* ʲ̩̋
-* ʲ̩͊
-* ʲ̩̀
-* ʲ̩̽
-* ʲ̩͋
-* ʲ̩̂
-* ʲ̩̈
-* ʲ̩̅
-* ʲ̩̆
-* ʲ̩͌
-* ʲ̩̌
-* ʲ̩̊
-* ʲ̩̄
-* ʲ̩́
-* ʲ̩͆
-* ʲ̩̇
-* ʲ̩̃
-* ʲ̝̏
-* ʲ̝̋
-* ʲ̝͊
-* ʲ̝̀
-* ʲ̝̽
-* ʲ̝͋
-* ʲ̝̂
-* ʲ̝̈
-* ʲ̝̅
-* ʲ̝̆
-* ʲ̝͌
-* ʲ̝̌
-* ʲ̝̊
-* ʲ̝̄
-* ʲ̝́
-* ʲ̝͆
-* ʲ̝̇
-* ʲ̝̃
-* ʲ͇̏
-* ʲ͇̋
-* ʲ͇͊
-* ʲ͇̀
-* ʲ͇̽
-* ʲ͇͋
-* ʲ͇̂
-* ʲ͇̈
-* ʲ͇̅
-* ʲ͇̆
-* ʲ͇͌
-* ʲ͇̌
-* ʲ͇̊
-* ʲ͇̄
-* ʲ͇́
-* ʲ͇͆
-* ʲ͇̇
-* ʲ͇̃
-* ʲ̬̏
-* ʲ̬̋
-* ʲ̬͊
-* ʲ̬̀
-* ʲ̬̽
-* ʲ̬͋
-* ʲ̬̂
-* ʲ̬̈
-* ʲ̬̅
-* ʲ̬̆
-* ʲ̬͌
-* ʲ̬̌
-* ʲ̬̊
-* ʲ̬̄
-* ʲ̬́
-* ʲ̬͆
-* ʲ̬̇
-* ʲ̬̃
-* ʲ̴̏
-* ʲ̴̋
-* ʲ̴͊
-* ʲ̴̀
-* ʲ̴̽
-* ʲ̴͋
-* ʲ̴̂
-* ʲ̴̈
-* ʲ̴̅
-* ʲ̴̆
-* ʲ̴͌
-* ʲ̴̌
-* ʲ̴̊
-* ʲ̴̄
-* ʲ̴́
-* ʲ̴͆
-* ʲ̴̇
-* ʲ̴̃
-* ʲ̘̏
-* ʲ̘̋
-* ʲ̘͊
-* ʲ̘̀
-* ʲ̘̽
-* ʲ̘͋
-* ʲ̘̂
-* ʲ̘̈
-* ʲ̘̅
-* ʲ̘̆
-* ʲ̘͌
-* ʲ̘̌
-* ʲ̘̊
-* ʲ̘̄
-* ʲ̘́
-* ʲ̘͆
-* ʲ̘̇
-* ʲ̘̃
-* ʲ͍̏
-* ʲ͍̋
-* ʲ͍͊
-* ʲ͍̀
-* ʲ͍̽
-* ʲ͍͋
-* ʲ͍̂
-* ʲ͍̈
-* ʲ͍̅
-* ʲ͍̆
-* ʲ͍͌
-* ʲ͍̌
-* ʲ͍̊
-* ʲ͍̄
-* ʲ͍́
-* ʲ͍͆
-* ʲ͍̇
-* ʲ͍̃
-* ʲ̠̏
-* ʲ̠̋
-* ʲ̠͊
-* ʲ̠̀
-* ʲ̠̽
-* ʲ̠͋
-* ʲ̠̂
-* ʲ̠̈
-* ʲ̠̅
-* ʲ̠̆
-* ʲ̠͌
-* ʲ̠̌
-* ʲ̠̊
-* ʲ̠̄
-* ʲ̠́
-* ʲ̠͆
-* ʲ̠̇
-* ʲ̠̃
-* ʲ̜̏
-* ʲ̜̋
-* ʲ̜͊
-* ʲ̜̀
-* ʲ̜̽
-* ʲ̜͋
-* ʲ̜̂
-* ʲ̜̈
-* ʲ̜̅
-* ʲ̜̆
-* ʲ̜͌
-* ʲ̜̌
-* ʲ̜̊
-* ʲ̜̄
-* ʲ̜́
-* ʲ̜͆
-* ʲ̜̇
-* ʲ̜̃
-* ʲ̻̏
-* ʲ̻̋
-* ʲ̻͊
-* ʲ̻̀
-* ʲ̻̽
-* ʲ̻͋
-* ʲ̻̂
-* ʲ̻̈
-* ʲ̻̅
-* ʲ̻̆
-* ʲ̻͌
-* ʲ̻̌
-* ʲ̻̊
-* ʲ̻̄
-* ʲ̻́
-* ʲ̻͆
-* ʲ̻̇
-* ʲ̻̃
-* ʲ̲̏
-* ʲ̲̋
-* ʲ̲͊
-* ʲ̲̀
-* ʲ̲̽
-* ʲ̲͋
-* ʲ̲̂
-* ʲ̲̈
-* ʲ̲̅
-* ʲ̲̆
-* ʲ̲͌
-* ʲ̲̌
-* ʲ̲̊
-* ʲ̲̄
-* ʲ̲́
-* ʲ̲͆
-* ʲ̲̇
-* ʲ̲̃
-* ʲ̤̏
-* ʲ̤̋
-* ʲ̤͊
-* ʲ̤̀
-* ʲ̤̽
-* ʲ̤͋
-* ʲ̤̂
-* ʲ̤̈
-* ʲ̤̅
-* ʲ̤̆
-* ʲ̤͌
-* ʲ̤̌
-* ʲ̤̊
-* ʲ̤̄
-* ʲ̤́
-* ʲ̤͆
-* ʲ̤̇
-* ʲ̤̃
-* ʲ̼̏
-* ʲ̼̋
-* ʲ̼͊
-* ʲ̼̀
-* ʲ̼̽
-* ʲ̼͋
-* ʲ̼̂
-* ʲ̼̈
-* ʲ̼̅
-* ʲ̼̆
-* ʲ̼͌
-* ʲ̼̌
-* ʲ̼̊
-* ʲ̼̄
-* ʲ̼́
-* ʲ̼͆
-* ʲ̼̇
-* ʲ̼̃
-* ʲ̧̏
-* ʲ̧̋
-* ʲ̧͊
-* ʲ̧̀
-* ʲ̧̽
-* ʲ̧͋
-* ʲ̧̂
-* ʲ̧̈
-* ʲ̧̅
-* ʲ̧̆
-* ʲ̧͌
-* ʲ̧̌
-* ʲ̧̊
-* ʲ̧̄
-* ʲ̧́
-* ʲ̧͆
-* ʲ̧̇
-* ʲ̧̃
-* ʲ̞̏
-* ʲ̞̋
-* ʲ̞͊
-* ʲ̞̀
-* ʲ̞̽
-* ʲ̞͋
-* ʲ̞̂
-* ʲ̞̈
-* ʲ̞̅
-* ʲ̞̆
-* ʲ̞͌
-* ʲ̞̌
-* ʲ̞̊
-* ʲ̞̄
-* ʲ̞́
-* ʲ̞͆
-* ʲ̞̇
-* ʲ̞̃
-* ʲ̹̏
-* ʲ̹̋
-* ʲ̹͊
-* ʲ̹̀
-* ʲ̹̽
-* ʲ̹͋
-* ʲ̹̂
-* ʲ̹̈
-* ʲ̹̅
-* ʲ̹̆
-* ʲ̹͌
-* ʲ̹̌
-* ʲ̹̊
-* ʲ̹̄
-* ʲ̹́
-* ʲ̹͆
-* ʲ̹̇
-* ʲ̹̃
-* ʲ̺̏
-* ʲ̺̋
-* ʲ̺͊
-* ʲ̺̀
-* ʲ̺̽
-* ʲ̺͋
-* ʲ̺̂
-* ʲ̺̈
-* ʲ̺̅
-* ʲ̺̆
-* ʲ̺͌
-* ʲ̺̌
-* ʲ̺̊
-* ʲ̺̄
-* ʲ̺́
-* ʲ̺͆
-* ʲ̺̇
-* ʲ̺̃
-* ʲ̟̏
-* ʲ̟̋
-* ʲ̟͊
-* ʲ̟̀
-* ʲ̟̽
-* ʲ̟͋
-* ʲ̟̂
-* ʲ̟̈
-* ʲ̟̅
-* ʲ̟̆
-* ʲ̟͌
-* ʲ̟̌
-* ʲ̟̊
-* ʲ̟̄
-* ʲ̟́
-* ʲ̟͆
-* ʲ̟̇
-* ʲ̟̃
-* ʲ̪̏
-* ʲ̪̋
-* ʲ̪͊
-* ʲ̪̀
-* ʲ̪̽
-* ʲ̪͋
-* ʲ̪̂
-* ʲ̪̈
-* ʲ̪̅
-* ʲ̪̆
-* ʲ̪͌
-* ʲ̪̌
-* ʲ̪̊
-* ʲ̪̄
-* ʲ̪́
-* ʲ̪͆
-* ʲ̪̇
-* ʲ̪̃
-* ʲ͎̏
-* ʲ͎̋
-* ʲ͎͊
-* ʲ͎̀
-* ʲ͎̽
-* ʲ͎͋
-* ʲ͎̂
-* ʲ͎̈
-* ʲ͎̅
-* ʲ͎̆
-* ʲ͎͌
-* ʲ͎̌
-* ʲ͎̊
-* ʲ͎̄
-* ʲ͎́
-* ʲ͎͆
-* ʲ͎̇
-* ʲ͎̃
-* ʲ̥̏
-* ʲ̥̋
-* ʲ̥͊
-* ʲ̥̀
-* ʲ̥̽
-* ʲ̥͋
-* ʲ̥̂
-* ʲ̥̈
-* ʲ̥̅
-* ʲ̥̆
-* ʲ̥͌
-* ʲ̥̌
-* ʲ̥̊
-* ʲ̥̄
-* ʲ̥́
-* ʲ̥͆
-* ʲ̥̇
-* ʲ̥̃
-* ʲ̰̏
-* ʲ̰̋
-* ʲ̰͊
-* ʲ̰̀
-* ʲ̰̽
-* ʲ̰͋
-* ʲ̰̂
-* ʲ̰̈
-* ʲ̰̅
-* ʲ̰̆
-* ʲ̰͌
-* ʲ̰̌
-* ʲ̰̊
-* ʲ̰̄
-* ʲ̰́
-* ʲ̰͆
-* ʲ̰̇
-* ʲ̰̃
-* ʲ͈̏
-* ʲ͈̋
-* ʲ͈͊
-* ʲ͈̀
-* ʲ͈̽
-* ʲ͈͋
-* ʲ͈̂
-* ʲ͈̈
-* ʲ͈̅
-* ʲ͈̆
-* ʲ͈͌
-* ʲ͈̌
-* ʲ͈̊
-* ʲ͈̄
-* ʲ͈́
-* ʲ͈͆
-* ʲ͈̇
-* ʲ͈̃
-* ʲ̦̏
-* ʲ̦̋
-* ʲ̦͊
-* ʲ̦̀
-* ʲ̦̽
-* ʲ̦͋
-* ʲ̦̂
-* ʲ̦̈
-* ʲ̦̅
-* ʲ̦̆
-* ʲ̦͌
-* ʲ̦̌
-* ʲ̦̊
-* ʲ̦̄
-* ʲ̦́
-* ʲ̦͆
-* ʲ̦̇
-* ʲ̦̃
-* ʲ̨̏
-* ʲ̨̋
-* ʲ̨͊
-* ʲ̨̀
-* ʲ̨̽
-* ʲ̨͋
-* ʲ̨̂
-* ʲ̨̈
-* ʲ̨̅
-* ʲ̨̆
-* ʲ̨͌
-* ʲ̨̌
-* ʲ̨̊
-* ʲ̨̄
-* ʲ̨́
-* ʲ̨͆
-* ʲ̨̇
-* ʲ̨̃
-* ʲ͉̏
-* ʲ͉̋
-* ʲ͉͊
-* ʲ͉̀
-* ʲ͉̽
-* ʲ͉͋
-* ʲ͉̂
-* ʲ͉̈
-* ʲ͉̅
-* ʲ͉̆
-* ʲ͉͌
-* ʲ͉̌
-* ʲ͉̊
-* ʲ͉̄
-* ʲ͉́
-* ʲ͉͆
-* ʲ͉̇
-* ʲ͉̃
-* ʲ̙̏
-* ʲ̙̋
-* ʲ̙͊
-* ʲ̙̀
-* ʲ̙̽
-* ʲ̙͋
-* ʲ̙̂
-* ʲ̙̈
-* ʲ̙̅
-* ʲ̙̆
-* ʲ̙͌
-* ʲ̙̌
-* ʲ̙̊
-* ʲ̙̄
-* ʲ̙́
-* ʲ̙͆
-* ʲ̙̇
-* ʲ̙̃
-* ʲ̏
-* ʲ̋
-* ʲ͊
-* ʲ̀
-* ʲ̽
-* ʲ͋
-* ʲ̂
-* ʲ̈
-* ʲ̅
-* ʲ̆
-* ʲ͌
-* ʲ̌
-* ʲ̊
-* ʲ̄
-* ʲ́
-* ʲ͆
-* ʲ̇
-* ʲ̃
-* ʝ̩̏
-* ʝ̩̋
-* ʝ̩͊
-* ʝ̩̀
-* ʝ̩̽
-* ʝ̩͋
-* ʝ̩̂
-* ʝ̩̈
-* ʝ̩̅
-* ʝ̩̆
-* ʝ̩͌
-* ʝ̩̌
-* ʝ̩̊
-* ʝ̩̄
-* ʝ̩́
-* ʝ̩͆
-* ʝ̩̇
-* ʝ̩̃
-* ʝ̝̏
-* ʝ̝̋
-* ʝ̝͊
-* ʝ̝̀
-* ʝ̝̽
-* ʝ̝͋
-* ʝ̝̂
-* ʝ̝̈
-* ʝ̝̅
-* ʝ̝̆
-* ʝ̝͌
-* ʝ̝̌
-* ʝ̝̊
-* ʝ̝̄
-* ʝ̝́
-* ʝ̝͆
-* ʝ̝̇
-* ʝ̝̃
-* ʝ͇̏
-* ʝ͇̋
-* ʝ͇͊
-* ʝ͇̀
-* ʝ͇̽
-* ʝ͇͋
-* ʝ͇̂
-* ʝ͇̈
-* ʝ͇̅
-* ʝ͇̆
-* ʝ͇͌
-* ʝ͇̌
-* ʝ͇̊
+* j̃The dot of soft dotted characters _should_ disappear in other cases, for example: * ʝ͇̆
 * ʝ͇̄
-* ʝ͇́
-* ʝ͇͆
+* ʝ͇̽
+* ʝ͇̀
+* ʝ͇̂
+* ʝ͇͋
 * ʝ͇̇
+* ʝ͇͌
+* ʝ͇̈
+* ʝ͇́
+* ʝ͇̅
+* ʝ͇̋
+* ʝ͇̏
+* ʝ͇͆
+* ʝ͇̊
 * ʝ͇̃
-* ʝ̬̏
-* ʝ̬̋
-* ʝ̬͊
-* ʝ̬̀
-* ʝ̬̽
-* ʝ̬͋
-* ʝ̬̂
-* ʝ̬̈
-* ʝ̬̅
-* ʝ̬̆
-* ʝ̬͌
-* ʝ̬̌
-* ʝ̬̊
-* ʝ̬̄
-* ʝ̬́
-* ʝ̬͆
-* ʝ̬̇
-* ʝ̬̃
-* ʝ̴̏
-* ʝ̴̋
-* ʝ̴͊
-* ʝ̴̀
-* ʝ̴̽
-* ʝ̴͋
-* ʝ̴̂
-* ʝ̴̈
-* ʝ̴̅
-* ʝ̴̆
-* ʝ̴͌
-* ʝ̴̌
-* ʝ̴̊
-* ʝ̴̄
-* ʝ̴́
-* ʝ̴͆
-* ʝ̴̇
-* ʝ̴̃
-* ʝ̘̏
-* ʝ̘̋
-* ʝ̘͊
-* ʝ̘̀
-* ʝ̘̽
-* ʝ̘͋
-* ʝ̘̂
-* ʝ̘̈
-* ʝ̘̅
-* ʝ̘̆
-* ʝ̘͌
-* ʝ̘̌
-* ʝ̘̊
-* ʝ̘̄
-* ʝ̘́
-* ʝ̘͆
-* ʝ̘̇
-* ʝ̘̃
-* ʝ͍̏
-* ʝ͍̋
-* ʝ͍͊
-* ʝ͍̀
-* ʝ͍̽
-* ʝ͍͋
-* ʝ͍̂
-* ʝ͍̈
-* ʝ͍̅
-* ʝ͍̆
-* ʝ͍͌
-* ʝ͍̌
-* ʝ͍̊
-* ʝ͍̄
-* ʝ͍́
-* ʝ͍͆
-* ʝ͍̇
-* ʝ͍̃
-* ʝ̠̏
-* ʝ̠̋
-* ʝ̠͊
-* ʝ̠̀
-* ʝ̠̽
-* ʝ̠͋
-* ʝ̠̂
-* ʝ̠̈
-* ʝ̠̅
-* ʝ̠̆
-* ʝ̠͌
-* ʝ̠̌
-* ʝ̠̊
-* ʝ̠̄
-* ʝ̠́
-* ʝ̠͆
-* ʝ̠̇
-* ʝ̠̃
-* ʝ̜̏
-* ʝ̜̋
-* ʝ̜͊
-* ʝ̜̀
-* ʝ̜̽
-* ʝ̜͋
-* ʝ̜̂
-* ʝ̜̈
-* ʝ̜̅
-* ʝ̜̆
-* ʝ̜͌
-* ʝ̜̌
-* ʝ̜̊
-* ʝ̜̄
-* ʝ̜́
-* ʝ̜͆
-* ʝ̜̇
-* ʝ̜̃
-* ʝ̻̏
-* ʝ̻̋
-* ʝ̻͊
-* ʝ̻̀
-* ʝ̻̽
-* ʝ̻͋
-* ʝ̻̂
-* ʝ̻̈
-* ʝ̻̅
-* ʝ̻̆
-* ʝ̻͌
-* ʝ̻̌
-* ʝ̻̊
-* ʝ̻̄
-* ʝ̻́
-* ʝ̻͆
-* ʝ̻̇
-* ʝ̻̃
-* ʝ̲̏
-* ʝ̲̋
-* ʝ̲͊
-* ʝ̲̀
-* ʝ̲̽
-* ʝ̲͋
-* ʝ̲̂
-* ʝ̲̈
-* ʝ̲̅
-* ʝ̲̆
-* ʝ̲͌
-* ʝ̲̌
-* ʝ̲̊
-* ʝ̲̄
-* ʝ̲́
-* ʝ̲͆
-* ʝ̲̇
-* ʝ̲̃
-* ʝ̤̏
-* ʝ̤̋
-* ʝ̤͊
-* ʝ̤̀
-* ʝ̤̽
-* ʝ̤͋
-* ʝ̤̂
-* ʝ̤̈
-* ʝ̤̅
-* ʝ̤̆
-* ʝ̤͌
-* ʝ̤̌
-* ʝ̤̊
-* ʝ̤̄
-* ʝ̤́
-* ʝ̤͆
-* ʝ̤̇
-* ʝ̤̃
-* ʝ̼̏
-* ʝ̼̋
-* ʝ̼͊
-* ʝ̼̀
-* ʝ̼̽
-* ʝ̼͋
-* ʝ̼̂
-* ʝ̼̈
-* ʝ̼̅
-* ʝ̼̆
-* ʝ̼͌
-* ʝ̼̌
-* ʝ̼̊
-* ʝ̼̄
-* ʝ̼́
-* ʝ̼͆
-* ʝ̼̇
-* ʝ̼̃
-* ʝ̧̏
-* ʝ̧̋
-* ʝ̧͊
-* ʝ̧̀
-* ʝ̧̽
-* ʝ̧͋
-* ʝ̧̂
-* ʝ̧̈
-* ʝ̧̅
-* ʝ̧̆
-* ʝ̧͌
-* ʝ̧̌
-* ʝ̧̊
-* ʝ̧̄
-* ʝ̧́
-* ʝ̧͆
-* ʝ̧̇
-* ʝ̧̃
-* ʝ̞̏
-* ʝ̞̋
-* ʝ̞͊
-* ʝ̞̀
-* ʝ̞̽
-* ʝ̞͋
-* ʝ̞̂
-* ʝ̞̈
-* ʝ̞̅
-* ʝ̞̆
-* ʝ̞͌
-* ʝ̞̌
-* ʝ̞̊
-* ʝ̞̄
-* ʝ̞́
-* ʝ̞͆
-* ʝ̞̇
-* ʝ̞̃
-* ʝ̹̏
-* ʝ̹̋
-* ʝ̹͊
-* ʝ̹̀
-* ʝ̹̽
-* ʝ̹͋
-* ʝ̹̂
-* ʝ̹̈
-* ʝ̹̅
-* ʝ̹̆
-* ʝ̹͌
-* ʝ̹̌
-* ʝ̹̊
-* ʝ̹̄
-* ʝ̹́
-* ʝ̹͆
-* ʝ̹̇
-* ʝ̹̃
-* ʝ̺̏
-* ʝ̺̋
-* ʝ̺͊
-* ʝ̺̀
-* ʝ̺̽
-* ʝ̺͋
-* ʝ̺̂
-* ʝ̺̈
-* ʝ̺̅
-* ʝ̺̆
-* ʝ̺͌
-* ʝ̺̌
-* ʝ̺̊
-* ʝ̺̄
-* ʝ̺́
-* ʝ̺͆
-* ʝ̺̇
-* ʝ̺̃
-* ʝ̟̏
-* ʝ̟̋
-* ʝ̟͊
-* ʝ̟̀
-* ʝ̟̽
-* ʝ̟͋
-* ʝ̟̂
-* ʝ̟̈
-* ʝ̟̅
-* ʝ̟̆
-* ʝ̟͌
-* ʝ̟̌
-* ʝ̟̊
-* ʝ̟̄
-* ʝ̟́
-* ʝ̟͆
-* ʝ̟̇
-* ʝ̟̃
-* ʝ̪̏
-* ʝ̪̋
-* ʝ̪͊
-* ʝ̪̀
-* ʝ̪̽
-* ʝ̪͋
-* ʝ̪̂
-* ʝ̪̈
-* ʝ̪̅
-* ʝ̪̆
-* ʝ̪͌
-* ʝ̪̌
-* ʝ̪̊
-* ʝ̪̄
-* ʝ̪́
-* ʝ̪͆
-* ʝ̪̇
-* ʝ̪̃
-* ʝ͎̏
-* ʝ͎̋
-* ʝ͎͊
-* ʝ͎̀
-* ʝ͎̽
-* ʝ͎͋
-* ʝ͎̂
-* ʝ͎̈
-* ʝ͎̅
-* ʝ͎̆
-* ʝ͎͌
-* ʝ͎̌
-* ʝ͎̊
-* ʝ͎̄
-* ʝ͎́
-* ʝ͎͆
-* ʝ͎̇
-* ʝ͎̃
-* ʝ̥̏
-* ʝ̥̋
-* ʝ̥͊
-* ʝ̥̀
-* ʝ̥̽
-* ʝ̥͋
-* ʝ̥̂
-* ʝ̥̈
-* ʝ̥̅
+* ʝ͇̌
+* ʝ͇͊
 * ʝ̥̆
-* ʝ̥͌
-* ʝ̥̌
-* ʝ̥̊
 * ʝ̥̄
-* ʝ̥́
-* ʝ̥͆
+* ʝ̥̽
+* ʝ̥̀
+* ʝ̥̂
+* ʝ̥͋
 * ʝ̥̇
+* ʝ̥͌
+* ʝ̥̈
+* ʝ̥́
+* ʝ̥̅
+* ʝ̥̋
+* ʝ̥̏
+* ʝ̥͆
+* ʝ̥̊
 * ʝ̥̃
-* ʝ̰̏
-* ʝ̰̋
-* ʝ̰͊
-* ʝ̰̀
-* ʝ̰̽
-* ʝ̰͋
-* ʝ̰̂
-* ʝ̰̈
-* ʝ̰̅
+* ʝ̥̌
+* ʝ̥͊
+* ʝ̪̆
+* ʝ̪̄
+* ʝ̪̽
+* ʝ̪̀
+* ʝ̪̂
+* ʝ̪͋
+* ʝ̪̇
+* ʝ̪͌
+* ʝ̪̈
+* ʝ̪́
+* ʝ̪̅
+* ʝ̪̋
+* ʝ̪̏
+* ʝ̪͆
+* ʝ̪̊
+* ʝ̪̃
+* ʝ̪̌
+* ʝ̪͊
+* ʝ̧̆
+* ʝ̧̄
+* ʝ̧̽
+* ʝ̧̀
+* ʝ̧̂
+* ʝ̧͋
+* ʝ̧̇
+* ʝ̧͌
+* ʝ̧̈
+* ʝ̧́
+* ʝ̧̅
+* ʝ̧̋
+* ʝ̧̏
+* ʝ̧͆
+* ʝ̧̊
+* ʝ̧̃
+* ʝ̧̌
+* ʝ̧͊
 * ʝ̰̆
-* ʝ̰͌
-* ʝ̰̌
-* ʝ̰̊
 * ʝ̰̄
-* ʝ̰́
-* ʝ̰͆
+* ʝ̰̽
+* ʝ̰̀
+* ʝ̰̂
+* ʝ̰͋
 * ʝ̰̇
+* ʝ̰͌
+* ʝ̰̈
+* ʝ̰́
+* ʝ̰̅
+* ʝ̰̋
+* ʝ̰̏
+* ʝ̰͆
+* ʝ̰̊
 * ʝ̰̃
-* ʝ͈̏
-* ʝ͈̋
-* ʝ͈͊
-* ʝ͈̀
-* ʝ͈̽
-* ʝ͈͋
-* ʝ͈̂
-* ʝ͈̈
-* ʝ͈̅
-* ʝ͈̆
-* ʝ͈͌
-* ʝ͈̌
-* ʝ͈̊
-* ʝ͈̄
-* ʝ͈́
-* ʝ͈͆
-* ʝ͈̇
-* ʝ͈̃
-* ʝ̦̏
-* ʝ̦̋
-* ʝ̦͊
-* ʝ̦̀
-* ʝ̦̽
-* ʝ̦͋
-* ʝ̦̂
-* ʝ̦̈
-* ʝ̦̅
-* ʝ̦̆
-* ʝ̦͌
-* ʝ̦̌
-* ʝ̦̊
-* ʝ̦̄
-* ʝ̦́
-* ʝ̦͆
-* ʝ̦̇
-* ʝ̦̃
-* ʝ̨̏
-* ʝ̨̋
-* ʝ̨͊
-* ʝ̨̀
-* ʝ̨̽
-* ʝ̨͋
-* ʝ̨̂
-* ʝ̨̈
-* ʝ̨̅
-* ʝ̨̆
-* ʝ̨͌
-* ʝ̨̌
-* ʝ̨̊
-* ʝ̨̄
-* ʝ̨́
-* ʝ̨͆
-* ʝ̨̇
-* ʝ̨̃
-* ʝ͉̏
-* ʝ͉̋
-* ʝ͉͊
-* ʝ͉̀
-* ʝ͉̽
-* ʝ͉͋
-* ʝ͉̂
-* ʝ͉̈
-* ʝ͉̅
+* ʝ̰̌
+* ʝ̰͊
+* ʝ̜̆
+* ʝ̜̄
+* ʝ̜̽
+* ʝ̜̀
+* ʝ̜̂
+* ʝ̜͋
+* ʝ̜̇
+* ʝ̜͌
+* ʝ̜̈
+* ʝ̜́
+* ʝ̜̅
+* ʝ̜̋
+* ʝ̜̏
+* ʝ̜͆
+* ʝ̜̊
+* ʝ̜̃
+* ʝ̜̌
+* ʝ̜͊
+* ʝ̲̆
+* ʝ̲̄
+* ʝ̲̽
+* ʝ̲̀
+* ʝ̲̂
+* ʝ̲͋
+* ʝ̲̇
+* ʝ̲͌
+* ʝ̲̈
+* ʝ̲́
+* ʝ̲̅
+* ʝ̲̋
+* ʝ̲̏
+* ʝ̲͆
+* ʝ̲̊
+* ʝ̲̃
+* ʝ̲̌
+* ʝ̲͊
+* ʝ̩̆
+* ʝ̩̄
+* ʝ̩̽
+* ʝ̩̀
+* ʝ̩̂
+* ʝ̩͋
+* ʝ̩̇
+* ʝ̩͌
+* ʝ̩̈
+* ʝ̩́
+* ʝ̩̅
+* ʝ̩̋
+* ʝ̩̏
+* ʝ̩͆
+* ʝ̩̊
+* ʝ̩̃
+* ʝ̩̌
+* ʝ̩͊
+* ʝ̝̆
+* ʝ̝̄
+* ʝ̝̽
+* ʝ̝̀
+* ʝ̝̂
+* ʝ̝͋
+* ʝ̝̇
+* ʝ̝͌
+* ʝ̝̈
+* ʝ̝́
+* ʝ̝̅
+* ʝ̝̋
+* ʝ̝̏
+* ʝ̝͆
+* ʝ̝̊
+* ʝ̝̃
+* ʝ̝̌
+* ʝ̝͊
 * ʝ͉̆
-* ʝ͉͌
-* ʝ͉̌
-* ʝ͉̊
 * ʝ͉̄
-* ʝ͉́
-* ʝ͉͆
+* ʝ͉̽
+* ʝ͉̀
+* ʝ͉̂
+* ʝ͉͋
 * ʝ͉̇
+* ʝ͉͌
+* ʝ͉̈
+* ʝ͉́
+* ʝ͉̅
+* ʝ͉̋
+* ʝ͉̏
+* ʝ͉͆
+* ʝ͉̊
 * ʝ͉̃
-* ʝ̙̏
-* ʝ̙̋
-* ʝ̙͊
-* ʝ̙̀
-* ʝ̙̽
-* ʝ̙͋
-* ʝ̙̂
-* ʝ̙̈
-* ʝ̙̅
+* ʝ͉̌
+* ʝ͉͊
+* ʝ̦̆
+* ʝ̦̄
+* ʝ̦̽
+* ʝ̦̀
+* ʝ̦̂
+* ʝ̦͋
+* ʝ̦̇
+* ʝ̦͌
+* ʝ̦̈
+* ʝ̦́
+* ʝ̦̅
+* ʝ̦̋
+* ʝ̦̏
+* ʝ̦͆
+* ʝ̦̊
+* ʝ̦̃
+* ʝ̦̌
+* ʝ̦͊
+* ʝ̞̆
+* ʝ̞̄
+* ʝ̞̽
+* ʝ̞̀
+* ʝ̞̂
+* ʝ̞͋
+* ʝ̞̇
+* ʝ̞͌
+* ʝ̞̈
+* ʝ̞́
+* ʝ̞̅
+* ʝ̞̋
+* ʝ̞̏
+* ʝ̞͆
+* ʝ̞̊
+* ʝ̞̃
+* ʝ̞̌
+* ʝ̞͊
+* ʝ̨̆
+* ʝ̨̄
+* ʝ̨̽
+* ʝ̨̀
+* ʝ̨̂
+* ʝ̨͋
+* ʝ̨̇
+* ʝ̨͌
+* ʝ̨̈
+* ʝ̨́
+* ʝ̨̅
+* ʝ̨̋
+* ʝ̨̏
+* ʝ̨͆
+* ʝ̨̊
+* ʝ̨̃
+* ʝ̨̌
+* ʝ̨͊
+* ʝ̴̆
+* ʝ̴̄
+* ʝ̴̽
+* ʝ̴̀
+* ʝ̴̂
+* ʝ̴͋
+* ʝ̴̇
+* ʝ̴͌
+* ʝ̴̈
+* ʝ̴́
+* ʝ̴̅
+* ʝ̴̋
+* ʝ̴̏
+* ʝ̴͆
+* ʝ̴̊
+* ʝ̴̃
+* ʝ̴̌
+* ʝ̴͊
+* ʝ̟̆
+* ʝ̟̄
+* ʝ̟̽
+* ʝ̟̀
+* ʝ̟̂
+* ʝ̟͋
+* ʝ̟̇
+* ʝ̟͌
+* ʝ̟̈
+* ʝ̟́
+* ʝ̟̅
+* ʝ̟̋
+* ʝ̟̏
+* ʝ̟͆
+* ʝ̟̊
+* ʝ̟̃
+* ʝ̟̌
+* ʝ̟͊
+* ʝ̘̆
+* ʝ̘̄
+* ʝ̘̽
+* ʝ̘̀
+* ʝ̘̂
+* ʝ̘͋
+* ʝ̘̇
+* ʝ̘͌
+* ʝ̘̈
+* ʝ̘́
+* ʝ̘̅
+* ʝ̘̋
+* ʝ̘̏
+* ʝ̘͆
+* ʝ̘̊
+* ʝ̘̃
+* ʝ̘̌
+* ʝ̘͊
+* ʝ̠̆
+* ʝ̠̄
+* ʝ̠̽
+* ʝ̠̀
+* ʝ̠̂
+* ʝ̠͋
+* ʝ̠̇
+* ʝ̠͌
+* ʝ̠̈
+* ʝ̠́
+* ʝ̠̅
+* ʝ̠̋
+* ʝ̠̏
+* ʝ̠͆
+* ʝ̠̊
+* ʝ̠̃
+* ʝ̠̌
+* ʝ̠͊
 * ʝ̙̆
-* ʝ̙͌
-* ʝ̙̌
-* ʝ̙̊
 * ʝ̙̄
-* ʝ̙́
-* ʝ̙͆
+* ʝ̙̽
+* ʝ̙̀
+* ʝ̙̂
+* ʝ̙͋
 * ʝ̙̇
+* ʝ̙͌
+* ʝ̙̈
+* ʝ̙́
+* ʝ̙̅
+* ʝ̙̋
+* ʝ̙̏
+* ʝ̙͆
+* ʝ̙̊
 * ʝ̙̃
-* ʝ̏
-* ʝ̋
-* ʝ͊
-* ʝ̀
-* ʝ̽
-* ʝ͋
-* ʝ̂
-* ʝ̈
-* ʝ̅
+* ʝ̙̌
+* ʝ̙͊
+* ʝ̺̆
+* ʝ̺̄
+* ʝ̺̽
+* ʝ̺̀
+* ʝ̺̂
+* ʝ̺͋
+* ʝ̺̇
+* ʝ̺͌
+* ʝ̺̈
+* ʝ̺́
+* ʝ̺̅
+* ʝ̺̋
+* ʝ̺̏
+* ʝ̺͆
+* ʝ̺̊
+* ʝ̺̃
+* ʝ̺̌
+* ʝ̺͊
+* ʝ̼̆
+* ʝ̼̄
+* ʝ̼̽
+* ʝ̼̀
+* ʝ̼̂
+* ʝ̼͋
+* ʝ̼̇
+* ʝ̼͌
+* ʝ̼̈
+* ʝ̼́
+* ʝ̼̅
+* ʝ̼̋
+* ʝ̼̏
+* ʝ̼͆
+* ʝ̼̊
+* ʝ̼̃
+* ʝ̼̌
+* ʝ̼͊
+* ʝ͍̆
+* ʝ͍̄
+* ʝ͍̽
+* ʝ͍̀
+* ʝ͍̂
+* ʝ͍͋
+* ʝ͍̇
+* ʝ͍͌
+* ʝ͍̈
+* ʝ͍́
+* ʝ͍̅
+* ʝ͍̋
+* ʝ͍̏
+* ʝ͍͆
+* ʝ͍̊
+* ʝ͍̃
+* ʝ͍̌
+* ʝ͍͊
+* ʝ̤̆
+* ʝ̤̄
+* ʝ̤̽
+* ʝ̤̀
+* ʝ̤̂
+* ʝ̤͋
+* ʝ̤̇
+* ʝ̤͌
+* ʝ̤̈
+* ʝ̤́
+* ʝ̤̅
+* ʝ̤̋
+* ʝ̤̏
+* ʝ̤͆
+* ʝ̤̊
+* ʝ̤̃
+* ʝ̤̌
+* ʝ̤͊
+* ʝ̻̆
+* ʝ̻̄
+* ʝ̻̽
+* ʝ̻̀
+* ʝ̻̂
+* ʝ̻͋
+* ʝ̻̇
+* ʝ̻͌
+* ʝ̻̈
+* ʝ̻́
+* ʝ̻̅
+* ʝ̻̋
+* ʝ̻̏
+* ʝ̻͆
+* ʝ̻̊
+* ʝ̻̃
+* ʝ̻̌
+* ʝ̻͊
+* ʝ͈̆
+* ʝ͈̄
+* ʝ͈̽
+* ʝ͈̀
+* ʝ͈̂
+* ʝ͈͋
+* ʝ͈̇
+* ʝ͈͌
+* ʝ͈̈
+* ʝ͈́
+* ʝ͈̅
+* ʝ͈̋
+* ʝ͈̏
+* ʝ͈͆
+* ʝ͈̊
+* ʝ͈̃
+* ʝ͈̌
+* ʝ͈͊
+* ʝ̬̆
+* ʝ̬̄
+* ʝ̬̽
+* ʝ̬̀
+* ʝ̬̂
+* ʝ̬͋
+* ʝ̬̇
+* ʝ̬͌
+* ʝ̬̈
+* ʝ̬́
+* ʝ̬̅
+* ʝ̬̋
+* ʝ̬̏
+* ʝ̬͆
+* ʝ̬̊
+* ʝ̬̃
+* ʝ̬̌
+* ʝ̬͊
+* ʝ͎̆
+* ʝ͎̄
+* ʝ͎̽
+* ʝ͎̀
+* ʝ͎̂
+* ʝ͎͋
+* ʝ͎̇
+* ʝ͎͌
+* ʝ͎̈
+* ʝ͎́
+* ʝ͎̅
+* ʝ͎̋
+* ʝ͎̏
+* ʝ͎͆
+* ʝ͎̊
+* ʝ͎̃
+* ʝ͎̌
+* ʝ͎͊
+* ʝ̹̆
+* ʝ̹̄
+* ʝ̹̽
+* ʝ̹̀
+* ʝ̹̂
+* ʝ̹͋
+* ʝ̹̇
+* ʝ̹͌
+* ʝ̹̈
+* ʝ̹́
+* ʝ̹̅
+* ʝ̹̋
+* ʝ̹̏
+* ʝ̹͆
+* ʝ̹̊
+* ʝ̹̃
+* ʝ̹̌
+* ʝ̹͊
 * ʝ̆
-* ʝ͌
-* ʝ̌
-* ʝ̊
 * ʝ̄
-* ʝ́
-* ʝ͆
+* ʝ̽
+* ʝ̀
+* ʝ̂
+* ʝ͋
 * ʝ̇
+* ʝ͌
+* ʝ̈
+* ʝ́
+* ʝ̅
+* ʝ̋
+* ʝ̏
+* ʝ͆
+* ʝ̊
 * ʝ̃
-* ⁱ̩̏
-* ⁱ̩̋
-* ⁱ̩͊
-* ⁱ̩̀
-* ⁱ̩̽
-* ⁱ̩͋
-* ⁱ̩̂
-* ⁱ̩̈
-* ⁱ̩̅
-* ⁱ̩̆
-* ⁱ̩͌
-* ⁱ̩̌
-* ⁱ̩̊
-* ⁱ̩̄
-* ⁱ̩́
-* ⁱ̩͆
-* ⁱ̩̇
-* ⁱ̩̃
-* ⁱ̝̏
-* ⁱ̝̋
-* ⁱ̝͊
-* ⁱ̝̀
-* ⁱ̝̽
-* ⁱ̝͋
-* ⁱ̝̂
-* ⁱ̝̈
-* ⁱ̝̅
-* ⁱ̝̆
-* ⁱ̝͌
-* ⁱ̝̌
-* ⁱ̝̊
-* ⁱ̝̄
-* ⁱ̝́
-* ⁱ̝͆
-* ⁱ̝̇
-* ⁱ̝̃
-* ⁱ͇̏
-* ⁱ͇̋
-* ⁱ͇͊
-* ⁱ͇̀
-* ⁱ͇̽
-* ⁱ͇͋
-* ⁱ͇̂
-* ⁱ͇̈
-* ⁱ͇̅
+* ʝ̌
+* ʝ͊
 * ⁱ͇̆
-* ⁱ͇͌
-* ⁱ͇̌
-* ⁱ͇̊
 * ⁱ͇̄
-* ⁱ͇́
-* ⁱ͇͆
+* ⁱ͇̽
+* ⁱ͇̀
+* ⁱ͇̂
+* ⁱ͇͋
 * ⁱ͇̇
+* ⁱ͇͌
+* ⁱ͇̈
+* ⁱ͇́
+* ⁱ͇̅
+* ⁱ͇̋
+* ⁱ͇̏
+* ⁱ͇͆
+* ⁱ͇̊
 * ⁱ͇̃
-* ⁱ̬̏
-* ⁱ̬̋
-* ⁱ̬͊
-* ⁱ̬̀
-* ⁱ̬̽
-* ⁱ̬͋
-* ⁱ̬̂
-* ⁱ̬̈
-* ⁱ̬̅
-* ⁱ̬̆
-* ⁱ̬͌
-* ⁱ̬̌
-* ⁱ̬̊
-* ⁱ̬̄
-* ⁱ̬́
-* ⁱ̬͆
-* ⁱ̬̇
-* ⁱ̬̃
-* ⁱ̴̏
-* ⁱ̴̋
-* ⁱ̴͊
-* ⁱ̴̀
-* ⁱ̴̽
-* ⁱ̴͋
-* ⁱ̴̂
-* ⁱ̴̈
-* ⁱ̴̅
-* ⁱ̴̆
-* ⁱ̴͌
-* ⁱ̴̌
-* ⁱ̴̊
-* ⁱ̴̄
-* ⁱ̴́
-* ⁱ̴͆
-* ⁱ̴̇
-* ⁱ̴̃
-* ⁱ̘̏
-* ⁱ̘̋
-* ⁱ̘͊
-* ⁱ̘̀
-* ⁱ̘̽
-* ⁱ̘͋
-* ⁱ̘̂
-* ⁱ̘̈
-* ⁱ̘̅
-* ⁱ̘̆
-* ⁱ̘͌
-* ⁱ̘̌
-* ⁱ̘̊
-* ⁱ̘̄
-* ⁱ̘́
-* ⁱ̘͆
-* ⁱ̘̇
-* ⁱ̘̃
-* ⁱ͍̏
-* ⁱ͍̋
-* ⁱ͍͊
-* ⁱ͍̀
-* ⁱ͍̽
-* ⁱ͍͋
-* ⁱ͍̂
-* ⁱ͍̈
-* ⁱ͍̅
-* ⁱ͍̆
-* ⁱ͍͌
-* ⁱ͍̌
-* ⁱ͍̊
-* ⁱ͍̄
-* ⁱ͍́
-* ⁱ͍͆
-* ⁱ͍̇
-* ⁱ͍̃
-* ⁱ̠̏
-* ⁱ̠̋
-* ⁱ̠͊
-* ⁱ̠̀
-* ⁱ̠̽
-* ⁱ̠͋
-* ⁱ̠̂
-* ⁱ̠̈
-* ⁱ̠̅
-* ⁱ̠̆
-* ⁱ̠͌
-* ⁱ̠̌
-* ⁱ̠̊
-* ⁱ̠̄
-* ⁱ̠́
-* ⁱ̠͆
-* ⁱ̠̇
-* ⁱ̠̃
-* ⁱ̜̏
-* ⁱ̜̋
-* ⁱ̜͊
-* ⁱ̜̀
-* ⁱ̜̽
-* ⁱ̜͋
-* ⁱ̜̂
-* ⁱ̜̈
-* ⁱ̜̅
-* ⁱ̜̆
-* ⁱ̜͌
-* ⁱ̜̌
-* ⁱ̜̊
-* ⁱ̜̄
-* ⁱ̜́
-* ⁱ̜͆
-* ⁱ̜̇
-* ⁱ̜̃
-* ⁱ̻̏
-* ⁱ̻̋
-* ⁱ̻͊
-* ⁱ̻̀
-* ⁱ̻̽
-* ⁱ̻͋
-* ⁱ̻̂
-* ⁱ̻̈
-* ⁱ̻̅
-* ⁱ̻̆
-* ⁱ̻͌
-* ⁱ̻̌
-* ⁱ̻̊
-* ⁱ̻̄
-* ⁱ̻́
-* ⁱ̻͆
-* ⁱ̻̇
-* ⁱ̻̃
-* ⁱ̲̏
-* ⁱ̲̋
-* ⁱ̲͊
-* ⁱ̲̀
-* ⁱ̲̽
-* ⁱ̲͋
-* ⁱ̲̂
-* ⁱ̲̈
-* ⁱ̲̅
-* ⁱ̲̆
-* ⁱ̲͌
-* ⁱ̲̌
-* ⁱ̲̊
-* ⁱ̲̄
-* ⁱ̲́
-* ⁱ̲͆
-* ⁱ̲̇
-* ⁱ̲̃
-* ⁱ̤̏
-* ⁱ̤̋
-* ⁱ̤͊
-* ⁱ̤̀
-* ⁱ̤̽
-* ⁱ̤͋
-* ⁱ̤̂
-* ⁱ̤̈
-* ⁱ̤̅
-* ⁱ̤̆
-* ⁱ̤͌
-* ⁱ̤̌
-* ⁱ̤̊
-* ⁱ̤̄
-* ⁱ̤́
-* ⁱ̤͆
-* ⁱ̤̇
-* ⁱ̤̃
-* ⁱ̼̏
-* ⁱ̼̋
-* ⁱ̼͊
-* ⁱ̼̀
-* ⁱ̼̽
-* ⁱ̼͋
-* ⁱ̼̂
-* ⁱ̼̈
-* ⁱ̼̅
-* ⁱ̼̆
-* ⁱ̼͌
-* ⁱ̼̌
-* ⁱ̼̊
-* ⁱ̼̄
-* ⁱ̼́
-* ⁱ̼͆
-* ⁱ̼̇
-* ⁱ̼̃
-* ⁱ̧̏
-* ⁱ̧̋
-* ⁱ̧͊
-* ⁱ̧̀
-* ⁱ̧̽
-* ⁱ̧͋
-* ⁱ̧̂
-* ⁱ̧̈
-* ⁱ̧̅
-* ⁱ̧̆
-* ⁱ̧͌
-* ⁱ̧̌
-* ⁱ̧̊
-* ⁱ̧̄
-* ⁱ̧́
-* ⁱ̧͆
-* ⁱ̧̇
-* ⁱ̧̃
-* ⁱ̞̏
-* ⁱ̞̋
-* ⁱ̞͊
-* ⁱ̞̀
-* ⁱ̞̽
-* ⁱ̞͋
-* ⁱ̞̂
-* ⁱ̞̈
-* ⁱ̞̅
-* ⁱ̞̆
-* ⁱ̞͌
-* ⁱ̞̌
-* ⁱ̞̊
-* ⁱ̞̄
-* ⁱ̞́
-* ⁱ̞͆
-* ⁱ̞̇
-* ⁱ̞̃
-* ⁱ̹̏
-* ⁱ̹̋
-* ⁱ̹͊
-* ⁱ̹̀
-* ⁱ̹̽
-* ⁱ̹͋
-* ⁱ̹̂
-* ⁱ̹̈
-* ⁱ̹̅
-* ⁱ̹̆
-* ⁱ̹͌
-* ⁱ̹̌
-* ⁱ̹̊
-* ⁱ̹̄
-* ⁱ̹́
-* ⁱ̹͆
-* ⁱ̹̇
-* ⁱ̹̃
-* ⁱ̺̏
-* ⁱ̺̋
-* ⁱ̺͊
-* ⁱ̺̀
-* ⁱ̺̽
-* ⁱ̺͋
-* ⁱ̺̂
-* ⁱ̺̈
-* ⁱ̺̅
-* ⁱ̺̆
-* ⁱ̺͌
-* ⁱ̺̌
-* ⁱ̺̊
-* ⁱ̺̄
-* ⁱ̺́
-* ⁱ̺͆
-* ⁱ̺̇
-* ⁱ̺̃
-* ⁱ̟̏
-* ⁱ̟̋
-* ⁱ̟͊
-* ⁱ̟̀
-* ⁱ̟̽
-* ⁱ̟͋
-* ⁱ̟̂
-* ⁱ̟̈
-* ⁱ̟̅
-* ⁱ̟̆
-* ⁱ̟͌
-* ⁱ̟̌
-* ⁱ̟̊
-* ⁱ̟̄
-* ⁱ̟́
-* ⁱ̟͆
-* ⁱ̟̇
-* ⁱ̟̃
-* ⁱ̪̏
-* ⁱ̪̋
-* ⁱ̪͊
-* ⁱ̪̀
-* ⁱ̪̽
-* ⁱ̪͋
-* ⁱ̪̂
-* ⁱ̪̈
-* ⁱ̪̅
-* ⁱ̪̆
-* ⁱ̪͌
-* ⁱ̪̌
-* ⁱ̪̊
-* ⁱ̪̄
-* ⁱ̪́
-* ⁱ̪͆
-* ⁱ̪̇
-* ⁱ̪̃
-* ⁱ͎̏
-* ⁱ͎̋
-* ⁱ͎͊
-* ⁱ͎̀
-* ⁱ͎̽
-* ⁱ͎͋
-* ⁱ͎̂
-* ⁱ͎̈
-* ⁱ͎̅
-* ⁱ͎̆
-* ⁱ͎͌
-* ⁱ͎̌
-* ⁱ͎̊
-* ⁱ͎̄
-* ⁱ͎́
-* ⁱ͎͆
-* ⁱ͎̇
-* ⁱ͎̃
-* ⁱ̥̏
-* ⁱ̥̋
-* ⁱ̥͊
-* ⁱ̥̀
-* ⁱ̥̽
-* ⁱ̥͋
-* ⁱ̥̂
-* ⁱ̥̈
-* ⁱ̥̅
+* ⁱ͇̌
+* ⁱ͇͊
 * ⁱ̥̆
-* ⁱ̥͌
-* ⁱ̥̌
-* ⁱ̥̊
 * ⁱ̥̄
-* ⁱ̥́
-* ⁱ̥͆
+* ⁱ̥̽
+* ⁱ̥̀
+* ⁱ̥̂
+* ⁱ̥͋
 * ⁱ̥̇
+* ⁱ̥͌
+* ⁱ̥̈
+* ⁱ̥́
+* ⁱ̥̅
+* ⁱ̥̋
+* ⁱ̥̏
+* ⁱ̥͆
+* ⁱ̥̊
 * ⁱ̥̃
-* ⁱ̰̏
-* ⁱ̰̋
-* ⁱ̰͊
-* ⁱ̰̀
-* ⁱ̰̽
-* ⁱ̰͋
-* ⁱ̰̂
-* ⁱ̰̈
-* ⁱ̰̅
+* ⁱ̥̌
+* ⁱ̥͊
+* ⁱ̪̆
+* ⁱ̪̄
+* ⁱ̪̽
+* ⁱ̪̀
+* ⁱ̪̂
+* ⁱ̪͋
+* ⁱ̪̇
+* ⁱ̪͌
+* ⁱ̪̈
+* ⁱ̪́
+* ⁱ̪̅
+* ⁱ̪̋
+* ⁱ̪̏
+* ⁱ̪͆
+* ⁱ̪̊
+* ⁱ̪̃
+* ⁱ̪̌
+* ⁱ̪͊
+* ⁱ̧̆
+* ⁱ̧̄
+* ⁱ̧̽
+* ⁱ̧̀
+* ⁱ̧̂
+* ⁱ̧͋
+* ⁱ̧̇
+* ⁱ̧͌
+* ⁱ̧̈
+* ⁱ̧́
+* ⁱ̧̅
+* ⁱ̧̋
+* ⁱ̧̏
+* ⁱ̧͆
+* ⁱ̧̊
+* ⁱ̧̃
+* ⁱ̧̌
+* ⁱ̧͊
 * ⁱ̰̆
-* ⁱ̰͌
-* ⁱ̰̌
-* ⁱ̰̊
 * ⁱ̰̄
-* ⁱ̰́
-* ⁱ̰͆
+* ⁱ̰̽
+* ⁱ̰̀
+* ⁱ̰̂
+* ⁱ̰͋
 * ⁱ̰̇
+* ⁱ̰͌
+* ⁱ̰̈
+* ⁱ̰́
+* ⁱ̰̅
+* ⁱ̰̋
+* ⁱ̰̏
+* ⁱ̰͆
+* ⁱ̰̊
 * ⁱ̰̃
-* ⁱ͈̏
-* ⁱ͈̋
-* ⁱ͈͊
-* ⁱ͈̀
-* ⁱ͈̽
-* ⁱ͈͋
-* ⁱ͈̂
-* ⁱ͈̈
-* ⁱ͈̅
-* ⁱ͈̆
-* ⁱ͈͌
-* ⁱ͈̌
-* ⁱ͈̊
-* ⁱ͈̄
-* ⁱ͈́
-* ⁱ͈͆
-* ⁱ͈̇
-* ⁱ͈̃
-* ⁱ̦̏
-* ⁱ̦̋
-* ⁱ̦͊
-* ⁱ̦̀
-* ⁱ̦̽
-* ⁱ̦͋
-* ⁱ̦̂
-* ⁱ̦̈
-* ⁱ̦̅
-* ⁱ̦̆
-* ⁱ̦͌
-* ⁱ̦̌
-* ⁱ̦̊
-* ⁱ̦̄
-* ⁱ̦́
-* ⁱ̦͆
-* ⁱ̦̇
-* ⁱ̦̃
-* ⁱ̨̏
-* ⁱ̨̋
-* ⁱ̨͊
-* ⁱ̨̀
-* ⁱ̨̽
-* ⁱ̨͋
-* ⁱ̨̂
-* ⁱ̨̈
-* ⁱ̨̅
-* ⁱ̨̆
-* ⁱ̨͌
-* ⁱ̨̌
-* ⁱ̨̊
-* ⁱ̨̄
-* ⁱ̨́
-* ⁱ̨͆
-* ⁱ̨̇
-* ⁱ̨̃
-* ⁱ͉̏
-* ⁱ͉̋
-* ⁱ͉͊
-* ⁱ͉̀
-* ⁱ͉̽
-* ⁱ͉͋
-* ⁱ͉̂
-* ⁱ͉̈
-* ⁱ͉̅
+* ⁱ̰̌
+* ⁱ̰͊
+* ⁱ̜̆
+* ⁱ̜̄
+* ⁱ̜̽
+* ⁱ̜̀
+* ⁱ̜̂
+* ⁱ̜͋
+* ⁱ̜̇
+* ⁱ̜͌
+* ⁱ̜̈
+* ⁱ̜́
+* ⁱ̜̅
+* ⁱ̜̋
+* ⁱ̜̏
+* ⁱ̜͆
+* ⁱ̜̊
+* ⁱ̜̃
+* ⁱ̜̌
+* ⁱ̜͊
+* ⁱ̲̆
+* ⁱ̲̄
+* ⁱ̲̽
+* ⁱ̲̀
+* ⁱ̲̂
+* ⁱ̲͋
+* ⁱ̲̇
+* ⁱ̲͌
+* ⁱ̲̈
+* ⁱ̲́
+* ⁱ̲̅
+* ⁱ̲̋
+* ⁱ̲̏
+* ⁱ̲͆
+* ⁱ̲̊
+* ⁱ̲̃
+* ⁱ̲̌
+* ⁱ̲͊
+* ⁱ̩̆
+* ⁱ̩̄
+* ⁱ̩̽
+* ⁱ̩̀
+* ⁱ̩̂
+* ⁱ̩͋
+* ⁱ̩̇
+* ⁱ̩͌
+* ⁱ̩̈
+* ⁱ̩́
+* ⁱ̩̅
+* ⁱ̩̋
+* ⁱ̩̏
+* ⁱ̩͆
+* ⁱ̩̊
+* ⁱ̩̃
+* ⁱ̩̌
+* ⁱ̩͊
+* ⁱ̝̆
+* ⁱ̝̄
+* ⁱ̝̽
+* ⁱ̝̀
+* ⁱ̝̂
+* ⁱ̝͋
+* ⁱ̝̇
+* ⁱ̝͌
+* ⁱ̝̈
+* ⁱ̝́
+* ⁱ̝̅
+* ⁱ̝̋
+* ⁱ̝̏
+* ⁱ̝͆
+* ⁱ̝̊
+* ⁱ̝̃
+* ⁱ̝̌
+* ⁱ̝͊
 * ⁱ͉̆
-* ⁱ͉͌
-* ⁱ͉̌
-* ⁱ͉̊
 * ⁱ͉̄
-* ⁱ͉́
-* ⁱ͉͆
+* ⁱ͉̽
+* ⁱ͉̀
+* ⁱ͉̂
+* ⁱ͉͋
 * ⁱ͉̇
+* ⁱ͉͌
+* ⁱ͉̈
+* ⁱ͉́
+* ⁱ͉̅
+* ⁱ͉̋
+* ⁱ͉̏
+* ⁱ͉͆
+* ⁱ͉̊
 * ⁱ͉̃
-* ⁱ̙̏
-* ⁱ̙̋
-* ⁱ̙͊
-* ⁱ̙̀
-* ⁱ̙̽
-* ⁱ̙͋
-* ⁱ̙̂
-* ⁱ̙̈
-* ⁱ̙̅
+* ⁱ͉̌
+* ⁱ͉͊
+* ⁱ̦̆
+* ⁱ̦̄
+* ⁱ̦̽
+* ⁱ̦̀
+* ⁱ̦̂
+* ⁱ̦͋
+* ⁱ̦̇
+* ⁱ̦͌
+* ⁱ̦̈
+* ⁱ̦́
+* ⁱ̦̅
+* ⁱ̦̋
+* ⁱ̦̏
+* ⁱ̦͆
+* ⁱ̦̊
+* ⁱ̦̃
+* ⁱ̦̌
+* ⁱ̦͊
+* ⁱ̞̆
+* ⁱ̞̄
+* ⁱ̞̽
+* ⁱ̞̀
+* ⁱ̞̂
+* ⁱ̞͋
+* ⁱ̞̇
+* ⁱ̞͌
+* ⁱ̞̈
+* ⁱ̞́
+* ⁱ̞̅
+* ⁱ̞̋
+* ⁱ̞̏
+* ⁱ̞͆
+* ⁱ̞̊
+* ⁱ̞̃
+* ⁱ̞̌
+* ⁱ̞͊
+* ⁱ̨̆
+* ⁱ̨̄
+* ⁱ̨̽
+* ⁱ̨̀
+* ⁱ̨̂
+* ⁱ̨͋
+* ⁱ̨̇
+* ⁱ̨͌
+* ⁱ̨̈
+* ⁱ̨́
+* ⁱ̨̅
+* ⁱ̨̋
+* ⁱ̨̏
+* ⁱ̨͆
+* ⁱ̨̊
+* ⁱ̨̃
+* ⁱ̨̌
+* ⁱ̨͊
+* ⁱ̴̆
+* ⁱ̴̄
+* ⁱ̴̽
+* ⁱ̴̀
+* ⁱ̴̂
+* ⁱ̴͋
+* ⁱ̴̇
+* ⁱ̴͌
+* ⁱ̴̈
+* ⁱ̴́
+* ⁱ̴̅
+* ⁱ̴̋
+* ⁱ̴̏
+* ⁱ̴͆
+* ⁱ̴̊
+* ⁱ̴̃
+* ⁱ̴̌
+* ⁱ̴͊
+* ⁱ̟̆
+* ⁱ̟̄
+* ⁱ̟̽
+* ⁱ̟̀
+* ⁱ̟̂
+* ⁱ̟͋
+* ⁱ̟̇
+* ⁱ̟͌
+* ⁱ̟̈
+* ⁱ̟́
+* ⁱ̟̅
+* ⁱ̟̋
+* ⁱ̟̏
+* ⁱ̟͆
+* ⁱ̟̊
+* ⁱ̟̃
+* ⁱ̟̌
+* ⁱ̟͊
+* ⁱ̘̆
+* ⁱ̘̄
+* ⁱ̘̽
+* ⁱ̘̀
+* ⁱ̘̂
+* ⁱ̘͋
+* ⁱ̘̇
+* ⁱ̘͌
+* ⁱ̘̈
+* ⁱ̘́
+* ⁱ̘̅
+* ⁱ̘̋
+* ⁱ̘̏
+* ⁱ̘͆
+* ⁱ̘̊
+* ⁱ̘̃
+* ⁱ̘̌
+* ⁱ̘͊
+* ⁱ̠̆
+* ⁱ̠̄
+* ⁱ̠̽
+* ⁱ̠̀
+* ⁱ̠̂
+* ⁱ̠͋
+* ⁱ̠̇
+* ⁱ̠͌
+* ⁱ̠̈
+* ⁱ̠́
+* ⁱ̠̅
+* ⁱ̠̋
+* ⁱ̠̏
+* ⁱ̠͆
+* ⁱ̠̊
+* ⁱ̠̃
+* ⁱ̠̌
+* ⁱ̠͊
 * ⁱ̙̆
-* ⁱ̙͌
-* ⁱ̙̌
-* ⁱ̙̊
 * ⁱ̙̄
-* ⁱ̙́
-* ⁱ̙͆
+* ⁱ̙̽
+* ⁱ̙̀
+* ⁱ̙̂
+* ⁱ̙͋
 * ⁱ̙̇
+* ⁱ̙͌
+* ⁱ̙̈
+* ⁱ̙́
+* ⁱ̙̅
+* ⁱ̙̋
+* ⁱ̙̏
+* ⁱ̙͆
+* ⁱ̙̊
 * ⁱ̙̃
-* ⁱ̏
-* ⁱ̋
-* ⁱ͊
-* ⁱ̀
-* ⁱ̽
-* ⁱ͋
-* ⁱ̂
-* ⁱ̈
-* ⁱ̅
+* ⁱ̙̌
+* ⁱ̙͊
+* ⁱ̺̆
+* ⁱ̺̄
+* ⁱ̺̽
+* ⁱ̺̀
+* ⁱ̺̂
+* ⁱ̺͋
+* ⁱ̺̇
+* ⁱ̺͌
+* ⁱ̺̈
+* ⁱ̺́
+* ⁱ̺̅
+* ⁱ̺̋
+* ⁱ̺̏
+* ⁱ̺͆
+* ⁱ̺̊
+* ⁱ̺̃
+* ⁱ̺̌
+* ⁱ̺͊
+* ⁱ̼̆
+* ⁱ̼̄
+* ⁱ̼̽
+* ⁱ̼̀
+* ⁱ̼̂
+* ⁱ̼͋
+* ⁱ̼̇
+* ⁱ̼͌
+* ⁱ̼̈
+* ⁱ̼́
+* ⁱ̼̅
+* ⁱ̼̋
+* ⁱ̼̏
+* ⁱ̼͆
+* ⁱ̼̊
+* ⁱ̼̃
+* ⁱ̼̌
+* ⁱ̼͊
+* ⁱ͍̆
+* ⁱ͍̄
+* ⁱ͍̽
+* ⁱ͍̀
+* ⁱ͍̂
+* ⁱ͍͋
+* ⁱ͍̇
+* ⁱ͍͌
+* ⁱ͍̈
+* ⁱ͍́
+* ⁱ͍̅
+* ⁱ͍̋
+* ⁱ͍̏
+* ⁱ͍͆
+* ⁱ͍̊
+* ⁱ͍̃
+* ⁱ͍̌
+* ⁱ͍͊
+* ⁱ̤̆
+* ⁱ̤̄
+* ⁱ̤̽
+* ⁱ̤̀
+* ⁱ̤̂
+* ⁱ̤͋
+* ⁱ̤̇
+* ⁱ̤͌
+* ⁱ̤̈
+* ⁱ̤́
+* ⁱ̤̅
+* ⁱ̤̋
+* ⁱ̤̏
+* ⁱ̤͆
+* ⁱ̤̊
+* ⁱ̤̃
+* ⁱ̤̌
+* ⁱ̤͊
+* ⁱ̻̆
+* ⁱ̻̄
+* ⁱ̻̽
+* ⁱ̻̀
+* ⁱ̻̂
+* ⁱ̻͋
+* ⁱ̻̇
+* ⁱ̻͌
+* ⁱ̻̈
+* ⁱ̻́
+* ⁱ̻̅
+* ⁱ̻̋
+* ⁱ̻̏
+* ⁱ̻͆
+* ⁱ̻̊
+* ⁱ̻̃
+* ⁱ̻̌
+* ⁱ̻͊
+* ⁱ͈̆
+* ⁱ͈̄
+* ⁱ͈̽
+* ⁱ͈̀
+* ⁱ͈̂
+* ⁱ͈͋
+* ⁱ͈̇
+* ⁱ͈͌
+* ⁱ͈̈
+* ⁱ͈́
+* ⁱ͈̅
+* ⁱ͈̋
+* ⁱ͈̏
+* ⁱ͈͆
+* ⁱ͈̊
+* ⁱ͈̃
+* ⁱ͈̌
+* ⁱ͈͊
+* ⁱ̬̆
+* ⁱ̬̄
+* ⁱ̬̽
+* ⁱ̬̀
+* ⁱ̬̂
+* ⁱ̬͋
+* ⁱ̬̇
+* ⁱ̬͌
+* ⁱ̬̈
+* ⁱ̬́
+* ⁱ̬̅
+* ⁱ̬̋
+* ⁱ̬̏
+* ⁱ̬͆
+* ⁱ̬̊
+* ⁱ̬̃
+* ⁱ̬̌
+* ⁱ̬͊
+* ⁱ͎̆
+* ⁱ͎̄
+* ⁱ͎̽
+* ⁱ͎̀
+* ⁱ͎̂
+* ⁱ͎͋
+* ⁱ͎̇
+* ⁱ͎͌
+* ⁱ͎̈
+* ⁱ͎́
+* ⁱ͎̅
+* ⁱ͎̋
+* ⁱ͎̏
+* ⁱ͎͆
+* ⁱ͎̊
+* ⁱ͎̃
+* ⁱ͎̌
+* ⁱ͎͊
+* ⁱ̹̆
+* ⁱ̹̄
+* ⁱ̹̽
+* ⁱ̹̀
+* ⁱ̹̂
+* ⁱ̹͋
+* ⁱ̹̇
+* ⁱ̹͌
+* ⁱ̹̈
+* ⁱ̹́
+* ⁱ̹̅
+* ⁱ̹̋
+* ⁱ̹̏
+* ⁱ̹͆
+* ⁱ̹̊
+* ⁱ̹̃
+* ⁱ̹̌
+* ⁱ̹͊
 * ⁱ̆
-* ⁱ͌
-* ⁱ̌
-* ⁱ̊
 * ⁱ̄
-* ⁱ́
-* ⁱ͆
+* ⁱ̽
+* ⁱ̀
+* ⁱ̂
+* ⁱ͋
 * ⁱ̇
+* ⁱ͌
+* ⁱ̈
+* ⁱ́
+* ⁱ̅
+* ⁱ̋
+* ⁱ̏
+* ⁱ͆
+* ⁱ̊
 * ⁱ̃
-* ɨ̩̏
-* ɨ̩̋
-* ɨ̩͊
-* ɨ̩̀
-* ɨ̩̽
-* ɨ̩͋
-* ɨ̩̂
-* ɨ̩̈
-* ɨ̩̅
-* ɨ̩̆
-* ɨ̩͌
-* ɨ̩̌
-* ɨ̩̊
-* ɨ̩̄
-* ɨ̩́
-* ɨ̩͆
-* ɨ̩̇
-* ɨ̩̃
-* ɨ̝̏
-* ɨ̝̋
-* ɨ̝͊
-* ɨ̝̀
-* ɨ̝̽
-* ɨ̝͋
-* ɨ̝̂
-* ɨ̝̈
-* ɨ̝̅
-* ɨ̝̆
-* ɨ̝͌
-* ɨ̝̌
-* ɨ̝̊
-* ɨ̝̄
-* ɨ̝́
-* ɨ̝͆
-* ɨ̝̇
-* ɨ̝̃
-* ɨ͇̏
-* ɨ͇̋
-* ɨ͇͊
-* ɨ͇̀
-* ɨ͇̽
-* ɨ͇͋
-* ɨ͇̂
-* ɨ͇̈
-* ɨ͇̅
-* ɨ͇̆
-* ɨ͇͌
-* ɨ͇̌
-* ɨ͇̊
-* ɨ͇̄
-* ɨ͇́
-* ɨ͇͆
-* ɨ͇̇
-* ɨ͇̃
-* ɨ̬̏
-* ɨ̬̋
-* ɨ̬͊
-* ɨ̬̀
-* ɨ̬̽
-* ɨ̬͋
-* ɨ̬̂
-* ɨ̬̈
-* ɨ̬̅
-* ɨ̬̆
-* ɨ̬͌
-* ɨ̬̌
-* ɨ̬̊
-* ɨ̬̄
-* ɨ̬́
-* ɨ̬͆
-* ɨ̬̇
-* ɨ̬̃
-* ɨ̴̏
-* ɨ̴̋
-* ɨ̴͊
-* ɨ̴̀
-* ɨ̴̽
-* ɨ̴͋
-* ɨ̴̂
-* ɨ̴̈
-* ɨ̴̅
-* ɨ̴̆
-* ɨ̴͌
-* ɨ̴̌
-* ɨ̴̊
-* ɨ̴̄
-* ɨ̴́
-* ɨ̴͆
-* ɨ̴̇
-* ɨ̴̃
-* ɨ̘̏
-* ɨ̘̋
-* ɨ̘͊
-* ɨ̘̀
-* ɨ̘̽
-* ɨ̘͋
-* ɨ̘̂
-* ɨ̘̈
-* ɨ̘̅
-* ɨ̘̆
-* ɨ̘͌
-* ɨ̘̌
-* ɨ̘̊
-* ɨ̘̄
-* ɨ̘́
-* ɨ̘͆
-* ɨ̘̇
-* ɨ̘̃
-* ɨ͍̏
-* ɨ͍̋
-* ɨ͍͊
-* ɨ͍̀
-* ɨ͍̽
-* ɨ͍͋
-* ɨ͍̂
-* ɨ͍̈
-* ɨ͍̅
-* ɨ͍̆
-* ɨ͍͌
-* ɨ͍̌
-* ɨ͍̊
-* ɨ͍̄
-* ɨ͍́
-* ɨ͍͆
-* ɨ͍̇
-* ɨ͍̃
-* ɨ̠̏
-* ɨ̠̋
-* ɨ̠͊
-* ɨ̠̀
-* ɨ̠̽
-* ɨ̠͋
-* ɨ̠̂
-* ɨ̠̈
-* ɨ̠̅
-* ɨ̠̆
-* ɨ̠͌
-* ɨ̠̌
-* ɨ̠̊
-* ɨ̠̄
-* ɨ̠́
-* ɨ̠͆
-* ɨ̠̇
-* ɨ̠̃
-* ɨ̜̏
-* ɨ̜̋
-* ɨ̜͊
-* ɨ̜̀
-* ɨ̜̽
-* ɨ̜͋
-* ɨ̜̂
-* ɨ̜̈
-* ɨ̜̅
-* ɨ̜̆
-* ɨ̜͌
-* ɨ̜̌
-* ɨ̜̊
-* ɨ̜̄
-* ɨ̜́
-* ɨ̜͆
-* ɨ̜̇
-* ɨ̜̃
-* ɨ̻̏
-* ɨ̻̋
-* ɨ̻͊
-* ɨ̻̀
-* ɨ̻̽
-* ɨ̻͋
-* ɨ̻̂
-* ɨ̻̈
-* ɨ̻̅
-* ɨ̻̆
-* ɨ̻͌
-* ɨ̻̌
-* ɨ̻̊
-* ɨ̻̄
-* ɨ̻́
-* ɨ̻͆
-* ɨ̻̇
-* ɨ̻̃
-* ɨ̲̏
-* ɨ̲̋
-* ɨ̲͊
-* ɨ̲̀
-* ɨ̲̽
-* ɨ̲͋
-* ɨ̲̂
-* ɨ̲̈
-* ɨ̲̅
-* ɨ̲̆
-* ɨ̲͌
-* ɨ̲̌
-* ɨ̲̊
-* ɨ̲̄
-* ɨ̲́
-* ɨ̲͆
-* ɨ̲̇
-* ɨ̲̃
-* ɨ̤̏
-* ɨ̤̋
-* ɨ̤͊
-* ɨ̤̀
-* ɨ̤̽
-* ɨ̤͋
-* ɨ̤̂
-* ɨ̤̈
-* ɨ̤̅
-* ɨ̤̆
-* ɨ̤͌
-* ɨ̤̌
-* ɨ̤̊
-* ɨ̤̄
-* ɨ̤́
-* ɨ̤͆
-* ɨ̤̇
-* ɨ̤̃
-* ɨ̼̏
-* ɨ̼̋
-* ɨ̼͊
-* ɨ̼̀
-* ɨ̼̽
-* ɨ̼͋
-* ɨ̼̂
-* ɨ̼̈
-* ɨ̼̅
-* ɨ̼̆
-* ɨ̼͌
-* ɨ̼̌
-* ɨ̼̊
-* ɨ̼̄
-* ɨ̼́
-* ɨ̼͆
-* ɨ̼̇
-* ɨ̼̃
-* ɨ̧̏
-* ɨ̧̋
-* ɨ̧͊
-* ɨ̧̽
-* ɨ̧͋
-* ɨ̧̈
-* ɨ̧̅
-* ɨ̧̆
-* ɨ̧͌
-* ɨ̧̊
-* ɨ̧̄
-* ɨ̧͆
-* ɨ̧̇
-* ɨ̧̃
-* ɨ̞̏
-* ɨ̞̋
-* ɨ̞͊
-* ɨ̞̀
-* ɨ̞̽
-* ɨ̞͋
-* ɨ̞̂
-* ɨ̞̈
-* ɨ̞̅
-* ɨ̞̆
-* ɨ̞͌
-* ɨ̞̌
-* ɨ̞̊
-* ɨ̞̄
-* ɨ̞́
-* ɨ̞͆
-* ɨ̞̇
-* ɨ̞̃
-* ɨ̹̏
-* ɨ̹̋
-* ɨ̹͊
-* ɨ̹̀
-* ɨ̹̽
-* ɨ̹͋
-* ɨ̹̂
-* ɨ̹̈
-* ɨ̹̅
-* ɨ̹̆
-* ɨ̹͌
-* ɨ̹̌
-* ɨ̹̊
-* ɨ̹̄
-* ɨ̹́
-* ɨ̹͆
-* ɨ̹̇
-* ɨ̹̃
-* ɨ̺̏
-* ɨ̺̋
-* ɨ̺͊
-* ɨ̺̀
-* ɨ̺̽
-* ɨ̺͋
-* ɨ̺̂
-* ɨ̺̈
-* ɨ̺̅
-* ɨ̺̆
-* ɨ̺͌
-* ɨ̺̌
-* ɨ̺̊
-* ɨ̺̄
-* ɨ̺́
-* ɨ̺͆
-* ɨ̺̇
-* ɨ̺̃
-* ɨ̟̏
-* ɨ̟̋
-* ɨ̟͊
-* ɨ̟̀
-* ɨ̟̽
-* ɨ̟͋
-* ɨ̟̂
-* ɨ̟̈
-* ɨ̟̅
-* ɨ̟̆
-* ɨ̟͌
-* ɨ̟̌
-* ɨ̟̊
-* ɨ̟̄
-* ɨ̟́
-* ɨ̟͆
-* ɨ̟̇
-* ɨ̟̃
-* ɨ̪̏
-* ɨ̪̋
-* ɨ̪͊
-* ɨ̪̀
-* ɨ̪̽
-* ɨ̪͋
-* ɨ̪̂
-* ɨ̪̈
-* ɨ̪̅
-* ɨ̪̆
-* ɨ̪͌
-* ɨ̪̌
-* ɨ̪̊
-* ɨ̪̄
-* ɨ̪́
-* ɨ̪͆
-* ɨ̪̇
-* ɨ̪̃
-* ɨ͎̏
-* ɨ͎̋
-* ɨ͎͊
-* ɨ͎̀
-* ɨ͎̽
-* ɨ͎͋
-* ɨ͎̂
-* ɨ͎̈
-* ɨ͎̅
-* ɨ͎̆
-* ɨ͎͌
-* ɨ͎̌
-* ɨ͎̊
-* ɨ͎̄
-* ɨ͎́
-* ɨ͎͆
-* ɨ͎̇
-* ɨ͎̃
-* ɨ̥̏
-* ɨ̥̋
-* ɨ̥͊
-* ɨ̥̀
-* ɨ̥̽
-* ɨ̥͋
-* ɨ̥̂
-* ɨ̥̈
-* ɨ̥̅
-* ɨ̥̆
-* ɨ̥͌
-* ɨ̥̌
-* ɨ̥̊
-* ɨ̥̄
-* ɨ̥́
-* ɨ̥͆
-* ɨ̥̇
-* ɨ̥̃
-* ɨ̰̏
-* ɨ̰̋
-* ɨ̰͊
-* ɨ̰̀
-* ɨ̰̽
-* ɨ̰͋
-* ɨ̰̂
-* ɨ̰̈
-* ɨ̰̅
-* ɨ̰̆
-* ɨ̰͌
-* ɨ̰̌
-* ɨ̰̊
-* ɨ̰̄
-* ɨ̰́
-* ɨ̰͆
-* ɨ̰̇
-* ɨ̰̃
-* ɨ͈̏
-* ɨ͈̋
-* ɨ͈͊
-* ɨ͈̀
-* ɨ͈̽
-* ɨ͈͋
-* ɨ͈̂
-* ɨ͈̈
-* ɨ͈̅
-* ɨ͈̆
-* ɨ͈͌
-* ɨ͈̌
-* ɨ͈̊
-* ɨ͈̄
-* ɨ͈́
-* ɨ͈͆
-* ɨ͈̇
-* ɨ͈̃
-* ɨ̦̏
-* ɨ̦̋
-* ɨ̦͊
-* ɨ̦̀
-* ɨ̦̽
-* ɨ̦͋
-* ɨ̦̂
-* ɨ̦̈
-* ɨ̦̅
-* ɨ̦̆
-* ɨ̦͌
-* ɨ̦̌
-* ɨ̦̊
-* ɨ̦̄
-* ɨ̦́
-* ɨ̦͆
-* ɨ̦̇
-* ɨ̦̃
-* ɨ̨̏
-* ɨ̨̋
-* ɨ̨͊
-* ɨ̨̀
-* ɨ̨̽
-* ɨ̨͋
-* ɨ̨̂
-* ɨ̨̈
-* ɨ̨̅
-* ɨ̨̆
-* ɨ̨͌
-* ɨ̨̌
-* ɨ̨̊
-* ɨ̨̄
-* ɨ̨́
-* ɨ̨͆
-* ɨ̨̇
-* ɨ̨̃
-* ɨ͉̏
-* ɨ͉̋
-* ɨ͉͊
-* ɨ͉̀
-* ɨ͉̽
-* ɨ͉͋
-* ɨ͉̂
-* ɨ͉̈
-* ɨ͉̅
-* ɨ͉̆
-* ɨ͉͌
-* ɨ͉̌
-* ɨ͉̊
-* ɨ͉̄
-* ɨ͉́
-* ɨ͉͆
-* ɨ͉̇
-* ɨ͉̃
-* ɨ̙̏
-* ɨ̙̋
-* ɨ̙͊
-* ɨ̙̀
-* ɨ̙̽
-* ɨ̙͋
-* ɨ̙̂
-* ɨ̙̈
-* ɨ̙̅
-* ɨ̙̆
-* ɨ̙͌
-* ɨ̙̌
-* ɨ̙̊
-* ɨ̙̄
-* ɨ̙́
-* ɨ̙͆
-* ɨ̙̇
-* ɨ̙̃
-* ɨ͊
-* ɨ̽
-* ɨ͋
-* ɨ̅
-* ɨ̆
-* ɨ͌
-* ɨ̊
-* ɨ͆
-* ɨ̇
-* į̩̏
-* į̩̋
-* į̩͊
-* į̩̀
-* į̩̽
-* į̩͋
-* į̩̂
-* į̩̈
-* į̩̅
-* į̩̆
-* į̩͌
-* į̩̌
-* į̩̊
-* į̩̄
-* į̩́
-* į̩͆
-* į̩̇
-* į̩̃
-* į̝̏
-* į̝̋
-* į̝͊
-* į̝̀
-* į̝̽
-* į̝͋
-* į̝̂
-* į̝̈
-* į̝̅
-* į̝̆
-* į̝͌
-* į̝̌
-* į̝̊
-* į̝̄
-* į̝́
-* į̝͆
-* į̝̇
-* į̝̃
-* į͇̏
-* į͇̋
-* į͇͊
-* į͇̀
-* į͇̽
-* į͇͋
-* į͇̂
-* į͇̈
-* į͇̅
+* ⁱ̌
+* ⁱ͊
 * į͇̆
-* į͇͌
-* į͇̌
-* į͇̊
 * į͇̄
-* į͇́
-* į͇͆
+* į͇̽
+* į͇̀
+* į͇̂
+* į͇͋
 * į͇̇
+* į͇͌
+* į͇̈
+* į͇́
+* į͇̅
+* į͇̋
+* į͇̏
+* į͇͆
+* į͇̊
 * į͇̃
-* į̬̏
-* į̬̋
-* į̬͊
-* į̬̀
-* į̬̽
-* į̬͋
-* į̬̂
-* į̬̈
-* į̬̅
-* į̬̆
-* į̬͌
-* į̬̌
-* į̬̊
-* į̬̄
-* į̬́
-* į̬͆
-* į̬̇
-* į̬̃
-* į̴̏
-* į̴̋
-* į̴͊
-* į̴̀
-* į̴̽
-* į̴͋
-* į̴̂
-* į̴̈
-* į̴̅
-* į̴̆
-* į̴͌
-* į̴̌
-* į̴̊
-* į̴̄
-* į̴́
-* į̴͆
-* į̴̇
-* į̴̃
-* į̘̏
-* į̘̋
-* į̘͊
-* į̘̀
-* į̘̽
-* į̘͋
-* į̘̂
-* į̘̈
-* į̘̅
-* į̘̆
-* į̘͌
-* į̘̌
-* į̘̊
-* į̘̄
-* į̘́
-* į̘͆
-* į̘̇
-* į̘̃
-* į͍̏
-* į͍̋
-* į͍͊
-* į͍̀
-* į͍̽
-* į͍͋
-* į͍̂
-* į͍̈
-* į͍̅
-* į͍̆
-* į͍͌
-* į͍̌
-* į͍̊
-* į͍̄
-* į͍́
-* į͍͆
-* į͍̇
-* į͍̃
-* į̠̏
-* į̠̋
-* į̠͊
-* į̠̀
-* į̠̽
-* į̠͋
-* į̠̂
-* į̠̈
-* į̠̅
-* į̠̆
-* į̠͌
-* į̠̌
-* į̠̊
-* į̠̄
-* į̠́
-* į̠͆
-* į̠̇
-* į̠̃
-* į̜̏
-* į̜̋
-* į̜͊
-* į̜̀
-* į̜̽
-* į̜͋
-* į̜̂
-* į̜̈
-* į̜̅
-* į̜̆
-* į̜͌
-* į̜̌
-* į̜̊
-* į̜̄
-* į̜́
-* į̜͆
-* į̜̇
-* į̜̃
-* į̻̏
-* į̻̋
-* į̻͊
-* į̻̀
-* į̻̽
-* į̻͋
-* į̻̂
-* į̻̈
-* į̻̅
-* į̻̆
-* į̻͌
-* į̻̌
-* į̻̊
-* į̻̄
-* į̻́
-* į̻͆
-* į̻̇
-* į̻̃
-* į̲̏
-* į̲̋
-* į̲͊
-* į̲̀
-* į̲̽
-* į̲͋
-* į̲̂
-* į̲̈
-* į̲̅
-* į̲̆
-* į̲͌
-* į̲̌
-* į̲̊
-* į̲̄
-* į̲́
-* į̲͆
-* į̲̇
-* į̲̃
-* į̤̏
-* į̤̋
-* į̤͊
-* į̤̀
-* į̤̽
-* į̤͋
-* į̤̂
-* į̤̈
-* į̤̅
-* į̤̆
-* į̤͌
-* į̤̌
-* į̤̊
-* į̤̄
-* į̤́
-* į̤͆
-* į̤̇
-* į̤̃
-* į̼̏
-* į̼̋
-* į̼͊
-* į̼̀
-* į̼̽
-* į̼͋
-* į̼̂
-* į̼̈
-* į̼̅
-* į̼̆
-* į̼͌
-* į̼̌
-* į̼̊
-* į̼̄
-* į̼́
-* į̼͆
-* į̼̇
-* į̼̃
-* į̧̏
-* į̧̋
-* į̧͊
-* į̧̀
-* į̧̽
-* į̧͋
-* į̧̂
-* į̧̈
-* į̧̅
-* į̧̆
-* į̧͌
-* į̧̌
-* į̧̊
-* į̧̄
-* į̧́
-* į̧͆
-* į̧̇
-* į̧̃
-* į̞̏
-* į̞̋
-* į̞͊
-* į̞̀
-* į̞̽
-* į̞͋
-* į̞̂
-* į̞̈
-* į̞̅
-* į̞̆
-* į̞͌
-* į̞̌
-* į̞̊
-* į̞̄
-* į̞́
-* į̞͆
-* į̞̇
-* į̞̃
-* į̹̏
-* į̹̋
-* į̹͊
-* į̹̀
-* į̹̽
-* į̹͋
-* į̹̂
-* į̹̈
-* į̹̅
-* į̹̆
-* į̹͌
-* į̹̌
-* į̹̊
-* į̹̄
-* į̹́
-* į̹͆
-* į̹̇
-* į̹̃
-* į̺̏
-* į̺̋
-* į̺͊
-* į̺̀
-* į̺̽
-* į̺͋
-* į̺̂
-* į̺̈
-* į̺̅
-* į̺̆
-* į̺͌
-* į̺̌
-* į̺̊
-* į̺̄
-* į̺́
-* į̺͆
-* į̺̇
-* į̺̃
-* į̟̏
-* į̟̋
-* į̟͊
-* į̟̀
-* į̟̽
-* į̟͋
-* į̟̂
-* į̟̈
-* į̟̅
-* į̟̆
-* į̟͌
-* į̟̌
-* į̟̊
-* į̟̄
-* į̟́
-* į̟͆
-* į̟̇
-* į̟̃
-* į̪̏
-* į̪̋
-* į̪͊
-* į̪̀
-* į̪̽
-* į̪͋
-* į̪̂
-* į̪̈
-* į̪̅
-* į̪̆
-* į̪͌
-* į̪̌
-* į̪̊
-* į̪̄
-* į̪́
-* į̪͆
-* į̪̇
-* į̪̃
-* į͎̏
-* į͎̋
-* į͎͊
-* į͎̀
-* į͎̽
-* į͎͋
-* į͎̂
-* į͎̈
-* į͎̅
-* į͎̆
-* į͎͌
-* į͎̌
-* į͎̊
-* į͎̄
-* į͎́
-* į͎͆
-* į͎̇
-* į͎̃
-* į̥̏
-* į̥̋
-* į̥͊
-* į̥̀
-* į̥̽
-* į̥͋
-* į̥̂
-* į̥̈
-* į̥̅
+* į͇̌
+* į͇͊
 * į̥̆
-* į̥͌
-* į̥̌
-* į̥̊
 * į̥̄
-* į̥́
-* į̥͆
+* į̥̽
+* į̥̀
+* į̥̂
+* į̥͋
 * į̥̇
+* į̥͌
+* į̥̈
+* į̥́
+* į̥̅
+* į̥̋
+* į̥̏
+* į̥͆
+* į̥̊
 * į̥̃
-* į̰̏
-* į̰̋
-* į̰͊
-* į̰̀
-* į̰̽
-* į̰͋
-* į̰̂
-* į̰̈
-* į̰̅
+* į̥̌
+* į̥͊
+* į̪̆
+* į̪̄
+* į̪̽
+* į̪̀
+* į̪̂
+* į̪͋
+* į̪̇
+* į̪͌
+* į̪̈
+* į̪́
+* į̪̅
+* į̪̋
+* į̪̏
+* į̪͆
+* į̪̊
+* į̪̃
+* į̪̌
+* į̪͊
+* į̧̆
+* į̧̄
+* į̧̽
+* į̧̀
+* į̧̂
+* į̧͋
+* į̧̇
+* į̧͌
+* į̧̈
+* į̧́
+* į̧̅
+* į̧̋
+* į̧̏
+* į̧͆
+* į̧̊
+* į̧̃
+* į̧̌
+* į̧͊
 * į̰̆
-* į̰͌
-* į̰̌
-* į̰̊
 * į̰̄
-* į̰́
-* į̰͆
+* į̰̽
+* į̰̀
+* į̰̂
+* į̰͋
 * į̰̇
+* į̰͌
+* į̰̈
+* į̰́
+* į̰̅
+* į̰̋
+* į̰̏
+* į̰͆
+* į̰̊
 * į̰̃
-* į͈̏
-* į͈̋
-* į͈͊
-* į͈̀
-* į͈̽
-* į͈͋
-* į͈̂
-* į͈̈
-* į͈̅
-* į͈̆
-* į͈͌
-* į͈̌
-* į͈̊
-* į͈̄
-* į͈́
-* į͈͆
-* į͈̇
-* į͈̃
-* į̦̏
-* į̦̋
-* į̦͊
-* į̦̀
-* į̦̽
-* į̦͋
-* į̦̂
-* į̦̈
-* į̦̅
-* į̦̆
-* į̦͌
-* į̦̌
-* į̦̊
-* į̦̄
-* į̦́
-* į̦͆
-* į̦̇
-* į̦̃
-* į̨̏
-* į̨̋
-* į̨͊
-* į̨̀
-* į̨̽
-* į̨͋
-* į̨̂
-* į̨̈
-* į̨̅
-* į̨̆
-* į̨͌
-* į̨̌
-* į̨̊
-* į̨̄
-* į̨́
-* į̨͆
-* į̨̇
-* į̨̃
-* į͉̏
-* į͉̋
-* į͉͊
-* į͉̀
-* į͉̽
-* į͉͋
-* į͉̂
-* į͉̈
-* į͉̅
+* į̰̌
+* į̰͊
+* į̜̆
+* į̜̄
+* į̜̽
+* į̜̀
+* į̜̂
+* į̜͋
+* į̜̇
+* į̜͌
+* į̜̈
+* į̜́
+* į̜̅
+* į̜̋
+* į̜̏
+* į̜͆
+* į̜̊
+* į̜̃
+* į̜̌
+* į̜͊
+* į̲̆
+* į̲̄
+* į̲̽
+* į̲̀
+* į̲̂
+* į̲͋
+* į̲̇
+* į̲͌
+* į̲̈
+* į̲́
+* į̲̅
+* į̲̋
+* į̲̏
+* į̲͆
+* į̲̊
+* į̲̃
+* į̲̌
+* į̲͊
+* į̩̆
+* į̩̄
+* į̩̽
+* į̩̀
+* į̩̂
+* į̩͋
+* į̩̇
+* į̩͌
+* į̩̈
+* į̩́
+* į̩̅
+* į̩̋
+* į̩̏
+* į̩͆
+* į̩̊
+* į̩̃
+* į̩̌
+* į̩͊
+* į̝̆
+* į̝̄
+* į̝̽
+* į̝̀
+* į̝̂
+* į̝͋
+* į̝̇
+* į̝͌
+* į̝̈
+* į̝́
+* į̝̅
+* į̝̋
+* į̝̏
+* į̝͆
+* į̝̊
+* į̝̃
+* į̝̌
+* į̝͊
 * į͉̆
-* į͉͌
-* į͉̌
-* į͉̊
 * į͉̄
-* į͉́
-* į͉͆
+* į͉̽
+* į͉̀
+* į͉̂
+* į͉͋
 * į͉̇
+* į͉͌
+* į͉̈
+* į͉́
+* į͉̅
+* į͉̋
+* į͉̏
+* į͉͆
+* į͉̊
 * į͉̃
-* į̙̏
-* į̙̋
-* į̙͊
-* į̙̀
-* į̙̽
-* į̙͋
-* į̙̂
-* į̙̈
-* į̙̅
+* į͉̌
+* į͉͊
+* į̦̆
+* į̦̄
+* į̦̽
+* į̦̀
+* į̦̂
+* į̦͋
+* į̦̇
+* į̦͌
+* į̦̈
+* į̦́
+* į̦̅
+* į̦̋
+* į̦̏
+* į̦͆
+* į̦̊
+* į̦̃
+* į̦̌
+* į̦͊
+* į̞̆
+* į̞̄
+* į̞̽
+* į̞̀
+* į̞̂
+* į̞͋
+* į̞̇
+* į̞͌
+* į̞̈
+* į̞́
+* į̞̅
+* į̞̋
+* į̞̏
+* į̞͆
+* į̞̊
+* į̞̃
+* į̞̌
+* į̞͊
+* į̨̆
+* į̨̄
+* į̨̽
+* į̨̀
+* į̨̂
+* į̨͋
+* į̨̇
+* į̨͌
+* į̨̈
+* į̨́
+* į̨̅
+* į̨̋
+* į̨̏
+* į̨͆
+* į̨̊
+* į̨̃
+* į̨̌
+* į̨͊
+* į̴̆
+* į̴̄
+* į̴̽
+* į̴̀
+* į̴̂
+* į̴͋
+* į̴̇
+* į̴͌
+* į̴̈
+* į̴́
+* į̴̅
+* į̴̋
+* į̴̏
+* į̴͆
+* į̴̊
+* į̴̃
+* į̴̌
+* į̴͊
+* į̟̆
+* į̟̄
+* į̟̽
+* į̟̀
+* į̟̂
+* į̟͋
+* į̟̇
+* į̟͌
+* į̟̈
+* į̟́
+* į̟̅
+* į̟̋
+* į̟̏
+* į̟͆
+* į̟̊
+* į̟̃
+* į̟̌
+* į̟͊
+* į̘̆
+* į̘̄
+* į̘̽
+* į̘̀
+* į̘̂
+* į̘͋
+* į̘̇
+* į̘͌
+* į̘̈
+* į̘́
+* į̘̅
+* į̘̋
+* į̘̏
+* į̘͆
+* į̘̊
+* į̘̃
+* į̘̌
+* į̘͊
+* į̠̆
+* į̠̄
+* į̠̽
+* į̠̀
+* į̠̂
+* į̠͋
+* į̠̇
+* į̠͌
+* į̠̈
+* į̠́
+* į̠̅
+* į̠̋
+* į̠̏
+* į̠͆
+* į̠̊
+* į̠̃
+* į̠̌
+* į̠͊
 * į̙̆
-* į̙͌
-* į̙̌
-* į̙̊
 * į̙̄
-* į̙́
-* į̙͆
+* į̙̽
+* į̙̀
+* į̙̂
+* į̙͋
 * į̙̇
+* į̙͌
+* į̙̈
+* į̙́
+* į̙̅
+* į̙̋
+* į̙̏
+* į̙͆
+* į̙̊
 * į̙̃
-* į̏
-* į̋
-* į͊
+* į̙̌
+* į̙͊
+* į̺̆
+* į̺̄
+* į̺̽
+* į̺̀
+* į̺̂
+* į̺͋
+* į̺̇
+* į̺͌
+* į̺̈
+* į̺́
+* į̺̅
+* į̺̋
+* į̺̏
+* į̺͆
+* į̺̊
+* į̺̃
+* į̺̌
+* į̺͊
+* į̼̆
+* į̼̄
+* į̼̽
+* į̼̀
+* į̼̂
+* į̼͋
+* į̼̇
+* į̼͌
+* į̼̈
+* į̼́
+* į̼̅
+* į̼̋
+* į̼̏
+* į̼͆
+* į̼̊
+* į̼̃
+* į̼̌
+* į̼͊
+* į͍̆
+* į͍̄
+* į͍̽
+* į͍̀
+* į͍̂
+* į͍͋
+* į͍̇
+* į͍͌
+* į͍̈
+* į͍́
+* į͍̅
+* į͍̋
+* į͍̏
+* į͍͆
+* į͍̊
+* į͍̃
+* į͍̌
+* į͍͊
+* į̤̆
+* į̤̄
+* į̤̽
+* į̤̀
+* į̤̂
+* į̤͋
+* į̤̇
+* į̤͌
+* į̤̈
+* į̤́
+* į̤̅
+* į̤̋
+* į̤̏
+* į̤͆
+* į̤̊
+* į̤̃
+* į̤̌
+* į̤͊
+* į̻̆
+* į̻̄
+* į̻̽
+* į̻̀
+* į̻̂
+* į̻͋
+* į̻̇
+* į̻͌
+* į̻̈
+* į̻́
+* į̻̅
+* į̻̋
+* į̻̏
+* į̻͆
+* į̻̊
+* į̻̃
+* į̻̌
+* į̻͊
+* į͈̆
+* į͈̄
+* į͈̽
+* į͈̀
+* į͈̂
+* į͈͋
+* į͈̇
+* į͈͌
+* į͈̈
+* į͈́
+* į͈̅
+* į͈̋
+* į͈̏
+* į͈͆
+* į͈̊
+* į͈̃
+* į͈̌
+* į͈͊
+* į̬̆
+* į̬̄
+* į̬̽
+* į̬̀
+* į̬̂
+* į̬͋
+* į̬̇
+* į̬͌
+* į̬̈
+* į̬́
+* į̬̅
+* į̬̋
+* į̬̏
+* į̬͆
+* į̬̊
+* į̬̃
+* į̬̌
+* į̬͊
+* į͎̆
+* į͎̄
+* į͎̽
+* į͎̀
+* į͎̂
+* į͎͋
+* į͎̇
+* į͎͌
+* į͎̈
+* į͎́
+* į͎̅
+* į͎̋
+* į͎̏
+* į͎͆
+* į͎̊
+* į͎̃
+* į͎̌
+* į͎͊
+* į̹̆
+* į̹̄
+* į̹̽
+* į̹̀
+* į̹̂
+* į̹͋
+* į̹̇
+* į̹͌
+* į̹̈
+* į̹́
+* į̹̅
+* į̹̋
+* į̹̏
+* į̹͆
+* į̹̊
+* į̹̃
+* į̹̌
+* į̹͊
+* į̆
 * į̽
 * į͋
+* į̇
+* į͌
 * į̈
 * į̅
-* į̆
-* į͌
-* į̊
+* į̋
+* į̏
 * į͆
-* į̇
-* j̩̏
-* j̩̋
-* j̩͊
-* j̩̀
-* j̩̽
-* j̩͋
-* j̩̈
-* j̩̅
-* j̩̆
-* j̩͌
-* ǰ̩
-* j̩̊
-* j̩̄
-* j̩́
-* j̩͆
-* j̩̇
-* j̩̃
-* j̝̏
-* j̝̋
-* j̝͊
-* j̝̀
-* j̝̽
-* j̝͋
-* j̝̈
-* j̝̅
-* j̝̆
-* j̝͌
-* ǰ̝
-* j̝̊
-* j̝̄
-* j̝́
-* j̝͆
-* j̝̇
-* j̝̃
-* j͇̏
-* j͇̋
-* j͇͊
-* j͇̀
-* j͇̽
-* j͇͋
-* j͇̈
-* j͇̅
-* j͇̆
-* j͇͌
-* ǰ͇
-* j͇̊
-* j͇̄
-* j͇́
-* j͇͆
-* j͇̇
-* j͇̃
-* j̬̏
-* j̬̋
-* j̬͊
-* j̬̀
-* j̬̽
-* j̬͋
-* j̬̈
-* j̬̅
-* j̬̆
-* j̬͌
-* ǰ̬
-* j̬̊
-* j̬̄
-* j̬́
-* j̬͆
-* j̬̇
-* j̬̃
-* j̴̏
-* j̴̋
-* j̴͊
-* j̴̀
-* j̴̽
-* j̴͋
-* j̴̈
-* j̴̅
-* j̴̆
-* j̴͌
-* ǰ̴
-* j̴̊
-* j̴̄
-* j̴́
-* j̴͆
-* j̴̇
-* j̴̃
-* j̘̏
-* j̘̋
-* j̘͊
-* j̘̀
-* j̘̽
-* j̘͋
-* j̘̈
-* j̘̅
-* j̘̆
-* j̘͌
-* ǰ̘
-* j̘̊
-* j̘̄
-* j̘́
-* j̘͆
-* j̘̇
-* j̘̃
-* j͍̏
-* j͍̋
-* j͍͊
-* j͍̀
-* j͍̽
-* j͍͋
-* j͍̈
-* j͍̅
-* j͍̆
-* j͍͌
-* ǰ͍
-* j͍̊
-* j͍̄
-* j͍́
-* j͍͆
-* j͍̇
-* j͍̃
-* j̠̏
-* j̠̋
-* j̠͊
-* j̠̀
-* j̠̽
-* j̠͋
-* j̠̈
-* j̠̅
-* j̠̆
-* j̠͌
-* ǰ̠
-* j̠̊
-* j̠̄
-* j̠́
-* j̠͆
-* j̠̇
-* j̠̃
-* j̜̏
-* j̜̋
-* j̜͊
-* j̜̀
-* j̜̽
-* j̜͋
-* j̜̈
-* j̜̅
-* j̜̆
-* j̜͌
-* ǰ̜
-* j̜̊
-* j̜̄
-* j̜́
-* j̜͆
-* j̜̇
-* j̜̃
-* j̻̏
-* j̻̋
-* j̻͊
-* j̻̀
-* j̻̽
-* j̻͋
-* j̻̈
-* j̻̅
-* j̻̆
-* j̻͌
-* ǰ̻
-* j̻̊
-* j̻̄
-* j̻́
-* j̻͆
-* j̻̇
-* j̻̃
-* j̲̏
-* j̲̋
-* j̲͊
-* j̲̀
-* j̲̽
-* j̲͋
-* j̲̈
-* j̲̅
-* j̲̆
-* j̲͌
-* ǰ̲
-* j̲̊
-* j̲̄
-* j̲́
-* j̲͆
-* j̲̇
-* j̲̃
-* j̤̏
-* j̤̋
-* j̤͊
-* j̤̀
-* j̤̽
-* j̤͋
-* j̤̈
-* j̤̅
-* j̤̆
-* j̤͌
-* ǰ̤
-* j̤̊
-* j̤̄
-* j̤́
-* j̤͆
-* j̤̇
-* j̤̃
-* j̼̏
-* j̼̋
-* j̼͊
-* j̼̀
-* j̼̽
-* j̼͋
-* j̼̈
-* j̼̅
-* j̼̆
-* j̼͌
-* ǰ̼
-* j̼̊
-* j̼̄
-* j̼́
-* j̼͆
-* j̼̇
-* j̼̃
-* j̧̏
-* j̧̋
-* j̧͊
-* j̧̀
-* j̧̽
-* j̧͋
-* j̧̈
-* j̧̅
-* j̧̆
-* j̧͌
-* ǰ̧
-* j̧̊
-* j̧̄
-* j̧́
-* j̧͆
-* j̧̇
-* j̧̃
-* j̞̏
-* j̞̋
-* j̞͊
-* j̞̀
-* j̞̽
-* j̞͋
-* j̞̈
-* j̞̅
-* j̞̆
-* j̞͌
-* ǰ̞
-* j̞̊
-* j̞̄
-* j̞́
-* j̞͆
-* j̞̇
-* j̞̃
-* j̹̏
-* j̹̋
-* j̹͊
-* j̹̀
-* j̹̽
-* j̹͋
-* j̹̈
-* j̹̅
-* j̹̆
-* j̹͌
-* ǰ̹
-* j̹̊
-* j̹̄
-* j̹́
-* j̹͆
-* j̹̇
-* j̹̃
-* j̺̏
-* j̺̋
-* j̺͊
-* j̺̀
-* j̺̽
-* j̺͋
-* j̺̈
-* j̺̅
-* j̺̆
-* j̺͌
-* ǰ̺
-* j̺̊
-* j̺̄
-* j̺́
-* j̺͆
-* j̺̇
-* j̺̃
-* j̟̏
-* j̟̋
-* j̟͊
-* j̟̀
-* j̟̽
-* j̟͋
-* j̟̈
-* j̟̅
-* j̟̆
-* j̟͌
-* ǰ̟
-* j̟̊
-* j̟̄
-* j̟́
-* j̟͆
-* j̟̇
-* j̟̃
-* j̪̏
-* j̪̋
-* j̪͊
-* j̪̀
-* j̪̽
-* j̪͋
-* j̪̈
-* j̪̅
-* j̪̆
-* j̪͌
-* ǰ̪
-* j̪̊
-* j̪̄
-* j̪́
-* j̪͆
-* j̪̇
-* j̪̃
-* j͎̏
-* j͎̋
-* j͎͊
-* j͎̀
-* j͎̽
-* j͎͋
-* j͎̈
-* j͎̅
-* j͎̆
-* j͎͌
-* ǰ͎
-* j͎̊
-* j͎̄
-* j͎́
-* j͎͆
-* j͎̇
-* j͎̃
-* j̥̏
-* j̥̋
-* j̥͊
-* j̥̀
-* j̥̽
-* j̥͋
-* j̥̈
-* j̥̅
-* j̥̆
-* j̥͌
-* ǰ̥
-* j̥̊
-* j̥̄
-* j̥́
-* j̥͆
-* j̥̇
-* j̥̃
-* j̰̏
-* j̰̋
-* j̰͊
-* j̰̀
-* j̰̽
-* j̰͋
-* j̰̈
-* j̰̅
-* j̰̆
-* j̰͌
-* ǰ̰
-* j̰̊
-* j̰̄
-* j̰́
-* j̰͆
-* j̰̇
-* j̰̃
-* j͈̏
-* j͈̋
-* j͈͊
-* j͈̀
-* j͈̽
-* j͈͋
-* j͈̈
-* j͈̅
-* j͈̆
-* j͈͌
-* ǰ͈
-* j͈̊
-* j͈̄
-* j͈́
-* j͈͆
-* j͈̇
-* j͈̃
-* j̦̏
-* j̦̋
-* j̦͊
-* j̦̀
-* j̦̽
-* j̦͋
-* j̦̈
-* j̦̅
-* j̦̆
-* j̦͌
-* ǰ̦
-* j̦̊
-* j̦̄
-* j̦́
-* j̦͆
-* j̦̇
-* j̦̃
-* j̨̏
-* j̨̋
-* j̨͊
-* j̨̀
-* j̨̽
-* j̨͋
-* j̨̈
-* j̨̅
-* j̨̆
-* j̨͌
-* ǰ̨
-* j̨̊
-* j̨̄
-* j̨́
-* j̨͆
-* j̨̇
-* j̨̃
-* j͉̏
-* j͉̋
-* j͉͊
-* j͉̀
-* j͉̽
-* j͉͋
-* j͉̈
-* j͉̅
-* j͉̆
-* j͉͌
-* ǰ͉
-* j͉̊
-* j͉̄
-* j͉́
-* j͉͆
-* j͉̇
-* j͉̃
-* j̙̏
-* j̙̋
-* j̙͊
-* j̙̀
-* j̙̽
-* j̙͋
-* j̙̈
-* j̙̅
-* j̙̆
-* j̙͌
-* ǰ̙
-* j̙̊
-* j̙̄
-* j̙́
-* j̙͆
-* j̙̇
-* j̙̃
-* j̏
-* j̋
-* j͊
-* j̽
-* j͋
-* j̅
-* j̆
-* j͌
-* ǰ
-* j̊
-* j͆
-* j̇
-* ȉ̩
-* i̩̋
-* i̩͊
-* i̩̽
-* i̩͋
-* i̩̅
-* i̩͌
-* ǐ̩
-* i̩̊
-* i̩͆
-* i̩̇
-* ȉ̝
-* i̝̋
-* i̝͊
-* i̝̽
-* i̝͋
-* i̝̅
-* i̝͌
-* ǐ̝
-* i̝̊
-* i̝͆
-* i̝̇
-* ȉ͇
-* i͇̋
-* i͇͊
+* į̊
+* į͊
+* ɨ͇̆
+* ɨ͇̄
+* ɨ͇̽
+* ɨ͇̀
+* ɨ͇̂
+* ɨ͇͋
+* ɨ͇̇
+* ɨ͇͌
+* ɨ͇̈
+* ɨ͇́
+* ɨ͇̅
+* ɨ͇̋
+* ɨ͇̏
+* ɨ͇͆
+* ɨ͇̊
+* ɨ͇̃
+* ɨ͇̌
+* ɨ͇͊
+* ɨ̥̆
+* ɨ̥̄
+* ɨ̥̽
+* ɨ̥̀
+* ɨ̥̂
+* ɨ̥͋
+* ɨ̥̇
+* ɨ̥͌
+* ɨ̥̈
+* ɨ̥́
+* ɨ̥̅
+* ɨ̥̋
+* ɨ̥̏
+* ɨ̥͆
+* ɨ̥̊
+* ɨ̥̃
+* ɨ̥̌
+* ɨ̥͊
+* ɨ̪̆
+* ɨ̪̄
+* ɨ̪̽
+* ɨ̪̀
+* ɨ̪̂
+* ɨ̪͋
+* ɨ̪̇
+* ɨ̪͌
+* ɨ̪̈
+* ɨ̪́
+* ɨ̪̅
+* ɨ̪̋
+* ɨ̪̏
+* ɨ̪͆
+* ɨ̪̊
+* ɨ̪̃
+* ɨ̪̌
+* ɨ̪͊
+* ɨ̧̆
+* ɨ̧̄
+* ɨ̧̽
+* ɨ̧͋
+* ɨ̧̇
+* ɨ̧͌
+* ɨ̧̈
+* ɨ̧̅
+* ɨ̧̋
+* ɨ̧̏
+* ɨ̧͆
+* ɨ̧̊
+* ɨ̧̃
+* ɨ̧͊
+* ɨ̰̆
+* ɨ̰̄
+* ɨ̰̽
+* ɨ̰̀
+* ɨ̰̂
+* ɨ̰͋
+* ɨ̰̇
+* ɨ̰͌
+* ɨ̰̈
+* ɨ̰́
+* ɨ̰̅
+* ɨ̰̋
+* ɨ̰̏
+* ɨ̰͆
+* ɨ̰̊
+* ɨ̰̃
+* ɨ̰̌
+* ɨ̰͊
+* ɨ̜̆
+* ɨ̜̄
+* ɨ̜̽
+* ɨ̜̀
+* ɨ̜̂
+* ɨ̜͋
+* ɨ̜̇
+* ɨ̜͌
+* ɨ̜̈
+* ɨ̜́
+* ɨ̜̅
+* ɨ̜̋
+* ɨ̜̏
+* ɨ̜͆
+* ɨ̜̊
+* ɨ̜̃
+* ɨ̜̌
+* ɨ̜͊
+* ɨ̲̆
+* ɨ̲̄
+* ɨ̲̽
+* ɨ̲̀
+* ɨ̲̂
+* ɨ̲͋
+* ɨ̲̇
+* ɨ̲͌
+* ɨ̲̈
+* ɨ̲́
+* ɨ̲̅
+* ɨ̲̋
+* ɨ̲̏
+* ɨ̲͆
+* ɨ̲̊
+* ɨ̲̃
+* ɨ̲̌
+* ɨ̲͊
+* ɨ̩̆
+* ɨ̩̄
+* ɨ̩̽
+* ɨ̩̀
+* ɨ̩̂
+* ɨ̩͋
+* ɨ̩̇
+* ɨ̩͌
+* ɨ̩̈
+* ɨ̩́
+* ɨ̩̅
+* ɨ̩̋
+* ɨ̩̏
+* ɨ̩͆
+* ɨ̩̊
+* ɨ̩̃
+* ɨ̩̌
+* ɨ̩͊
+* ɨ̝̆
+* ɨ̝̄
+* ɨ̝̽
+* ɨ̝̀
+* ɨ̝̂
+* ɨ̝͋
+* ɨ̝̇
+* ɨ̝͌
+* ɨ̝̈
+* ɨ̝́
+* ɨ̝̅
+* ɨ̝̋
+* ɨ̝̏
+* ɨ̝͆
+* ɨ̝̊
+* ɨ̝̃
+* ɨ̝̌
+* ɨ̝͊
+* ɨ͉̆
+* ɨ͉̄
+* ɨ͉̽
+* ɨ͉̀
+* ɨ͉̂
+* ɨ͉͋
+* ɨ͉̇
+* ɨ͉͌
+* ɨ͉̈
+* ɨ͉́
+* ɨ͉̅
+* ɨ͉̋
+* ɨ͉̏
+* ɨ͉͆
+* ɨ͉̊
+* ɨ͉̃
+* ɨ͉̌
+* ɨ͉͊
+* ɨ̦̆
+* ɨ̦̄
+* ɨ̦̽
+* ɨ̦̀
+* ɨ̦̂
+* ɨ̦͋
+* ɨ̦̇
+* ɨ̦͌
+* ɨ̦̈
+* ɨ̦́
+* ɨ̦̅
+* ɨ̦̋
+* ɨ̦̏
+* ɨ̦͆
+* ɨ̦̊
+* ɨ̦̃
+* ɨ̦̌
+* ɨ̦͊
+* ɨ̞̆
+* ɨ̞̄
+* ɨ̞̽
+* ɨ̞̀
+* ɨ̞̂
+* ɨ̞͋
+* ɨ̞̇
+* ɨ̞͌
+* ɨ̞̈
+* ɨ̞́
+* ɨ̞̅
+* ɨ̞̋
+* ɨ̞̏
+* ɨ̞͆
+* ɨ̞̊
+* ɨ̞̃
+* ɨ̞̌
+* ɨ̞͊
+* ɨ̨̆
+* ɨ̨̄
+* ɨ̨̽
+* ɨ̨̀
+* ɨ̨̂
+* ɨ̨͋
+* ɨ̨̇
+* ɨ̨͌
+* ɨ̨̈
+* ɨ̨́
+* ɨ̨̅
+* ɨ̨̋
+* ɨ̨̏
+* ɨ̨͆
+* ɨ̨̊
+* ɨ̨̃
+* ɨ̨̌
+* ɨ̨͊
+* ɨ̴̆
+* ɨ̴̄
+* ɨ̴̽
+* ɨ̴̀
+* ɨ̴̂
+* ɨ̴͋
+* ɨ̴̇
+* ɨ̴͌
+* ɨ̴̈
+* ɨ̴́
+* ɨ̴̅
+* ɨ̴̋
+* ɨ̴̏
+* ɨ̴͆
+* ɨ̴̊
+* ɨ̴̃
+* ɨ̴̌
+* ɨ̴͊
+* ɨ̟̆
+* ɨ̟̄
+* ɨ̟̽
+* ɨ̟̀
+* ɨ̟̂
+* ɨ̟͋
+* ɨ̟̇
+* ɨ̟͌
+* ɨ̟̈
+* ɨ̟́
+* ɨ̟̅
+* ɨ̟̋
+* ɨ̟̏
+* ɨ̟͆
+* ɨ̟̊
+* ɨ̟̃
+* ɨ̟̌
+* ɨ̟͊
+* ɨ̘̆
+* ɨ̘̄
+* ɨ̘̽
+* ɨ̘̀
+* ɨ̘̂
+* ɨ̘͋
+* ɨ̘̇
+* ɨ̘͌
+* ɨ̘̈
+* ɨ̘́
+* ɨ̘̅
+* ɨ̘̋
+* ɨ̘̏
+* ɨ̘͆
+* ɨ̘̊
+* ɨ̘̃
+* ɨ̘̌
+* ɨ̘͊
+* ɨ̠̆
+* ɨ̠̄
+* ɨ̠̽
+* ɨ̠̀
+* ɨ̠̂
+* ɨ̠͋
+* ɨ̠̇
+* ɨ̠͌
+* ɨ̠̈
+* ɨ̠́
+* ɨ̠̅
+* ɨ̠̋
+* ɨ̠̏
+* ɨ̠͆
+* ɨ̠̊
+* ɨ̠̃
+* ɨ̠̌
+* ɨ̠͊
+* ɨ̙̆
+* ɨ̙̄
+* ɨ̙̽
+* ɨ̙̀
+* ɨ̙̂
+* ɨ̙͋
+* ɨ̙̇
+* ɨ̙͌
+* ɨ̙̈
+* ɨ̙́
+* ɨ̙̅
+* ɨ̙̋
+* ɨ̙̏
+* ɨ̙͆
+* ɨ̙̊
+* ɨ̙̃
+* ɨ̙̌
+* ɨ̙͊
+* ɨ̺̆
+* ɨ̺̄
+* ɨ̺̽
+* ɨ̺̀
+* ɨ̺̂
+* ɨ̺͋
+* ɨ̺̇
+* ɨ̺͌
+* ɨ̺̈
+* ɨ̺́
+* ɨ̺̅
+* ɨ̺̋
+* ɨ̺̏
+* ɨ̺͆
+* ɨ̺̊
+* ɨ̺̃
+* ɨ̺̌
+* ɨ̺͊
+* ɨ̼̆
+* ɨ̼̄
+* ɨ̼̽
+* ɨ̼̀
+* ɨ̼̂
+* ɨ̼͋
+* ɨ̼̇
+* ɨ̼͌
+* ɨ̼̈
+* ɨ̼́
+* ɨ̼̅
+* ɨ̼̋
+* ɨ̼̏
+* ɨ̼͆
+* ɨ̼̊
+* ɨ̼̃
+* ɨ̼̌
+* ɨ̼͊
+* ɨ͍̆
+* ɨ͍̄
+* ɨ͍̽
+* ɨ͍̀
+* ɨ͍̂
+* ɨ͍͋
+* ɨ͍̇
+* ɨ͍͌
+* ɨ͍̈
+* ɨ͍́
+* ɨ͍̅
+* ɨ͍̋
+* ɨ͍̏
+* ɨ͍͆
+* ɨ͍̊
+* ɨ͍̃
+* ɨ͍̌
+* ɨ͍͊
+* ɨ̤̆
+* ɨ̤̄
+* ɨ̤̽
+* ɨ̤̀
+* ɨ̤̂
+* ɨ̤͋
+* ɨ̤̇
+* ɨ̤͌
+* ɨ̤̈
+* ɨ̤́
+* ɨ̤̅
+* ɨ̤̋
+* ɨ̤̏
+* ɨ̤͆
+* ɨ̤̊
+* ɨ̤̃
+* ɨ̤̌
+* ɨ̤͊
+* ɨ̻̆
+* ɨ̻̄
+* ɨ̻̽
+* ɨ̻̀
+* ɨ̻̂
+* ɨ̻͋
+* ɨ̻̇
+* ɨ̻͌
+* ɨ̻̈
+* ɨ̻́
+* ɨ̻̅
+* ɨ̻̋
+* ɨ̻̏
+* ɨ̻͆
+* ɨ̻̊
+* ɨ̻̃
+* ɨ̻̌
+* ɨ̻͊
+* ɨ͈̆
+* ɨ͈̄
+* ɨ͈̽
+* ɨ͈̀
+* ɨ͈̂
+* ɨ͈͋
+* ɨ͈̇
+* ɨ͈͌
+* ɨ͈̈
+* ɨ͈́
+* ɨ͈̅
+* ɨ͈̋
+* ɨ͈̏
+* ɨ͈͆
+* ɨ͈̊
+* ɨ͈̃
+* ɨ͈̌
+* ɨ͈͊
+* ɨ̬̆
+* ɨ̬̄
+* ɨ̬̽
+* ɨ̬̀
+* ɨ̬̂
+* ɨ̬͋
+* ɨ̬̇
+* ɨ̬͌
+* ɨ̬̈
+* ɨ̬́
+* ɨ̬̅
+* ɨ̬̋
+* ɨ̬̏
+* ɨ̬͆
+* ɨ̬̊
+* ɨ̬̃
+* ɨ̬̌
+* ɨ̬͊
+* ɨ͎̆
+* ɨ͎̄
+* ɨ͎̽
+* ɨ͎̀
+* ɨ͎̂
+* ɨ͎͋
+* ɨ͎̇
+* ɨ͎͌
+* ɨ͎̈
+* ɨ͎́
+* ɨ͎̅
+* ɨ͎̋
+* ɨ͎̏
+* ɨ͎͆
+* ɨ͎̊
+* ɨ͎̃
+* ɨ͎̌
+* ɨ͎͊
+* ɨ̹̆
+* ɨ̹̄
+* ɨ̹̽
+* ɨ̹̀
+* ɨ̹̂
+* ɨ̹͋
+* ɨ̹̇
+* ɨ̹͌
+* ɨ̹̈
+* ɨ̹́
+* ɨ̹̅
+* ɨ̹̋
+* ɨ̹̏
+* ɨ̹͆
+* ɨ̹̊
+* ɨ̹̃
+* ɨ̹̌
+* ɨ̹͊
+* ɨ̆
+* ɨ̽
+* ɨ͋
+* ɨ̇
+* ɨ͌
+* ɨ̅
+* ɨ͆
+* ɨ̊
+* ɨ͊
 * i͇̽
 * i͇͋
-* i͇̅
-* i͇͌
-* ǐ͇
-* i͇̊
-* i͇͆
 * i͇̇
-* ȉ̬
-* i̬̋
-* i̬͊
-* i̬̽
-* i̬͋
-* i̬̅
-* i̬͌
-* ǐ̬
-* i̬̊
-* i̬͆
-* i̬̇
-* ȉ̴
-* i̴̋
-* i̴͊
-* i̴̽
-* i̴͋
-* i̴̅
-* i̴͌
-* ǐ̴
-* i̴̊
-* i̴͆
-* i̴̇
-* ȉ̘
-* i̘̋
-* i̘͊
-* i̘̽
-* i̘͋
-* i̘̅
-* i̘͌
-* ǐ̘
-* i̘̊
-* i̘͆
-* i̘̇
-* ȉ͍
-* i͍̋
-* i͍͊
-* i͍̽
-* i͍͋
-* i͍̅
-* i͍͌
-* ǐ͍
-* i͍̊
-* i͍͆
-* i͍̇
-* ȉ̠
-* i̠̋
-* i̠͊
-* i̠̽
-* i̠͋
-* i̠̅
-* i̠͌
-* ǐ̠
-* i̠̊
-* i̠͆
-* i̠̇
-* ȉ̜
-* i̜̋
-* i̜͊
-* i̜̽
-* i̜͋
-* i̜̅
-* i̜͌
-* ǐ̜
-* i̜̊
-* i̜͆
-* i̜̇
-* ȉ̻
-* i̻̋
-* i̻͊
-* i̻̽
-* i̻͋
-* i̻̅
-* i̻͌
-* ǐ̻
-* i̻̊
-* i̻͆
-* i̻̇
-* ȉ̲
-* i̲̋
-* i̲͊
-* i̲̽
-* i̲͋
-* i̲̅
-* i̲͌
-* ǐ̲
-* i̲̊
-* i̲͆
-* i̲̇
-* ȉ̤
-* i̤̋
-* i̤͊
-* i̤̽
-* i̤͋
-* i̤̅
-* i̤͌
-* ǐ̤
-* i̤̊
-* i̤͆
-* i̤̇
-* ȉ̼
-* i̼̋
-* i̼͊
-* i̼̽
-* i̼͋
-* i̼̅
-* i̼͌
-* ǐ̼
-* i̼̊
-* i̼͆
-* i̼̇
-* ȉ̧
-* i̧̋
-* i̧͊
-* i̧̽
-* i̧͋
-* i̧̅
-* i̧͌
-* ǐ̧
-* i̧̊
-* i̧͆
-* i̧̇
-* ȉ̞
-* i̞̋
-* i̞͊
-* i̞̽
-* i̞͋
-* i̞̅
-* i̞͌
-* ǐ̞
-* i̞̊
-* i̞͆
-* i̞̇
-* ȉ̹
-* i̹̋
-* i̹͊
-* i̹̽
-* i̹͋
-* i̹̅
-* i̹͌
-* ǐ̹
-* i̹̊
-* i̹͆
-* i̹̇
-* ȉ̺
-* i̺̋
-* i̺͊
-* i̺̽
-* i̺͋
-* i̺̅
-* i̺͌
-* ǐ̺
-* i̺̊
-* i̺͆
-* i̺̇
-* ȉ̟
-* i̟̋
-* i̟͊
-* i̟̽
-* i̟͋
-* i̟̅
-* i̟͌
-* ǐ̟
-* i̟̊
-* i̟͆
-* i̟̇
-* ȉ̪
-* i̪̋
-* i̪͊
-* i̪̽
-* i̪͋
-* i̪̅
-* i̪͌
-* ǐ̪
-* i̪̊
-* i̪͆
-* i̪̇
-* ȉ͎
-* i͎̋
-* i͎͊
-* i͎̽
-* i͎͋
-* i͎̅
-* i͎͌
-* ǐ͎
-* i͎̊
-* i͎͆
-* i͎̇
-* ȉ̥
-* i̥̋
-* i̥͊
+* i͇͌
+* i͇̅
+* i͇̋
+* ȉ͇
+* i͇͆
+* i͇̊
+* ǐ͇
+* i͇͊
 * i̥̽
 * i̥͋
-* i̥̅
-* i̥͌
-* ǐ̥
-* i̥̊
-* i̥͆
 * i̥̇
-* ḭ̏
-* ḭ̋
-* ḭ͊
+* i̥͌
+* i̥̅
+* i̥̋
+* ȉ̥
+* i̥͆
+* i̥̊
+* ǐ̥
+* i̥͊
+* i̪̽
+* i̪͋
+* i̪̇
+* i̪͌
+* i̪̅
+* i̪̋
+* ȉ̪
+* i̪͆
+* i̪̊
+* ǐ̪
+* i̪͊
+* i̧̽
+* i̧͋
+* i̧̇
+* i̧͌
+* i̧̅
+* i̧̋
+* ȉ̧
+* i̧͆
+* i̧̊
+* ǐ̧
+* i̧͊
 * ḭ̽
 * ḭ͋
-* ḭ̅
-* ḭ͌
-* ḭ̌
-* ḭ̊
-* ḭ͆
 * ḭ̇
-* ȉ͈
-* i͈̋
-* i͈͊
-* i͈̽
-* i͈͋
-* i͈̅
-* i͈͌
-* ǐ͈
-* i͈̊
-* i͈͆
-* i͈̇
-* ȉ̦
-* i̦̋
-* i̦͊
-* i̦̽
-* i̦͋
-* i̦̅
-* i̦͌
-* ǐ̦
-* i̦̊
-* i̦͆
-* i̦̇
-* ȉ͉
-* i͉̋
-* i͉͊
+* ḭ͌
+* ḭ̅
+* ḭ̋
+* ḭ̏
+* ḭ͆
+* ḭ̊
+* ḭ̌
+* ḭ͊
+* i̜̽
+* i̜͋
+* i̜̇
+* i̜͌
+* i̜̅
+* i̜̋
+* ȉ̜
+* i̜͆
+* i̜̊
+* ǐ̜
+* i̜͊
+* i̲̽
+* i̲͋
+* i̲̇
+* i̲͌
+* i̲̅
+* i̲̋
+* ȉ̲
+* i̲͆
+* i̲̊
+* ǐ̲
+* i̲͊
+* i̩̽
+* i̩͋
+* i̩̇
+* i̩͌
+* i̩̅
+* i̩̋
+* ȉ̩
+* i̩͆
+* i̩̊
+* ǐ̩
+* i̩͊
+* i̝̽
+* i̝͋
+* i̝̇
+* i̝͌
+* i̝̅
+* i̝̋
+* ȉ̝
+* i̝͆
+* i̝̊
+* ǐ̝
+* i̝͊
 * i͉̽
 * i͉͋
-* i͉̅
-* i͉͌
-* ǐ͉
-* i͉̊
-* i͉͆
 * i͉̇
-* ȉ̙
-* i̙̋
-* i̙͊
+* i͉͌
+* i͉̅
+* i͉̋
+* ȉ͉
+* i͉͆
+* i͉̊
+* ǐ͉
+* i͉͊
+* i̦̽
+* i̦͋
+* i̦̇
+* i̦͌
+* i̦̅
+* i̦̋
+* ȉ̦
+* i̦͆
+* i̦̊
+* ǐ̦
+* i̦͊
+* i̞̽
+* i̞͋
+* i̞̇
+* i̞͌
+* i̞̅
+* i̞̋
+* ȉ̞
+* i̞͆
+* i̞̊
+* ǐ̞
+* i̞͊
+* i̴̽
+* i̴͋
+* i̴̇
+* i̴͌
+* i̴̅
+* i̴̋
+* ȉ̴
+* i̴͆
+* i̴̊
+* ǐ̴
+* i̴͊
+* i̟̽
+* i̟͋
+* i̟̇
+* i̟͌
+* i̟̅
+* i̟̋
+* ȉ̟
+* i̟͆
+* i̟̊
+* ǐ̟
+* i̟͊
+* i̘̽
+* i̘͋
+* i̘̇
+* i̘͌
+* i̘̅
+* i̘̋
+* ȉ̘
+* i̘͆
+* i̘̊
+* ǐ̘
+* i̘͊
+* i̠̽
+* i̠͋
+* i̠̇
+* i̠͌
+* i̠̅
+* i̠̋
+* ȉ̠
+* i̠͆
+* i̠̊
+* ǐ̠
+* i̠͊
 * i̙̽
 * i̙͋
-* i̙̅
-* i̙͌
-* ǐ̙
-* i̙̊
-* i̙͆
 * i̙̇
-* ȉ
-* i͊
+* i̙͌
+* i̙̅
+* i̙̋
+* ȉ̙
+* i̙͆
+* i̙̊
+* ǐ̙
+* i̙͊
+* i̺̽
+* i̺͋
+* i̺̇
+* i̺͌
+* i̺̅
+* i̺̋
+* ȉ̺
+* i̺͆
+* i̺̊
+* ǐ̺
+* i̺͊
+* i̼̽
+* i̼͋
+* i̼̇
+* i̼͌
+* i̼̅
+* i̼̋
+* ȉ̼
+* i̼͆
+* i̼̊
+* ǐ̼
+* i̼͊
+* i͍̽
+* i͍͋
+* i͍̇
+* i͍͌
+* i͍̅
+* i͍̋
+* ȉ͍
+* i͍͆
+* i͍̊
+* ǐ͍
+* i͍͊
+* i̤̽
+* i̤͋
+* i̤̇
+* i̤͌
+* i̤̅
+* i̤̋
+* ȉ̤
+* i̤͆
+* i̤̊
+* ǐ̤
+* i̤͊
+* i̻̽
+* i̻͋
+* i̻̇
+* i̻͌
+* i̻̅
+* i̻̋
+* ȉ̻
+* i̻͆
+* i̻̊
+* ǐ̻
+* i̻͊
+* i͈̽
+* i͈͋
+* i͈̇
+* i͈͌
+* i͈̅
+* i͈̋
+* ȉ͈
+* i͈͆
+* i͈̊
+* ǐ͈
+* i͈͊
+* i̬̽
+* i̬͋
+* i̬̇
+* i̬͌
+* i̬̅
+* i̬̋
+* ȉ̬
+* i̬͆
+* i̬̊
+* ǐ̬
+* i̬͊
+* i͎̽
+* i͎͋
+* i͎̇
+* i͎͌
+* i͎̅
+* i͎̋
+* ȉ͎
+* i͎͆
+* i͎̊
+* ǐ͎
+* i͎͊
+* i̹̽
+* i̹͋
+* i̹̇
+* i̹͌
+* i̹̅
+* i̹̋
+* ȉ̹
+* i̹͆
+* i̹̊
+* ǐ̹
+* i̹͊
 * i̽
 * i͋
-* i̅
+* i̇
 * i͌
-* ǐ
+* i̅
+* ȉ
 * i͆
-* i̇ [code: soft-dotted]
+* ǐ
+* i͊
+* ʲ͇̆
+* ʲ͇̄
+* ʲ͇̽
+* ʲ͇̀
+* ʲ͇̂
+* ʲ͇͋
+* ʲ͇̇
+* ʲ͇͌
+* ʲ͇̈
+* ʲ͇́
+* ʲ͇̅
+* ʲ͇̋
+* ʲ͇̏
+* ʲ͇͆
+* ʲ͇̊
+* ʲ͇̃
+* ʲ͇̌
+* ʲ͇͊
+* ʲ̥̆
+* ʲ̥̄
+* ʲ̥̽
+* ʲ̥̀
+* ʲ̥̂
+* ʲ̥͋
+* ʲ̥̇
+* ʲ̥͌
+* ʲ̥̈
+* ʲ̥́
+* ʲ̥̅
+* ʲ̥̋
+* ʲ̥̏
+* ʲ̥͆
+* ʲ̥̊
+* ʲ̥̃
+* ʲ̥̌
+* ʲ̥͊
+* ʲ̪̆
+* ʲ̪̄
+* ʲ̪̽
+* ʲ̪̀
+* ʲ̪̂
+* ʲ̪͋
+* ʲ̪̇
+* ʲ̪͌
+* ʲ̪̈
+* ʲ̪́
+* ʲ̪̅
+* ʲ̪̋
+* ʲ̪̏
+* ʲ̪͆
+* ʲ̪̊
+* ʲ̪̃
+* ʲ̪̌
+* ʲ̪͊
+* ʲ̧̆
+* ʲ̧̄
+* ʲ̧̽
+* ʲ̧̀
+* ʲ̧̂
+* ʲ̧͋
+* ʲ̧̇
+* ʲ̧͌
+* ʲ̧̈
+* ʲ̧́
+* ʲ̧̅
+* ʲ̧̋
+* ʲ̧̏
+* ʲ̧͆
+* ʲ̧̊
+* ʲ̧̃
+* ʲ̧̌
+* ʲ̧͊
+* ʲ̰̆
+* ʲ̰̄
+* ʲ̰̽
+* ʲ̰̀
+* ʲ̰̂
+* ʲ̰͋
+* ʲ̰̇
+* ʲ̰͌
+* ʲ̰̈
+* ʲ̰́
+* ʲ̰̅
+* ʲ̰̋
+* ʲ̰̏
+* ʲ̰͆
+* ʲ̰̊
+* ʲ̰̃
+* ʲ̰̌
+* ʲ̰͊
+* ʲ̜̆
+* ʲ̜̄
+* ʲ̜̽
+* ʲ̜̀
+* ʲ̜̂
+* ʲ̜͋
+* ʲ̜̇
+* ʲ̜͌
+* ʲ̜̈
+* ʲ̜́
+* ʲ̜̅
+* ʲ̜̋
+* ʲ̜̏
+* ʲ̜͆
+* ʲ̜̊
+* ʲ̜̃
+* ʲ̜̌
+* ʲ̜͊
+* ʲ̲̆
+* ʲ̲̄
+* ʲ̲̽
+* ʲ̲̀
+* ʲ̲̂
+* ʲ̲͋
+* ʲ̲̇
+* ʲ̲͌
+* ʲ̲̈
+* ʲ̲́
+* ʲ̲̅
+* ʲ̲̋
+* ʲ̲̏
+* ʲ̲͆
+* ʲ̲̊
+* ʲ̲̃
+* ʲ̲̌
+* ʲ̲͊
+* ʲ̩̆
+* ʲ̩̄
+* ʲ̩̽
+* ʲ̩̀
+* ʲ̩̂
+* ʲ̩͋
+* ʲ̩̇
+* ʲ̩͌
+* ʲ̩̈
+* ʲ̩́
+* ʲ̩̅
+* ʲ̩̋
+* ʲ̩̏
+* ʲ̩͆
+* ʲ̩̊
+* ʲ̩̃
+* ʲ̩̌
+* ʲ̩͊
+* ʲ̝̆
+* ʲ̝̄
+* ʲ̝̽
+* ʲ̝̀
+* ʲ̝̂
+* ʲ̝͋
+* ʲ̝̇
+* ʲ̝͌
+* ʲ̝̈
+* ʲ̝́
+* ʲ̝̅
+* ʲ̝̋
+* ʲ̝̏
+* ʲ̝͆
+* ʲ̝̊
+* ʲ̝̃
+* ʲ̝̌
+* ʲ̝͊
+* ʲ͉̆
+* ʲ͉̄
+* ʲ͉̽
+* ʲ͉̀
+* ʲ͉̂
+* ʲ͉͋
+* ʲ͉̇
+* ʲ͉͌
+* ʲ͉̈
+* ʲ͉́
+* ʲ͉̅
+* ʲ͉̋
+* ʲ͉̏
+* ʲ͉͆
+* ʲ͉̊
+* ʲ͉̃
+* ʲ͉̌
+* ʲ͉͊
+* ʲ̦̆
+* ʲ̦̄
+* ʲ̦̽
+* ʲ̦̀
+* ʲ̦̂
+* ʲ̦͋
+* ʲ̦̇
+* ʲ̦͌
+* ʲ̦̈
+* ʲ̦́
+* ʲ̦̅
+* ʲ̦̋
+* ʲ̦̏
+* ʲ̦͆
+* ʲ̦̊
+* ʲ̦̃
+* ʲ̦̌
+* ʲ̦͊
+* ʲ̞̆
+* ʲ̞̄
+* ʲ̞̽
+* ʲ̞̀
+* ʲ̞̂
+* ʲ̞͋
+* ʲ̞̇
+* ʲ̞͌
+* ʲ̞̈
+* ʲ̞́
+* ʲ̞̅
+* ʲ̞̋
+* ʲ̞̏
+* ʲ̞͆
+* ʲ̞̊
+* ʲ̞̃
+* ʲ̞̌
+* ʲ̞͊
+* ʲ̨̆
+* ʲ̨̄
+* ʲ̨̽
+* ʲ̨̀
+* ʲ̨̂
+* ʲ̨͋
+* ʲ̨̇
+* ʲ̨͌
+* ʲ̨̈
+* ʲ̨́
+* ʲ̨̅
+* ʲ̨̋
+* ʲ̨̏
+* ʲ̨͆
+* ʲ̨̊
+* ʲ̨̃
+* ʲ̨̌
+* ʲ̨͊
+* ʲ̴̆
+* ʲ̴̄
+* ʲ̴̽
+* ʲ̴̀
+* ʲ̴̂
+* ʲ̴͋
+* ʲ̴̇
+* ʲ̴͌
+* ʲ̴̈
+* ʲ̴́
+* ʲ̴̅
+* ʲ̴̋
+* ʲ̴̏
+* ʲ̴͆
+* ʲ̴̊
+* ʲ̴̃
+* ʲ̴̌
+* ʲ̴͊
+* ʲ̟̆
+* ʲ̟̄
+* ʲ̟̽
+* ʲ̟̀
+* ʲ̟̂
+* ʲ̟͋
+* ʲ̟̇
+* ʲ̟͌
+* ʲ̟̈
+* ʲ̟́
+* ʲ̟̅
+* ʲ̟̋
+* ʲ̟̏
+* ʲ̟͆
+* ʲ̟̊
+* ʲ̟̃
+* ʲ̟̌
+* ʲ̟͊
+* ʲ̘̆
+* ʲ̘̄
+* ʲ̘̽
+* ʲ̘̀
+* ʲ̘̂
+* ʲ̘͋
+* ʲ̘̇
+* ʲ̘͌
+* ʲ̘̈
+* ʲ̘́
+* ʲ̘̅
+* ʲ̘̋
+* ʲ̘̏
+* ʲ̘͆
+* ʲ̘̊
+* ʲ̘̃
+* ʲ̘̌
+* ʲ̘͊
+* ʲ̠̆
+* ʲ̠̄
+* ʲ̠̽
+* ʲ̠̀
+* ʲ̠̂
+* ʲ̠͋
+* ʲ̠̇
+* ʲ̠͌
+* ʲ̠̈
+* ʲ̠́
+* ʲ̠̅
+* ʲ̠̋
+* ʲ̠̏
+* ʲ̠͆
+* ʲ̠̊
+* ʲ̠̃
+* ʲ̠̌
+* ʲ̠͊
+* ʲ̙̆
+* ʲ̙̄
+* ʲ̙̽
+* ʲ̙̀
+* ʲ̙̂
+* ʲ̙͋
+* ʲ̙̇
+* ʲ̙͌
+* ʲ̙̈
+* ʲ̙́
+* ʲ̙̅
+* ʲ̙̋
+* ʲ̙̏
+* ʲ̙͆
+* ʲ̙̊
+* ʲ̙̃
+* ʲ̙̌
+* ʲ̙͊
+* ʲ̺̆
+* ʲ̺̄
+* ʲ̺̽
+* ʲ̺̀
+* ʲ̺̂
+* ʲ̺͋
+* ʲ̺̇
+* ʲ̺͌
+* ʲ̺̈
+* ʲ̺́
+* ʲ̺̅
+* ʲ̺̋
+* ʲ̺̏
+* ʲ̺͆
+* ʲ̺̊
+* ʲ̺̃
+* ʲ̺̌
+* ʲ̺͊
+* ʲ̼̆
+* ʲ̼̄
+* ʲ̼̽
+* ʲ̼̀
+* ʲ̼̂
+* ʲ̼͋
+* ʲ̼̇
+* ʲ̼͌
+* ʲ̼̈
+* ʲ̼́
+* ʲ̼̅
+* ʲ̼̋
+* ʲ̼̏
+* ʲ̼͆
+* ʲ̼̊
+* ʲ̼̃
+* ʲ̼̌
+* ʲ̼͊
+* ʲ͍̆
+* ʲ͍̄
+* ʲ͍̽
+* ʲ͍̀
+* ʲ͍̂
+* ʲ͍͋
+* ʲ͍̇
+* ʲ͍͌
+* ʲ͍̈
+* ʲ͍́
+* ʲ͍̅
+* ʲ͍̋
+* ʲ͍̏
+* ʲ͍͆
+* ʲ͍̊
+* ʲ͍̃
+* ʲ͍̌
+* ʲ͍͊
+* ʲ̤̆
+* ʲ̤̄
+* ʲ̤̽
+* ʲ̤̀
+* ʲ̤̂
+* ʲ̤͋
+* ʲ̤̇
+* ʲ̤͌
+* ʲ̤̈
+* ʲ̤́
+* ʲ̤̅
+* ʲ̤̋
+* ʲ̤̏
+* ʲ̤͆
+* ʲ̤̊
+* ʲ̤̃
+* ʲ̤̌
+* ʲ̤͊
+* ʲ̻̆
+* ʲ̻̄
+* ʲ̻̽
+* ʲ̻̀
+* ʲ̻̂
+* ʲ̻͋
+* ʲ̻̇
+* ʲ̻͌
+* ʲ̻̈
+* ʲ̻́
+* ʲ̻̅
+* ʲ̻̋
+* ʲ̻̏
+* ʲ̻͆
+* ʲ̻̊
+* ʲ̻̃
+* ʲ̻̌
+* ʲ̻͊
+* ʲ͈̆
+* ʲ͈̄
+* ʲ͈̽
+* ʲ͈̀
+* ʲ͈̂
+* ʲ͈͋
+* ʲ͈̇
+* ʲ͈͌
+* ʲ͈̈
+* ʲ͈́
+* ʲ͈̅
+* ʲ͈̋
+* ʲ͈̏
+* ʲ͈͆
+* ʲ͈̊
+* ʲ͈̃
+* ʲ͈̌
+* ʲ͈͊
+* ʲ̬̆
+* ʲ̬̄
+* ʲ̬̽
+* ʲ̬̀
+* ʲ̬̂
+* ʲ̬͋
+* ʲ̬̇
+* ʲ̬͌
+* ʲ̬̈
+* ʲ̬́
+* ʲ̬̅
+* ʲ̬̋
+* ʲ̬̏
+* ʲ̬͆
+* ʲ̬̊
+* ʲ̬̃
+* ʲ̬̌
+* ʲ̬͊
+* ʲ͎̆
+* ʲ͎̄
+* ʲ͎̽
+* ʲ͎̀
+* ʲ͎̂
+* ʲ͎͋
+* ʲ͎̇
+* ʲ͎͌
+* ʲ͎̈
+* ʲ͎́
+* ʲ͎̅
+* ʲ͎̋
+* ʲ͎̏
+* ʲ͎͆
+* ʲ͎̊
+* ʲ͎̃
+* ʲ͎̌
+* ʲ͎͊
+* ʲ̹̆
+* ʲ̹̄
+* ʲ̹̽
+* ʲ̹̀
+* ʲ̹̂
+* ʲ̹͋
+* ʲ̹̇
+* ʲ̹͌
+* ʲ̹̈
+* ʲ̹́
+* ʲ̹̅
+* ʲ̹̋
+* ʲ̹̏
+* ʲ̹͆
+* ʲ̹̊
+* ʲ̹̃
+* ʲ̹̌
+* ʲ̹͊
+* ʲ̆
+* ʲ̄
+* ʲ̽
+* ʲ̀
+* ʲ̂
+* ʲ͋
+* ʲ̇
+* ʲ͌
+* ʲ̈
+* ʲ́
+* ʲ̅
+* ʲ̋
+* ʲ̏
+* ʲ͆
+* ʲ̊
+* ʲ̃
+* ʲ̌
+* ʲ͊
+* j͇̆
+* j͇̄
+* j͇̽
+* j͇̀
+* j͇͋
+* j͇̇
+* j͇͌
+* j͇̈
+* j͇́
+* j͇̅
+* j͇̋
+* j͇̏
+* j͇͆
+* j͇̊
+* j͇̃
+* ǰ͇
+* j͇͊
+* j̥̆
+* j̥̄
+* j̥̽
+* j̥̀
+* j̥͋
+* j̥̇
+* j̥͌
+* j̥̈
+* j̥́
+* j̥̅
+* j̥̋
+* j̥̏
+* j̥͆
+* j̥̊
+* j̥̃
+* ǰ̥
+* j̥͊
+* j̪̆
+* j̪̄
+* j̪̽
+* j̪̀
+* j̪͋
+* j̪̇
+* j̪͌
+* j̪̈
+* j̪́
+* j̪̅
+* j̪̋
+* j̪̏
+* j̪͆
+* j̪̊
+* j̪̃
+* ǰ̪
+* j̪͊
+* j̧̆
+* j̧̄
+* j̧̽
+* j̧̀
+* j̧͋
+* j̧̇
+* j̧͌
+* j̧̈
+* j̧́
+* j̧̅
+* j̧̋
+* j̧̏
+* j̧͆
+* j̧̊
+* j̧̃
+* ǰ̧
+* j̧͊
+* j̰̆
+* j̰̄
+* j̰̽
+* j̰̀
+* j̰͋
+* j̰̇
+* j̰͌
+* j̰̈
+* j̰́
+* j̰̅
+* j̰̋
+* j̰̏
+* j̰͆
+* j̰̊
+* j̰̃
+* ǰ̰
+* j̰͊
+* j̜̆
+* j̜̄
+* j̜̽
+* j̜̀
+* j̜͋
+* j̜̇
+* j̜͌
+* j̜̈
+* j̜́
+* j̜̅
+* j̜̋
+* j̜̏
+* j̜͆
+* j̜̊
+* j̜̃
+* ǰ̜
+* j̜͊
+* j̲̆
+* j̲̄
+* j̲̽
+* j̲̀
+* j̲͋
+* j̲̇
+* j̲͌
+* j̲̈
+* j̲́
+* j̲̅
+* j̲̋
+* j̲̏
+* j̲͆
+* j̲̊
+* j̲̃
+* ǰ̲
+* j̲͊
+* j̩̆
+* j̩̄
+* j̩̽
+* j̩̀
+* j̩͋
+* j̩̇
+* j̩͌
+* j̩̈
+* j̩́
+* j̩̅
+* j̩̋
+* j̩̏
+* j̩͆
+* j̩̊
+* j̩̃
+* ǰ̩
+* j̩͊
+* j̝̆
+* j̝̄
+* j̝̽
+* j̝̀
+* j̝͋
+* j̝̇
+* j̝͌
+* j̝̈
+* j̝́
+* j̝̅
+* j̝̋
+* j̝̏
+* j̝͆
+* j̝̊
+* j̝̃
+* ǰ̝
+* j̝͊
+* j͉̆
+* j͉̄
+* j͉̽
+* j͉̀
+* j͉͋
+* j͉̇
+* j͉͌
+* j͉̈
+* j͉́
+* j͉̅
+* j͉̋
+* j͉̏
+* j͉͆
+* j͉̊
+* j͉̃
+* ǰ͉
+* j͉͊
+* j̦̆
+* j̦̄
+* j̦̽
+* j̦̀
+* j̦͋
+* j̦̇
+* j̦͌
+* j̦̈
+* j̦́
+* j̦̅
+* j̦̋
+* j̦̏
+* j̦͆
+* j̦̊
+* j̦̃
+* ǰ̦
+* j̦͊
+* j̞̆
+* j̞̄
+* j̞̽
+* j̞̀
+* j̞͋
+* j̞̇
+* j̞͌
+* j̞̈
+* j̞́
+* j̞̅
+* j̞̋
+* j̞̏
+* j̞͆
+* j̞̊
+* j̞̃
+* ǰ̞
+* j̞͊
+* j̨̆
+* j̨̄
+* j̨̽
+* j̨̀
+* j̨͋
+* j̨̇
+* j̨͌
+* j̨̈
+* j̨́
+* j̨̅
+* j̨̋
+* j̨̏
+* j̨͆
+* j̨̊
+* j̨̃
+* ǰ̨
+* j̨͊
+* j̴̆
+* j̴̄
+* j̴̽
+* j̴̀
+* j̴͋
+* j̴̇
+* j̴͌
+* j̴̈
+* j̴́
+* j̴̅
+* j̴̋
+* j̴̏
+* j̴͆
+* j̴̊
+* j̴̃
+* ǰ̴
+* j̴͊
+* j̟̆
+* j̟̄
+* j̟̽
+* j̟̀
+* j̟͋
+* j̟̇
+* j̟͌
+* j̟̈
+* j̟́
+* j̟̅
+* j̟̋
+* j̟̏
+* j̟͆
+* j̟̊
+* j̟̃
+* ǰ̟
+* j̟͊
+* j̘̆
+* j̘̄
+* j̘̽
+* j̘̀
+* j̘͋
+* j̘̇
+* j̘͌
+* j̘̈
+* j̘́
+* j̘̅
+* j̘̋
+* j̘̏
+* j̘͆
+* j̘̊
+* j̘̃
+* ǰ̘
+* j̘͊
+* j̠̆
+* j̠̄
+* j̠̽
+* j̠̀
+* j̠͋
+* j̠̇
+* j̠͌
+* j̠̈
+* j̠́
+* j̠̅
+* j̠̋
+* j̠̏
+* j̠͆
+* j̠̊
+* j̠̃
+* ǰ̠
+* j̠͊
+* j̙̆
+* j̙̄
+* j̙̽
+* j̙̀
+* j̙͋
+* j̙̇
+* j̙͌
+* j̙̈
+* j̙́
+* j̙̅
+* j̙̋
+* j̙̏
+* j̙͆
+* j̙̊
+* j̙̃
+* ǰ̙
+* j̙͊
+* j̺̆
+* j̺̄
+* j̺̽
+* j̺̀
+* j̺͋
+* j̺̇
+* j̺͌
+* j̺̈
+* j̺́
+* j̺̅
+* j̺̋
+* j̺̏
+* j̺͆
+* j̺̊
+* j̺̃
+* ǰ̺
+* j̺͊
+* j̼̆
+* j̼̄
+* j̼̽
+* j̼̀
+* j̼͋
+* j̼̇
+* j̼͌
+* j̼̈
+* j̼́
+* j̼̅
+* j̼̋
+* j̼̏
+* j̼͆
+* j̼̊
+* j̼̃
+* ǰ̼
+* j̼͊
+* j͍̆
+* j͍̄
+* j͍̽
+* j͍̀
+* j͍͋
+* j͍̇
+* j͍͌
+* j͍̈
+* j͍́
+* j͍̅
+* j͍̋
+* j͍̏
+* j͍͆
+* j͍̊
+* j͍̃
+* ǰ͍
+* j͍͊
+* j̤̆
+* j̤̄
+* j̤̽
+* j̤̀
+* j̤͋
+* j̤̇
+* j̤͌
+* j̤̈
+* j̤́
+* j̤̅
+* j̤̋
+* j̤̏
+* j̤͆
+* j̤̊
+* j̤̃
+* ǰ̤
+* j̤͊
+* j̻̆
+* j̻̄
+* j̻̽
+* j̻̀
+* j̻͋
+* j̻̇
+* j̻͌
+* j̻̈
+* j̻́
+* j̻̅
+* j̻̋
+* j̻̏
+* j̻͆
+* j̻̊
+* j̻̃
+* ǰ̻
+* j̻͊
+* j͈̆
+* j͈̄
+* j͈̽
+* j͈̀
+* j͈͋
+* j͈̇
+* j͈͌
+* j͈̈
+* j͈́
+* j͈̅
+* j͈̋
+* j͈̏
+* j͈͆
+* j͈̊
+* j͈̃
+* ǰ͈
+* j͈͊
+* j̬̆
+* j̬̄
+* j̬̽
+* j̬̀
+* j̬͋
+* j̬̇
+* j̬͌
+* j̬̈
+* j̬́
+* j̬̅
+* j̬̋
+* j̬̏
+* j̬͆
+* j̬̊
+* j̬̃
+* ǰ̬
+* j̬͊
+* j͎̆
+* j͎̄
+* j͎̽
+* j͎̀
+* j͎͋
+* j͎̇
+* j͎͌
+* j͎̈
+* j͎́
+* j͎̅
+* j͎̋
+* j͎̏
+* j͎͆
+* j͎̊
+* j͎̃
+* ǰ͎
+* j͎͊
+* j̹̆
+* j̹̄
+* j̹̽
+* j̹̀
+* j̹͋
+* j̹̇
+* j̹͌
+* j̹̈
+* j̹́
+* j̹̅
+* j̹̋
+* j̹̏
+* j̹͆
+* j̹̊
+* j̹̃
+* ǰ̹
+* j̹͊
+* j̆
+* j̽
+* j͋
+* j̇
+* j͌
+* j̅
+* j̋
+* j̏
+* j͆
+* j̊
+* ǰ
+* j͊ [code: soft-dotted]
   
   
 
@@ -6115,8 +6055,8 @@ If you registered it recently, then it's safe to ignore this warning message. Ot
 
 | 🔥 FAIL | ⚠️ WARN | ℹ️ INFO | ✅ PASS | ⏩ SKIP | 
 | ---|---|---|---|---|
-| 5 | 11 | 7 | 112 | 46 | 
-| 3% | 6% | 4% | 63% | 26% | 
+| 5 | 12 | 7 | 111 | 46 | 
+| 3% | 7% | 4% | 62% | 26% | 
 
 
 
