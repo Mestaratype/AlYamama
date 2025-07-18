@@ -21852,7 +21852,7 @@ KernOnName = i;
 color = 4;
 glyphname = dotlessi;
 kernLeft = KO_r;
-lastChange = "2025-07-18 14:12:27 +0000";
+lastChange = "2025-07-18 20:48:56 +0000";
 layers = (
 {
 anchors = (
@@ -21951,7 +21951,6 @@ com.hugojourdan.ColorFlow = {
 width = 266;
 }
 );
-unicode = 305;
 },
 {
 glyphname = idotless;
