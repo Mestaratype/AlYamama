@@ -1,4 +1,4 @@
-# My Font
+# Alyamama
 
 [![][Fontspector]](https://mestaratype.github.io/AlYamama/fontspector/fontspector-report.html)
 [![][OpenType]](https://mestaratype.github.io/AlYamama/fontspector/fontspector-report.html)
