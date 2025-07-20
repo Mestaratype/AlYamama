@@ -18,9 +18,9 @@ import argparse
 WIDTH, HEIGHT, MARGIN, FRAMES = 2048, 320, 64, 1
 FONT_PATH = "fonts/ttf/Alyamama-Black.ttf"
 
-BIG_TEXT = "اليمامة"
+BIG_TEXT = "Alyamama اليمامـــة"
 BIG_TEXT_FONT_SIZE = 200
-BIG_TEXT_SIDE_MARGIN = WIDTH - MARGIN * 1
+BIG_TEXT_SIDE_MARGIN = WIDTH /2
 BIG_TEXT_BOTTOM_MARGIN = MARGIN * 1.7
 
 
@@ -69,8 +69,7 @@ def draw_main_text():
     # has support for textBox() and FormattedString
     #text(BIG_TEXT, ((WIDTH / 2) - MARGIN * 4.75, (HEIGHT / 2) - MARGIN * 2.5))
     #text(BIG_TEXT, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN))
-    text("Alyamama", (MARGIN, BIG_TEXT_BOTTOM_MARGIN), align="left")
-    text("اليمامـــة", (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN), align="right")
+    text(BIG_TEXT, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN), "center")
 
 
 

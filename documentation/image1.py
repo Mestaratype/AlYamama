@@ -22,11 +22,10 @@ AUXILIARY_FONT = "Helvetica"
 AUXILIARY_FONT_SIZE = 36
 
 BIG_TEXT = "أبجدهوز"
-BIG_TEXT_FONT_SIZE = 520
-BIG_TEXT_SIDE_MARGIN = WIDTH - MARGIN * 1
-BIG_TEXT_BOTTOM_MARGIN = MARGIN * 2.7
+BIG_TEXT_FONT_SIZE = 500
+BIG_TEXT_SIDE_MARGIN = WIDTH /2
+BIG_TEXT_BOTTOM_MARGIN = MARGIN * 3
 
-GRID_VIEW = False # Toggle this for a grid overlay
 
 # Handel the "--output" flag
 # For example: $ python3 documentation/image1.py --output documentation/image1.png
@@ -46,23 +45,6 @@ FONT_NAME = ttFont["name"].getDebugName(4)
 FONT_VERSION = "v%s" % floatToFixedToStr(ttFont["head"].fontRevision, 16)
 
 
-# Draws a grid
-def grid():
-    stroke(1, 0, 0, 0.75)
-    strokeWidth(2)
-    STEP_X, STEP_Y = 0, 0
-    INCREMENT_X, INCREMENT_Y = MARGIN / 2, MARGIN / 2
-    rect(MARGIN, MARGIN, WIDTH - (MARGIN * 2), HEIGHT - (MARGIN * 2))
-    for x in range(29):
-        polygon((MARGIN + STEP_X, MARGIN), (MARGIN + STEP_X, HEIGHT - MARGIN))
-        STEP_X += INCREMENT_X
-    for y in range(29):
-        polygon((MARGIN, MARGIN + STEP_Y), (WIDTH - MARGIN, MARGIN + STEP_Y))
-        STEP_Y += INCREMENT_Y
-    polygon((WIDTH / 2, 0), (WIDTH / 2, HEIGHT))
-    polygon((0, HEIGHT / 2), (WIDTH, HEIGHT / 2))
-
-
 # Remap input range to VF axis range
 # This is useful for animation
 # (E.g. sinewave(-1,1) to wght(100,900))
@@ -78,10 +60,6 @@ def draw_background():
     newPage(WIDTH, HEIGHT)
     fill(0)
     rect(-2, -2, WIDTH + 2, HEIGHT + 2)
-    if GRID_VIEW:
-        grid()
-    else:
-        pass
 
 
 # Draw main text
@@ -95,7 +73,7 @@ def draw_main_text():
     # has support for textBox() and FormattedString
     #text(BIG_TEXT, ((WIDTH / 2) - MARGIN * 4.75, (HEIGHT / 2) - MARGIN * 2.5))
     # text(BIG_TEXT,(WIDTH  - MARGIN, (HEIGHT / 2)))
-    text(BIG_TEXT, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN))
+    text(BIG_TEXT, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN), "center")
 
 
 # Divider lines

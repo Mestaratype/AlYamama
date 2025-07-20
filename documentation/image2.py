@@ -21,12 +21,12 @@ FONT_LICENSE = "OFL v1.1"
 AUXILIARY_FONT = "Helvetica"
 AUXILIARY_FONT_SIZE = 36
 
-LINE_ONE   = "اأبتثجحخدذرزسشص"
-LINE_TWO   = "ضطظعغفقكلمنهو١٢٣"
-LINE_THREE = "٤٥٦٧٨٩٠ىيئءؤإآةى"
+LINE_ONE   = "أبجد هوز حطي كلمن"
+LINE_TWO   = "سعفص قرشت ثخذ ضظغ"
+LINE_THREE = "الأرقام١٢٣٤٥٦٧٨٩٠"
 LINE_FOUR  = "ا.;:!@#$%^&*(){}[]"
 BIG_TEXT_FONT_SIZE = 150
-BIG_TEXT_SIDE_MARGIN = WIDTH - MARGIN * 1
+BIG_TEXT_SIDE_MARGIN = WIDTH /2
 BIG_TEXT_BOTTOM_MARGIN = MARGIN * 5.45
 
 GRID_VIEW = False # Toggle this for a grid overlay
@@ -97,10 +97,10 @@ def draw_main_text():
     # TODO: This should be done automatically when drawbot-skia
     # has support for textBox() and FormattedString
     LEADING = 1.2
-    text(LINE_ONE, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN))
-    text(LINE_TWO, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN - (MARGIN * LEADING)))
-    text(LINE_THREE, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN - (MARGIN * (LEADING * 2))))
-    text(LINE_FOUR, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN - (MARGIN * (LEADING * 3))))
+    text(LINE_ONE, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN), "center")
+    text(LINE_TWO, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN - (MARGIN * LEADING)), "center")
+    text(LINE_THREE, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN - (MARGIN * (LEADING * 2))), "center")
+    text(LINE_FOUR, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN - (MARGIN * (LEADING * 3))), "center")
 
 
 # Divider lines
