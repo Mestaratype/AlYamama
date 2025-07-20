@@ -15,16 +15,13 @@ import sys
 import argparse
 
 # Constants, these are the main "settings" for the image
-WIDTH, HEIGHT, MARGIN, FRAMES = 2048, 512, 128, 1
+WIDTH, HEIGHT, MARGIN, FRAMES = 2048, 320, 64, 1
 FONT_PATH = "fonts/ttf/Alyamama-Black.ttf"
-FONT_LICENSE = "OFL v1.1"
-AUXILIARY_FONT = "Helvetica"
-AUXILIARY_FONT_SIZE = 48
 
 BIG_TEXT = "اليمامة"
-BIG_TEXT_FONT_SIZE = 300
+BIG_TEXT_FONT_SIZE = 200
 BIG_TEXT_SIDE_MARGIN = WIDTH - MARGIN * 1
-BIG_TEXT_BOTTOM_MARGIN = MARGIN * 2
+BIG_TEXT_BOTTOM_MARGIN = MARGIN * 1.7
 
 
 # Handel the "--output" flag
@@ -71,7 +68,11 @@ def draw_main_text():
     # TODO: This should be done automatically when drawbot-skia
     # has support for textBox() and FormattedString
     #text(BIG_TEXT, ((WIDTH / 2) - MARGIN * 4.75, (HEIGHT / 2) - MARGIN * 2.5))
-    text(BIG_TEXT, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN))
+    #text(BIG_TEXT, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN))
+    text("Alyamama", (MARGIN, BIG_TEXT_BOTTOM_MARGIN), align="left")
+    text("اليمامـــة", (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN), align="right")
+
+
 
 # Build and save the image
 if __name__ == "__main__":

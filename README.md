@@ -13,10 +13,11 @@
 [Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fmestaratype.github.io%2FAlYamama%2Fbadges%2FOutlineCorrectnessChecks.json
 [Glyphset]: https://img.shields.io/endpoint?url=https%3A%2F%2Fmestaratype.github.io%2FAlYamama%2Fbadges%2FGlyphsetChecks.json
 
+![Sample Image](documentation/image0.png)
+
 **Alyamama**, is a variable Arabic typeface with a classic Naskh design with sharp, simple strokes that provide clarity and refined contrast, making it suitable for advertising, signage, and for both headlines and body text.
 
-The Latin glyphs in **Alyamama** are based on the open-source  typeface [**UNAL Ancízar**](https://github.com/UNAL-OMD/UNAL-Ancizar).  
-
+The Latin glyphs are based on the open-source typeface [**UNAL Ancízar**](https://github.com/UNAL-OMD/UNAL-Ancizar).
 
 ## Design Concept
 
@@ -24,7 +25,7 @@ The Latin glyphs in **Alyamama** are based on the open-source  typeface [**UNAL 
 
 - **Variable font**: Alyamama supports infinite weight variations, allowing seamless interpolation between thin and bold styles.
 - **Simplified and geometric**: Designed with minimal yet refined outlines that speed up text rendering and improve performance.
-- **Optically adjusted**: Careful attention to spacing and stem heights ensures visual harmony and readabilitye in both large display and small text sizes.
+- **Optically adjusted**: Careful attention to spacing and stem heights ensures visual harmony and readability in both large display and small text sizes.
 - **Calligraphic integrity**: Each glyph is carefully derived from the traditional Naskh style, preserving the beauty of Arabic calligraphy.
 - **Wide forms**: Certain letters such as *مـ، هـ، ط* have been expanded for clarity at small sizes.
 
