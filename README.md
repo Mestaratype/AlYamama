@@ -20,12 +20,12 @@ The Latin glyphs in **Alyamama** are based on the open-source  typeface [**UNAL 
 
 ## Design Concept
 
- **Alyamama** typeface is a Naskh-style advertising font similar to (e.g., Buotros Ads, Muna, Al Mohannad Bold, Sakkal Majalla). However, Alyamama sets itself apart with a more streamlined and geometric structure, offering improved legibility and performance in modern digital environments.
+ **Alyamama** typeface is a Naskh-style advertising font. This isn’t another Buotros Ads, Muna, or Al Mohannad Bold. **Alyamama** a new generation of Arabic typefaces that blend the elegance of traditional Naskh with modern design technolegies. Built as a variable font with clean, optimized outlines, it’s engineered for today’s high-resolution screens.
 
 - **Variable font**: Alyamama supports infinite weight variations, allowing seamless interpolation between thin and bold styles.
-- **Simplified and geometric**: Designed with minimal yet refined outlines that speed up text rendering and improve readability.
-- **Optically adjusted spacing**: Careful attention to spacing ensures excellent performance in both large display settings and small sizes.
-- **Calligraphic integrity**: Each glyph is carefully referenced from the classical Naskh style, preserving the heritage of Arabic calligraphy.
+- **Simplified and geometric**: Designed with minimal yet refined outlines that speed up text rendering and improve performance.
+- **Optically adjusted**: Careful attention to spacing and stem heights ensures visual harmony and readabilitye in both large display and small text sizes.
+- **Calligraphic integrity**: Each glyph is carefully derived from the traditional Naskh style, preserving the beauty of Arabic calligraphy.
 - **Wide forms**: Certain letters such as *مـ، هـ، ط* have been expanded for clarity at small sizes.
 
 ---
