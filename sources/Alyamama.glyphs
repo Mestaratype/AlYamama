@@ -1,6 +1,11 @@
 {
 .appVersion = "3414";
 .formatVersion = 3;
+DisplayStrings = (
+"أبجد هوز حطي كلمن سعفص قرشت ثخذ ضظغ  
+
+/sheen_yehHamzaabove-ar.fina.liga"
+);
 axes = (
 {
 name = Weight;
@@ -72795,7 +72800,7 @@ metricRight = "seen-ar.init";
 },
 {
 glyphname = "seen_alefMaksura-ar.fina.liga";
-lastChange = "2025-07-20 11:59:35 +0000";
+lastChange = "2025-07-20 14:05:38 +0000";
 layers = (
 {
 hints = (
@@ -72810,18 +72815,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1343,0,l),
-(1343,76,l),
-(1171,76,l),
-(1197,0,l)
+(1342,0,l),
+(1342,76,l),
+(1170,76,l),
+(1196,0,l)
 );
 },
 {
-pos = (1,0);
 ref = "seen_alefMaksura-ar.liga";
 }
 );
-width = 1343;
+width = 1342;
 },
 {
 hints = (
@@ -73790,7 +73794,7 @@ metricRight = "sheen-ar.init";
 },
 {
 glyphname = "sheen_yehHamzaabove-ar.fina.liga";
-lastChange = "2025-07-20 13:01:05 +0000";
+lastChange = "2025-07-20 13:26:49 +0000";
 layers = (
 {
 hints = (
@@ -73805,18 +73809,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1343,0,l),
-(1343,76,l),
-(1171,76,l),
-(1197,0,l)
+(1342,0,l),
+(1342,76,l),
+(1170,76,l),
+(1196,0,l)
 );
 },
 {
-pos = (1,0);
 ref = "sheen_yehHamzaabove-ar.liga";
 }
 );
-width = 1343;
+width = 1342;
 },
 {
 hints = (
