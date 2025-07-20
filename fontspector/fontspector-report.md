@@ -12,6 +12,191 @@ fontspector version: 1.3.0
 
 
 
+<details><summary>[1] fonts/variable</summary>
+<div>
+
+
+<details>
+    <summary>⚠️ <b>WARN</b> Check for codepoints not covered by METADATA subsets. (googlefonts/metadata/unreachable_subsetting)</summary>
+    <div>
+
+
+
+
+
+
+
+
+- ⚠️ **WARN** fonts/variable/Alyamama[wght].ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.
+
+* U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
+* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
+* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, cherokee, coptic
+* U+0305 COMBINING OVERLINE: try adding one of: gothic, coptic, math, elbasan, glagolitic
+* U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
+* U+0307 COMBINING DOT ABOVE: try adding one of: coptic, old-permic, canadian-aboriginal, malayalam, hebrew, tifinagh, duployan, math, syriac, tai-le, todhri
+* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac
+* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
+* U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+* U+031A COMBINING LEFT ANGLE ABOVE: try adding math
+* U+0320 COMBINING MINUS SIGN BELOW: try adding syriac
+* U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, duployan, syriac
+* U+0325 COMBINING RING BELOW: try adding syriac
+* U+0326 COMBINING COMMA BELOW: try adding math
+* U+0327 COMBINING CEDILLA: try adding math
+* U+032C COMBINING CARON BELOW: try adding math
+* U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, math, syriac
+* U+0332 COMBINING LOW LINE: try adding math
+* U+033A COMBINING INVERTED BRIDGE BELOW: try adding math
+* U+0346 COMBINING BRIDGE ABOVE: try adding math
+* U+034D COMBINING LEFT RIGHT ARROW BELOW: try adding math
+* U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic
+* U+061F ARABIC QUESTION MARK: try adding one of: adlam, arabic, hanifi-rohingya, yezidi, nko, syriac, thaana, garay
+* U+0621 ARABIC LETTER HAMZA: try adding one of: arabic, syriac
+* U+0622 ARABIC LETTER ALEF WITH MADDA ABOVE: try adding arabic
+* U+0623 ARABIC LETTER ALEF WITH HAMZA ABOVE: try adding arabic
+* U+0624 ARABIC LETTER WAW WITH HAMZA ABOVE: try adding arabic
+* U+0625 ARABIC LETTER ALEF WITH HAMZA BELOW: try adding arabic
+* U+0626 ARABIC LETTER YEH WITH HAMZA ABOVE: try adding arabic
+* U+0627 ARABIC LETTER ALEF: try adding one of: arabic, indic-siyaq-numbers
+* U+0628 ARABIC LETTER BEH: try adding arabic
+* U+0629 ARABIC LETTER TEH MARBUTA: try adding arabic
+* U+062A ARABIC LETTER TEH: try adding arabic
+* U+062B ARABIC LETTER THEH: try adding arabic
+* U+062C ARABIC LETTER JEEM: try adding arabic
+* U+062D ARABIC LETTER HAH: try adding arabic
+* U+062E ARABIC LETTER KHAH: try adding arabic
+* U+062F ARABIC LETTER DAL: try adding arabic
+* U+0630 ARABIC LETTER THAL: try adding arabic
+* U+0631 ARABIC LETTER REH: try adding arabic
+* U+0632 ARABIC LETTER ZAIN: try adding arabic
+* U+0633 ARABIC LETTER SEEN: try adding arabic
+* U+0634 ARABIC LETTER SHEEN: try adding arabic
+* U+0635 ARABIC LETTER SAD: try adding arabic
+* U+0636 ARABIC LETTER DAD: try adding arabic
+* U+0637 ARABIC LETTER TAH: try adding arabic
+* U+0638 ARABIC LETTER ZAH: try adding arabic
+* U+0639 ARABIC LETTER AIN: try adding arabic
+* U+063A ARABIC LETTER GHAIN: try adding arabic
+* U+0640 ARABIC TATWEEL: try adding one of: arabic, mandaic, psalter-pahlavi, manichaean, adlam, hanifi-rohingya, old-uyghur, sogdian, syriac
+* U+0641 ARABIC LETTER FEH: try adding arabic
+* U+0642 ARABIC LETTER QAF: try adding arabic
+* U+0643 ARABIC LETTER KAF: try adding arabic
+* U+0644 ARABIC LETTER LAM: try adding arabic
+* U+0645 ARABIC LETTER MEEM: try adding arabic
+* U+0646 ARABIC LETTER NOON: try adding arabic
+* U+0647 ARABIC LETTER HEH: try adding arabic
+* U+0648 ARABIC LETTER WAW: try adding arabic
+* U+0649 ARABIC LETTER ALEF MAKSURA: try adding arabic
+* U+064A ARABIC LETTER YEH: try adding arabic
+* U+064B ARABIC FATHATAN: try adding one of: arabic, syriac
+* U+064C ARABIC DAMMATAN: try adding one of: syriac, arabic
+* U+064D ARABIC KASRATAN: try adding one of: arabic, syriac
+* U+064E ARABIC FATHA: try adding one of: arabic, syriac
+* U+064F ARABIC DAMMA: try adding one of: arabic, syriac
+* U+0650 ARABIC KASRA: try adding one of: arabic, syriac
+* U+0651 ARABIC SHADDA: try adding one of: syriac, arabic
+* U+0652 ARABIC SUKUN: try adding one of: syriac, arabic
+* U+0653 ARABIC MADDAH ABOVE: try adding one of: syriac, arabic
+* U+0654 ARABIC HAMZA ABOVE: try adding one of: arabic, syriac
+* U+0655 ARABIC HAMZA BELOW: try adding one of: arabic, syriac
+* U+0656 ARABIC SUBSCRIPT ALEF: try adding arabic
+* U+0660 ARABIC-INDIC DIGIT ZERO: try adding one of: arabic, indic-siyaq-numbers, syriac, hanifi-rohingya, thaana, yezidi
+* U+0661 ARABIC-INDIC DIGIT ONE: try adding one of: arabic, thaana, syriac, yezidi, indic-siyaq-numbers
+* U+0662 ARABIC-INDIC DIGIT TWO: try adding one of: thaana, arabic, syriac, indic-siyaq-numbers, yezidi
+* U+0663 ARABIC-INDIC DIGIT THREE: try adding one of: arabic, syriac, indic-siyaq-numbers, thaana, yezidi
+* U+0664 ARABIC-INDIC DIGIT FOUR: try adding one of: arabic, syriac, thaana, indic-siyaq-numbers, yezidi
+* U+0665 ARABIC-INDIC DIGIT FIVE: try adding one of: arabic, yezidi, thaana, indic-siyaq-numbers, syriac
+* U+0666 ARABIC-INDIC DIGIT SIX: try adding one of: thaana, indic-siyaq-numbers, arabic, syriac, yezidi
+* U+0667 ARABIC-INDIC DIGIT SEVEN: try adding one of: indic-siyaq-numbers, yezidi, arabic, syriac, thaana
+* U+0668 ARABIC-INDIC DIGIT EIGHT: try adding one of: indic-siyaq-numbers, arabic, syriac, thaana, yezidi
+* U+0669 ARABIC-INDIC DIGIT NINE: try adding one of: thaana, yezidi, indic-siyaq-numbers, syriac, arabic
+* U+066E ARABIC LETTER DOTLESS BEH: try adding arabic
+* U+066F ARABIC LETTER DOTLESS QAF: try adding arabic
+* U+0670 ARABIC LETTER SUPERSCRIPT ALEF: try adding one of: arabic, syriac
+* U+06A1 ARABIC LETTER DOTLESS FEH: try adding arabic
+* U+06A4 ARABIC LETTER VEH: try adding arabic
+* U+06BA ARABIC LETTER NOON GHUNNA: try adding arabic
+* U+1EBC LATIN CAPITAL LETTER E WITH TILDE: try adding vietnamese
+* U+1EBD LATIN SMALL LETTER E WITH TILDE: try adding vietnamese
+* U+2016 DOUBLE VERTICAL LINE: try adding math
+* U+2021 DOUBLE DAGGER: try adding adlam
+* U+2030 PER MILLE SIGN: try adding adlam
+* U+2070 SUPERSCRIPT ZERO: try adding math
+* U+2071 SUPERSCRIPT LATIN SMALL LETTER I: try adding math
+* U+2074 SUPERSCRIPT FOUR: try adding math
+* U+2075 SUPERSCRIPT FIVE: try adding math
+* U+2076 SUPERSCRIPT SIX: try adding math
+* U+2077 SUPERSCRIPT SEVEN: try adding math
+* U+2078 SUPERSCRIPT EIGHT: try adding math
+* U+2079 SUPERSCRIPT NINE: try adding math
+* U+207A SUPERSCRIPT PLUS SIGN: try adding math
+* U+207B SUPERSCRIPT MINUS: try adding math
+* U+207C SUPERSCRIPT EQUALS SIGN: try adding math
+* U+207D SUPERSCRIPT LEFT PARENTHESIS: try adding math
+* U+207E SUPERSCRIPT RIGHT PARENTHESIS: try adding math
+* U+207F SUPERSCRIPT LATIN SMALL LETTER N: try adding math
+* U+2080 SUBSCRIPT ZERO: try adding math
+* U+2081 SUBSCRIPT ONE: try adding math
+* U+2082 SUBSCRIPT TWO: try adding math
+* U+2083 SUBSCRIPT THREE: try adding math
+* U+2084 SUBSCRIPT FOUR: try adding math
+* U+2085 SUBSCRIPT FIVE: try adding math
+* U+2086 SUBSCRIPT SIX: try adding math
+* U+2087 SUBSCRIPT SEVEN: try adding math
+* U+2088 SUBSCRIPT EIGHT: try adding math
+* U+2089 SUBSCRIPT NINE: try adding math
+* U+208A SUBSCRIPT PLUS SIGN: try adding math
+* U+208B SUBSCRIPT MINUS: try adding math
+* U+208C SUBSCRIPT EQUALS SIGN: try adding math
+* U+208D SUBSCRIPT LEFT PARENTHESIS: try adding math
+* U+208E SUBSCRIPT RIGHT PARENTHESIS: try adding math
+* U+2090 LATIN SUBSCRIPT SMALL LETTER A: try adding math
+* U+2091 LATIN SUBSCRIPT SMALL LETTER E: try adding math
+* U+2092 LATIN SUBSCRIPT SMALL LETTER O: try adding math
+* U+2093 LATIN SUBSCRIPT SMALL LETTER X: try adding math
+* U+2094 LATIN SUBSCRIPT SMALL LETTER SCHWA: try adding math
+* U+2095 LATIN SUBSCRIPT SMALL LETTER H: try adding math
+* U+2096 LATIN SUBSCRIPT SMALL LETTER K: try adding math
+* U+2097 LATIN SUBSCRIPT SMALL LETTER L: try adding math
+* U+2098 LATIN SUBSCRIPT SMALL LETTER M: try adding math
+* U+2099 LATIN SUBSCRIPT SMALL LETTER N: try adding math
+* U+209A LATIN SUBSCRIPT SMALL LETTER P: try adding math
+* U+209B LATIN SUBSCRIPT SMALL LETTER S: try adding math
+* U+209C LATIN SUBSCRIPT SMALL LETTER T: try adding math
+* U+2117 SOUND RECORDING COPYRIGHT: try adding math
+* U+215B VULGAR FRACTION ONE EIGHTH: try adding symbols
+* U+215C VULGAR FRACTION THREE EIGHTHS: try adding symbols
+* U+215D VULGAR FRACTION FIVE EIGHTHS: try adding symbols
+* U+215E VULGAR FRACTION SEVEN EIGHTHS: try adding symbols
+* U+215F FRACTION NUMERATOR ONE: try adding symbols
+* U+2202 PARTIAL DIFFERENTIAL: try adding math
+* U+2206 INCREMENT: try adding math
+* U+220F N-ARY PRODUCT: try adding math
+* U+2211 N-ARY SUMMATION: try adding math
+* U+221A SQUARE ROOT: try adding math
+* U+221E INFINITY: try adding math
+* U+222B INTEGRAL: try adding math
+* U+2248 ALMOST EQUAL TO: try adding math
+* U+2260 NOT EQUAL TO: try adding math
+* U+2264 LESS-THAN OR EQUAL TO: try adding math
+* U+2265 GREATER-THAN OR EQUAL TO: try adding math
+* U+25CA LOZENGE: try adding one of: math, symbols
+* U+25CC DOTTED CIRCLE: try adding one of: bassa-vah, telugu, hanifi-rohingya, hebrew, duployan, javanese, balinese, math, soyombo, thaana, mende-kikakui, wancho, tagbanwa, kannada, gujarati, lepcha, caucasian-albanian, saurashtra, coptic, osage, ahom, miao, sogdian, warang-citi, buginese, bengali, kharoshthi, oriya, batak, kayah-li, gurmukhi, malayalam, tai-le, thai, elbasan, tibetan, tifinagh, chakma, sinhala, meetei-mayek, zanabazar-square, brahmi, new-tai-lue, tamil, tai-viet, khudawadi, rejang, devanagari, dogra, adlam, myanmar, phags-pa, bhaiksuki, gunjala-gondi, manichaean, modi, hanunoo, buhid, psalter-pahlavi, music, old-permic, syriac, tagalog, tirhuta, masaram-gondi, syloti-nagri, yi, limbu, marchen, symbols, lao, cham, nko, khmer, mahajani, mandaic, mongolian, pahawh-hmong, sharada, siddham, tai-tham, grantha, kaithi, armenian, newa, khojki, sundanese, takri, canadian-aboriginal
+
+Or you can add the above codepoints to one of the subsets supported by the font: greek, latin-ext, latin [code: unreachable-subsetting]
+  
+  
+
+</div>
+</details>
+
+
+</div>
+</details>
+
+
 <details><summary>[7] fonts/variable/Alyamama[wght].ttf</summary>
 <div>
 
@@ -58,36 +243,36 @@ fontspector version: 1.3.0
 * uni066E.fina (unencoded): found 3, expected one of: {1}
 * uni066E.medi (unencoded): found 2, expected one of: {1}
 * uni0628 (U+0628): found 3, expected one of: {2}
-* uni062A (U+062A): found 4, expected one of: {2, 3}
+* uni062A (U+062A): found 4, expected one of: {3, 2}
 * uni062B (U+062B): found 5, expected one of: {3, 4, 2}
 * uni0631 (U+0631): found 2, expected one of: {1}
 * uni0632 (U+0632): found 3, expected one of: {2}
-* uni0633 (U+0633): found 6, expected one of: {1, 3}
-* uni0634 (U+0634): found 9, expected one of: {0, 4, 3, 6}
+* uni0633 (U+0633): found 6, expected one of: {3, 1}
+* uni0634 (U+0634): found 9, expected one of: {3, 0, 4, 6}
 * uni0635 (U+0635): found 5, expected one of: {2}
 * uni0636 (U+0636): found 6, expected one of: {3}
 * uni0637 (U+0637): found 4, expected one of: {2, 3}
 * uni0638 (U+0638): found 5, expected one of: {3, 4}
 * uni0639 (U+0639): found 2, expected one of: {1}
-* uni0641 (U+0641): found 5, expected one of: {3, 2}
-* uni06A4 (U+06A4): found 7, expected one of: {5, 4, 0}
-* uni06A1 (U+06A1): found 4, expected one of: {2, 1}
+* uni0641 (U+0641): found 5, expected one of: {2, 3}
+* uni06A4 (U+06A4): found 7, expected one of: {0, 5, 4}
+* uni06A1 (U+06A1): found 4, expected one of: {1, 2}
 * uni06A1.fina (unencoded): found 4, expected one of: {2}
 * uni066F.fina (unencoded): found 3, expected one of: {2}
 * uni0643 (U+0643): found 4, expected one of: {2, 1}
 * uni0644 (U+0644): found 2, expected one of: {1}
-* uni0645 (U+0645): found 3, expected one of: {1, 2}
+* uni0645 (U+0645): found 3, expected one of: {2, 1}
 * uni0646 (U+0646): found 3, expected one of: {2}
 * uni06BA (U+06BA): found 2, expected one of: {1}
 * uni0647 (U+0647): found 1, expected one of: {2}
 * uni0624 (U+0624): found 4, expected one of: {2, 3}
 * uni0649 (U+0649): found 2, expected one of: {1}
-* uni064A (U+064A): found 4, expected one of: {3, 2}
+* uni064A (U+064A): found 4, expected one of: {2, 3}
 * uni0626 (U+0626): found 4, expected one of: {2}
 * uni0662 (U+0662): found 2, expected one of: {1}
 * uni0663 (U+0663): found 3, expected one of: {1}
 * uni0666 (U+0666): found 2, expected one of: {1}
-* asterisk (U+002A): found 6, expected one of: {5, 3, 2, 1}
+* asterisk (U+002A): found 6, expected one of: {3, 1, 2, 5}
 * uni02E5 (U+02E5): found 2, expected one of: {1}
 * uni02E9 (U+02E9): found 2, expected one of: {1}
 * uni02E6 (U+02E6): found 2, expected one of: {1}
@@ -218,12 +403,10 @@ fontspector version: 1.3.0
 |   The following auxiliary characters are missing from the font: ǥ     |                        |
 |   The following auxiliary characters are missing from the font: ʒ     |                        |
 |   The following auxiliary characters are missing from the font: ǯ     |                        |
-| Auxiliary orthography codepoints:                                     | * lt_Latn (Lithuanian) |
-|   Shaper didn't attach tildecomb to uni0237 when shaping the text 'j̃' |                        |
-| Auxiliary orthography codepoints:                                     | * en_Latn (English)    |
-|   The following auxiliary characters are missing from the font: ʻ     |                        |
 | Auxiliary orthography codepoints:                                     | * de_Latn (German)     |
 |   The following auxiliary characters are missing from the font: ſ     | * fr_Latn (French)     |
+| Auxiliary orthography codepoints:                                     | * lt_Latn (Lithuanian) |
+|   Shaper didn't attach tildecomb to uni0237 when shaping the text 'j̃' |                        |
 | Auxiliary orthography codepoints:                                     | * el_Grek (Greek)      |
 |   The following auxiliary characters are missing from the font: ἀ     |                        |
 |   The following auxiliary characters are missing from the font: ἄ     |                        |
@@ -278,7 +461,9 @@ fontspector version: 1.3.0
 |   The following auxiliary characters are missing from the font: ὥ     |                        |
 |   The following auxiliary characters are missing from the font: ὣ     |                        |
 |   The following auxiliary characters are missing from the font: ὧ     |                        |
-|   The following auxiliary characters are missing from the font: ῶ     |                        | [code: warning-language-shaping]
+|   The following auxiliary characters are missing from the font: ῶ     |                        |
+| Auxiliary orthography codepoints:                                     | * en_Latn (English)    |
+|   The following auxiliary characters are missing from the font: ʻ     |                        | [code: warning-language-shaping]
   
   
 
@@ -301,1473 +486,1473 @@ replace the dot. (soft_dotted)</summary>
 
 
 
-- ⚠️ **WARN** The dot of soft dotted characters used in orthographies _must_ disappear in the following strings: * į̌
-* į́
+- ⚠️ **WARN** The dot of soft dotted characters used in orthographies _must_ disappear in the following strings: * į́
 * į̂
+* į̌
+* į̀
 * į̃
-* į̄
-* į̀The dot of soft dotted characters _should_ disappear in other cases, for example: * ⁱ̴̏
-* ⁱ̴̌
-* ⁱ̴͋
-* ⁱ̴̋
-* ⁱ̴̊
-* ⁱ̴́
-* ⁱ̴͌
-* ⁱ̴͆
-* ⁱ̴̂
-* ⁱ̴̇
-* ⁱ̴͊
-* ⁱ̴̆
-* ⁱ̴̃
-* ⁱ̴̈
-* ⁱ̴̄
-* ⁱ̴̀
-* ⁱ̴̽
-* ⁱ̴̅
-* ⁱ͍̏
-* ⁱ͍̌
-* ⁱ͍͋
-* ⁱ͍̋
-* ⁱ͍̊
-* ⁱ͍́
-* ⁱ͍͌
-* ⁱ͍͆
-* ⁱ͍̂
-* ⁱ͍̇
-* ⁱ͍͊
-* ⁱ͍̆
-* ⁱ͍̃
-* ⁱ͍̈
-* ⁱ͍̄
-* ⁱ͍̀
-* ⁱ͍̽
-* ⁱ͍̅
-* ⁱ̝̏
-* ⁱ̝̌
-* ⁱ̝͋
-* ⁱ̝̋
-* ⁱ̝̊
-* ⁱ̝́
-* ⁱ̝͌
-* ⁱ̝͆
-* ⁱ̝̂
-* ⁱ̝̇
-* ⁱ̝͊
-* ⁱ̝̆
-* ⁱ̝̃
-* ⁱ̝̈
-* ⁱ̝̄
-* ⁱ̝̀
-* ⁱ̝̽
-* ⁱ̝̅
-* ⁱ̼̏
-* ⁱ̼̌
-* ⁱ̼͋
-* ⁱ̼̋
-* ⁱ̼̊
-* ⁱ̼́
-* ⁱ̼͌
-* ⁱ̼͆
-* ⁱ̼̂
-* ⁱ̼̇
-* ⁱ̼͊
-* ⁱ̼̆
-* ⁱ̼̃
-* ⁱ̼̈
-* ⁱ̼̄
-* ⁱ̼̀
-* ⁱ̼̽
-* ⁱ̼̅
-* ⁱ̦̏
-* ⁱ̦͋
-* ⁱ̦͌
-* ⁱ̦͆
-* ⁱ̦͊
-* ⁱ̦̽
-* ⁱ̦̅
-* ⁱ̹̏
-* ⁱ̹̌
-* ⁱ̹͋
-* ⁱ̹̋
-* ⁱ̹̊
-* ⁱ̹́
-* ⁱ̹͌
-* ⁱ̹͆
-* ⁱ̹̂
-* ⁱ̹̇
-* ⁱ̹͊
-* ⁱ̹̆
-* ⁱ̹̃
-* ⁱ̹̈
-* ⁱ̹̄
-* ⁱ̹̀
-* ⁱ̹̽
-* ⁱ̹̅
-* ⁱ̘̏
-* ⁱ̘̌
-* ⁱ̘͋
-* ⁱ̘̋
-* ⁱ̘̊
-* ⁱ̘́
-* ⁱ̘͌
-* ⁱ̘͆
-* ⁱ̘̂
-* ⁱ̘̇
-* ⁱ̘͊
-* ⁱ̘̆
-* ⁱ̘̃
-* ⁱ̘̈
-* ⁱ̘̄
-* ⁱ̘̀
-* ⁱ̘̽
-* ⁱ̘̅
-* ⁱ̙̏
-* ⁱ̙̌
-* ⁱ̙͋
-* ⁱ̙̋
-* ⁱ̙̊
-* ⁱ̙́
-* ⁱ̙͌
-* ⁱ̙͆
-* ⁱ̙̂
-* ⁱ̙̇
-* ⁱ̙͊
-* ⁱ̙̆
-* ⁱ̙̃
-* ⁱ̙̈
-* ⁱ̙̄
-* ⁱ̙̀
-* ⁱ̙̽
-* ⁱ̙̅
-* ⁱ͉̏
-* ⁱ͉̌
-* ⁱ͉͋
-* ⁱ͉̋
-* ⁱ͉̊
-* ⁱ͉́
-* ⁱ͉͌
-* ⁱ͉͆
-* ⁱ͉̂
-* ⁱ͉̇
-* ⁱ͉͊
-* ⁱ͉̆
-* ⁱ͉̃
-* ⁱ͉̈
-* ⁱ͉̄
-* ⁱ͉̀
-* ⁱ͉̽
-* ⁱ͉̅
-* ⁱ͎̏
-* ⁱ͎̌
-* ⁱ͎͋
-* ⁱ͎̋
-* ⁱ͎̊
-* ⁱ͎́
-* ⁱ͎͌
-* ⁱ͎͆
-* ⁱ͎̂
-* ⁱ͎̇
-* ⁱ͎͊
-* ⁱ͎̆
-* ⁱ͎̃
-* ⁱ͎̈
-* ⁱ͎̄
-* ⁱ͎̀
-* ⁱ͎̽
-* ⁱ͎̅
-* ⁱ̠̏
-* ⁱ̠̌
-* ⁱ̠͋
-* ⁱ̠̋
-* ⁱ̠̊
-* ⁱ̠́
-* ⁱ̠͌
-* ⁱ̠͆
-* ⁱ̠̂
-* ⁱ̠̇
-* ⁱ̠͊
-* ⁱ̠̆
-* ⁱ̠̃
-* ⁱ̠̈
-* ⁱ̠̄
-* ⁱ̠̀
-* ⁱ̠̽
-* ⁱ̠̅
-* ⁱ̪̏
-* ⁱ̪̌
-* ⁱ̪͋
-* ⁱ̪̋
-* ⁱ̪̊
-* ⁱ̪́
-* ⁱ̪͌
-* ⁱ̪͆
-* ⁱ̪̂
-* ⁱ̪̇
-* ⁱ̪͊
-* ⁱ̪̆
-* ⁱ̪̃
-* ⁱ̪̈
-* ⁱ̪̄
-* ⁱ̪̀
-* ⁱ̪̽
-* ⁱ̪̅
-* ⁱ̜̏
-* ⁱ̜̌
-* ⁱ̜͋
-* ⁱ̜̋
-* ⁱ̜̊
-* ⁱ̜́
-* ⁱ̜͌
-* ⁱ̜͆
-* ⁱ̜̂
-* ⁱ̜̇
-* ⁱ̜͊
-* ⁱ̜̆
-* ⁱ̜̃
-* ⁱ̜̈
-* ⁱ̜̄
-* ⁱ̜̀
-* ⁱ̜̽
-* ⁱ̜̅
-* ⁱ͇̏
-* ⁱ͇̌
-* ⁱ͇͋
-* ⁱ͇̋
-* ⁱ͇̊
-* ⁱ͇́
-* ⁱ͇͌
-* ⁱ͇͆
-* ⁱ͇̂
-* ⁱ͇̇
-* ⁱ͇͊
-* ⁱ͇̆
-* ⁱ͇̃
-* ⁱ͇̈
-* ⁱ͇̄
-* ⁱ͇̀
-* ⁱ͇̽
-* ⁱ͇̅
-* ⁱ̟̏
-* ⁱ̟̌
-* ⁱ̟͋
-* ⁱ̟̋
-* ⁱ̟̊
-* ⁱ̟́
-* ⁱ̟͌
-* ⁱ̟͆
-* ⁱ̟̂
-* ⁱ̟̇
-* ⁱ̟͊
-* ⁱ̟̆
-* ⁱ̟̃
-* ⁱ̟̈
-* ⁱ̟̄
-* ⁱ̟̀
-* ⁱ̟̽
-* ⁱ̟̅
-* ⁱ͈̏
-* ⁱ͈̌
-* ⁱ͈͋
-* ⁱ͈̋
-* ⁱ͈̊
-* ⁱ͈́
-* ⁱ͈͌
-* ⁱ͈͆
-* ⁱ͈̂
-* ⁱ͈̇
-* ⁱ͈͊
-* ⁱ͈̆
-* ⁱ͈̃
-* ⁱ͈̈
-* ⁱ͈̄
-* ⁱ͈̀
-* ⁱ͈̽
-* ⁱ͈̅
-* ⁱ̬̏
-* ⁱ̬̌
-* ⁱ̬͋
-* ⁱ̬̋
-* ⁱ̬̊
-* ⁱ̬́
-* ⁱ̬͌
-* ⁱ̬͆
-* ⁱ̬̂
-* ⁱ̬̇
-* ⁱ̬͊
-* ⁱ̬̆
-* ⁱ̬̃
-* ⁱ̬̈
-* ⁱ̬̄
-* ⁱ̬̀
-* ⁱ̬̽
-* ⁱ̬̅
-* ⁱ̧̏
-* ⁱ̧͋
-* ⁱ̧͌
-* ⁱ̧͆
-* ⁱ̧͊
-* ⁱ̧̽
-* ⁱ̧̅
-* ⁱ̺̏
-* ⁱ̺̌
-* ⁱ̺͋
-* ⁱ̺̋
-* ⁱ̺̊
-* ⁱ̺́
-* ⁱ̺͌
-* ⁱ̺͆
-* ⁱ̺̂
-* ⁱ̺̇
-* ⁱ̺͊
-* ⁱ̺̆
-* ⁱ̺̃
-* ⁱ̺̈
-* ⁱ̺̄
-* ⁱ̺̀
-* ⁱ̺̽
-* ⁱ̺̅
-* ⁱ̨̏
-* ⁱ̨͋
-* ⁱ̨͌
-* ⁱ̨͆
-* ⁱ̨͊
-* ⁱ̨̽
-* ⁱ̨̅
-* ⁱ̞̏
-* ⁱ̞̌
-* ⁱ̞͋
-* ⁱ̞̋
-* ⁱ̞̊
-* ⁱ̞́
-* ⁱ̞͌
-* ⁱ̞͆
-* ⁱ̞̂
-* ⁱ̞̇
-* ⁱ̞͊
-* ⁱ̞̆
-* ⁱ̞̃
-* ⁱ̞̈
-* ⁱ̞̄
-* ⁱ̞̀
-* ⁱ̞̽
-* ⁱ̞̅
-* ⁱ̻̏
-* ⁱ̻̌
-* ⁱ̻͋
-* ⁱ̻̋
-* ⁱ̻̊
-* ⁱ̻́
-* ⁱ̻͌
-* ⁱ̻͆
-* ⁱ̻̂
-* ⁱ̻̇
-* ⁱ̻͊
-* ⁱ̻̆
-* ⁱ̻̃
-* ⁱ̻̈
-* ⁱ̻̄
-* ⁱ̻̀
-* ⁱ̻̽
-* ⁱ̻̅
-* ⁱ̲̏
-* ⁱ̲̌
-* ⁱ̲͋
-* ⁱ̲̋
-* ⁱ̲̊
-* ⁱ̲́
-* ⁱ̲͌
-* ⁱ̲͆
-* ⁱ̲̂
-* ⁱ̲̇
-* ⁱ̲͊
-* ⁱ̲̆
-* ⁱ̲̃
-* ⁱ̲̈
-* ⁱ̲̄
-* ⁱ̲̀
-* ⁱ̲̽
-* ⁱ̲̅
-* ⁱ̤̏
-* ⁱ̤̌
-* ⁱ̤͋
-* ⁱ̤̋
-* ⁱ̤̊
-* ⁱ̤́
-* ⁱ̤͌
-* ⁱ̤͆
-* ⁱ̤̂
-* ⁱ̤̇
-* ⁱ̤͊
-* ⁱ̤̆
-* ⁱ̤̃
-* ⁱ̤̈
-* ⁱ̤̄
-* ⁱ̤̀
-* ⁱ̤̽
-* ⁱ̤̅
-* ⁱ̰̏
-* ⁱ̰̌
-* ⁱ̰͋
-* ⁱ̰̋
-* ⁱ̰̊
-* ⁱ̰́
-* ⁱ̰͌
-* ⁱ̰͆
-* ⁱ̰̂
-* ⁱ̰̇
-* ⁱ̰͊
-* ⁱ̰̆
-* ⁱ̰̃
-* ⁱ̰̈
-* ⁱ̰̄
-* ⁱ̰̀
-* ⁱ̰̽
-* ⁱ̰̅
-* ⁱ̥̏
-* ⁱ̥̌
-* ⁱ̥͋
-* ⁱ̥̋
-* ⁱ̥̊
-* ⁱ̥́
-* ⁱ̥͌
-* ⁱ̥͆
-* ⁱ̥̂
-* ⁱ̥̇
-* ⁱ̥͊
-* ⁱ̥̆
-* ⁱ̥̃
-* ⁱ̥̈
-* ⁱ̥̄
-* ⁱ̥̀
-* ⁱ̥̽
-* ⁱ̥̅
-* ⁱ̩̏
-* ⁱ̩̌
-* ⁱ̩͋
-* ⁱ̩̋
-* ⁱ̩̊
-* ⁱ̩́
-* ⁱ̩͌
-* ⁱ̩͆
-* ⁱ̩̂
-* ⁱ̩̇
-* ⁱ̩͊
-* ⁱ̩̆
-* ⁱ̩̃
-* ⁱ̩̈
-* ⁱ̩̄
-* ⁱ̩̀
-* ⁱ̩̽
-* ⁱ̩̅
-* ⁱ̏
-* ⁱ̌
-* ⁱ͋
-* ⁱ̋
-* ⁱ̊
-* ⁱ́
-* ⁱ͌
-* ⁱ͆
-* ⁱ̂
-* ⁱ̇
-* ⁱ͊
-* ⁱ̆
-* ⁱ̃
-* ⁱ̈
-* ⁱ̄
-* ⁱ̀
-* ⁱ̽
-* ⁱ̅
-* ʲ̴̏
-* ʲ̴̌
-* ʲ̴͋
-* ʲ̴̋
-* ʲ̴̊
-* ʲ̴́
-* ʲ̴͌
-* ʲ̴͆
-* ʲ̴̂
-* ʲ̴̇
-* ʲ̴͊
-* ʲ̴̆
-* ʲ̴̃
-* ʲ̴̈
-* ʲ̴̄
-* ʲ̴̀
-* ʲ̴̽
-* ʲ̴̅
-* ʲ͍̏
-* ʲ͍̌
-* ʲ͍͋
-* ʲ͍̋
-* ʲ͍̊
-* ʲ͍́
-* ʲ͍͌
-* ʲ͍͆
-* ʲ͍̂
-* ʲ͍̇
-* ʲ͍͊
-* ʲ͍̆
-* ʲ͍̃
-* ʲ͍̈
-* ʲ͍̄
-* ʲ͍̀
-* ʲ͍̽
-* ʲ͍̅
-* ʲ̝̏
-* ʲ̝̌
-* ʲ̝͋
-* ʲ̝̋
-* ʲ̝̊
-* ʲ̝́
-* ʲ̝͌
-* ʲ̝͆
-* ʲ̝̂
-* ʲ̝̇
-* ʲ̝͊
-* ʲ̝̆
-* ʲ̝̃
-* ʲ̝̈
-* ʲ̝̄
-* ʲ̝̀
-* ʲ̝̽
-* ʲ̝̅
-* ʲ̼̏
-* ʲ̼̌
-* ʲ̼͋
-* ʲ̼̋
-* ʲ̼̊
-* ʲ̼́
-* ʲ̼͌
-* ʲ̼͆
-* ʲ̼̂
-* ʲ̼̇
-* ʲ̼͊
-* ʲ̼̆
-* ʲ̼̃
-* ʲ̼̈
-* ʲ̼̄
-* ʲ̼̀
-* ʲ̼̽
-* ʲ̼̅
-* ʲ̦̏
-* ʲ̦͋
-* ʲ̦͌
-* ʲ̦͆
-* ʲ̦͊
-* ʲ̦̽
-* ʲ̦̅
-* ʲ̹̏
-* ʲ̹̌
-* ʲ̹͋
-* ʲ̹̋
-* ʲ̹̊
-* ʲ̹́
-* ʲ̹͌
-* ʲ̹͆
-* ʲ̹̂
-* ʲ̹̇
-* ʲ̹͊
-* ʲ̹̆
-* ʲ̹̃
-* ʲ̹̈
-* ʲ̹̄
-* ʲ̹̀
-* ʲ̹̽
-* ʲ̹̅
-* ʲ̘̏
-* ʲ̘̌
-* ʲ̘͋
-* ʲ̘̋
-* ʲ̘̊
-* ʲ̘́
-* ʲ̘͌
-* ʲ̘͆
-* ʲ̘̂
-* ʲ̘̇
-* ʲ̘͊
-* ʲ̘̆
-* ʲ̘̃
-* ʲ̘̈
-* ʲ̘̄
-* ʲ̘̀
-* ʲ̘̽
-* ʲ̘̅
-* ʲ̙̏
-* ʲ̙̌
-* ʲ̙͋
-* ʲ̙̋
-* ʲ̙̊
-* ʲ̙́
-* ʲ̙͌
-* ʲ̙͆
-* ʲ̙̂
-* ʲ̙̇
-* ʲ̙͊
-* ʲ̙̆
-* ʲ̙̃
-* ʲ̙̈
-* ʲ̙̄
-* ʲ̙̀
-* ʲ̙̽
-* ʲ̙̅
-* ʲ͉̏
-* ʲ͉̌
-* ʲ͉͋
-* ʲ͉̋
-* ʲ͉̊
-* ʲ͉́
-* ʲ͉͌
-* ʲ͉͆
-* ʲ͉̂
-* ʲ͉̇
-* ʲ͉͊
-* ʲ͉̆
-* ʲ͉̃
-* ʲ͉̈
-* ʲ͉̄
-* ʲ͉̀
-* ʲ͉̽
-* ʲ͉̅
-* ʲ͎̏
-* ʲ͎̌
-* ʲ͎͋
-* ʲ͎̋
-* ʲ͎̊
-* ʲ͎́
-* ʲ͎͌
-* ʲ͎͆
-* ʲ͎̂
-* ʲ͎̇
-* ʲ͎͊
-* ʲ͎̆
-* ʲ͎̃
-* ʲ͎̈
-* ʲ͎̄
-* ʲ͎̀
-* ʲ͎̽
-* ʲ͎̅
-* ʲ̠̏
-* ʲ̠̌
-* ʲ̠͋
-* ʲ̠̋
-* ʲ̠̊
-* ʲ̠́
-* ʲ̠͌
-* ʲ̠͆
-* ʲ̠̂
-* ʲ̠̇
-* ʲ̠͊
-* ʲ̠̆
-* ʲ̠̃
-* ʲ̠̈
-* ʲ̠̄
-* ʲ̠̀
-* ʲ̠̽
-* ʲ̠̅
-* ʲ̪̏
-* ʲ̪̌
-* ʲ̪͋
-* ʲ̪̋
-* ʲ̪̊
-* ʲ̪́
-* ʲ̪͌
-* ʲ̪͆
-* ʲ̪̂
-* ʲ̪̇
-* ʲ̪͊
-* ʲ̪̆
-* ʲ̪̃
-* ʲ̪̈
-* ʲ̪̄
-* ʲ̪̀
-* ʲ̪̽
-* ʲ̪̅
-* ʲ̜̏
-* ʲ̜̌
-* ʲ̜͋
-* ʲ̜̋
-* ʲ̜̊
-* ʲ̜́
-* ʲ̜͌
-* ʲ̜͆
-* ʲ̜̂
-* ʲ̜̇
-* ʲ̜͊
-* ʲ̜̆
-* ʲ̜̃
-* ʲ̜̈
-* ʲ̜̄
-* ʲ̜̀
-* ʲ̜̽
-* ʲ̜̅
-* ʲ͇̏
-* ʲ͇̌
-* ʲ͇͋
-* ʲ͇̋
-* ʲ͇̊
-* ʲ͇́
-* ʲ͇͌
-* ʲ͇͆
-* ʲ͇̂
-* ʲ͇̇
-* ʲ͇͊
-* ʲ͇̆
-* ʲ͇̃
-* ʲ͇̈
-* ʲ͇̄
-* ʲ͇̀
-* ʲ͇̽
-* ʲ͇̅
-* ʲ̟̏
-* ʲ̟̌
-* ʲ̟͋
-* ʲ̟̋
-* ʲ̟̊
-* ʲ̟́
-* ʲ̟͌
-* ʲ̟͆
-* ʲ̟̂
-* ʲ̟̇
-* ʲ̟͊
-* ʲ̟̆
-* ʲ̟̃
-* ʲ̟̈
-* ʲ̟̄
-* ʲ̟̀
-* ʲ̟̽
-* ʲ̟̅
-* ʲ͈̏
-* ʲ͈̌
-* ʲ͈͋
-* ʲ͈̋
-* ʲ͈̊
-* ʲ͈́
-* ʲ͈͌
-* ʲ͈͆
-* ʲ͈̂
-* ʲ͈̇
-* ʲ͈͊
-* ʲ͈̆
-* ʲ͈̃
-* ʲ͈̈
-* ʲ͈̄
-* ʲ͈̀
-* ʲ͈̽
-* ʲ͈̅
-* ʲ̬̏
-* ʲ̬̌
-* ʲ̬͋
-* ʲ̬̋
-* ʲ̬̊
-* ʲ̬́
-* ʲ̬͌
-* ʲ̬͆
-* ʲ̬̂
-* ʲ̬̇
-* ʲ̬͊
-* ʲ̬̆
-* ʲ̬̃
-* ʲ̬̈
-* ʲ̬̄
-* ʲ̬̀
-* ʲ̬̽
-* ʲ̬̅
-* ʲ̧̏
-* ʲ̧͋
-* ʲ̧͌
-* ʲ̧͆
-* ʲ̧͊
-* ʲ̧̽
-* ʲ̧̅
-* ʲ̺̏
-* ʲ̺̌
-* ʲ̺͋
-* ʲ̺̋
-* ʲ̺̊
-* ʲ̺́
-* ʲ̺͌
-* ʲ̺͆
-* ʲ̺̂
-* ʲ̺̇
-* ʲ̺͊
-* ʲ̺̆
-* ʲ̺̃
-* ʲ̺̈
-* ʲ̺̄
-* ʲ̺̀
-* ʲ̺̽
-* ʲ̺̅
-* ʲ̨̏
-* ʲ̨͋
-* ʲ̨͌
-* ʲ̨͆
-* ʲ̨͊
-* ʲ̨̽
-* ʲ̨̅
-* ʲ̞̏
-* ʲ̞̌
-* ʲ̞͋
-* ʲ̞̋
-* ʲ̞̊
-* ʲ̞́
-* ʲ̞͌
-* ʲ̞͆
-* ʲ̞̂
-* ʲ̞̇
-* ʲ̞͊
-* ʲ̞̆
-* ʲ̞̃
-* ʲ̞̈
-* ʲ̞̄
-* ʲ̞̀
-* ʲ̞̽
-* ʲ̞̅
-* ʲ̻̏
-* ʲ̻̌
-* ʲ̻͋
-* ʲ̻̋
-* ʲ̻̊
-* ʲ̻́
-* ʲ̻͌
-* ʲ̻͆
-* ʲ̻̂
-* ʲ̻̇
-* ʲ̻͊
-* ʲ̻̆
-* ʲ̻̃
-* ʲ̻̈
-* ʲ̻̄
-* ʲ̻̀
-* ʲ̻̽
-* ʲ̻̅
-* ʲ̲̏
-* ʲ̲̌
-* ʲ̲͋
-* ʲ̲̋
-* ʲ̲̊
-* ʲ̲́
-* ʲ̲͌
-* ʲ̲͆
-* ʲ̲̂
-* ʲ̲̇
-* ʲ̲͊
-* ʲ̲̆
-* ʲ̲̃
-* ʲ̲̈
-* ʲ̲̄
-* ʲ̲̀
-* ʲ̲̽
-* ʲ̲̅
-* ʲ̤̏
-* ʲ̤̌
-* ʲ̤͋
-* ʲ̤̋
-* ʲ̤̊
-* ʲ̤́
-* ʲ̤͌
-* ʲ̤͆
-* ʲ̤̂
-* ʲ̤̇
-* ʲ̤͊
-* ʲ̤̆
-* ʲ̤̃
-* ʲ̤̈
-* ʲ̤̄
-* ʲ̤̀
-* ʲ̤̽
-* ʲ̤̅
-* ʲ̰̏
-* ʲ̰̌
-* ʲ̰͋
-* ʲ̰̋
-* ʲ̰̊
-* ʲ̰́
-* ʲ̰͌
-* ʲ̰͆
-* ʲ̰̂
-* ʲ̰̇
-* ʲ̰͊
-* ʲ̰̆
-* ʲ̰̃
-* ʲ̰̈
-* ʲ̰̄
-* ʲ̰̀
-* ʲ̰̽
-* ʲ̰̅
-* ʲ̥̏
-* ʲ̥̌
-* ʲ̥͋
-* ʲ̥̋
-* ʲ̥̊
-* ʲ̥́
-* ʲ̥͌
-* ʲ̥͆
-* ʲ̥̂
-* ʲ̥̇
-* ʲ̥͊
-* ʲ̥̆
-* ʲ̥̃
-* ʲ̥̈
-* ʲ̥̄
-* ʲ̥̀
-* ʲ̥̽
-* ʲ̥̅
-* ʲ̩̏
-* ʲ̩̌
-* ʲ̩͋
-* ʲ̩̋
-* ʲ̩̊
-* ʲ̩́
-* ʲ̩͌
-* ʲ̩͆
-* ʲ̩̂
-* ʲ̩̇
-* ʲ̩͊
-* ʲ̩̆
-* ʲ̩̃
-* ʲ̩̈
-* ʲ̩̄
-* ʲ̩̀
-* ʲ̩̽
-* ʲ̩̅
-* ʲ̏
-* ʲ̌
-* ʲ͋
-* ʲ̋
-* ʲ̊
-* ʲ́
-* ʲ͌
-* ʲ͆
-* ʲ̂
-* ʲ̇
-* ʲ͊
-* ʲ̆
-* ʲ̃
-* ʲ̈
-* ʲ̄
-* ʲ̀
-* ʲ̽
-* ʲ̅
-* j̴̅
-* j͍̅
-* j̝̅
-* j̼̅
+* į̄The dot of soft dotted characters _should_ disappear in other cases, for example: * j̧̅
 * j̦̅
-* j̹̅
 * j̘̅
-* j̙̅
-* j͉̅
-* j͎̅
-* j̠̅
-* j̪̅
-* j̜̅
-* j͇̅
-* j̟̅
-* j͈̅
-* j̬̅
-* j̧̅
-* j̺̅
-* j̨̅
-* j̞̅
-* j̻̅
-* j̲̅
-* j̤̅
 * j̰̅
-* j̥̅
+* j̺̅
+* j̞̅
+* j̠̅
 * j̩̅
+* j̲̅
+* j̜̅
+* j͉̅
+* j̝̅
+* j͈̅
+* j̪̅
+* j͎̅
+* j̬̅
+* j̴̅
+* j̟̅
+* j͍̅
+* j̤̅
+* j̥̅
+* j̙̅
+* j̹̅
+* j͇̅
+* j̻̅
+* j̼̅
+* j̨̅
 * j̅
-* i̴̅
-* i͍̅
-* i̝̅
-* i̼̅
-* i̦̅
-* i̹̅
-* i̘̅
-* i̙̅
-* i͉̅
-* i͎̅
-* i̠̅
-* i̪̅
-* i̜̅
-* i͇̅
-* i̟̅
-* i͈̅
-* i̬̅
 * i̧̅
+* i̦̅
+* i̘̅
+* ḭ̅
 * i̺̅
 * i̞̅
-* i̻̅
-* i̲̅
-* i̤̅
-* ḭ̅
-* i̥̅
+* i̠̅
 * i̩̅
+* i̲̅
+* i̜̅
+* i͉̅
+* i̝̅
+* i͈̅
+* i̪̅
+* i͎̅
+* i̬̅
+* i̴̅
+* i̟̅
+* i͍̅
+* i̤̅
+* i̥̅
+* i̙̅
+* i̹̅
+* i͇̅
+* i̻̅
+* i̼̅
 * i̅
-* į̴̏
-* į̴̌
-* į̴͋
-* į̴̋
-* į̴̊
-* į̴́
-* į̴͌
-* į̴͆
-* į̴̂
-* į̴̇
-* į̴͊
-* į̴̆
-* į̴̃
-* į̴̈
-* į̴̄
-* į̴̀
-* į̴̽
-* į̴̅
-* į͍̏
-* į͍̌
-* į͍͋
-* į͍̋
-* į͍̊
-* į͍́
-* į͍͌
-* į͍͆
-* į͍̂
-* į͍̇
-* į͍͊
-* į͍̆
-* į͍̃
-* į͍̈
-* į͍̄
-* į͍̀
-* į͍̽
-* į͍̅
-* į̝̏
-* į̝̌
-* į̝͋
-* į̝̋
-* į̝̊
-* į̝́
-* į̝͌
-* į̝͆
-* į̝̂
-* į̝̇
-* į̝͊
-* į̝̆
-* į̝̃
-* į̝̈
-* į̝̄
-* į̝̀
-* į̝̽
-* į̝̅
-* į̼̏
-* į̼̌
-* į̼͋
-* į̼̋
-* į̼̊
-* į̼́
-* į̼͌
-* į̼͆
-* į̼̂
-* į̼̇
-* į̼͊
-* į̼̆
-* į̼̃
-* į̼̈
-* į̼̄
-* į̼̀
-* į̼̽
-* į̼̅
-* į̦̏
-* į̦͋
-* į̦͌
-* į̦͆
-* į̦͊
-* į̦̽
-* į̦̅
-* į̹̏
-* į̹̌
-* į̹͋
-* į̹̋
-* į̹̊
-* į̹́
-* į̹͌
-* į̹͆
-* į̹̂
-* į̹̇
-* į̹͊
-* į̹̆
-* į̹̃
-* į̹̈
-* į̹̄
-* į̹̀
-* į̹̽
-* į̹̅
-* į̘̏
-* į̘̌
-* į̘͋
-* į̘̋
-* į̘̊
-* į̘́
-* į̘͌
-* į̘͆
-* į̘̂
-* į̘̇
-* į̘͊
-* į̘̆
-* į̘̃
-* į̘̈
-* į̘̄
-* į̘̀
-* į̘̽
-* į̘̅
-* į̙̏
-* į̙̌
-* į̙͋
-* į̙̋
-* į̙̊
-* į̙́
-* į̙͌
-* į̙͆
-* į̙̂
-* į̙̇
-* į̙͊
-* į̙̆
-* į̙̃
-* į̙̈
-* į̙̄
-* į̙̀
-* į̙̽
-* į̙̅
-* į͉̏
-* į͉̌
-* į͉͋
-* į͉̋
-* į͉̊
-* į͉́
-* į͉͌
-* į͉͆
-* į͉̂
-* į͉̇
-* į͉͊
-* į͉̆
-* į͉̃
-* į͉̈
-* į͉̄
-* į͉̀
-* į͉̽
-* į͉̅
-* į͎̏
-* į͎̌
-* į͎͋
-* į͎̋
-* į͎̊
-* į͎́
-* į͎͌
-* į͎͆
-* į͎̂
-* į͎̇
-* į͎͊
-* į͎̆
-* į͎̃
-* į͎̈
-* į͎̄
-* į͎̀
-* į͎̽
-* į͎̅
-* į̠̏
-* į̠̌
-* į̠͋
-* į̠̋
-* į̠̊
-* į̠́
-* į̠͌
-* į̠͆
-* į̠̂
-* į̠̇
-* į̠͊
-* į̠̆
-* į̠̃
-* į̠̈
-* į̠̄
-* į̠̀
-* į̠̽
-* į̠̅
-* į̪̏
-* į̪̌
-* į̪͋
-* į̪̋
-* į̪̊
-* į̪́
-* į̪͌
-* į̪͆
-* į̪̂
-* į̪̇
-* į̪͊
-* į̪̆
-* į̪̃
-* į̪̈
-* į̪̄
-* į̪̀
-* į̪̽
-* į̪̅
-* į̜̏
-* į̜̌
-* į̜͋
-* į̜̋
-* į̜̊
-* į̜́
-* į̜͌
-* į̜͆
-* į̜̂
-* į̜̇
-* į̜͊
-* į̜̆
-* į̜̃
-* į̜̈
-* į̜̄
-* į̜̀
-* į̜̽
-* į̜̅
-* į͇̏
-* į͇̌
-* į͇͋
-* į͇̋
-* į͇̊
-* į͇́
-* į͇͌
-* į͇͆
-* į͇̂
-* į͇̇
-* į͇͊
-* į͇̆
-* į͇̃
-* į͇̈
-* į͇̄
-* į͇̀
-* į͇̽
-* į͇̅
-* į̟̏
-* į̟̌
-* į̟͋
-* į̟̋
-* į̟̊
-* į̟́
-* į̟͌
-* į̟͆
-* į̟̂
-* į̟̇
-* į̟͊
-* į̟̆
-* į̟̃
-* į̟̈
-* į̟̄
-* į̟̀
-* į̟̽
-* į̟̅
-* į͈̏
-* į͈̌
-* į͈͋
-* į͈̋
-* į͈̊
-* į͈́
-* į͈͌
-* į͈͆
-* į͈̂
-* į͈̇
-* į͈͊
-* į͈̆
-* į͈̃
-* į͈̈
-* į͈̄
-* į͈̀
-* į͈̽
-* į͈̅
-* į̬̏
-* į̬̌
-* į̬͋
-* į̬̋
-* į̬̊
-* į̬́
-* į̬͌
-* į̬͆
-* į̬̂
-* į̬̇
-* į̬͊
-* į̬̆
-* į̬̃
-* į̬̈
-* į̬̄
-* į̬̀
-* į̬̽
-* į̬̅
-* į̧̏
-* į̧͋
-* į̧͌
 * į̧͆
+* į̧͌
 * į̧͊
 * į̧̽
+* į̧̏
+* į̧͋
 * į̧̅
-* į̺̏
-* į̺̌
-* į̺͋
+* į̦͆
+* į̦͌
+* į̦͊
+* į̦̽
+* į̦̏
+* į̦͋
+* į̦̅
+* į̘̋
+* į̘́
+* į̘̆
+* į̘͆
+* į̘͌
+* į̘̂
+* į̘̌
+* į̘͊
+* į̘̊
+* į̘̽
+* į̘̈
+* į̘̏
+* į̘̀
+* į̘͋
+* į̘̅
+* į̘̇
+* į̘̃
+* į̘̄
+* į̰̋
+* į̰́
+* į̰̆
+* į̰͆
+* į̰͌
+* į̰̂
+* į̰̌
+* į̰͊
+* į̰̊
+* į̰̽
+* į̰̈
+* į̰̏
+* į̰̀
+* į̰͋
+* į̰̅
+* į̰̇
+* į̰̃
+* į̰̄
 * į̺̋
-* į̺̊
 * į̺́
-* į̺͌
-* į̺͆
-* į̺̂
-* į̺̇
-* į̺͊
 * į̺̆
-* į̺̃
-* į̺̈
-* į̺̄
-* į̺̀
+* į̺͆
+* į̺͌
+* į̺̂
+* į̺̌
+* į̺͊
+* į̺̊
 * į̺̽
+* į̺̈
+* į̺̏
+* į̺̀
+* į̺͋
 * į̺̅
-* į̨̏
-* į̨͋
-* į̨͌
+* į̺̇
+* į̺̃
+* į̺̄
+* į̞̋
+* į̞́
+* į̞̆
+* į̞͆
+* į̞͌
+* į̞̂
+* į̞̌
+* į̞͊
+* į̞̊
+* į̞̽
+* į̞̈
+* į̞̏
+* į̞̀
+* į̞͋
+* į̞̅
+* į̞̇
+* į̞̃
+* į̞̄
+* į̠̋
+* į̠́
+* į̠̆
+* į̠͆
+* į̠͌
+* į̠̂
+* į̠̌
+* į̠͊
+* į̠̊
+* į̠̽
+* į̠̈
+* į̠̏
+* į̠̀
+* į̠͋
+* į̠̅
+* į̠̇
+* į̠̃
+* į̠̄
+* į̩̋
+* į̩́
+* į̩̆
+* į̩͆
+* į̩͌
+* į̩̂
+* į̩̌
+* į̩͊
+* į̩̊
+* į̩̽
+* į̩̈
+* į̩̏
+* į̩̀
+* į̩͋
+* į̩̅
+* į̩̇
+* į̩̃
+* į̩̄
+* į̲̋
+* į̲́
+* į̲̆
+* į̲͆
+* į̲͌
+* į̲̂
+* į̲̌
+* į̲͊
+* į̲̊
+* į̲̽
+* į̲̈
+* į̲̏
+* į̲̀
+* į̲͋
+* į̲̅
+* į̲̇
+* į̲̃
+* į̲̄
+* į̜̋
+* į̜́
+* į̜̆
+* į̜͆
+* į̜͌
+* į̜̂
+* į̜̌
+* į̜͊
+* į̜̊
+* į̜̽
+* į̜̈
+* į̜̏
+* į̜̀
+* į̜͋
+* į̜̅
+* į̜̇
+* į̜̃
+* į̜̄
+* į͉̋
+* į͉́
+* į͉̆
+* į͉͆
+* į͉͌
+* į͉̂
+* į͉̌
+* į͉͊
+* į͉̊
+* į͉̽
+* į͉̈
+* į͉̏
+* į͉̀
+* į͉͋
+* į͉̅
+* į͉̇
+* į͉̃
+* į͉̄
+* į̝̋
+* į̝́
+* į̝̆
+* į̝͆
+* į̝͌
+* į̝̂
+* į̝̌
+* į̝͊
+* į̝̊
+* į̝̽
+* į̝̈
+* į̝̏
+* į̝̀
+* į̝͋
+* į̝̅
+* į̝̇
+* į̝̃
+* į̝̄
+* į͈̋
+* į͈́
+* į͈̆
+* į͈͆
+* į͈͌
+* į͈̂
+* į͈̌
+* į͈͊
+* į͈̊
+* į͈̽
+* į͈̈
+* į͈̏
+* į͈̀
+* į͈͋
+* į͈̅
+* į͈̇
+* į͈̃
+* į͈̄
+* į̪̋
+* į̪́
+* į̪̆
+* į̪͆
+* į̪͌
+* į̪̂
+* į̪̌
+* į̪͊
+* į̪̊
+* į̪̽
+* į̪̈
+* į̪̏
+* į̪̀
+* į̪͋
+* į̪̅
+* į̪̇
+* į̪̃
+* į̪̄
+* į͎̋
+* į͎́
+* į͎̆
+* į͎͆
+* į͎͌
+* į͎̂
+* į͎̌
+* į͎͊
+* į͎̊
+* į͎̽
+* į͎̈
+* į͎̏
+* į͎̀
+* į͎͋
+* į͎̅
+* į͎̇
+* į͎̃
+* į͎̄
+* į̬̋
+* į̬́
+* į̬̆
+* į̬͆
+* į̬͌
+* į̬̂
+* į̬̌
+* į̬͊
+* į̬̊
+* į̬̽
+* į̬̈
+* į̬̏
+* į̬̀
+* į̬͋
+* į̬̅
+* į̬̇
+* į̬̃
+* į̬̄
+* į̴̋
+* į̴́
+* į̴̆
+* į̴͆
+* į̴͌
+* į̴̂
+* į̴̌
+* į̴͊
+* į̴̊
+* į̴̽
+* į̴̈
+* į̴̏
+* į̴̀
+* į̴͋
+* į̴̅
+* į̴̇
+* į̴̃
+* į̴̄
+* į̟̋
+* į̟́
+* į̟̆
+* į̟͆
+* į̟͌
+* į̟̂
+* į̟̌
+* į̟͊
+* į̟̊
+* į̟̽
+* į̟̈
+* į̟̏
+* į̟̀
+* į̟͋
+* į̟̅
+* į̟̇
+* į̟̃
+* į̟̄
+* į͍̋
+* į͍́
+* į͍̆
+* į͍͆
+* į͍͌
+* į͍̂
+* į͍̌
+* į͍͊
+* į͍̊
+* į͍̽
+* į͍̈
+* į͍̏
+* į͍̀
+* į͍͋
+* į͍̅
+* į͍̇
+* į͍̃
+* į͍̄
+* į̤̋
+* į̤́
+* į̤̆
+* į̤͆
+* į̤͌
+* į̤̂
+* į̤̌
+* į̤͊
+* į̤̊
+* į̤̽
+* į̤̈
+* į̤̏
+* į̤̀
+* į̤͋
+* į̤̅
+* į̤̇
+* į̤̃
+* į̤̄
+* į̥̋
+* į̥́
+* į̥̆
+* į̥͆
+* į̥͌
+* į̥̂
+* į̥̌
+* į̥͊
+* į̥̊
+* į̥̽
+* į̥̈
+* į̥̏
+* į̥̀
+* į̥͋
+* į̥̅
+* į̥̇
+* į̥̃
+* į̥̄
+* į̙̋
+* į̙́
+* į̙̆
+* į̙͆
+* į̙͌
+* į̙̂
+* į̙̌
+* į̙͊
+* į̙̊
+* į̙̽
+* į̙̈
+* į̙̏
+* į̙̀
+* į̙͋
+* į̙̅
+* į̙̇
+* į̙̃
+* į̙̄
+* į̹̋
+* į̹́
+* į̹̆
+* į̹͆
+* į̹͌
+* į̹̂
+* į̹̌
+* į̹͊
+* į̹̊
+* į̹̽
+* į̹̈
+* į̹̏
+* į̹̀
+* į̹͋
+* į̹̅
+* į̹̇
+* į̹̃
+* į̹̄
+* į͇̋
+* į͇́
+* į͇̆
+* į͇͆
+* į͇͌
+* į͇̂
+* į͇̌
+* į͇͊
+* į͇̊
+* į͇̽
+* į͇̈
+* į͇̏
+* į͇̀
+* į͇͋
+* į͇̅
+* į͇̇
+* į͇̃
+* į͇̄
+* į̻̋
+* į̻́
+* į̻̆
+* į̻͆
+* į̻͌
+* į̻̂
+* į̻̌
+* į̻͊
+* į̻̊
+* į̻̽
+* į̻̈
+* į̻̏
+* į̻̀
+* į̻͋
+* į̻̅
+* į̻̇
+* į̻̃
+* į̻̄
+* į̼̋
+* į̼́
+* į̼̆
+* į̼͆
+* į̼͌
+* į̼̂
+* į̼̌
+* į̼͊
+* į̼̊
+* į̼̽
+* į̼̈
+* į̼̏
+* į̼̀
+* į̼͋
+* į̼̅
+* į̼̇
+* į̼̃
+* į̼̄
 * į̨͆
+* į̨͌
 * į̨͊
 * į̨̽
+* į̨̏
+* į̨͋
 * į̨̅
-* į̞̏
-* į̞̌
-* į̞͋
-* į̞̋
-* į̞̊
-* į̞́
-* į̞͌
-* į̞͆
-* į̞̂
-* į̞̇
-* į̞͊
-* į̞̆
-* į̞̃
-* į̞̈
-* į̞̄
-* į̞̀
-* į̞̽
-* į̞̅
-* į̻̏
-* į̻̌
-* į̻͋
-* į̻̋
-* į̻̊
-* į̻́
-* į̻͌
-* į̻͆
-* į̻̂
-* į̻̇
-* į̻͊
-* į̻̆
-* į̻̃
-* į̻̈
-* į̻̄
-* į̻̀
-* į̻̽
-* į̻̅
-* į̲̏
-* į̲̌
-* į̲͋
-* į̲̋
-* į̲̊
-* į̲́
-* į̲͌
-* į̲͆
-* į̲̂
-* į̲̇
-* į̲͊
-* į̲̆
-* į̲̃
-* į̲̈
-* į̲̄
-* į̲̀
-* į̲̽
-* į̲̅
-* į̤̏
-* į̤̌
-* į̤͋
-* į̤̋
-* į̤̊
-* į̤́
-* į̤͌
-* į̤͆
-* į̤̂
-* į̤̇
-* į̤͊
-* į̤̆
-* į̤̃
-* į̤̈
-* į̤̄
-* į̤̀
-* į̤̽
-* į̤̅
-* į̰̏
-* į̰̌
-* į̰͋
-* į̰̋
-* į̰̊
-* į̰́
-* į̰͌
-* į̰͆
-* į̰̂
-* į̰̇
-* į̰͊
-* į̰̆
-* į̰̃
-* į̰̈
-* į̰̄
-* į̰̀
-* į̰̽
-* į̰̅
-* į̥̏
-* į̥̌
-* į̥͋
-* į̥̋
-* į̥̊
-* į̥́
-* į̥͌
-* į̥͆
-* į̥̂
-* į̥̇
-* į̥͊
-* į̥̆
-* į̥̃
-* į̥̈
-* į̥̄
-* į̥̀
-* į̥̽
-* į̥̅
-* į̩̏
-* į̩̌
-* į̩͋
-* į̩̋
-* į̩̊
-* į̩́
-* į̩͌
-* į̩͆
-* į̩̂
-* į̩̇
-* į̩͊
-* į̩̆
-* į̩̃
-* į̩̈
-* į̩̄
-* į̩̀
-* į̩̽
-* į̩̅
+* į̋
+* į̆
+* į͆
+* į͌
+* į͊
+* į̊
+* į̽
+* į̈
 * į̏
 * į͋
-* į̋
-* į̊
-* į͌
-* į͆
+* į̅
 * į̇
-* į͊
-* į̆
-* į̈
-* į̽
-* į̅ [code: soft-dotted]
+* ʲ̧͆
+* ʲ̧͌
+* ʲ̧͊
+* ʲ̧̽
+* ʲ̧̏
+* ʲ̧͋
+* ʲ̧̅
+* ʲ̦͆
+* ʲ̦͌
+* ʲ̦͊
+* ʲ̦̽
+* ʲ̦̏
+* ʲ̦͋
+* ʲ̦̅
+* ʲ̘̋
+* ʲ̘́
+* ʲ̘̆
+* ʲ̘͆
+* ʲ̘͌
+* ʲ̘̂
+* ʲ̘̌
+* ʲ̘͊
+* ʲ̘̊
+* ʲ̘̽
+* ʲ̘̈
+* ʲ̘̏
+* ʲ̘̀
+* ʲ̘͋
+* ʲ̘̅
+* ʲ̘̇
+* ʲ̘̃
+* ʲ̘̄
+* ʲ̰̋
+* ʲ̰́
+* ʲ̰̆
+* ʲ̰͆
+* ʲ̰͌
+* ʲ̰̂
+* ʲ̰̌
+* ʲ̰͊
+* ʲ̰̊
+* ʲ̰̽
+* ʲ̰̈
+* ʲ̰̏
+* ʲ̰̀
+* ʲ̰͋
+* ʲ̰̅
+* ʲ̰̇
+* ʲ̰̃
+* ʲ̰̄
+* ʲ̺̋
+* ʲ̺́
+* ʲ̺̆
+* ʲ̺͆
+* ʲ̺͌
+* ʲ̺̂
+* ʲ̺̌
+* ʲ̺͊
+* ʲ̺̊
+* ʲ̺̽
+* ʲ̺̈
+* ʲ̺̏
+* ʲ̺̀
+* ʲ̺͋
+* ʲ̺̅
+* ʲ̺̇
+* ʲ̺̃
+* ʲ̺̄
+* ʲ̞̋
+* ʲ̞́
+* ʲ̞̆
+* ʲ̞͆
+* ʲ̞͌
+* ʲ̞̂
+* ʲ̞̌
+* ʲ̞͊
+* ʲ̞̊
+* ʲ̞̽
+* ʲ̞̈
+* ʲ̞̏
+* ʲ̞̀
+* ʲ̞͋
+* ʲ̞̅
+* ʲ̞̇
+* ʲ̞̃
+* ʲ̞̄
+* ʲ̠̋
+* ʲ̠́
+* ʲ̠̆
+* ʲ̠͆
+* ʲ̠͌
+* ʲ̠̂
+* ʲ̠̌
+* ʲ̠͊
+* ʲ̠̊
+* ʲ̠̽
+* ʲ̠̈
+* ʲ̠̏
+* ʲ̠̀
+* ʲ̠͋
+* ʲ̠̅
+* ʲ̠̇
+* ʲ̠̃
+* ʲ̠̄
+* ʲ̩̋
+* ʲ̩́
+* ʲ̩̆
+* ʲ̩͆
+* ʲ̩͌
+* ʲ̩̂
+* ʲ̩̌
+* ʲ̩͊
+* ʲ̩̊
+* ʲ̩̽
+* ʲ̩̈
+* ʲ̩̏
+* ʲ̩̀
+* ʲ̩͋
+* ʲ̩̅
+* ʲ̩̇
+* ʲ̩̃
+* ʲ̩̄
+* ʲ̲̋
+* ʲ̲́
+* ʲ̲̆
+* ʲ̲͆
+* ʲ̲͌
+* ʲ̲̂
+* ʲ̲̌
+* ʲ̲͊
+* ʲ̲̊
+* ʲ̲̽
+* ʲ̲̈
+* ʲ̲̏
+* ʲ̲̀
+* ʲ̲͋
+* ʲ̲̅
+* ʲ̲̇
+* ʲ̲̃
+* ʲ̲̄
+* ʲ̜̋
+* ʲ̜́
+* ʲ̜̆
+* ʲ̜͆
+* ʲ̜͌
+* ʲ̜̂
+* ʲ̜̌
+* ʲ̜͊
+* ʲ̜̊
+* ʲ̜̽
+* ʲ̜̈
+* ʲ̜̏
+* ʲ̜̀
+* ʲ̜͋
+* ʲ̜̅
+* ʲ̜̇
+* ʲ̜̃
+* ʲ̜̄
+* ʲ͉̋
+* ʲ͉́
+* ʲ͉̆
+* ʲ͉͆
+* ʲ͉͌
+* ʲ͉̂
+* ʲ͉̌
+* ʲ͉͊
+* ʲ͉̊
+* ʲ͉̽
+* ʲ͉̈
+* ʲ͉̏
+* ʲ͉̀
+* ʲ͉͋
+* ʲ͉̅
+* ʲ͉̇
+* ʲ͉̃
+* ʲ͉̄
+* ʲ̝̋
+* ʲ̝́
+* ʲ̝̆
+* ʲ̝͆
+* ʲ̝͌
+* ʲ̝̂
+* ʲ̝̌
+* ʲ̝͊
+* ʲ̝̊
+* ʲ̝̽
+* ʲ̝̈
+* ʲ̝̏
+* ʲ̝̀
+* ʲ̝͋
+* ʲ̝̅
+* ʲ̝̇
+* ʲ̝̃
+* ʲ̝̄
+* ʲ͈̋
+* ʲ͈́
+* ʲ͈̆
+* ʲ͈͆
+* ʲ͈͌
+* ʲ͈̂
+* ʲ͈̌
+* ʲ͈͊
+* ʲ͈̊
+* ʲ͈̽
+* ʲ͈̈
+* ʲ͈̏
+* ʲ͈̀
+* ʲ͈͋
+* ʲ͈̅
+* ʲ͈̇
+* ʲ͈̃
+* ʲ͈̄
+* ʲ̪̋
+* ʲ̪́
+* ʲ̪̆
+* ʲ̪͆
+* ʲ̪͌
+* ʲ̪̂
+* ʲ̪̌
+* ʲ̪͊
+* ʲ̪̊
+* ʲ̪̽
+* ʲ̪̈
+* ʲ̪̏
+* ʲ̪̀
+* ʲ̪͋
+* ʲ̪̅
+* ʲ̪̇
+* ʲ̪̃
+* ʲ̪̄
+* ʲ͎̋
+* ʲ͎́
+* ʲ͎̆
+* ʲ͎͆
+* ʲ͎͌
+* ʲ͎̂
+* ʲ͎̌
+* ʲ͎͊
+* ʲ͎̊
+* ʲ͎̽
+* ʲ͎̈
+* ʲ͎̏
+* ʲ͎̀
+* ʲ͎͋
+* ʲ͎̅
+* ʲ͎̇
+* ʲ͎̃
+* ʲ͎̄
+* ʲ̬̋
+* ʲ̬́
+* ʲ̬̆
+* ʲ̬͆
+* ʲ̬͌
+* ʲ̬̂
+* ʲ̬̌
+* ʲ̬͊
+* ʲ̬̊
+* ʲ̬̽
+* ʲ̬̈
+* ʲ̬̏
+* ʲ̬̀
+* ʲ̬͋
+* ʲ̬̅
+* ʲ̬̇
+* ʲ̬̃
+* ʲ̬̄
+* ʲ̴̋
+* ʲ̴́
+* ʲ̴̆
+* ʲ̴͆
+* ʲ̴͌
+* ʲ̴̂
+* ʲ̴̌
+* ʲ̴͊
+* ʲ̴̊
+* ʲ̴̽
+* ʲ̴̈
+* ʲ̴̏
+* ʲ̴̀
+* ʲ̴͋
+* ʲ̴̅
+* ʲ̴̇
+* ʲ̴̃
+* ʲ̴̄
+* ʲ̟̋
+* ʲ̟́
+* ʲ̟̆
+* ʲ̟͆
+* ʲ̟͌
+* ʲ̟̂
+* ʲ̟̌
+* ʲ̟͊
+* ʲ̟̊
+* ʲ̟̽
+* ʲ̟̈
+* ʲ̟̏
+* ʲ̟̀
+* ʲ̟͋
+* ʲ̟̅
+* ʲ̟̇
+* ʲ̟̃
+* ʲ̟̄
+* ʲ͍̋
+* ʲ͍́
+* ʲ͍̆
+* ʲ͍͆
+* ʲ͍͌
+* ʲ͍̂
+* ʲ͍̌
+* ʲ͍͊
+* ʲ͍̊
+* ʲ͍̽
+* ʲ͍̈
+* ʲ͍̏
+* ʲ͍̀
+* ʲ͍͋
+* ʲ͍̅
+* ʲ͍̇
+* ʲ͍̃
+* ʲ͍̄
+* ʲ̤̋
+* ʲ̤́
+* ʲ̤̆
+* ʲ̤͆
+* ʲ̤͌
+* ʲ̤̂
+* ʲ̤̌
+* ʲ̤͊
+* ʲ̤̊
+* ʲ̤̽
+* ʲ̤̈
+* ʲ̤̏
+* ʲ̤̀
+* ʲ̤͋
+* ʲ̤̅
+* ʲ̤̇
+* ʲ̤̃
+* ʲ̤̄
+* ʲ̥̋
+* ʲ̥́
+* ʲ̥̆
+* ʲ̥͆
+* ʲ̥͌
+* ʲ̥̂
+* ʲ̥̌
+* ʲ̥͊
+* ʲ̥̊
+* ʲ̥̽
+* ʲ̥̈
+* ʲ̥̏
+* ʲ̥̀
+* ʲ̥͋
+* ʲ̥̅
+* ʲ̥̇
+* ʲ̥̃
+* ʲ̥̄
+* ʲ̙̋
+* ʲ̙́
+* ʲ̙̆
+* ʲ̙͆
+* ʲ̙͌
+* ʲ̙̂
+* ʲ̙̌
+* ʲ̙͊
+* ʲ̙̊
+* ʲ̙̽
+* ʲ̙̈
+* ʲ̙̏
+* ʲ̙̀
+* ʲ̙͋
+* ʲ̙̅
+* ʲ̙̇
+* ʲ̙̃
+* ʲ̙̄
+* ʲ̹̋
+* ʲ̹́
+* ʲ̹̆
+* ʲ̹͆
+* ʲ̹͌
+* ʲ̹̂
+* ʲ̹̌
+* ʲ̹͊
+* ʲ̹̊
+* ʲ̹̽
+* ʲ̹̈
+* ʲ̹̏
+* ʲ̹̀
+* ʲ̹͋
+* ʲ̹̅
+* ʲ̹̇
+* ʲ̹̃
+* ʲ̹̄
+* ʲ͇̋
+* ʲ͇́
+* ʲ͇̆
+* ʲ͇͆
+* ʲ͇͌
+* ʲ͇̂
+* ʲ͇̌
+* ʲ͇͊
+* ʲ͇̊
+* ʲ͇̽
+* ʲ͇̈
+* ʲ͇̏
+* ʲ͇̀
+* ʲ͇͋
+* ʲ͇̅
+* ʲ͇̇
+* ʲ͇̃
+* ʲ͇̄
+* ʲ̻̋
+* ʲ̻́
+* ʲ̻̆
+* ʲ̻͆
+* ʲ̻͌
+* ʲ̻̂
+* ʲ̻̌
+* ʲ̻͊
+* ʲ̻̊
+* ʲ̻̽
+* ʲ̻̈
+* ʲ̻̏
+* ʲ̻̀
+* ʲ̻͋
+* ʲ̻̅
+* ʲ̻̇
+* ʲ̻̃
+* ʲ̻̄
+* ʲ̼̋
+* ʲ̼́
+* ʲ̼̆
+* ʲ̼͆
+* ʲ̼͌
+* ʲ̼̂
+* ʲ̼̌
+* ʲ̼͊
+* ʲ̼̊
+* ʲ̼̽
+* ʲ̼̈
+* ʲ̼̏
+* ʲ̼̀
+* ʲ̼͋
+* ʲ̼̅
+* ʲ̼̇
+* ʲ̼̃
+* ʲ̼̄
+* ʲ̨͆
+* ʲ̨͌
+* ʲ̨͊
+* ʲ̨̽
+* ʲ̨̏
+* ʲ̨͋
+* ʲ̨̅
+* ʲ̋
+* ʲ́
+* ʲ̆
+* ʲ͆
+* ʲ͌
+* ʲ̂
+* ʲ̌
+* ʲ͊
+* ʲ̊
+* ʲ̽
+* ʲ̈
+* ʲ̏
+* ʲ̀
+* ʲ͋
+* ʲ̅
+* ʲ̇
+* ʲ̃
+* ʲ̄
+* ⁱ̧͆
+* ⁱ̧͌
+* ⁱ̧͊
+* ⁱ̧̽
+* ⁱ̧̏
+* ⁱ̧͋
+* ⁱ̧̅
+* ⁱ̦͆
+* ⁱ̦͌
+* ⁱ̦͊
+* ⁱ̦̽
+* ⁱ̦̏
+* ⁱ̦͋
+* ⁱ̦̅
+* ⁱ̘̋
+* ⁱ̘́
+* ⁱ̘̆
+* ⁱ̘͆
+* ⁱ̘͌
+* ⁱ̘̂
+* ⁱ̘̌
+* ⁱ̘͊
+* ⁱ̘̊
+* ⁱ̘̽
+* ⁱ̘̈
+* ⁱ̘̏
+* ⁱ̘̀
+* ⁱ̘͋
+* ⁱ̘̅
+* ⁱ̘̇
+* ⁱ̘̃
+* ⁱ̘̄
+* ⁱ̰̋
+* ⁱ̰́
+* ⁱ̰̆
+* ⁱ̰͆
+* ⁱ̰͌
+* ⁱ̰̂
+* ⁱ̰̌
+* ⁱ̰͊
+* ⁱ̰̊
+* ⁱ̰̽
+* ⁱ̰̈
+* ⁱ̰̏
+* ⁱ̰̀
+* ⁱ̰͋
+* ⁱ̰̅
+* ⁱ̰̇
+* ⁱ̰̃
+* ⁱ̰̄
+* ⁱ̺̋
+* ⁱ̺́
+* ⁱ̺̆
+* ⁱ̺͆
+* ⁱ̺͌
+* ⁱ̺̂
+* ⁱ̺̌
+* ⁱ̺͊
+* ⁱ̺̊
+* ⁱ̺̽
+* ⁱ̺̈
+* ⁱ̺̏
+* ⁱ̺̀
+* ⁱ̺͋
+* ⁱ̺̅
+* ⁱ̺̇
+* ⁱ̺̃
+* ⁱ̺̄
+* ⁱ̞̋
+* ⁱ̞́
+* ⁱ̞̆
+* ⁱ̞͆
+* ⁱ̞͌
+* ⁱ̞̂
+* ⁱ̞̌
+* ⁱ̞͊
+* ⁱ̞̊
+* ⁱ̞̽
+* ⁱ̞̈
+* ⁱ̞̏
+* ⁱ̞̀
+* ⁱ̞͋
+* ⁱ̞̅
+* ⁱ̞̇
+* ⁱ̞̃
+* ⁱ̞̄
+* ⁱ̠̋
+* ⁱ̠́
+* ⁱ̠̆
+* ⁱ̠͆
+* ⁱ̠͌
+* ⁱ̠̂
+* ⁱ̠̌
+* ⁱ̠͊
+* ⁱ̠̊
+* ⁱ̠̽
+* ⁱ̠̈
+* ⁱ̠̏
+* ⁱ̠̀
+* ⁱ̠͋
+* ⁱ̠̅
+* ⁱ̠̇
+* ⁱ̠̃
+* ⁱ̠̄
+* ⁱ̩̋
+* ⁱ̩́
+* ⁱ̩̆
+* ⁱ̩͆
+* ⁱ̩͌
+* ⁱ̩̂
+* ⁱ̩̌
+* ⁱ̩͊
+* ⁱ̩̊
+* ⁱ̩̽
+* ⁱ̩̈
+* ⁱ̩̏
+* ⁱ̩̀
+* ⁱ̩͋
+* ⁱ̩̅
+* ⁱ̩̇
+* ⁱ̩̃
+* ⁱ̩̄
+* ⁱ̲̋
+* ⁱ̲́
+* ⁱ̲̆
+* ⁱ̲͆
+* ⁱ̲͌
+* ⁱ̲̂
+* ⁱ̲̌
+* ⁱ̲͊
+* ⁱ̲̊
+* ⁱ̲̽
+* ⁱ̲̈
+* ⁱ̲̏
+* ⁱ̲̀
+* ⁱ̲͋
+* ⁱ̲̅
+* ⁱ̲̇
+* ⁱ̲̃
+* ⁱ̲̄
+* ⁱ̜̋
+* ⁱ̜́
+* ⁱ̜̆
+* ⁱ̜͆
+* ⁱ̜͌
+* ⁱ̜̂
+* ⁱ̜̌
+* ⁱ̜͊
+* ⁱ̜̊
+* ⁱ̜̽
+* ⁱ̜̈
+* ⁱ̜̏
+* ⁱ̜̀
+* ⁱ̜͋
+* ⁱ̜̅
+* ⁱ̜̇
+* ⁱ̜̃
+* ⁱ̜̄
+* ⁱ͉̋
+* ⁱ͉́
+* ⁱ͉̆
+* ⁱ͉͆
+* ⁱ͉͌
+* ⁱ͉̂
+* ⁱ͉̌
+* ⁱ͉͊
+* ⁱ͉̊
+* ⁱ͉̽
+* ⁱ͉̈
+* ⁱ͉̏
+* ⁱ͉̀
+* ⁱ͉͋
+* ⁱ͉̅
+* ⁱ͉̇
+* ⁱ͉̃
+* ⁱ͉̄
+* ⁱ̝̋
+* ⁱ̝́
+* ⁱ̝̆
+* ⁱ̝͆
+* ⁱ̝͌
+* ⁱ̝̂
+* ⁱ̝̌
+* ⁱ̝͊
+* ⁱ̝̊
+* ⁱ̝̽
+* ⁱ̝̈
+* ⁱ̝̏
+* ⁱ̝̀
+* ⁱ̝͋
+* ⁱ̝̅
+* ⁱ̝̇
+* ⁱ̝̃
+* ⁱ̝̄
+* ⁱ͈̋
+* ⁱ͈́
+* ⁱ͈̆
+* ⁱ͈͆
+* ⁱ͈͌
+* ⁱ͈̂
+* ⁱ͈̌
+* ⁱ͈͊
+* ⁱ͈̊
+* ⁱ͈̽
+* ⁱ͈̈
+* ⁱ͈̏
+* ⁱ͈̀
+* ⁱ͈͋
+* ⁱ͈̅
+* ⁱ͈̇
+* ⁱ͈̃
+* ⁱ͈̄
+* ⁱ̪̋
+* ⁱ̪́
+* ⁱ̪̆
+* ⁱ̪͆
+* ⁱ̪͌
+* ⁱ̪̂
+* ⁱ̪̌
+* ⁱ̪͊
+* ⁱ̪̊
+* ⁱ̪̽
+* ⁱ̪̈
+* ⁱ̪̏
+* ⁱ̪̀
+* ⁱ̪͋
+* ⁱ̪̅
+* ⁱ̪̇
+* ⁱ̪̃
+* ⁱ̪̄
+* ⁱ͎̋
+* ⁱ͎́
+* ⁱ͎̆
+* ⁱ͎͆
+* ⁱ͎͌
+* ⁱ͎̂
+* ⁱ͎̌
+* ⁱ͎͊
+* ⁱ͎̊
+* ⁱ͎̽
+* ⁱ͎̈
+* ⁱ͎̏
+* ⁱ͎̀
+* ⁱ͎͋
+* ⁱ͎̅
+* ⁱ͎̇
+* ⁱ͎̃
+* ⁱ͎̄
+* ⁱ̬̋
+* ⁱ̬́
+* ⁱ̬̆
+* ⁱ̬͆
+* ⁱ̬͌
+* ⁱ̬̂
+* ⁱ̬̌
+* ⁱ̬͊
+* ⁱ̬̊
+* ⁱ̬̽
+* ⁱ̬̈
+* ⁱ̬̏
+* ⁱ̬̀
+* ⁱ̬͋
+* ⁱ̬̅
+* ⁱ̬̇
+* ⁱ̬̃
+* ⁱ̬̄
+* ⁱ̴̋
+* ⁱ̴́
+* ⁱ̴̆
+* ⁱ̴͆
+* ⁱ̴͌
+* ⁱ̴̂
+* ⁱ̴̌
+* ⁱ̴͊
+* ⁱ̴̊
+* ⁱ̴̽
+* ⁱ̴̈
+* ⁱ̴̏
+* ⁱ̴̀
+* ⁱ̴͋
+* ⁱ̴̅
+* ⁱ̴̇
+* ⁱ̴̃
+* ⁱ̴̄
+* ⁱ̟̋
+* ⁱ̟́
+* ⁱ̟̆
+* ⁱ̟͆
+* ⁱ̟͌
+* ⁱ̟̂
+* ⁱ̟̌
+* ⁱ̟͊
+* ⁱ̟̊
+* ⁱ̟̽
+* ⁱ̟̈
+* ⁱ̟̏
+* ⁱ̟̀
+* ⁱ̟͋
+* ⁱ̟̅
+* ⁱ̟̇
+* ⁱ̟̃
+* ⁱ̟̄
+* ⁱ͍̋
+* ⁱ͍́
+* ⁱ͍̆
+* ⁱ͍͆
+* ⁱ͍͌
+* ⁱ͍̂
+* ⁱ͍̌
+* ⁱ͍͊
+* ⁱ͍̊
+* ⁱ͍̽
+* ⁱ͍̈
+* ⁱ͍̏
+* ⁱ͍̀
+* ⁱ͍͋
+* ⁱ͍̅
+* ⁱ͍̇
+* ⁱ͍̃
+* ⁱ͍̄
+* ⁱ̤̋
+* ⁱ̤́
+* ⁱ̤̆
+* ⁱ̤͆
+* ⁱ̤͌
+* ⁱ̤̂
+* ⁱ̤̌
+* ⁱ̤͊
+* ⁱ̤̊
+* ⁱ̤̽
+* ⁱ̤̈
+* ⁱ̤̏
+* ⁱ̤̀
+* ⁱ̤͋
+* ⁱ̤̅
+* ⁱ̤̇
+* ⁱ̤̃
+* ⁱ̤̄
+* ⁱ̥̋
+* ⁱ̥́
+* ⁱ̥̆
+* ⁱ̥͆
+* ⁱ̥͌
+* ⁱ̥̂
+* ⁱ̥̌
+* ⁱ̥͊
+* ⁱ̥̊
+* ⁱ̥̽
+* ⁱ̥̈
+* ⁱ̥̏
+* ⁱ̥̀
+* ⁱ̥͋
+* ⁱ̥̅
+* ⁱ̥̇
+* ⁱ̥̃
+* ⁱ̥̄
+* ⁱ̙̋
+* ⁱ̙́
+* ⁱ̙̆
+* ⁱ̙͆
+* ⁱ̙͌
+* ⁱ̙̂
+* ⁱ̙̌
+* ⁱ̙͊
+* ⁱ̙̊
+* ⁱ̙̽
+* ⁱ̙̈
+* ⁱ̙̏
+* ⁱ̙̀
+* ⁱ̙͋
+* ⁱ̙̅
+* ⁱ̙̇
+* ⁱ̙̃
+* ⁱ̙̄
+* ⁱ̹̋
+* ⁱ̹́
+* ⁱ̹̆
+* ⁱ̹͆
+* ⁱ̹͌
+* ⁱ̹̂
+* ⁱ̹̌
+* ⁱ̹͊
+* ⁱ̹̊
+* ⁱ̹̽
+* ⁱ̹̈
+* ⁱ̹̏
+* ⁱ̹̀
+* ⁱ̹͋
+* ⁱ̹̅
+* ⁱ̹̇
+* ⁱ̹̃
+* ⁱ̹̄
+* ⁱ͇̋
+* ⁱ͇́
+* ⁱ͇̆
+* ⁱ͇͆
+* ⁱ͇͌
+* ⁱ͇̂
+* ⁱ͇̌
+* ⁱ͇͊
+* ⁱ͇̊
+* ⁱ͇̽
+* ⁱ͇̈
+* ⁱ͇̏
+* ⁱ͇̀
+* ⁱ͇͋
+* ⁱ͇̅
+* ⁱ͇̇
+* ⁱ͇̃
+* ⁱ͇̄
+* ⁱ̻̋
+* ⁱ̻́
+* ⁱ̻̆
+* ⁱ̻͆
+* ⁱ̻͌
+* ⁱ̻̂
+* ⁱ̻̌
+* ⁱ̻͊
+* ⁱ̻̊
+* ⁱ̻̽
+* ⁱ̻̈
+* ⁱ̻̏
+* ⁱ̻̀
+* ⁱ̻͋
+* ⁱ̻̅
+* ⁱ̻̇
+* ⁱ̻̃
+* ⁱ̻̄
+* ⁱ̼̋
+* ⁱ̼́
+* ⁱ̼̆
+* ⁱ̼͆
+* ⁱ̼͌
+* ⁱ̼̂
+* ⁱ̼̌
+* ⁱ̼͊
+* ⁱ̼̊
+* ⁱ̼̽
+* ⁱ̼̈
+* ⁱ̼̏
+* ⁱ̼̀
+* ⁱ̼͋
+* ⁱ̼̅
+* ⁱ̼̇
+* ⁱ̼̃
+* ⁱ̼̄
+* ⁱ̨͆
+* ⁱ̨͌
+* ⁱ̨͊
+* ⁱ̨̽
+* ⁱ̨̏
+* ⁱ̨͋
+* ⁱ̨̅
+* ⁱ̋
+* ⁱ́
+* ⁱ̆
+* ⁱ͆
+* ⁱ͌
+* ⁱ̂
+* ⁱ̌
+* ⁱ͊
+* ⁱ̊
+* ⁱ̽
+* ⁱ̈
+* ⁱ̏
+* ⁱ̀
+* ⁱ͋
+* ⁱ̅
+* ⁱ̇
+* ⁱ̃
+* ⁱ̄ [code: soft-dotted]
   
   
 
@@ -1792,165 +1977,45 @@ replace the dot. (soft_dotted)</summary>
 - ⚠️ **WARN** The following glyphs have overlapping path segments:
 
 * uni1D75 (U+1D75): Line(Line { p0: (172.0, 258.0), p1: (172.0, 204.0) }) has the same coordinates as a previous segment.
-* uni066E (U+066E): Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni066E.fina: Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0628 (U+0628): Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0628.fina: Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni062A (U+062A): Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni062A.fina: Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni062B (U+062B): Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni062B.fina: Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0633 (U+0633): Line(Line { p0: (991.0, 0.0), p1: (991.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0633 (U+0633): Line(Line { p0: (750.0, 76.0), p1: (750.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0633.fina: Line(Line { p0: (991.0, 0.0), p1: (991.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0633.fina: Line(Line { p0: (750.0, 76.0), p1: (750.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0633.medi: Line(Line { p0: (307.0, 0.0), p1: (307.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0633.medi: Line(Line { p0: (552.0, 0.0), p1: (552.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0633.init: Line(Line { p0: (307.0, 0.0), p1: (307.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0633.init: Line(Line { p0: (552.0, 0.0), p1: (552.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0634 (U+0634): Line(Line { p0: (991.0, 0.0), p1: (991.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0634 (U+0634): Line(Line { p0: (750.0, 76.0), p1: (750.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0634.fina: Line(Line { p0: (991.0, 0.0), p1: (991.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0634.fina: Line(Line { p0: (750.0, 76.0), p1: (750.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0634.medi: Line(Line { p0: (307.0, 0.0), p1: (307.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0634.medi: Line(Line { p0: (552.0, 0.0), p1: (552.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0634.init: Line(Line { p0: (307.0, 0.0), p1: (307.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0634.init: Line(Line { p0: (552.0, 0.0), p1: (552.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0637 (U+0637): Line(Line { p0: (159.0, 606.0), p1: (299.0, 636.0) }) has the same coordinates as a previous segment.
-* uni0637 (U+0637): Line(Line { p0: (207.0, 0.0), p1: (207.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0637.fina: Line(Line { p0: (159.0, 606.0), p1: (299.0, 636.0) }) has the same coordinates as a previous segment.
-* uni0637.fina: Line(Line { p0: (207.0, 0.0), p1: (207.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0637.medi: Line(Line { p0: (53.0, 606.0), p1: (193.0, 636.0) }) has the same coordinates as a previous segment.
-* uni0637.medi: Line(Line { p0: (102.0, 0.0), p1: (102.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0637.init: Line(Line { p0: (53.0, 606.0), p1: (193.0, 636.0) }) has the same coordinates as a previous segment.
-* uni0637.init: Line(Line { p0: (102.0, 0.0), p1: (102.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0638 (U+0638): Line(Line { p0: (159.0, 606.0), p1: (299.0, 636.0) }) has the same coordinates as a previous segment.
-* uni0638 (U+0638): Line(Line { p0: (207.0, 0.0), p1: (207.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0638.fina: Line(Line { p0: (159.0, 606.0), p1: (299.0, 636.0) }) has the same coordinates as a previous segment.
-* uni0638.fina: Line(Line { p0: (207.0, 0.0), p1: (207.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0638.medi: Line(Line { p0: (53.0, 606.0), p1: (193.0, 636.0) }) has the same coordinates as a previous segment.
-* uni0638.medi: Line(Line { p0: (102.0, 0.0), p1: (102.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0638.init: Line(Line { p0: (53.0, 606.0), p1: (193.0, 636.0) }) has the same coordinates as a previous segment.
-* uni0638.init: Line(Line { p0: (102.0, 0.0), p1: (102.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0641 (U+0641): Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0641 (U+0641): Line(Line { p0: (392.0, 0.0), p1: (392.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0641.fina: Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0641.fina: Line(Line { p0: (418.0, 0.0), p1: (418.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06A4 (U+06A4): Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06A4 (U+06A4): Line(Line { p0: (392.0, 0.0), p1: (392.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06A4.fina: Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06A4.fina: Line(Line { p0: (418.0, 0.0), p1: (418.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06A1 (U+06A1): Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06A1 (U+06A1): Line(Line { p0: (392.0, 0.0), p1: (392.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06A1.fina: Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06A1.fina: Line(Line { p0: (418.0, 0.0), p1: (418.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0643 (U+0643): Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0643 (U+0643): Line(Line { p0: (506.0, 0.0), p1: (506.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0643 (U+0643): Line(Line { p0: (559.0, 606.0), p1: (699.0, 636.0) }) has the same coordinates as a previous segment.
-* uni0643.fina: Line(Line { p0: (304.0, 76.0), p1: (304.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0643.fina: Line(Line { p0: (502.0, 0.0), p1: (502.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0644 (U+0644): Line(Line { p0: (427.0, 606.0), p1: (567.0, 636.0) }) has the same coordinates as a previous segment.
-* uni0644.init: Line(Line { p0: (53.0, 606.0), p1: (193.0, 636.0) }) has the same coordinates as a previous segment.
-* uni06280649.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni0628064A.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06280626.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni062A0649.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni062A064A.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni062A0626.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni062B0649.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni062B064A.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni062B0626.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06330631.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06330631.liga: Line(Line { p0: (908.0, 0.0), p1: (908.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06330631.fina.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06330631.fina.liga: Line(Line { p0: (908.0, 0.0), p1: (908.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06330632.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06330632.liga: Line(Line { p0: (908.0, 0.0), p1: (908.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06330632.fina.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06330632.fina.liga: Line(Line { p0: (908.0, 0.0), p1: (908.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06330649.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06330649.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06330649.liga: Line(Line { p0: (1069.0, 0.0), p1: (1069.0, 76.0) }) has the same coordinates as a previous segment.
+* uni06280649.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni0628064A.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06280626.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni062A0649.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni062A064A.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni062A0626.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni062B0649.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni062B064A.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni062B0626.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06330649.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
 * uni06330649.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06330649.fina.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06330649.fina.liga: Line(Line { p0: (1069.0, 0.0), p1: (1069.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0633064A.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni0633064A.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0633064A.liga: Line(Line { p0: (1069.0, 0.0), p1: (1069.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0633064A.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni0633064A.fina.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0633064A.fina.liga: Line(Line { p0: (1069.0, 0.0), p1: (1069.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06330626.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06330626.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06330626.liga: Line(Line { p0: (1069.0, 0.0), p1: (1069.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06330626.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06330626.fina.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06330626.fina.liga: Line(Line { p0: (1069.0, 0.0), p1: (1069.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06340631.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06340631.liga: Line(Line { p0: (908.0, 0.0), p1: (908.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06340631.fina.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06340631.fina.liga: Line(Line { p0: (908.0, 0.0), p1: (908.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06340632.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06340632.liga: Line(Line { p0: (908.0, 0.0), p1: (908.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06340632.fina.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06340632.fina.liga: Line(Line { p0: (908.0, 0.0), p1: (908.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06340649.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06340649.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06340649.liga: Line(Line { p0: (1069.0, 0.0), p1: (1069.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06340649.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06340649.fina.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06340649.fina.liga: Line(Line { p0: (1069.0, 0.0), p1: (1069.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0634064A.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni0634064A.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0634064A.liga: Line(Line { p0: (1069.0, 0.0), p1: (1069.0, 76.0) }) has the same coordinates as a previous segment.
-* uni0634064A.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni0634064A.fina.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0634064A.fina.liga: Line(Line { p0: (1069.0, 0.0), p1: (1069.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06340626.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06340626.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06340626.liga: Line(Line { p0: (1069.0, 0.0), p1: (1069.0, 76.0) }) has the same coordinates as a previous segment.
+* uni0633064A.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni0633064A.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06330626.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06330626.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06340649.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06340649.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni0634064A.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni0634064A.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06340626.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
 * uni06340626.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06340626.fina.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06340626.fina.liga: Line(Line { p0: (1069.0, 0.0), p1: (1069.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06350631.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06350631.fina.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06350632.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06350632.fina.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06350649.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06350649.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06350649.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06350649.fina.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0635064A.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni0635064A.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0635064A.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni0635064A.fina.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06350626.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06350626.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06350626.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06350626.fina.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06360631.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06360631.fina.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06360632.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06360632.fina.liga: Line(Line { p0: (663.0, 0.0), p1: (663.0, 76.0) }) has the same coordinates as a previous segment.
-* uni06360649.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06360649.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06360649.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06360649.fina.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0636064A.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni0636064A.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni0636064A.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni0636064A.fina.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06360626.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06360626.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni06360626.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06360626.fina.liga: Line(Line { p0: (824.0, 76.0), p1: (824.0, 0.0) }) has the same coordinates as a previous segment.
-* uni064406440647: Line(Line { p0: (721.0, 517.0), p1: (861.0, 547.0) }) has the same coordinates as a previous segment.
-* uni06460649.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni0646064A.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06460626.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06260649.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni0626064A.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
-* uni06260626.fina.liga: Line(Line { p0: (663.0, 195.0), p1: (715.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06350649.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06350649.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni0635064A.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni0635064A.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06350626.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06350626.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06360649.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06360649.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni0636064A.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni0636064A.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06360626.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06360626.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06460649.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni0646064A.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06460626.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06260649.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni0626064A.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
+* uni06260626.fina.liga: Line(Line { p0: (662.0, 195.0), p1: (714.0, 237.0) }) has the same coordinates as a previous segment.
 * uni033C (U+033C): Line(Line { p0: (211.0, -160.0), p1: (182.0, -160.0) }) has the same coordinates as a previous segment. [code: overlapping-path-segments]
   
   
@@ -1976,191 +2041,6 @@ replace the dot. (soft_dotted)</summary>
 - ⚠️ **WARN** OS/2 VendorID value 'MSTR' is not yet recognized.
 If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
  [code: unknown]
-  
-  
-
-</div>
-</details>
-
-
-</div>
-</details>
-
-
-<details><summary>[1] fonts/variable</summary>
-<div>
-
-
-<details>
-    <summary>⚠️ <b>WARN</b> Check for codepoints not covered by METADATA subsets. (googlefonts/metadata/unreachable_subsetting)</summary>
-    <div>
-
-
-
-
-
-
-
-
-- ⚠️ **WARN** fonts/variable/Alyamama[wght].ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.
-
-* U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
-* U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
-* U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
-* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, cherokee, coptic, tifinagh
-* U+0305 COMBINING OVERLINE: try adding one of: elbasan, coptic, gothic, math, glagolitic
-* U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
-* U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, canadian-aboriginal, malayalam, old-permic, duployan, todhri, hebrew, math, tai-le, coptic, syriac
-* U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan
-* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
-* U+030C COMBINING CARON: try adding one of: tai-le, cherokee
-* U+031A COMBINING LEFT ANGLE ABOVE: try adding math
-* U+0320 COMBINING MINUS SIGN BELOW: try adding syriac
-* U+0324 COMBINING DIAERESIS BELOW: try adding one of: duployan, syriac, cherokee
-* U+0325 COMBINING RING BELOW: try adding syriac
-* U+0326 COMBINING COMMA BELOW: try adding math
-* U+0327 COMBINING CEDILLA: try adding math
-* U+032C COMBINING CARON BELOW: try adding math
-* U+0330 COMBINING TILDE BELOW: try adding one of: cherokee, syriac, math
-* U+0332 COMBINING LOW LINE: try adding math
-* U+033A COMBINING INVERTED BRIDGE BELOW: try adding math
-* U+0346 COMBINING BRIDGE ABOVE: try adding math
-* U+034D COMBINING LEFT RIGHT ARROW BELOW: try adding math
-* U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic
-* U+061F ARABIC QUESTION MARK: try adding one of: nko, garay, yezidi, hanifi-rohingya, syriac, adlam, thaana, arabic
-* U+0621 ARABIC LETTER HAMZA: try adding one of: arabic, syriac
-* U+0622 ARABIC LETTER ALEF WITH MADDA ABOVE: try adding arabic
-* U+0623 ARABIC LETTER ALEF WITH HAMZA ABOVE: try adding arabic
-* U+0624 ARABIC LETTER WAW WITH HAMZA ABOVE: try adding arabic
-* U+0625 ARABIC LETTER ALEF WITH HAMZA BELOW: try adding arabic
-* U+0626 ARABIC LETTER YEH WITH HAMZA ABOVE: try adding arabic
-* U+0627 ARABIC LETTER ALEF: try adding one of: indic-siyaq-numbers, arabic
-* U+0628 ARABIC LETTER BEH: try adding arabic
-* U+0629 ARABIC LETTER TEH MARBUTA: try adding arabic
-* U+062A ARABIC LETTER TEH: try adding arabic
-* U+062B ARABIC LETTER THEH: try adding arabic
-* U+062C ARABIC LETTER JEEM: try adding arabic
-* U+062D ARABIC LETTER HAH: try adding arabic
-* U+062E ARABIC LETTER KHAH: try adding arabic
-* U+062F ARABIC LETTER DAL: try adding arabic
-* U+0630 ARABIC LETTER THAL: try adding arabic
-* U+0631 ARABIC LETTER REH: try adding arabic
-* U+0632 ARABIC LETTER ZAIN: try adding arabic
-* U+0633 ARABIC LETTER SEEN: try adding arabic
-* U+0634 ARABIC LETTER SHEEN: try adding arabic
-* U+0635 ARABIC LETTER SAD: try adding arabic
-* U+0636 ARABIC LETTER DAD: try adding arabic
-* U+0637 ARABIC LETTER TAH: try adding arabic
-* U+0638 ARABIC LETTER ZAH: try adding arabic
-* U+0639 ARABIC LETTER AIN: try adding arabic
-* U+063A ARABIC LETTER GHAIN: try adding arabic
-* U+0640 ARABIC TATWEEL: try adding one of: adlam, sogdian, mandaic, old-uyghur, psalter-pahlavi, syriac, manichaean, hanifi-rohingya, arabic
-* U+0641 ARABIC LETTER FEH: try adding arabic
-* U+0642 ARABIC LETTER QAF: try adding arabic
-* U+0643 ARABIC LETTER KAF: try adding arabic
-* U+0644 ARABIC LETTER LAM: try adding arabic
-* U+0645 ARABIC LETTER MEEM: try adding arabic
-* U+0646 ARABIC LETTER NOON: try adding arabic
-* U+0647 ARABIC LETTER HEH: try adding arabic
-* U+0648 ARABIC LETTER WAW: try adding arabic
-* U+0649 ARABIC LETTER ALEF MAKSURA: try adding arabic
-* U+064A ARABIC LETTER YEH: try adding arabic
-* U+064B ARABIC FATHATAN: try adding one of: syriac, arabic
-* U+064C ARABIC DAMMATAN: try adding one of: syriac, arabic
-* U+064D ARABIC KASRATAN: try adding one of: syriac, arabic
-* U+064E ARABIC FATHA: try adding one of: arabic, syriac
-* U+064F ARABIC DAMMA: try adding one of: syriac, arabic
-* U+0650 ARABIC KASRA: try adding one of: arabic, syriac
-* U+0651 ARABIC SHADDA: try adding one of: arabic, syriac
-* U+0652 ARABIC SUKUN: try adding one of: syriac, arabic
-* U+0653 ARABIC MADDAH ABOVE: try adding one of: syriac, arabic
-* U+0654 ARABIC HAMZA ABOVE: try adding one of: syriac, arabic
-* U+0655 ARABIC HAMZA BELOW: try adding one of: syriac, arabic
-* U+0656 ARABIC SUBSCRIPT ALEF: try adding arabic
-* U+0660 ARABIC-INDIC DIGIT ZERO: try adding one of: hanifi-rohingya, arabic, indic-siyaq-numbers, syriac, yezidi, thaana
-* U+0661 ARABIC-INDIC DIGIT ONE: try adding one of: yezidi, thaana, syriac, arabic, indic-siyaq-numbers
-* U+0662 ARABIC-INDIC DIGIT TWO: try adding one of: arabic, yezidi, thaana, syriac, indic-siyaq-numbers
-* U+0663 ARABIC-INDIC DIGIT THREE: try adding one of: syriac, arabic, indic-siyaq-numbers, thaana, yezidi
-* U+0664 ARABIC-INDIC DIGIT FOUR: try adding one of: arabic, indic-siyaq-numbers, yezidi, thaana, syriac
-* U+0665 ARABIC-INDIC DIGIT FIVE: try adding one of: arabic, syriac, indic-siyaq-numbers, thaana, yezidi
-* U+0666 ARABIC-INDIC DIGIT SIX: try adding one of: arabic, indic-siyaq-numbers, thaana, syriac, yezidi
-* U+0667 ARABIC-INDIC DIGIT SEVEN: try adding one of: syriac, thaana, indic-siyaq-numbers, arabic, yezidi
-* U+0668 ARABIC-INDIC DIGIT EIGHT: try adding one of: yezidi, thaana, syriac, indic-siyaq-numbers, arabic
-* U+0669 ARABIC-INDIC DIGIT NINE: try adding one of: arabic, thaana, syriac, indic-siyaq-numbers, yezidi
-* U+066E ARABIC LETTER DOTLESS BEH: try adding arabic
-* U+066F ARABIC LETTER DOTLESS QAF: try adding arabic
-* U+0670 ARABIC LETTER SUPERSCRIPT ALEF: try adding one of: arabic, syriac
-* U+06A1 ARABIC LETTER DOTLESS FEH: try adding arabic
-* U+06A4 ARABIC LETTER VEH: try adding arabic
-* U+06BA ARABIC LETTER NOON GHUNNA: try adding arabic
-* U+1EBC LATIN CAPITAL LETTER E WITH TILDE: try adding vietnamese
-* U+1EBD LATIN SMALL LETTER E WITH TILDE: try adding vietnamese
-* U+2016 DOUBLE VERTICAL LINE: try adding math
-* U+2021 DOUBLE DAGGER: try adding adlam
-* U+2030 PER MILLE SIGN: try adding adlam
-* U+2070 SUPERSCRIPT ZERO: try adding math
-* U+2071 SUPERSCRIPT LATIN SMALL LETTER I: try adding math
-* U+2074 SUPERSCRIPT FOUR: try adding math
-* U+2075 SUPERSCRIPT FIVE: try adding math
-* U+2076 SUPERSCRIPT SIX: try adding math
-* U+2077 SUPERSCRIPT SEVEN: try adding math
-* U+2078 SUPERSCRIPT EIGHT: try adding math
-* U+2079 SUPERSCRIPT NINE: try adding math
-* U+207A SUPERSCRIPT PLUS SIGN: try adding math
-* U+207B SUPERSCRIPT MINUS: try adding math
-* U+207C SUPERSCRIPT EQUALS SIGN: try adding math
-* U+207D SUPERSCRIPT LEFT PARENTHESIS: try adding math
-* U+207E SUPERSCRIPT RIGHT PARENTHESIS: try adding math
-* U+207F SUPERSCRIPT LATIN SMALL LETTER N: try adding math
-* U+2080 SUBSCRIPT ZERO: try adding math
-* U+2081 SUBSCRIPT ONE: try adding math
-* U+2082 SUBSCRIPT TWO: try adding math
-* U+2083 SUBSCRIPT THREE: try adding math
-* U+2084 SUBSCRIPT FOUR: try adding math
-* U+2085 SUBSCRIPT FIVE: try adding math
-* U+2086 SUBSCRIPT SIX: try adding math
-* U+2087 SUBSCRIPT SEVEN: try adding math
-* U+2088 SUBSCRIPT EIGHT: try adding math
-* U+2089 SUBSCRIPT NINE: try adding math
-* U+208A SUBSCRIPT PLUS SIGN: try adding math
-* U+208B SUBSCRIPT MINUS: try adding math
-* U+208C SUBSCRIPT EQUALS SIGN: try adding math
-* U+208D SUBSCRIPT LEFT PARENTHESIS: try adding math
-* U+208E SUBSCRIPT RIGHT PARENTHESIS: try adding math
-* U+2090 LATIN SUBSCRIPT SMALL LETTER A: try adding math
-* U+2091 LATIN SUBSCRIPT SMALL LETTER E: try adding math
-* U+2092 LATIN SUBSCRIPT SMALL LETTER O: try adding math
-* U+2093 LATIN SUBSCRIPT SMALL LETTER X: try adding math
-* U+2094 LATIN SUBSCRIPT SMALL LETTER SCHWA: try adding math
-* U+2095 LATIN SUBSCRIPT SMALL LETTER H: try adding math
-* U+2096 LATIN SUBSCRIPT SMALL LETTER K: try adding math
-* U+2097 LATIN SUBSCRIPT SMALL LETTER L: try adding math
-* U+2098 LATIN SUBSCRIPT SMALL LETTER M: try adding math
-* U+2099 LATIN SUBSCRIPT SMALL LETTER N: try adding math
-* U+209A LATIN SUBSCRIPT SMALL LETTER P: try adding math
-* U+209B LATIN SUBSCRIPT SMALL LETTER S: try adding math
-* U+209C LATIN SUBSCRIPT SMALL LETTER T: try adding math
-* U+2117 SOUND RECORDING COPYRIGHT: try adding math
-* U+215B VULGAR FRACTION ONE EIGHTH: try adding symbols
-* U+215C VULGAR FRACTION THREE EIGHTHS: try adding symbols
-* U+215D VULGAR FRACTION FIVE EIGHTHS: try adding symbols
-* U+215E VULGAR FRACTION SEVEN EIGHTHS: try adding symbols
-* U+215F FRACTION NUMERATOR ONE: try adding symbols
-* U+2202 PARTIAL DIFFERENTIAL: try adding math
-* U+2206 INCREMENT: try adding math
-* U+220F N-ARY PRODUCT: try adding math
-* U+2211 N-ARY SUMMATION: try adding math
-* U+221A SQUARE ROOT: try adding math
-* U+221E INFINITY: try adding math
-* U+222B INTEGRAL: try adding math
-* U+2248 ALMOST EQUAL TO: try adding math
-* U+2260 NOT EQUAL TO: try adding math
-* U+2264 LESS-THAN OR EQUAL TO: try adding math
-* U+2265 GREATER-THAN OR EQUAL TO: try adding math
-* U+25CA LOZENGE: try adding one of: math, symbols
-* U+25CC DOTTED CIRCLE: try adding one of: balinese, armenian, coptic, ahom, math, music, psalter-pahlavi, tagbanwa, tai-le, wancho, zanabazar-square, thaana, tirhuta, elbasan, new-tai-lue, caucasian-albanian, symbols, tagalog, tifinagh, kayah-li, phags-pa, chakma, adlam, kharoshthi, limbu, mahajani, modi, osage, sinhala, sundanese, kannada, sogdian, syloti-nagri, devanagari, tai-tham, malayalam, hebrew, batak, tai-viet, thai, tamil, manichaean, gunjala-gondi, hanifi-rohingya, hanunoo, mende-kikakui, nko, khmer, tibetan, canadian-aboriginal, marchen, dogra, kaithi, meetei-mayek, mongolian, old-permic, saurashtra, syriac, pahawh-hmong, lao, rejang, takri, khudawadi, grantha, telugu, bassa-vah, gurmukhi, soyombo, warang-citi, buginese, yi, cham, bhaiksuki, javanese, buhid, khojki, lepcha, miao, sharada, newa, brahmi, gujarati, mandaic, oriya, siddham, masaram-gondi, bengali, myanmar, duployan
-
-Or you can add the above codepoints to one of the subsets supported by the font: greek, latin-ext, latin [code: unreachable-subsetting]
   
   
 
