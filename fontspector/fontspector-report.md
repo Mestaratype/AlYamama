@@ -12,6 +12,248 @@ fontspector version: 1.3.0
 
 
 
+<details><summary>[1] fonts/variable</summary>
+<div>
+
+
+<details>
+    <summary>⚠️ <b>WARN</b> Check for codepoints not covered by METADATA subsets. (googlefonts/metadata/unreachable_subsetting)</summary>
+    <div>
+
+
+
+
+
+
+
+
+- ⚠️ **WARN** fonts/variable/Alyamama[wght].ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.
+
+* U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+* U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
+* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
+* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: tifinagh, coptic, math, cherokee
+* U+0305 COMBINING OVERLINE: try adding one of: elbasan, coptic, glagolitic, gothic, math
+* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
+* U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, hebrew, math, todhri, canadian-aboriginal, tifinagh, coptic, duployan, tai-le, old-permic, syriac
+* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac
+* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
+* U+030C COMBINING CARON: try adding one of: tai-le, cherokee
+* U+031A COMBINING LEFT ANGLE ABOVE: try adding math
+* U+0320 COMBINING MINUS SIGN BELOW: try adding syriac
+* U+0324 COMBINING DIAERESIS BELOW: try adding one of: duployan, syriac, cherokee
+* U+0325 COMBINING RING BELOW: try adding syriac
+* U+0326 COMBINING COMMA BELOW: try adding math
+* U+0327 COMBINING CEDILLA: try adding math
+* U+032C COMBINING CARON BELOW: try adding math
+* U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
+* U+0332 COMBINING LOW LINE: try adding math
+* U+033A COMBINING INVERTED BRIDGE BELOW: try adding math
+* U+0346 COMBINING BRIDGE ABOVE: try adding math
+* U+034D COMBINING LEFT RIGHT ARROW BELOW: try adding math
+* U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic
+* U+0609 ARABIC-INDIC PER MILLE SIGN: try adding arabic
+* U+060C ARABIC COMMA: try adding one of: syriac, arabic, nko, garay, hanifi-rohingya, thaana, yezidi
+* U+060D ARABIC DATE SEPARATOR: try adding arabic
+* U+0615 ARABIC SMALL HIGH TAH: try adding arabic
+* U+061B ARABIC SEMICOLON: try adding one of: arabic, hanifi-rohingya, syriac, yezidi, garay, nko, thaana
+* U+061F ARABIC QUESTION MARK: try adding one of: adlam, garay, hanifi-rohingya, thaana, nko, arabic, syriac, yezidi
+* U+0621 ARABIC LETTER HAMZA: try adding one of: arabic, syriac
+* U+0622 ARABIC LETTER ALEF WITH MADDA ABOVE: try adding arabic
+* U+0623 ARABIC LETTER ALEF WITH HAMZA ABOVE: try adding arabic
+* U+0624 ARABIC LETTER WAW WITH HAMZA ABOVE: try adding arabic
+* U+0625 ARABIC LETTER ALEF WITH HAMZA BELOW: try adding arabic
+* U+0626 ARABIC LETTER YEH WITH HAMZA ABOVE: try adding arabic
+* U+0627 ARABIC LETTER ALEF: try adding one of: arabic, indic-siyaq-numbers
+* U+0628 ARABIC LETTER BEH: try adding arabic
+* U+0629 ARABIC LETTER TEH MARBUTA: try adding arabic
+* U+062A ARABIC LETTER TEH: try adding arabic
+* U+062B ARABIC LETTER THEH: try adding arabic
+* U+062C ARABIC LETTER JEEM: try adding arabic
+* U+062D ARABIC LETTER HAH: try adding arabic
+* U+062E ARABIC LETTER KHAH: try adding arabic
+* U+062F ARABIC LETTER DAL: try adding arabic
+* U+0630 ARABIC LETTER THAL: try adding arabic
+* U+0631 ARABIC LETTER REH: try adding arabic
+* U+0632 ARABIC LETTER ZAIN: try adding arabic
+* U+0633 ARABIC LETTER SEEN: try adding arabic
+* U+0634 ARABIC LETTER SHEEN: try adding arabic
+* U+0635 ARABIC LETTER SAD: try adding arabic
+* U+0636 ARABIC LETTER DAD: try adding arabic
+* U+0637 ARABIC LETTER TAH: try adding arabic
+* U+0638 ARABIC LETTER ZAH: try adding arabic
+* U+0639 ARABIC LETTER AIN: try adding arabic
+* U+063A ARABIC LETTER GHAIN: try adding arabic
+* U+0640 ARABIC TATWEEL: try adding one of: manichaean, syriac, arabic, psalter-pahlavi, hanifi-rohingya, adlam, mandaic, sogdian, old-uyghur
+* U+0641 ARABIC LETTER FEH: try adding arabic
+* U+0642 ARABIC LETTER QAF: try adding arabic
+* U+0643 ARABIC LETTER KAF: try adding arabic
+* U+0644 ARABIC LETTER LAM: try adding arabic
+* U+0645 ARABIC LETTER MEEM: try adding arabic
+* U+0646 ARABIC LETTER NOON: try adding arabic
+* U+0647 ARABIC LETTER HEH: try adding arabic
+* U+0648 ARABIC LETTER WAW: try adding arabic
+* U+0649 ARABIC LETTER ALEF MAKSURA: try adding arabic
+* U+064A ARABIC LETTER YEH: try adding arabic
+* U+064B ARABIC FATHATAN: try adding one of: arabic, syriac
+* U+064C ARABIC DAMMATAN: try adding one of: syriac, arabic
+* U+064D ARABIC KASRATAN: try adding one of: arabic, syriac
+* U+064E ARABIC FATHA: try adding one of: arabic, syriac
+* U+064F ARABIC DAMMA: try adding one of: arabic, syriac
+* U+0650 ARABIC KASRA: try adding one of: arabic, syriac
+* U+0651 ARABIC SHADDA: try adding one of: arabic, syriac
+* U+0652 ARABIC SUKUN: try adding one of: syriac, arabic
+* U+0653 ARABIC MADDAH ABOVE: try adding one of: arabic, syriac
+* U+0654 ARABIC HAMZA ABOVE: try adding one of: syriac, arabic
+* U+0655 ARABIC HAMZA BELOW: try adding one of: arabic, syriac
+* U+0656 ARABIC SUBSCRIPT ALEF: try adding arabic
+* U+0657 ARABIC INVERTED DAMMA: try adding arabic
+* U+0658 ARABIC MARK NOON GHUNNA: try adding arabic
+* U+0660 ARABIC-INDIC DIGIT ZERO: try adding one of: arabic, syriac, hanifi-rohingya, thaana, indic-siyaq-numbers, yezidi
+* U+0661 ARABIC-INDIC DIGIT ONE: try adding one of: yezidi, thaana, indic-siyaq-numbers, arabic, syriac
+* U+0662 ARABIC-INDIC DIGIT TWO: try adding one of: syriac, thaana, yezidi, arabic, indic-siyaq-numbers
+* U+0663 ARABIC-INDIC DIGIT THREE: try adding one of: arabic, thaana, syriac, yezidi, indic-siyaq-numbers
+* U+0664 ARABIC-INDIC DIGIT FOUR: try adding one of: arabic, yezidi, thaana, syriac, indic-siyaq-numbers
+* U+0665 ARABIC-INDIC DIGIT FIVE: try adding one of: thaana, syriac, indic-siyaq-numbers, yezidi, arabic
+* U+0666 ARABIC-INDIC DIGIT SIX: try adding one of: yezidi, arabic, indic-siyaq-numbers, syriac, thaana
+* U+0667 ARABIC-INDIC DIGIT SEVEN: try adding one of: indic-siyaq-numbers, syriac, thaana, yezidi, arabic
+* U+0668 ARABIC-INDIC DIGIT EIGHT: try adding one of: indic-siyaq-numbers, thaana, syriac, arabic, yezidi
+* U+0669 ARABIC-INDIC DIGIT NINE: try adding one of: thaana, arabic, indic-siyaq-numbers, syriac, yezidi
+* U+066A ARABIC PERCENT SIGN: try adding one of: syriac, nko, thaana, arabic
+* U+066B ARABIC DECIMAL SEPARATOR: try adding one of: syriac, arabic, thaana
+* U+066C ARABIC THOUSANDS SEPARATOR: try adding one of: syriac, thaana, arabic
+* U+066D ARABIC FIVE POINTED STAR: try adding arabic
+* U+066E ARABIC LETTER DOTLESS BEH: try adding arabic
+* U+066F ARABIC LETTER DOTLESS QAF: try adding arabic
+* U+0670 ARABIC LETTER SUPERSCRIPT ALEF: try adding one of: syriac, arabic
+* U+0671 ARABIC LETTER ALEF WASLA: try adding arabic
+* U+0679 ARABIC LETTER TTEH: try adding arabic
+* U+067A ARABIC LETTER TTEHEH: try adding arabic
+* U+067B ARABIC LETTER BEEH: try adding arabic
+* U+067C ARABIC LETTER TEH WITH RING: try adding arabic
+* U+067D ARABIC LETTER TEH WITH THREE DOTS ABOVE DOWNWARDS: try adding arabic
+* U+067E ARABIC LETTER PEH: try adding arabic
+* U+0686 ARABIC LETTER TCHEH: try adding arabic
+* U+0688 ARABIC LETTER DDAL: try adding arabic
+* U+068E ARABIC LETTER DUL: try adding arabic
+* U+0691 ARABIC LETTER RREH: try adding arabic
+* U+0698 ARABIC LETTER JEH: try adding arabic
+* U+069C ARABIC LETTER SEEN WITH THREE DOTS BELOW AND THREE DOTS ABOVE: try adding arabic
+* U+06A1 ARABIC LETTER DOTLESS FEH: try adding arabic
+* U+06A2 ARABIC LETTER FEH WITH DOT MOVED BELOW: try adding arabic
+* U+06A4 ARABIC LETTER VEH: try adding arabic
+* U+06A5 ARABIC LETTER FEH WITH THREE DOTS BELOW: try adding arabic
+* U+06A7 ARABIC LETTER QAF WITH DOT ABOVE: try adding arabic
+* U+06A8 ARABIC LETTER QAF WITH THREE DOTS ABOVE: try adding arabic
+* U+06A9 ARABIC LETTER KEHEH: try adding arabic
+* U+06AF ARABIC LETTER GAF: try adding arabic
+* U+06BA ARABIC LETTER NOON GHUNNA: try adding arabic
+* U+06BE ARABIC LETTER HEH DOACHASHMEE: try adding arabic
+* U+06C1 ARABIC LETTER HEH GOAL: try adding arabic
+* U+06C2 ARABIC LETTER HEH GOAL WITH HAMZA ABOVE: try adding arabic
+* U+06C3 ARABIC LETTER TEH MARBUTA GOAL: try adding arabic
+* U+06CA ARABIC LETTER WAW WITH TWO DOTS ABOVE: try adding arabic
+* U+06CC ARABIC LETTER FARSI YEH: try adding arabic
+* U+06CF ARABIC LETTER WAW WITH DOT ABOVE: try adding arabic
+* U+06D2 ARABIC LETTER YEH BARREE: try adding arabic
+* U+06D3 ARABIC LETTER YEH BARREE WITH HAMZA ABOVE: try adding arabic
+* U+06D4 ARABIC FULL STOP: try adding one of: yezidi, hanifi-rohingya, arabic
+* U+06DB ARABIC SMALL HIGH THREE DOTS: try adding arabic
+* U+06F0 EXTENDED ARABIC-INDIC DIGIT ZERO: try adding one of: indic-siyaq-numbers, arabic
+* U+06F1 EXTENDED ARABIC-INDIC DIGIT ONE: try adding one of: indic-siyaq-numbers, arabic
+* U+06F2 EXTENDED ARABIC-INDIC DIGIT TWO: try adding one of: arabic, indic-siyaq-numbers
+* U+06F3 EXTENDED ARABIC-INDIC DIGIT THREE: try adding one of: indic-siyaq-numbers, arabic
+* U+06F4 EXTENDED ARABIC-INDIC DIGIT FOUR: try adding one of: indic-siyaq-numbers, arabic
+* U+06F5 EXTENDED ARABIC-INDIC DIGIT FIVE: try adding one of: indic-siyaq-numbers, arabic
+* U+06F6 EXTENDED ARABIC-INDIC DIGIT SIX: try adding one of: arabic, indic-siyaq-numbers
+* U+06F7 EXTENDED ARABIC-INDIC DIGIT SEVEN: try adding one of: arabic, indic-siyaq-numbers
+* U+06F8 EXTENDED ARABIC-INDIC DIGIT EIGHT: try adding one of: indic-siyaq-numbers, arabic
+* U+06F9 EXTENDED ARABIC-INDIC DIGIT NINE: try adding one of: indic-siyaq-numbers, arabic
+* U+0763 ARABIC LETTER KEHEH WITH THREE DOTS ABOVE: try adding arabic
+* U+1EBC LATIN CAPITAL LETTER E WITH TILDE: try adding vietnamese
+* U+1EBD LATIN SMALL LETTER E WITH TILDE: try adding vietnamese
+* U+2016 DOUBLE VERTICAL LINE: try adding math
+* U+2021 DOUBLE DAGGER: try adding adlam
+* U+2030 PER MILLE SIGN: try adding adlam
+* U+2070 SUPERSCRIPT ZERO: try adding math
+* U+2071 SUPERSCRIPT LATIN SMALL LETTER I: try adding math
+* U+2074 SUPERSCRIPT FOUR: try adding math
+* U+2075 SUPERSCRIPT FIVE: try adding math
+* U+2076 SUPERSCRIPT SIX: try adding math
+* U+2077 SUPERSCRIPT SEVEN: try adding math
+* U+2078 SUPERSCRIPT EIGHT: try adding math
+* U+2079 SUPERSCRIPT NINE: try adding math
+* U+207A SUPERSCRIPT PLUS SIGN: try adding math
+* U+207B SUPERSCRIPT MINUS: try adding math
+* U+207C SUPERSCRIPT EQUALS SIGN: try adding math
+* U+207D SUPERSCRIPT LEFT PARENTHESIS: try adding math
+* U+207E SUPERSCRIPT RIGHT PARENTHESIS: try adding math
+* U+207F SUPERSCRIPT LATIN SMALL LETTER N: try adding math
+* U+2080 SUBSCRIPT ZERO: try adding math
+* U+2081 SUBSCRIPT ONE: try adding math
+* U+2082 SUBSCRIPT TWO: try adding math
+* U+2083 SUBSCRIPT THREE: try adding math
+* U+2084 SUBSCRIPT FOUR: try adding math
+* U+2085 SUBSCRIPT FIVE: try adding math
+* U+2086 SUBSCRIPT SIX: try adding math
+* U+2087 SUBSCRIPT SEVEN: try adding math
+* U+2088 SUBSCRIPT EIGHT: try adding math
+* U+2089 SUBSCRIPT NINE: try adding math
+* U+208A SUBSCRIPT PLUS SIGN: try adding math
+* U+208B SUBSCRIPT MINUS: try adding math
+* U+208C SUBSCRIPT EQUALS SIGN: try adding math
+* U+208D SUBSCRIPT LEFT PARENTHESIS: try adding math
+* U+208E SUBSCRIPT RIGHT PARENTHESIS: try adding math
+* U+2090 LATIN SUBSCRIPT SMALL LETTER A: try adding math
+* U+2091 LATIN SUBSCRIPT SMALL LETTER E: try adding math
+* U+2092 LATIN SUBSCRIPT SMALL LETTER O: try adding math
+* U+2093 LATIN SUBSCRIPT SMALL LETTER X: try adding math
+* U+2094 LATIN SUBSCRIPT SMALL LETTER SCHWA: try adding math
+* U+2095 LATIN SUBSCRIPT SMALL LETTER H: try adding math
+* U+2096 LATIN SUBSCRIPT SMALL LETTER K: try adding math
+* U+2097 LATIN SUBSCRIPT SMALL LETTER L: try adding math
+* U+2098 LATIN SUBSCRIPT SMALL LETTER M: try adding math
+* U+2099 LATIN SUBSCRIPT SMALL LETTER N: try adding math
+* U+209A LATIN SUBSCRIPT SMALL LETTER P: try adding math
+* U+209B LATIN SUBSCRIPT SMALL LETTER S: try adding math
+* U+209C LATIN SUBSCRIPT SMALL LETTER T: try adding math
+* U+2117 SOUND RECORDING COPYRIGHT: try adding math
+* U+215B VULGAR FRACTION ONE EIGHTH: try adding symbols
+* U+215C VULGAR FRACTION THREE EIGHTHS: try adding symbols
+* U+215D VULGAR FRACTION FIVE EIGHTHS: try adding symbols
+* U+215E VULGAR FRACTION SEVEN EIGHTHS: try adding symbols
+* U+215F FRACTION NUMERATOR ONE: try adding symbols
+* U+2202 PARTIAL DIFFERENTIAL: try adding math
+* U+2206 INCREMENT: try adding math
+* U+220F N-ARY PRODUCT: try adding math
+* U+2211 N-ARY SUMMATION: try adding math
+* U+221A SQUARE ROOT: try adding math
+* U+221E INFINITY: try adding math
+* U+222B INTEGRAL: try adding math
+* U+2248 ALMOST EQUAL TO: try adding math
+* U+2260 NOT EQUAL TO: try adding math
+* U+2264 LESS-THAN OR EQUAL TO: try adding math
+* U+2265 GREATER-THAN OR EQUAL TO: try adding math
+* U+25CA LOZENGE: try adding one of: symbols, math
+* U+25CC DOTTED CIRCLE: try adding one of: modi, sinhala, meetei-mayek, miao, tamil, tagbanwa, warang-citi, marchen, yi, saurashtra, balinese, khudawadi, mahajani, buhid, bhaiksuki, adlam, bengali, malayalam, nko, syloti-nagri, symbols, tai-viet, gujarati, mongolian, devanagari, kaithi, gunjala-gondi, hanifi-rohingya, tai-le, wancho, javanese, coptic, lao, mandaic, batak, khmer, pahawh-hmong, caucasian-albanian, ahom, chakma, sharada, sogdian, brahmi, mende-kikakui, music, myanmar, siddham, syriac, tai-tham, tifinagh, grantha, soyombo, zanabazar-square, khojki, elbasan, takri, newa, manichaean, gurmukhi, limbu, canadian-aboriginal, rejang, lepcha, oriya, armenian, kayah-li, old-permic, phags-pa, masaram-gondi, telugu, kannada, sundanese, thai, dogra, hanunoo, psalter-pahlavi, thaana, duployan, bassa-vah, tagalog, math, osage, cham, hebrew, new-tai-lue, tibetan, tirhuta, kharoshthi, buginese
+* U+FD3E ORNATE LEFT PARENTHESIS: try adding one of: arabic, nko
+* U+FD3F ORNATE RIGHT PARENTHESIS: try adding one of: nko, arabic
+* U+FDFA ARABIC LIGATURE SALLALLAHOU ALAYHE WASALLAM: try adding arabic
+* U+FDFB ARABIC LIGATURE JALLAJALALOUHOU: try adding arabic
+* U+FDFC RIAL SIGN: try adding arabic
+
+Or you can add the above codepoints to one of the subsets supported by the font: greek, latin-ext, latin [code: unreachable-subsetting]
+  
+  
+
+</div>
+</details>
+
+
+</div>
+</details>
+
+
 <details><summary>[6] fonts/variable/Alyamama[wght].ttf</summary>
 <div>
 
@@ -48,7 +290,7 @@ fontspector version: 1.3.0
 * uni1D72 (U+1D72): found 2, expected one of: {1}
 * uni1D74 (U+1D74): found 3, expected one of: {1}
 * uni1D75 (U+1D75): found 3, expected one of: {1}
-* uni021B.1 (U+021B): found 1, expected one of: {4, 3, 2}
+* uni021B.1 (U+021B): found 1, expected one of: {4, 2, 3}
 * uni1D76 (U+1D76): found 3, expected one of: {1}
 * uni01C2 (U+01C2): found 3, expected one of: {1}
 * uni0621 (U+0621): found 2, expected one of: {1}
@@ -59,26 +301,26 @@ fontspector version: 1.3.0
 * uni066E.medi (unencoded): found 2, expected one of: {1}
 * uni0628 (U+0628): found 3, expected one of: {2}
 * uni067E (U+067E): found 5, expected one of: {4}
-* uni067B (U+067B): found 4, expected one of: {3, 2}
+* uni067B (U+067B): found 4, expected one of: {2, 3}
 * uni062A (U+062A): found 4, expected one of: {3, 2}
 * uni067C (U+067C): found 6, expected one of: {4, 5}
-* uni067D (U+067D): found 5, expected one of: {3, 4}
+* uni067D (U+067D): found 5, expected one of: {4, 3}
 * uni062B (U+062B): found 5, expected one of: {3, 2, 4}
-* uni067A (U+067A): found 4, expected one of: {3, 2, 0}
-* uni0686 (U+0686): found 5, expected one of: {0, 3, 4}
+* uni067A (U+067A): found 4, expected one of: {2, 0, 3}
+* uni0686 (U+0686): found 5, expected one of: {3, 4, 0}
 * uni0631 (U+0631): found 2, expected one of: {1}
 * uni0632 (U+0632): found 3, expected one of: {2}
 * uni0698 (U+0698): found 5, expected one of: {4}
 * uni0633 (U+0633): found 6, expected one of: {3, 1}
-* uni0634 (U+0634): found 9, expected one of: {0, 6, 4, 3}
-* uni069C (U+069C): found 12, expected one of: {5, 7, 9}
+* uni0634 (U+0634): found 9, expected one of: {0, 4, 3, 6}
+* uni069C (U+069C): found 12, expected one of: {9, 5, 7}
 * uni0635 (U+0635): found 5, expected one of: {2}
 * uni0636 (U+0636): found 6, expected one of: {3}
-* uni0637 (U+0637): found 4, expected one of: {2, 3}
+* uni0637 (U+0637): found 4, expected one of: {3, 2}
 * uni0638 (U+0638): found 5, expected one of: {3, 4}
 * uni0639 (U+0639): found 2, expected one of: {1}
-* uni0641 (U+0641): found 5, expected one of: {3, 2}
-* uni06A4 (U+06A4): found 7, expected one of: {5, 4, 0}
+* uni0641 (U+0641): found 5, expected one of: {2, 3}
+* uni06A4 (U+06A4): found 7, expected one of: {4, 5, 0}
 * uni06A1 (U+06A1): found 4, expected one of: {1, 2}
 * uni06A1.fina (unencoded): found 4, expected one of: {2}
 * uni06A2 (U+06A2): found 5, expected one of: {3}
@@ -88,7 +330,7 @@ fontspector version: 1.3.0
 * uni06A9 (U+06A9): found 4, expected one of: {1}
 * uni0763 (U+0763): found 7, expected one of: {4, 3}
 * uni0763.fina (unencoded): found 8, expected one of: {4, 3}
-* uni0763.medi (unencoded): found 7, expected one of: {3, 4, 5}
+* uni0763.medi (unencoded): found 7, expected one of: {4, 5, 3}
 * uni0763.init (unencoded): found 6, expected one of: {4, 3}
 * uni06AF (U+06AF): found 5, expected one of: {2}
 * uni0644 (U+0644): found 2, expected one of: {1}
@@ -98,7 +340,7 @@ fontspector version: 1.3.0
 * uni06BA.medi (unencoded): found 2, expected one of: {1}
 * uni0647 (U+0647): found 1, expected one of: {2}
 * uni06C1 (U+06C1): found 1, expected one of: {2}
-* uni06BE (U+06BE): found 4, expected one of: {1, 3, 2}
+* uni06BE (U+06BE): found 4, expected one of: {2, 1, 3}
 * uni0624 (U+0624): found 4, expected one of: {3, 2}
 * uni0649 (U+0649): found 2, expected one of: {1}
 * uni064A (U+064A): found 4, expected one of: {2, 3}
@@ -115,15 +357,15 @@ fontspector version: 1.3.0
 * uni06F9 (U+06F9): found 1, expected one of: {2}
 * uni06F4.urdu (unencoded): found 3, expected one of: {1}
 * uni066D (U+066D): found 6, expected one of: {1}
-* asterisk (U+002A): found 6, expected one of: {1, 5, 2, 3}
-* uniFDFC (U+FDFC): found 8, expected one of: {5, 4, 6}
+* asterisk (U+002A): found 6, expected one of: {1, 3, 2, 5}
+* uniFDFC (U+FDFC): found 8, expected one of: {6, 4, 5}
 * uni02E5 (U+02E5): found 2, expected one of: {1}
 * uni02E9 (U+02E9): found 2, expected one of: {1}
 * uni02E6 (U+02E6): found 2, expected one of: {1}
 * uni02E8 (U+02E8): found 2, expected one of: {1}
 * uni02E7 (U+02E7): found 2, expected one of: {1}
 * uni02DE (U+02DE): found 2, expected one of: {1}
-* uni2117 (U+2117): found 2, expected one of: {4, 3}
+* uni2117 (U+2117): found 2, expected one of: {3, 4}
 * uni0654 (U+0654): found 2, expected one of: {1}
 * uni0655 (U+0655): found 2, expected one of: {1}
 * uni0654064F (unencoded): found 4, expected one of: {3}
@@ -134,10 +376,10 @@ fontspector version: 1.3.0
 * uni0655064D (unencoded): found 4, expected one of: {3}
 * uni064C (U+064C): found 3, expected one of: {2}
 * uni0651 (U+0651): found 2, expected one of: {1}
-* uni0651064C (unencoded): found 5, expected one of: {3, 2}
+* uni0651064C (unencoded): found 5, expected one of: {2, 3}
 * uni0651064D (unencoded): found 4, expected one of: {3}
 * uni0651064E (unencoded): found 3, expected one of: {2}
-* uni0651064F (unencoded): found 4, expected one of: {3, 2}
+* uni0651064F (unencoded): found 4, expected one of: {2, 3}
 * uni06510650 (unencoded): found 3, expected one of: {2}
 * uni06510670 (unencoded): found 3, expected one of: {2}
 * uni0652 (U+0652): found 1, expected one of: {2}
@@ -170,7 +412,9 @@ fontspector version: 1.3.0
 
 
 - ⚠️ **WARN** This font lacks caret positioning values for these ligature glyphs:
-	- * uniFDFB
+	- * uni06430640.medi
+* uni06430640.init
+* uniFDFB
 
  [code: incomplete-caret-pos-data]
   
@@ -245,6 +489,10 @@ fontspector version: 1.3.0
 
 | Message                                                               | Languages              |
 |-----------------------------------------------------------------------|------------------------|
+| Auxiliary orthography codepoints:                                     | * de_Latn (German)     |
+|   The following auxiliary characters are missing from the font: ſ     | * fr_Latn (French)     |
+| Auxiliary orthography codepoints:                                     | * lt_Latn (Lithuanian) |
+|   Shaper didn't attach tildecomb to uni0237 when shaping the text 'j̃' |                        |
 | Auxiliary orthography codepoints:                                     | * fi_Latn (Finnish)    |
 |   The following auxiliary characters are missing from the font: Ǥ     |                        |
 |   The following auxiliary characters are missing from the font: Ʒ     |                        |
@@ -252,12 +500,6 @@ fontspector version: 1.3.0
 |   The following auxiliary characters are missing from the font: ǥ     |                        |
 |   The following auxiliary characters are missing from the font: ʒ     |                        |
 |   The following auxiliary characters are missing from the font: ǯ     |                        |
-| Auxiliary orthography codepoints:                                     | * ur_Arab (Urdu)       |
-|   The following auxiliary characters are missing from the font: ؀؁؂؃‌‍‏  |                        |
-| Auxiliary orthography codepoints:                                     | * de_Latn (German)     |
-|   The following auxiliary characters are missing from the font: ſ     | * fr_Latn (French)     |
-| Auxiliary orthography codepoints:                                     | * lt_Latn (Lithuanian) |
-|   Shaper didn't attach tildecomb to uni0237 when shaping the text 'j̃' |                        |
 | Auxiliary orthography codepoints:                                     | * el_Grek (Greek)      |
 |   The following auxiliary characters are missing from the font: ἀ     |                        |
 |   The following auxiliary characters are missing from the font: ἄ     |                        |
@@ -312,7 +554,9 @@ fontspector version: 1.3.0
 |   The following auxiliary characters are missing from the font: ὥ     |                        |
 |   The following auxiliary characters are missing from the font: ὣ     |                        |
 |   The following auxiliary characters are missing from the font: ὧ     |                        |
-|   The following auxiliary characters are missing from the font: ῶ     |                        | [code: warning-language-shaping]
+|   The following auxiliary characters are missing from the font: ῶ     |                        |
+| Auxiliary orthography codepoints:                                     | * ur_Arab (Urdu)       |
+|   The following auxiliary characters are missing from the font: ؀؁؂؃‌‍‏  |                        | [code: warning-language-shaping]
   
   
 
@@ -335,1473 +579,1473 @@ replace the dot. (soft_dotted)</summary>
 
 
 
-- ⚠️ **WARN** The dot of soft dotted characters used in orthographies _must_ disappear in the following strings: * į̀
-* į̄
-* į̌
+- ⚠️ **WARN** The dot of soft dotted characters used in orthographies _must_ disappear in the following strings: * į́
+* į̂
 * į̃
-* į́
-* į̂The dot of soft dotted characters _should_ disappear in other cases, for example: * į̝͊
-* į̝̏
-* į̝̈
-* į̝͌
-* į̝̊
-* į̝͆
-* į̝̅
-* į̝̀
-* į̝̄
-* į̝̋
-* į̝̌
-* į̝͋
-* į̝̆
-* į̝̃
-* į̝̇
-* į̝̽
-* į̝́
-* į̝̂
-* į̼͊
-* į̼̏
-* į̼̈
-* į̼͌
-* į̼̊
-* į̼͆
-* į̼̅
-* į̼̀
-* į̼̄
-* į̼̋
-* į̼̌
-* į̼͋
-* į̼̆
-* į̼̃
-* į̼̇
-* į̼̽
-* į̼́
-* į̼̂
-* į̻͊
-* į̻̏
-* į̻̈
-* į̻͌
-* į̻̊
-* į̻͆
-* į̻̅
-* į̻̀
-* į̻̄
-* į̻̋
-* į̻̌
-* į̻͋
-* į̻̆
-* į̻̃
-* į̻̇
-* į̻̽
-* į̻́
-* į̻̂
-* į̧͊
-* į̧̏
-* į̧͌
-* į̧͆
-* į̧̅
-* į̧͋
-* į̧̽
-* į̪͊
-* į̪̏
-* į̪̈
-* į̪͌
-* į̪̊
-* į̪͆
-* į̪̅
-* į̪̀
-* į̪̄
-* į̪̋
-* į̪̌
-* į̪͋
-* į̪̆
-* į̪̃
-* į̪̇
-* į̪̽
-* į̪́
-* į̪̂
-* į̬͊
-* į̬̏
-* į̬̈
-* į̬͌
-* į̬̊
-* į̬͆
-* į̬̅
-* į̬̀
-* į̬̄
-* į̬̋
-* į̬̌
-* į̬͋
-* į̬̆
-* į̬̃
-* į̬̇
-* į̬̽
-* į̬́
-* į̬̂
-* į͈͊
-* į͈̏
-* į͈̈
-* į͈͌
-* į͈̊
-* į͈͆
-* į͈̅
-* į͈̀
-* į͈̄
-* į͈̋
-* į͈̌
-* į͈͋
-* į͈̆
-* į͈̃
-* į͈̇
-* į͈̽
-* į͈́
-* į͈̂
-* į̤͊
-* į̤̏
-* į̤̈
-* į̤͌
-* į̤̊
-* į̤͆
-* į̤̅
-* į̤̀
-* į̤̄
-* į̤̋
-* į̤̌
-* į̤͋
-* į̤̆
-* į̤̃
-* į̤̇
-* į̤̽
-* į̤́
-* į̤̂
-* į̟͊
-* į̟̏
-* į̟̈
-* į̟͌
-* į̟̊
-* į̟͆
-* į̟̅
-* į̟̀
-* į̟̄
-* į̟̋
-* į̟̌
-* į̟͋
-* į̟̆
-* į̟̃
-* į̟̇
-* į̟̽
-* į̟́
-* į̟̂
-* į̰͊
-* į̰̏
-* į̰̈
-* į̰͌
-* į̰̊
-* į̰͆
-* į̰̅
-* į̰̀
-* į̰̄
-* į̰̋
-* į̰̌
-* į̰͋
-* į̰̆
-* į̰̃
-* į̰̇
-* į̰̽
-* į̰́
-* į̰̂
-* į̘͊
-* į̘̏
-* į̘̈
-* į̘͌
-* į̘̊
-* į̘͆
-* į̘̅
-* į̘̀
-* į̘̄
-* į̘̋
-* į̘̌
-* į̘͋
-* į̘̆
-* į̘̃
-* į̘̇
-* į̘̽
-* į̘́
-* į̘̂
-* į̹͊
-* į̹̏
-* į̹̈
-* į̹͌
-* į̹̊
-* į̹͆
-* į̹̅
-* į̹̀
-* į̹̄
-* į̹̋
-* į̹̌
-* į̹͋
-* į̹̆
-* į̹̃
-* į̹̇
-* į̹̽
-* į̹́
-* į̹̂
-* į͉͊
-* į͉̏
-* į͉̈
-* į͉͌
-* į͉̊
-* į͉͆
-* į͉̅
-* į͉̀
-* į͉̄
-* į͉̋
-* į͉̌
-* į͉͋
-* į͉̆
-* į͉̃
-* į͉̇
-* į͉̽
-* į͉́
-* į͉̂
-* į͇͊
-* į͇̏
-* į͇̈
-* į͇͌
-* į͇̊
-* į͇͆
-* į͇̅
-* į͇̀
-* į͇̄
-* į͇̋
-* į͇̌
-* į͇͋
-* į͇̆
-* į͇̃
-* į͇̇
-* į͇̽
-* į͇́
-* į͇̂
-* į̠͊
-* į̠̏
-* į̠̈
-* į̠͌
-* į̠̊
-* į̠͆
-* į̠̅
-* į̠̀
-* į̠̄
-* į̠̋
-* į̠̌
-* į̠͋
-* į̠̆
-* į̠̃
-* į̠̇
-* į̠̽
-* į̠́
-* į̠̂
-* į̙͊
-* į̙̏
-* į̙̈
-* į̙͌
-* į̙̊
-* į̙͆
-* į̙̅
-* į̙̀
-* į̙̄
-* į̙̋
-* į̙̌
-* į̙͋
-* į̙̆
-* į̙̃
-* į̙̇
-* į̙̽
-* į̙́
-* į̙̂
-* į͎͊
-* į͎̏
-* į͎̈
-* į͎͌
-* į͎̊
-* į͎͆
-* į͎̅
-* į͎̀
-* į͎̄
-* į͎̋
-* į͎̌
-* į͎͋
-* į͎̆
-* į͎̃
-* į͎̇
-* į͎̽
-* į͎́
-* į͎̂
-* į̞͊
-* į̞̏
-* į̞̈
-* į̞͌
-* į̞̊
-* į̞͆
-* į̞̅
-* į̞̀
-* į̞̄
-* į̞̋
-* į̞̌
-* į̞͋
-* į̞̆
-* į̞̃
-* į̞̇
-* į̞̽
-* į̞́
-* į̞̂
-* į̦͊
-* į̦̏
-* į̦͌
-* į̦͆
-* į̦̅
-* į̦͋
-* į̦̽
-* į̜͊
-* į̜̏
-* į̜̈
-* į̜͌
-* į̜̊
-* į̜͆
-* į̜̅
-* į̜̀
-* į̜̄
-* į̜̋
-* į̜̌
-* į̜͋
-* į̜̆
-* į̜̃
-* į̜̇
-* į̜̽
-* į̜́
-* į̜̂
-* į̲͊
-* į̲̏
-* į̲̈
-* į̲͌
-* į̲̊
-* į̲͆
-* į̲̅
-* į̲̀
-* į̲̄
-* į̲̋
-* į̲̌
-* į̲͋
-* į̲̆
-* į̲̃
-* į̲̇
-* į̲̽
-* į̲́
-* į̲̂
-* į̥͊
-* į̥̏
-* į̥̈
-* į̥͌
-* į̥̊
-* į̥͆
-* į̥̅
-* į̥̀
-* į̥̄
-* į̥̋
-* į̥̌
-* į̥͋
-* į̥̆
-* į̥̃
-* į̥̇
-* į̥̽
-* į̥́
-* į̥̂
-* į̨͊
-* į̨̏
-* į̨͌
-* į̨͆
-* į̨̅
-* į̨͋
-* į̨̽
-* į͍͊
-* į͍̏
-* į͍̈
-* į͍͌
-* į͍̊
-* į͍͆
-* į͍̅
-* į͍̀
-* į͍̄
-* į͍̋
-* į͍̌
-* į͍͋
-* į͍̆
-* į͍̃
-* į͍̇
-* į͍̽
-* į͍́
-* į͍̂
-* į̺͊
-* į̺̏
-* į̺̈
-* į̺͌
-* į̺̊
-* į̺͆
-* į̺̅
-* į̺̀
-* į̺̄
-* į̺̋
-* į̺̌
-* į̺͋
-* į̺̆
-* į̺̃
-* į̺̇
-* į̺̽
-* į̺́
-* į̺̂
-* į̩͊
-* į̩̏
-* į̩̈
-* į̩͌
-* į̩̊
-* į̩͆
-* į̩̅
-* į̩̀
-* į̩̄
-* į̩̋
-* į̩̌
-* į̩͋
-* į̩̆
-* į̩̃
-* į̩̇
-* į̩̽
-* į̩́
-* į̩̂
-* į̴͊
-* į̴̏
-* į̴̈
-* į̴͌
-* į̴̊
-* į̴͆
-* į̴̅
-* į̴̀
-* į̴̄
-* į̴̋
-* į̴̌
-* į̴͋
-* į̴̆
-* į̴̃
-* į̴̇
-* į̴̽
-* į̴́
-* į̴̂
-* į͊
-* į̏
-* į̈
-* į͌
-* į̊
-* į͆
-* į̅
-* į̋
-* į͋
-* į̆
-* į̇
-* į̽
-* i̝̅
-* i̼̅
-* i̻̅
-* i̧̅
-* i̪̅
-* i̬̅
-* i͈̅
-* i̤̅
-* i̟̅
-* ḭ̅
-* i̘̅
-* i̹̅
-* i͉̅
-* i͇̅
+* į̀
+* į̄
+* į̌The dot of soft dotted characters _should_ disappear in other cases, for example: * i̬̅
 * i̠̅
 * i̙̅
-* i͎̅
-* i̞̅
-* i̦̅
-* i̜̅
-* i̲̅
-* i̥̅
-* i͍̅
-* i̺̅
-* i̩̅
+* i͈̅
 * i̴̅
+* i̤̅
+* i͉̅
+* i̪̅
+* i̧̅
+* i̼̅
+* i̩̅
+* i̜̅
+* i̦̅
+* i̘̅
+* i̲̅
+* i͎̅
+* ḭ̅
+* i͇̅
+* i̥̅
+* i̟̅
+* i̺̅
+* i͍̅
+* i̝̅
+* i̻̅
+* i̞̅
+* i̹̅
 * i̅
-* ⁱ̝͊
-* ⁱ̝̏
-* ⁱ̝̈
-* ⁱ̝͌
-* ⁱ̝̊
-* ⁱ̝͆
-* ⁱ̝̅
-* ⁱ̝̀
-* ⁱ̝̄
-* ⁱ̝̋
-* ⁱ̝̌
-* ⁱ̝͋
-* ⁱ̝̆
-* ⁱ̝̃
-* ⁱ̝̇
-* ⁱ̝̽
-* ⁱ̝́
-* ⁱ̝̂
-* ⁱ̼͊
-* ⁱ̼̏
-* ⁱ̼̈
-* ⁱ̼͌
-* ⁱ̼̊
-* ⁱ̼͆
-* ⁱ̼̅
-* ⁱ̼̀
-* ⁱ̼̄
-* ⁱ̼̋
-* ⁱ̼̌
-* ⁱ̼͋
-* ⁱ̼̆
-* ⁱ̼̃
-* ⁱ̼̇
-* ⁱ̼̽
-* ⁱ̼́
-* ⁱ̼̂
-* ⁱ̻͊
-* ⁱ̻̏
-* ⁱ̻̈
-* ⁱ̻͌
-* ⁱ̻̊
-* ⁱ̻͆
-* ⁱ̻̅
-* ⁱ̻̀
-* ⁱ̻̄
-* ⁱ̻̋
-* ⁱ̻̌
-* ⁱ̻͋
-* ⁱ̻̆
-* ⁱ̻̃
-* ⁱ̻̇
-* ⁱ̻̽
-* ⁱ̻́
-* ⁱ̻̂
-* ⁱ̧͊
-* ⁱ̧̏
-* ⁱ̧͌
-* ⁱ̧͆
-* ⁱ̧̅
-* ⁱ̧͋
-* ⁱ̧̽
-* ⁱ̪͊
-* ⁱ̪̏
-* ⁱ̪̈
-* ⁱ̪͌
-* ⁱ̪̊
-* ⁱ̪͆
-* ⁱ̪̅
-* ⁱ̪̀
-* ⁱ̪̄
-* ⁱ̪̋
-* ⁱ̪̌
-* ⁱ̪͋
-* ⁱ̪̆
-* ⁱ̪̃
-* ⁱ̪̇
-* ⁱ̪̽
-* ⁱ̪́
-* ⁱ̪̂
-* ⁱ̬͊
-* ⁱ̬̏
-* ⁱ̬̈
-* ⁱ̬͌
-* ⁱ̬̊
-* ⁱ̬͆
-* ⁱ̬̅
-* ⁱ̬̀
-* ⁱ̬̄
-* ⁱ̬̋
-* ⁱ̬̌
-* ⁱ̬͋
-* ⁱ̬̆
-* ⁱ̬̃
-* ⁱ̬̇
-* ⁱ̬̽
-* ⁱ̬́
-* ⁱ̬̂
-* ⁱ͈͊
-* ⁱ͈̏
-* ⁱ͈̈
-* ⁱ͈͌
-* ⁱ͈̊
-* ⁱ͈͆
-* ⁱ͈̅
-* ⁱ͈̀
-* ⁱ͈̄
-* ⁱ͈̋
-* ⁱ͈̌
-* ⁱ͈͋
-* ⁱ͈̆
-* ⁱ͈̃
-* ⁱ͈̇
-* ⁱ͈̽
-* ⁱ͈́
-* ⁱ͈̂
-* ⁱ̤͊
-* ⁱ̤̏
-* ⁱ̤̈
-* ⁱ̤͌
-* ⁱ̤̊
-* ⁱ̤͆
-* ⁱ̤̅
-* ⁱ̤̀
-* ⁱ̤̄
-* ⁱ̤̋
-* ⁱ̤̌
-* ⁱ̤͋
-* ⁱ̤̆
-* ⁱ̤̃
-* ⁱ̤̇
-* ⁱ̤̽
-* ⁱ̤́
-* ⁱ̤̂
-* ⁱ̟͊
-* ⁱ̟̏
-* ⁱ̟̈
-* ⁱ̟͌
-* ⁱ̟̊
-* ⁱ̟͆
-* ⁱ̟̅
-* ⁱ̟̀
-* ⁱ̟̄
-* ⁱ̟̋
-* ⁱ̟̌
-* ⁱ̟͋
-* ⁱ̟̆
-* ⁱ̟̃
-* ⁱ̟̇
-* ⁱ̟̽
-* ⁱ̟́
-* ⁱ̟̂
-* ⁱ̰͊
-* ⁱ̰̏
-* ⁱ̰̈
-* ⁱ̰͌
-* ⁱ̰̊
-* ⁱ̰͆
-* ⁱ̰̅
-* ⁱ̰̀
-* ⁱ̰̄
-* ⁱ̰̋
-* ⁱ̰̌
-* ⁱ̰͋
-* ⁱ̰̆
-* ⁱ̰̃
-* ⁱ̰̇
-* ⁱ̰̽
-* ⁱ̰́
-* ⁱ̰̂
-* ⁱ̘͊
-* ⁱ̘̏
-* ⁱ̘̈
-* ⁱ̘͌
-* ⁱ̘̊
-* ⁱ̘͆
-* ⁱ̘̅
-* ⁱ̘̀
-* ⁱ̘̄
-* ⁱ̘̋
-* ⁱ̘̌
-* ⁱ̘͋
-* ⁱ̘̆
-* ⁱ̘̃
-* ⁱ̘̇
-* ⁱ̘̽
-* ⁱ̘́
-* ⁱ̘̂
-* ⁱ̹͊
-* ⁱ̹̏
-* ⁱ̹̈
-* ⁱ̹͌
-* ⁱ̹̊
-* ⁱ̹͆
-* ⁱ̹̅
-* ⁱ̹̀
-* ⁱ̹̄
-* ⁱ̹̋
-* ⁱ̹̌
-* ⁱ̹͋
-* ⁱ̹̆
-* ⁱ̹̃
-* ⁱ̹̇
-* ⁱ̹̽
-* ⁱ̹́
-* ⁱ̹̂
-* ⁱ͉͊
-* ⁱ͉̏
-* ⁱ͉̈
-* ⁱ͉͌
-* ⁱ͉̊
-* ⁱ͉͆
-* ⁱ͉̅
-* ⁱ͉̀
-* ⁱ͉̄
-* ⁱ͉̋
-* ⁱ͉̌
-* ⁱ͉͋
-* ⁱ͉̆
-* ⁱ͉̃
-* ⁱ͉̇
-* ⁱ͉̽
-* ⁱ͉́
-* ⁱ͉̂
-* ⁱ͇͊
-* ⁱ͇̏
-* ⁱ͇̈
-* ⁱ͇͌
-* ⁱ͇̊
-* ⁱ͇͆
-* ⁱ͇̅
-* ⁱ͇̀
-* ⁱ͇̄
-* ⁱ͇̋
-* ⁱ͇̌
-* ⁱ͇͋
-* ⁱ͇̆
-* ⁱ͇̃
-* ⁱ͇̇
-* ⁱ͇̽
-* ⁱ͇́
-* ⁱ͇̂
-* ⁱ̠͊
-* ⁱ̠̏
-* ⁱ̠̈
-* ⁱ̠͌
-* ⁱ̠̊
-* ⁱ̠͆
-* ⁱ̠̅
-* ⁱ̠̀
-* ⁱ̠̄
-* ⁱ̠̋
-* ⁱ̠̌
-* ⁱ̠͋
-* ⁱ̠̆
-* ⁱ̠̃
-* ⁱ̠̇
-* ⁱ̠̽
-* ⁱ̠́
-* ⁱ̠̂
-* ⁱ̙͊
-* ⁱ̙̏
-* ⁱ̙̈
-* ⁱ̙͌
-* ⁱ̙̊
-* ⁱ̙͆
-* ⁱ̙̅
-* ⁱ̙̀
-* ⁱ̙̄
-* ⁱ̙̋
-* ⁱ̙̌
-* ⁱ̙͋
-* ⁱ̙̆
-* ⁱ̙̃
-* ⁱ̙̇
-* ⁱ̙̽
-* ⁱ̙́
-* ⁱ̙̂
-* ⁱ͎͊
-* ⁱ͎̏
-* ⁱ͎̈
-* ⁱ͎͌
-* ⁱ͎̊
-* ⁱ͎͆
-* ⁱ͎̅
-* ⁱ͎̀
-* ⁱ͎̄
-* ⁱ͎̋
-* ⁱ͎̌
-* ⁱ͎͋
-* ⁱ͎̆
-* ⁱ͎̃
-* ⁱ͎̇
-* ⁱ͎̽
-* ⁱ͎́
-* ⁱ͎̂
-* ⁱ̞͊
-* ⁱ̞̏
-* ⁱ̞̈
-* ⁱ̞͌
-* ⁱ̞̊
-* ⁱ̞͆
-* ⁱ̞̅
-* ⁱ̞̀
-* ⁱ̞̄
-* ⁱ̞̋
-* ⁱ̞̌
-* ⁱ̞͋
-* ⁱ̞̆
-* ⁱ̞̃
-* ⁱ̞̇
-* ⁱ̞̽
-* ⁱ̞́
-* ⁱ̞̂
-* ⁱ̦͊
-* ⁱ̦̏
-* ⁱ̦͌
-* ⁱ̦͆
-* ⁱ̦̅
-* ⁱ̦͋
-* ⁱ̦̽
-* ⁱ̜͊
-* ⁱ̜̏
-* ⁱ̜̈
-* ⁱ̜͌
-* ⁱ̜̊
-* ⁱ̜͆
-* ⁱ̜̅
-* ⁱ̜̀
-* ⁱ̜̄
-* ⁱ̜̋
-* ⁱ̜̌
-* ⁱ̜͋
-* ⁱ̜̆
-* ⁱ̜̃
-* ⁱ̜̇
-* ⁱ̜̽
-* ⁱ̜́
-* ⁱ̜̂
-* ⁱ̲͊
-* ⁱ̲̏
-* ⁱ̲̈
-* ⁱ̲͌
-* ⁱ̲̊
-* ⁱ̲͆
-* ⁱ̲̅
-* ⁱ̲̀
-* ⁱ̲̄
-* ⁱ̲̋
-* ⁱ̲̌
-* ⁱ̲͋
-* ⁱ̲̆
-* ⁱ̲̃
-* ⁱ̲̇
-* ⁱ̲̽
-* ⁱ̲́
-* ⁱ̲̂
-* ⁱ̥͊
-* ⁱ̥̏
-* ⁱ̥̈
-* ⁱ̥͌
-* ⁱ̥̊
-* ⁱ̥͆
-* ⁱ̥̅
-* ⁱ̥̀
-* ⁱ̥̄
-* ⁱ̥̋
-* ⁱ̥̌
-* ⁱ̥͋
-* ⁱ̥̆
-* ⁱ̥̃
-* ⁱ̥̇
-* ⁱ̥̽
-* ⁱ̥́
-* ⁱ̥̂
-* ⁱ̨͊
-* ⁱ̨̏
-* ⁱ̨͌
-* ⁱ̨͆
-* ⁱ̨̅
-* ⁱ̨͋
-* ⁱ̨̽
-* ⁱ͍͊
-* ⁱ͍̏
-* ⁱ͍̈
-* ⁱ͍͌
-* ⁱ͍̊
-* ⁱ͍͆
-* ⁱ͍̅
-* ⁱ͍̀
-* ⁱ͍̄
-* ⁱ͍̋
-* ⁱ͍̌
-* ⁱ͍͋
-* ⁱ͍̆
-* ⁱ͍̃
-* ⁱ͍̇
-* ⁱ͍̽
-* ⁱ͍́
-* ⁱ͍̂
-* ⁱ̺͊
-* ⁱ̺̏
-* ⁱ̺̈
-* ⁱ̺͌
-* ⁱ̺̊
-* ⁱ̺͆
-* ⁱ̺̅
-* ⁱ̺̀
-* ⁱ̺̄
-* ⁱ̺̋
-* ⁱ̺̌
-* ⁱ̺͋
-* ⁱ̺̆
-* ⁱ̺̃
-* ⁱ̺̇
-* ⁱ̺̽
-* ⁱ̺́
-* ⁱ̺̂
-* ⁱ̩͊
-* ⁱ̩̏
-* ⁱ̩̈
-* ⁱ̩͌
-* ⁱ̩̊
-* ⁱ̩͆
-* ⁱ̩̅
-* ⁱ̩̀
-* ⁱ̩̄
-* ⁱ̩̋
-* ⁱ̩̌
-* ⁱ̩͋
-* ⁱ̩̆
-* ⁱ̩̃
-* ⁱ̩̇
-* ⁱ̩̽
-* ⁱ̩́
-* ⁱ̩̂
-* ⁱ̴͊
-* ⁱ̴̏
-* ⁱ̴̈
-* ⁱ̴͌
-* ⁱ̴̊
-* ⁱ̴͆
-* ⁱ̴̅
-* ⁱ̴̀
-* ⁱ̴̄
-* ⁱ̴̋
-* ⁱ̴̌
-* ⁱ̴͋
-* ⁱ̴̆
-* ⁱ̴̃
-* ⁱ̴̇
-* ⁱ̴̽
-* ⁱ̴́
-* ⁱ̴̂
-* ⁱ͊
-* ⁱ̏
-* ⁱ̈
-* ⁱ͌
-* ⁱ̊
-* ⁱ͆
-* ⁱ̅
-* ⁱ̀
-* ⁱ̄
-* ⁱ̋
-* ⁱ̌
-* ⁱ͋
-* ⁱ̆
-* ⁱ̃
-* ⁱ̇
-* ⁱ̽
-* ⁱ́
-* ⁱ̂
-* ʲ̝͊
-* ʲ̝̏
-* ʲ̝̈
-* ʲ̝͌
-* ʲ̝̊
-* ʲ̝͆
-* ʲ̝̅
-* ʲ̝̀
-* ʲ̝̄
-* ʲ̝̋
-* ʲ̝̌
-* ʲ̝͋
-* ʲ̝̆
-* ʲ̝̃
-* ʲ̝̇
-* ʲ̝̽
-* ʲ̝́
-* ʲ̝̂
-* ʲ̼͊
-* ʲ̼̏
-* ʲ̼̈
-* ʲ̼͌
-* ʲ̼̊
-* ʲ̼͆
-* ʲ̼̅
-* ʲ̼̀
-* ʲ̼̄
-* ʲ̼̋
-* ʲ̼̌
-* ʲ̼͋
-* ʲ̼̆
-* ʲ̼̃
-* ʲ̼̇
-* ʲ̼̽
-* ʲ̼́
-* ʲ̼̂
-* ʲ̻͊
-* ʲ̻̏
-* ʲ̻̈
-* ʲ̻͌
-* ʲ̻̊
-* ʲ̻͆
-* ʲ̻̅
-* ʲ̻̀
-* ʲ̻̄
-* ʲ̻̋
-* ʲ̻̌
-* ʲ̻͋
-* ʲ̻̆
-* ʲ̻̃
-* ʲ̻̇
-* ʲ̻̽
-* ʲ̻́
-* ʲ̻̂
-* ʲ̧͊
-* ʲ̧̏
-* ʲ̧͌
-* ʲ̧͆
-* ʲ̧̅
-* ʲ̧͋
-* ʲ̧̽
-* ʲ̪͊
-* ʲ̪̏
-* ʲ̪̈
-* ʲ̪͌
-* ʲ̪̊
-* ʲ̪͆
-* ʲ̪̅
-* ʲ̪̀
-* ʲ̪̄
-* ʲ̪̋
-* ʲ̪̌
-* ʲ̪͋
-* ʲ̪̆
-* ʲ̪̃
-* ʲ̪̇
-* ʲ̪̽
-* ʲ̪́
-* ʲ̪̂
-* ʲ̬͊
-* ʲ̬̏
-* ʲ̬̈
-* ʲ̬͌
-* ʲ̬̊
 * ʲ̬͆
-* ʲ̬̅
-* ʲ̬̀
-* ʲ̬̄
-* ʲ̬̋
-* ʲ̬̌
+* ʲ̬̈
 * ʲ̬͋
-* ʲ̬̆
-* ʲ̬̃
-* ʲ̬̇
-* ʲ̬̽
+* ʲ̬̋
 * ʲ̬́
 * ʲ̬̂
-* ʲ͈͊
-* ʲ͈̏
-* ʲ͈̈
-* ʲ͈͌
-* ʲ͈̊
-* ʲ͈͆
-* ʲ͈̅
-* ʲ͈̀
-* ʲ͈̄
-* ʲ͈̋
-* ʲ͈̌
-* ʲ͈͋
-* ʲ͈̆
-* ʲ͈̃
-* ʲ͈̇
-* ʲ͈̽
-* ʲ͈́
-* ʲ͈̂
-* ʲ̤͊
-* ʲ̤̏
-* ʲ̤̈
-* ʲ̤͌
-* ʲ̤̊
-* ʲ̤͆
-* ʲ̤̅
-* ʲ̤̀
-* ʲ̤̄
-* ʲ̤̋
-* ʲ̤̌
-* ʲ̤͋
-* ʲ̤̆
-* ʲ̤̃
-* ʲ̤̇
-* ʲ̤̽
-* ʲ̤́
-* ʲ̤̂
-* ʲ̟͊
-* ʲ̟̏
-* ʲ̟̈
-* ʲ̟͌
-* ʲ̟̊
-* ʲ̟͆
-* ʲ̟̅
-* ʲ̟̀
-* ʲ̟̄
-* ʲ̟̋
-* ʲ̟̌
-* ʲ̟͋
-* ʲ̟̆
-* ʲ̟̃
-* ʲ̟̇
-* ʲ̟̽
-* ʲ̟́
-* ʲ̟̂
-* ʲ̰͊
-* ʲ̰̏
-* ʲ̰̈
-* ʲ̰͌
-* ʲ̰̊
-* ʲ̰͆
-* ʲ̰̅
-* ʲ̰̀
-* ʲ̰̄
-* ʲ̰̋
-* ʲ̰̌
-* ʲ̰͋
-* ʲ̰̆
-* ʲ̰̃
-* ʲ̰̇
-* ʲ̰̽
-* ʲ̰́
-* ʲ̰̂
-* ʲ̘͊
-* ʲ̘̏
-* ʲ̘̈
-* ʲ̘͌
-* ʲ̘̊
-* ʲ̘͆
-* ʲ̘̅
-* ʲ̘̀
-* ʲ̘̄
-* ʲ̘̋
-* ʲ̘̌
-* ʲ̘͋
-* ʲ̘̆
-* ʲ̘̃
-* ʲ̘̇
-* ʲ̘̽
-* ʲ̘́
-* ʲ̘̂
-* ʲ̹͊
-* ʲ̹̏
-* ʲ̹̈
-* ʲ̹͌
-* ʲ̹̊
-* ʲ̹͆
-* ʲ̹̅
-* ʲ̹̀
-* ʲ̹̄
-* ʲ̹̋
-* ʲ̹̌
-* ʲ̹͋
-* ʲ̹̆
-* ʲ̹̃
-* ʲ̹̇
-* ʲ̹̽
-* ʲ̹́
-* ʲ̹̂
-* ʲ͉͊
-* ʲ͉̏
-* ʲ͉̈
-* ʲ͉͌
-* ʲ͉̊
-* ʲ͉͆
-* ʲ͉̅
-* ʲ͉̀
-* ʲ͉̄
-* ʲ͉̋
-* ʲ͉̌
-* ʲ͉͋
-* ʲ͉̆
-* ʲ͉̃
-* ʲ͉̇
-* ʲ͉̽
-* ʲ͉́
-* ʲ͉̂
-* ʲ͇͊
-* ʲ͇̏
-* ʲ͇̈
-* ʲ͇͌
-* ʲ͇̊
-* ʲ͇͆
-* ʲ͇̅
-* ʲ͇̀
-* ʲ͇̄
-* ʲ͇̋
-* ʲ͇̌
-* ʲ͇͋
-* ʲ͇̆
-* ʲ͇̃
-* ʲ͇̇
-* ʲ͇̽
-* ʲ͇́
-* ʲ͇̂
-* ʲ̠͊
-* ʲ̠̏
-* ʲ̠̈
-* ʲ̠͌
-* ʲ̠̊
+* ʲ̬̏
+* ʲ̬̊
+* ʲ̬̃
+* ʲ̬͊
+* ʲ̬̀
+* ʲ̬̇
+* ʲ̬̅
+* ʲ̬̄
+* ʲ̬̌
+* ʲ̬͌
+* ʲ̬̽
+* ʲ̬̆
 * ʲ̠͆
-* ʲ̠̅
-* ʲ̠̀
-* ʲ̠̄
-* ʲ̠̋
-* ʲ̠̌
+* ʲ̠̈
 * ʲ̠͋
-* ʲ̠̆
-* ʲ̠̃
-* ʲ̠̇
-* ʲ̠̽
+* ʲ̠̋
 * ʲ̠́
 * ʲ̠̂
-* ʲ̙͊
-* ʲ̙̏
-* ʲ̙̈
-* ʲ̙͌
-* ʲ̙̊
+* ʲ̠̏
+* ʲ̠̊
+* ʲ̠̃
+* ʲ̠͊
+* ʲ̠̀
+* ʲ̠̇
+* ʲ̠̅
+* ʲ̠̄
+* ʲ̠̌
+* ʲ̠͌
+* ʲ̠̽
+* ʲ̠̆
 * ʲ̙͆
-* ʲ̙̅
-* ʲ̙̀
-* ʲ̙̄
-* ʲ̙̋
-* ʲ̙̌
+* ʲ̙̈
 * ʲ̙͋
-* ʲ̙̆
-* ʲ̙̃
-* ʲ̙̇
-* ʲ̙̽
+* ʲ̙̋
 * ʲ̙́
 * ʲ̙̂
-* ʲ͎͊
-* ʲ͎̏
-* ʲ͎̈
-* ʲ͎͌
-* ʲ͎̊
-* ʲ͎͆
-* ʲ͎̅
-* ʲ͎̀
-* ʲ͎̄
-* ʲ͎̋
-* ʲ͎̌
-* ʲ͎͋
-* ʲ͎̆
-* ʲ͎̃
-* ʲ͎̇
-* ʲ͎̽
-* ʲ͎́
-* ʲ͎̂
-* ʲ̞͊
-* ʲ̞̏
-* ʲ̞̈
-* ʲ̞͌
-* ʲ̞̊
-* ʲ̞͆
-* ʲ̞̅
-* ʲ̞̀
-* ʲ̞̄
-* ʲ̞̋
-* ʲ̞̌
-* ʲ̞͋
-* ʲ̞̆
-* ʲ̞̃
-* ʲ̞̇
-* ʲ̞̽
-* ʲ̞́
-* ʲ̞̂
-* ʲ̦͊
-* ʲ̦̏
-* ʲ̦͌
-* ʲ̦͆
-* ʲ̦̅
-* ʲ̦͋
-* ʲ̦̽
-* ʲ̜͊
-* ʲ̜̏
-* ʲ̜̈
-* ʲ̜͌
-* ʲ̜̊
-* ʲ̜͆
-* ʲ̜̅
-* ʲ̜̀
-* ʲ̜̄
-* ʲ̜̋
-* ʲ̜̌
-* ʲ̜͋
-* ʲ̜̆
-* ʲ̜̃
-* ʲ̜̇
-* ʲ̜̽
-* ʲ̜́
-* ʲ̜̂
-* ʲ̲͊
-* ʲ̲̏
-* ʲ̲̈
-* ʲ̲͌
-* ʲ̲̊
-* ʲ̲͆
-* ʲ̲̅
-* ʲ̲̀
-* ʲ̲̄
-* ʲ̲̋
-* ʲ̲̌
-* ʲ̲͋
-* ʲ̲̆
-* ʲ̲̃
-* ʲ̲̇
-* ʲ̲̽
-* ʲ̲́
-* ʲ̲̂
-* ʲ̥͊
-* ʲ̥̏
-* ʲ̥̈
-* ʲ̥͌
-* ʲ̥̊
-* ʲ̥͆
-* ʲ̥̅
-* ʲ̥̀
-* ʲ̥̄
-* ʲ̥̋
-* ʲ̥̌
-* ʲ̥͋
-* ʲ̥̆
-* ʲ̥̃
-* ʲ̥̇
-* ʲ̥̽
-* ʲ̥́
-* ʲ̥̂
-* ʲ̨͊
-* ʲ̨̏
-* ʲ̨͌
-* ʲ̨͆
-* ʲ̨̅
-* ʲ̨͋
-* ʲ̨̽
-* ʲ͍͊
-* ʲ͍̏
-* ʲ͍̈
-* ʲ͍͌
-* ʲ͍̊
-* ʲ͍͆
-* ʲ͍̅
-* ʲ͍̀
-* ʲ͍̄
-* ʲ͍̋
-* ʲ͍̌
-* ʲ͍͋
-* ʲ͍̆
-* ʲ͍̃
-* ʲ͍̇
-* ʲ͍̽
-* ʲ͍́
-* ʲ͍̂
-* ʲ̺͊
-* ʲ̺̏
-* ʲ̺̈
-* ʲ̺͌
-* ʲ̺̊
-* ʲ̺͆
-* ʲ̺̅
-* ʲ̺̀
-* ʲ̺̄
-* ʲ̺̋
-* ʲ̺̌
-* ʲ̺͋
-* ʲ̺̆
-* ʲ̺̃
-* ʲ̺̇
-* ʲ̺̽
-* ʲ̺́
-* ʲ̺̂
-* ʲ̩͊
-* ʲ̩̏
-* ʲ̩̈
-* ʲ̩͌
-* ʲ̩̊
-* ʲ̩͆
-* ʲ̩̅
-* ʲ̩̀
-* ʲ̩̄
-* ʲ̩̋
-* ʲ̩̌
-* ʲ̩͋
-* ʲ̩̆
-* ʲ̩̃
-* ʲ̩̇
-* ʲ̩̽
-* ʲ̩́
-* ʲ̩̂
-* ʲ̴͊
-* ʲ̴̏
-* ʲ̴̈
-* ʲ̴͌
-* ʲ̴̊
+* ʲ̙̏
+* ʲ̙̊
+* ʲ̙̃
+* ʲ̙͊
+* ʲ̙̀
+* ʲ̙̇
+* ʲ̙̅
+* ʲ̙̄
+* ʲ̙̌
+* ʲ̙͌
+* ʲ̙̽
+* ʲ̙̆
+* ʲ͈͆
+* ʲ͈̈
+* ʲ͈͋
+* ʲ͈̋
+* ʲ͈́
+* ʲ͈̂
+* ʲ͈̏
+* ʲ͈̊
+* ʲ͈̃
+* ʲ͈͊
+* ʲ͈̀
+* ʲ͈̇
+* ʲ͈̅
+* ʲ͈̄
+* ʲ͈̌
+* ʲ͈͌
+* ʲ͈̽
+* ʲ͈̆
 * ʲ̴͆
-* ʲ̴̅
-* ʲ̴̀
-* ʲ̴̄
-* ʲ̴̋
-* ʲ̴̌
+* ʲ̴̈
 * ʲ̴͋
-* ʲ̴̆
-* ʲ̴̃
-* ʲ̴̇
-* ʲ̴̽
+* ʲ̴̋
 * ʲ̴́
 * ʲ̴̂
-* ʲ͊
-* ʲ̏
-* ʲ̈
-* ʲ͌
-* ʲ̊
+* ʲ̴̏
+* ʲ̴̊
+* ʲ̴̃
+* ʲ̴͊
+* ʲ̴̀
+* ʲ̴̇
+* ʲ̴̅
+* ʲ̴̄
+* ʲ̴̌
+* ʲ̴͌
+* ʲ̴̽
+* ʲ̴̆
+* ʲ̤͆
+* ʲ̤̈
+* ʲ̤͋
+* ʲ̤̋
+* ʲ̤́
+* ʲ̤̂
+* ʲ̤̏
+* ʲ̤̊
+* ʲ̤̃
+* ʲ̤͊
+* ʲ̤̀
+* ʲ̤̇
+* ʲ̤̅
+* ʲ̤̄
+* ʲ̤̌
+* ʲ̤͌
+* ʲ̤̽
+* ʲ̤̆
+* ʲ͉͆
+* ʲ͉̈
+* ʲ͉͋
+* ʲ͉̋
+* ʲ͉́
+* ʲ͉̂
+* ʲ͉̏
+* ʲ͉̊
+* ʲ͉̃
+* ʲ͉͊
+* ʲ͉̀
+* ʲ͉̇
+* ʲ͉̅
+* ʲ͉̄
+* ʲ͉̌
+* ʲ͉͌
+* ʲ͉̽
+* ʲ͉̆
+* ʲ̪͆
+* ʲ̪̈
+* ʲ̪͋
+* ʲ̪̋
+* ʲ̪́
+* ʲ̪̂
+* ʲ̪̏
+* ʲ̪̊
+* ʲ̪̃
+* ʲ̪͊
+* ʲ̪̀
+* ʲ̪̇
+* ʲ̪̅
+* ʲ̪̄
+* ʲ̪̌
+* ʲ̪͌
+* ʲ̪̽
+* ʲ̪̆
+* ʲ̨͆
+* ʲ̨͋
+* ʲ̨̏
+* ʲ̨͊
+* ʲ̨̅
+* ʲ̨͌
+* ʲ̨̽
+* ʲ̧͆
+* ʲ̧͋
+* ʲ̧̏
+* ʲ̧͊
+* ʲ̧̅
+* ʲ̧͌
+* ʲ̧̽
+* ʲ̼͆
+* ʲ̼̈
+* ʲ̼͋
+* ʲ̼̋
+* ʲ̼́
+* ʲ̼̂
+* ʲ̼̏
+* ʲ̼̊
+* ʲ̼̃
+* ʲ̼͊
+* ʲ̼̀
+* ʲ̼̇
+* ʲ̼̅
+* ʲ̼̄
+* ʲ̼̌
+* ʲ̼͌
+* ʲ̼̽
+* ʲ̼̆
+* ʲ̩͆
+* ʲ̩̈
+* ʲ̩͋
+* ʲ̩̋
+* ʲ̩́
+* ʲ̩̂
+* ʲ̩̏
+* ʲ̩̊
+* ʲ̩̃
+* ʲ̩͊
+* ʲ̩̀
+* ʲ̩̇
+* ʲ̩̅
+* ʲ̩̄
+* ʲ̩̌
+* ʲ̩͌
+* ʲ̩̽
+* ʲ̩̆
+* ʲ̜͆
+* ʲ̜̈
+* ʲ̜͋
+* ʲ̜̋
+* ʲ̜́
+* ʲ̜̂
+* ʲ̜̏
+* ʲ̜̊
+* ʲ̜̃
+* ʲ̜͊
+* ʲ̜̀
+* ʲ̜̇
+* ʲ̜̅
+* ʲ̜̄
+* ʲ̜̌
+* ʲ̜͌
+* ʲ̜̽
+* ʲ̜̆
+* ʲ̦͆
+* ʲ̦͋
+* ʲ̦̏
+* ʲ̦͊
+* ʲ̦̅
+* ʲ̦͌
+* ʲ̦̽
+* ʲ̘͆
+* ʲ̘̈
+* ʲ̘͋
+* ʲ̘̋
+* ʲ̘́
+* ʲ̘̂
+* ʲ̘̏
+* ʲ̘̊
+* ʲ̘̃
+* ʲ̘͊
+* ʲ̘̀
+* ʲ̘̇
+* ʲ̘̅
+* ʲ̘̄
+* ʲ̘̌
+* ʲ̘͌
+* ʲ̘̽
+* ʲ̘̆
+* ʲ̲͆
+* ʲ̲̈
+* ʲ̲͋
+* ʲ̲̋
+* ʲ̲́
+* ʲ̲̂
+* ʲ̲̏
+* ʲ̲̊
+* ʲ̲̃
+* ʲ̲͊
+* ʲ̲̀
+* ʲ̲̇
+* ʲ̲̅
+* ʲ̲̄
+* ʲ̲̌
+* ʲ̲͌
+* ʲ̲̽
+* ʲ̲̆
+* ʲ͎͆
+* ʲ͎̈
+* ʲ͎͋
+* ʲ͎̋
+* ʲ͎́
+* ʲ͎̂
+* ʲ͎̏
+* ʲ͎̊
+* ʲ͎̃
+* ʲ͎͊
+* ʲ͎̀
+* ʲ͎̇
+* ʲ͎̅
+* ʲ͎̄
+* ʲ͎̌
+* ʲ͎͌
+* ʲ͎̽
+* ʲ͎̆
+* ʲ̰͆
+* ʲ̰̈
+* ʲ̰͋
+* ʲ̰̋
+* ʲ̰́
+* ʲ̰̂
+* ʲ̰̏
+* ʲ̰̊
+* ʲ̰̃
+* ʲ̰͊
+* ʲ̰̀
+* ʲ̰̇
+* ʲ̰̅
+* ʲ̰̄
+* ʲ̰̌
+* ʲ̰͌
+* ʲ̰̽
+* ʲ̰̆
+* ʲ͇͆
+* ʲ͇̈
+* ʲ͇͋
+* ʲ͇̋
+* ʲ͇́
+* ʲ͇̂
+* ʲ͇̏
+* ʲ͇̊
+* ʲ͇̃
+* ʲ͇͊
+* ʲ͇̀
+* ʲ͇̇
+* ʲ͇̅
+* ʲ͇̄
+* ʲ͇̌
+* ʲ͇͌
+* ʲ͇̽
+* ʲ͇̆
+* ʲ̥͆
+* ʲ̥̈
+* ʲ̥͋
+* ʲ̥̋
+* ʲ̥́
+* ʲ̥̂
+* ʲ̥̏
+* ʲ̥̊
+* ʲ̥̃
+* ʲ̥͊
+* ʲ̥̀
+* ʲ̥̇
+* ʲ̥̅
+* ʲ̥̄
+* ʲ̥̌
+* ʲ̥͌
+* ʲ̥̽
+* ʲ̥̆
+* ʲ̟͆
+* ʲ̟̈
+* ʲ̟͋
+* ʲ̟̋
+* ʲ̟́
+* ʲ̟̂
+* ʲ̟̏
+* ʲ̟̊
+* ʲ̟̃
+* ʲ̟͊
+* ʲ̟̀
+* ʲ̟̇
+* ʲ̟̅
+* ʲ̟̄
+* ʲ̟̌
+* ʲ̟͌
+* ʲ̟̽
+* ʲ̟̆
+* ʲ̺͆
+* ʲ̺̈
+* ʲ̺͋
+* ʲ̺̋
+* ʲ̺́
+* ʲ̺̂
+* ʲ̺̏
+* ʲ̺̊
+* ʲ̺̃
+* ʲ̺͊
+* ʲ̺̀
+* ʲ̺̇
+* ʲ̺̅
+* ʲ̺̄
+* ʲ̺̌
+* ʲ̺͌
+* ʲ̺̽
+* ʲ̺̆
+* ʲ͍͆
+* ʲ͍̈
+* ʲ͍͋
+* ʲ͍̋
+* ʲ͍́
+* ʲ͍̂
+* ʲ͍̏
+* ʲ͍̊
+* ʲ͍̃
+* ʲ͍͊
+* ʲ͍̀
+* ʲ͍̇
+* ʲ͍̅
+* ʲ͍̄
+* ʲ͍̌
+* ʲ͍͌
+* ʲ͍̽
+* ʲ͍̆
+* ʲ̝͆
+* ʲ̝̈
+* ʲ̝͋
+* ʲ̝̋
+* ʲ̝́
+* ʲ̝̂
+* ʲ̝̏
+* ʲ̝̊
+* ʲ̝̃
+* ʲ̝͊
+* ʲ̝̀
+* ʲ̝̇
+* ʲ̝̅
+* ʲ̝̄
+* ʲ̝̌
+* ʲ̝͌
+* ʲ̝̽
+* ʲ̝̆
+* ʲ̻͆
+* ʲ̻̈
+* ʲ̻͋
+* ʲ̻̋
+* ʲ̻́
+* ʲ̻̂
+* ʲ̻̏
+* ʲ̻̊
+* ʲ̻̃
+* ʲ̻͊
+* ʲ̻̀
+* ʲ̻̇
+* ʲ̻̅
+* ʲ̻̄
+* ʲ̻̌
+* ʲ̻͌
+* ʲ̻̽
+* ʲ̻̆
+* ʲ̞͆
+* ʲ̞̈
+* ʲ̞͋
+* ʲ̞̋
+* ʲ̞́
+* ʲ̞̂
+* ʲ̞̏
+* ʲ̞̊
+* ʲ̞̃
+* ʲ̞͊
+* ʲ̞̀
+* ʲ̞̇
+* ʲ̞̅
+* ʲ̞̄
+* ʲ̞̌
+* ʲ̞͌
+* ʲ̞̽
+* ʲ̞̆
+* ʲ̹͆
+* ʲ̹̈
+* ʲ̹͋
+* ʲ̹̋
+* ʲ̹́
+* ʲ̹̂
+* ʲ̹̏
+* ʲ̹̊
+* ʲ̹̃
+* ʲ̹͊
+* ʲ̹̀
+* ʲ̹̇
+* ʲ̹̅
+* ʲ̹̄
+* ʲ̹̌
+* ʲ̹͌
+* ʲ̹̽
+* ʲ̹̆
 * ʲ͆
-* ʲ̅
-* ʲ̀
-* ʲ̄
-* ʲ̋
-* ʲ̌
+* ʲ̈
 * ʲ͋
-* ʲ̆
-* ʲ̃
-* ʲ̇
-* ʲ̽
+* ʲ̋
 * ʲ́
 * ʲ̂
-* j̝̅
-* j̼̅
-* j̻̅
-* j̧̅
-* j̪̅
+* ʲ̏
+* ʲ̊
+* ʲ̃
+* ʲ͊
+* ʲ̀
+* ʲ̇
+* ʲ̅
+* ʲ̄
+* ʲ̌
+* ʲ͌
+* ʲ̽
+* ʲ̆
 * j̬̅
-* j͈̅
-* j̤̅
-* j̟̅
-* j̰̅
-* j̘̅
-* j̹̅
-* j͉̅
-* j͇̅
 * j̠̅
 * j̙̅
-* j͎̅
-* j̞̅
-* j̦̅
-* j̜̅
-* j̲̅
-* j̥̅
-* j̨̅
-* j͍̅
-* j̺̅
-* j̩̅
+* j͈̅
 * j̴̅
-* j̅ [code: soft-dotted]
+* j̤̅
+* j͉̅
+* j̪̅
+* j̨̅
+* j̧̅
+* j̼̅
+* j̩̅
+* j̜̅
+* j̦̅
+* j̘̅
+* j̲̅
+* j͎̅
+* j̰̅
+* j͇̅
+* j̥̅
+* j̟̅
+* j̺̅
+* j͍̅
+* j̝̅
+* j̻̅
+* j̞̅
+* j̹̅
+* j̅
+* į̬͆
+* į̬̈
+* į̬͋
+* į̬̋
+* į̬́
+* į̬̂
+* į̬̏
+* į̬̊
+* į̬̃
+* į̬͊
+* į̬̀
+* į̬̇
+* į̬̅
+* į̬̄
+* į̬̌
+* į̬͌
+* į̬̽
+* į̬̆
+* į̠͆
+* į̠̈
+* į̠͋
+* į̠̋
+* į̠́
+* į̠̂
+* į̠̏
+* į̠̊
+* į̠̃
+* į̠͊
+* į̠̀
+* į̠̇
+* į̠̅
+* į̠̄
+* į̠̌
+* į̠͌
+* į̠̽
+* į̠̆
+* į̙͆
+* į̙̈
+* į̙͋
+* į̙̋
+* į̙́
+* į̙̂
+* į̙̏
+* į̙̊
+* į̙̃
+* į̙͊
+* į̙̀
+* į̙̇
+* į̙̅
+* į̙̄
+* į̙̌
+* į̙͌
+* į̙̽
+* į̙̆
+* į͈͆
+* į͈̈
+* į͈͋
+* į͈̋
+* į͈́
+* į͈̂
+* į͈̏
+* į͈̊
+* į͈̃
+* į͈͊
+* į͈̀
+* į͈̇
+* į͈̅
+* į͈̄
+* į͈̌
+* į͈͌
+* į͈̽
+* į͈̆
+* į̴͆
+* į̴̈
+* į̴͋
+* į̴̋
+* į̴́
+* į̴̂
+* į̴̏
+* į̴̊
+* į̴̃
+* į̴͊
+* į̴̀
+* į̴̇
+* į̴̅
+* į̴̄
+* į̴̌
+* į̴͌
+* į̴̽
+* į̴̆
+* į̤͆
+* į̤̈
+* į̤͋
+* į̤̋
+* į̤́
+* į̤̂
+* į̤̏
+* į̤̊
+* į̤̃
+* į̤͊
+* į̤̀
+* į̤̇
+* į̤̅
+* į̤̄
+* į̤̌
+* į̤͌
+* į̤̽
+* į̤̆
+* į͉͆
+* į͉̈
+* į͉͋
+* į͉̋
+* į͉́
+* į͉̂
+* į͉̏
+* į͉̊
+* į͉̃
+* į͉͊
+* į͉̀
+* į͉̇
+* į͉̅
+* į͉̄
+* į͉̌
+* į͉͌
+* į͉̽
+* į͉̆
+* į̪͆
+* į̪̈
+* į̪͋
+* į̪̋
+* į̪́
+* į̪̂
+* į̪̏
+* į̪̊
+* į̪̃
+* į̪͊
+* į̪̀
+* į̪̇
+* į̪̅
+* į̪̄
+* į̪̌
+* į̪͌
+* į̪̽
+* į̪̆
+* į̨͆
+* į̨͋
+* į̨̏
+* į̨͊
+* į̨̅
+* į̨͌
+* į̨̽
+* į̧͆
+* į̧͋
+* į̧̏
+* į̧͊
+* į̧̅
+* į̧͌
+* į̧̽
+* į̼͆
+* į̼̈
+* į̼͋
+* į̼̋
+* į̼́
+* į̼̂
+* į̼̏
+* į̼̊
+* į̼̃
+* į̼͊
+* į̼̀
+* į̼̇
+* į̼̅
+* į̼̄
+* į̼̌
+* į̼͌
+* į̼̽
+* į̼̆
+* į̩͆
+* į̩̈
+* į̩͋
+* į̩̋
+* į̩́
+* į̩̂
+* į̩̏
+* į̩̊
+* į̩̃
+* į̩͊
+* į̩̀
+* į̩̇
+* į̩̅
+* į̩̄
+* į̩̌
+* į̩͌
+* į̩̽
+* į̩̆
+* į̜͆
+* į̜̈
+* į̜͋
+* į̜̋
+* į̜́
+* į̜̂
+* į̜̏
+* į̜̊
+* į̜̃
+* į̜͊
+* į̜̀
+* į̜̇
+* į̜̅
+* į̜̄
+* į̜̌
+* į̜͌
+* į̜̽
+* į̜̆
+* į̦͆
+* į̦͋
+* į̦̏
+* į̦͊
+* į̦̅
+* į̦͌
+* į̦̽
+* į̘͆
+* į̘̈
+* į̘͋
+* į̘̋
+* į̘́
+* į̘̂
+* į̘̏
+* į̘̊
+* į̘̃
+* į̘͊
+* į̘̀
+* į̘̇
+* į̘̅
+* į̘̄
+* į̘̌
+* į̘͌
+* į̘̽
+* į̘̆
+* į̲͆
+* į̲̈
+* į̲͋
+* į̲̋
+* į̲́
+* į̲̂
+* į̲̏
+* į̲̊
+* į̲̃
+* į̲͊
+* į̲̀
+* į̲̇
+* į̲̅
+* į̲̄
+* į̲̌
+* į̲͌
+* į̲̽
+* į̲̆
+* į͎͆
+* į͎̈
+* į͎͋
+* į͎̋
+* į͎́
+* į͎̂
+* į͎̏
+* į͎̊
+* į͎̃
+* į͎͊
+* į͎̀
+* į͎̇
+* į͎̅
+* į͎̄
+* į͎̌
+* į͎͌
+* į͎̽
+* į͎̆
+* į̰͆
+* į̰̈
+* į̰͋
+* į̰̋
+* į̰́
+* į̰̂
+* į̰̏
+* į̰̊
+* į̰̃
+* į̰͊
+* į̰̀
+* į̰̇
+* į̰̅
+* į̰̄
+* į̰̌
+* į̰͌
+* į̰̽
+* į̰̆
+* į͇͆
+* į͇̈
+* į͇͋
+* į͇̋
+* į͇́
+* į͇̂
+* į͇̏
+* į͇̊
+* į͇̃
+* į͇͊
+* į͇̀
+* į͇̇
+* į͇̅
+* į͇̄
+* į͇̌
+* į͇͌
+* į͇̽
+* į͇̆
+* į̥͆
+* į̥̈
+* į̥͋
+* į̥̋
+* į̥́
+* į̥̂
+* į̥̏
+* į̥̊
+* į̥̃
+* į̥͊
+* į̥̀
+* į̥̇
+* į̥̅
+* į̥̄
+* į̥̌
+* į̥͌
+* į̥̽
+* į̥̆
+* į̟͆
+* į̟̈
+* į̟͋
+* į̟̋
+* į̟́
+* į̟̂
+* į̟̏
+* į̟̊
+* į̟̃
+* į̟͊
+* į̟̀
+* į̟̇
+* į̟̅
+* į̟̄
+* į̟̌
+* į̟͌
+* į̟̽
+* į̟̆
+* į̺͆
+* į̺̈
+* į̺͋
+* į̺̋
+* į̺́
+* į̺̂
+* į̺̏
+* į̺̊
+* į̺̃
+* į̺͊
+* į̺̀
+* į̺̇
+* į̺̅
+* į̺̄
+* į̺̌
+* į̺͌
+* į̺̽
+* į̺̆
+* į͍͆
+* į͍̈
+* į͍͋
+* į͍̋
+* į͍́
+* į͍̂
+* į͍̏
+* į͍̊
+* į͍̃
+* į͍͊
+* į͍̀
+* į͍̇
+* į͍̅
+* į͍̄
+* į͍̌
+* į͍͌
+* į͍̽
+* į͍̆
+* į̝͆
+* į̝̈
+* į̝͋
+* į̝̋
+* į̝́
+* į̝̂
+* į̝̏
+* į̝̊
+* į̝̃
+* į̝͊
+* į̝̀
+* į̝̇
+* į̝̅
+* į̝̄
+* į̝̌
+* į̝͌
+* į̝̽
+* į̝̆
+* į̻͆
+* į̻̈
+* į̻͋
+* į̻̋
+* į̻́
+* į̻̂
+* į̻̏
+* į̻̊
+* į̻̃
+* į̻͊
+* į̻̀
+* į̻̇
+* į̻̅
+* į̻̄
+* į̻̌
+* į̻͌
+* į̻̽
+* į̻̆
+* į̞͆
+* į̞̈
+* į̞͋
+* į̞̋
+* į̞́
+* į̞̂
+* į̞̏
+* į̞̊
+* į̞̃
+* į̞͊
+* į̞̀
+* į̞̇
+* į̞̅
+* į̞̄
+* į̞̌
+* į̞͌
+* į̞̽
+* į̞̆
+* į̹͆
+* į̹̈
+* į̹͋
+* į̹̋
+* į̹́
+* į̹̂
+* į̹̏
+* į̹̊
+* į̹̃
+* į̹͊
+* į̹̀
+* į̹̇
+* į̹̅
+* į̹̄
+* į̹̌
+* į̹͌
+* į̹̽
+* į̹̆
+* į͆
+* į̈
+* į͋
+* į̋
+* į̏
+* į̊
+* į͊
+* į̇
+* į̅
+* į͌
+* į̽
+* į̆
+* ⁱ̬͆
+* ⁱ̬̈
+* ⁱ̬͋
+* ⁱ̬̋
+* ⁱ̬́
+* ⁱ̬̂
+* ⁱ̬̏
+* ⁱ̬̊
+* ⁱ̬̃
+* ⁱ̬͊
+* ⁱ̬̀
+* ⁱ̬̇
+* ⁱ̬̅
+* ⁱ̬̄
+* ⁱ̬̌
+* ⁱ̬͌
+* ⁱ̬̽
+* ⁱ̬̆
+* ⁱ̠͆
+* ⁱ̠̈
+* ⁱ̠͋
+* ⁱ̠̋
+* ⁱ̠́
+* ⁱ̠̂
+* ⁱ̠̏
+* ⁱ̠̊
+* ⁱ̠̃
+* ⁱ̠͊
+* ⁱ̠̀
+* ⁱ̠̇
+* ⁱ̠̅
+* ⁱ̠̄
+* ⁱ̠̌
+* ⁱ̠͌
+* ⁱ̠̽
+* ⁱ̠̆
+* ⁱ̙͆
+* ⁱ̙̈
+* ⁱ̙͋
+* ⁱ̙̋
+* ⁱ̙́
+* ⁱ̙̂
+* ⁱ̙̏
+* ⁱ̙̊
+* ⁱ̙̃
+* ⁱ̙͊
+* ⁱ̙̀
+* ⁱ̙̇
+* ⁱ̙̅
+* ⁱ̙̄
+* ⁱ̙̌
+* ⁱ̙͌
+* ⁱ̙̽
+* ⁱ̙̆
+* ⁱ͈͆
+* ⁱ͈̈
+* ⁱ͈͋
+* ⁱ͈̋
+* ⁱ͈́
+* ⁱ͈̂
+* ⁱ͈̏
+* ⁱ͈̊
+* ⁱ͈̃
+* ⁱ͈͊
+* ⁱ͈̀
+* ⁱ͈̇
+* ⁱ͈̅
+* ⁱ͈̄
+* ⁱ͈̌
+* ⁱ͈͌
+* ⁱ͈̽
+* ⁱ͈̆
+* ⁱ̴͆
+* ⁱ̴̈
+* ⁱ̴͋
+* ⁱ̴̋
+* ⁱ̴́
+* ⁱ̴̂
+* ⁱ̴̏
+* ⁱ̴̊
+* ⁱ̴̃
+* ⁱ̴͊
+* ⁱ̴̀
+* ⁱ̴̇
+* ⁱ̴̅
+* ⁱ̴̄
+* ⁱ̴̌
+* ⁱ̴͌
+* ⁱ̴̽
+* ⁱ̴̆
+* ⁱ̤͆
+* ⁱ̤̈
+* ⁱ̤͋
+* ⁱ̤̋
+* ⁱ̤́
+* ⁱ̤̂
+* ⁱ̤̏
+* ⁱ̤̊
+* ⁱ̤̃
+* ⁱ̤͊
+* ⁱ̤̀
+* ⁱ̤̇
+* ⁱ̤̅
+* ⁱ̤̄
+* ⁱ̤̌
+* ⁱ̤͌
+* ⁱ̤̽
+* ⁱ̤̆
+* ⁱ͉͆
+* ⁱ͉̈
+* ⁱ͉͋
+* ⁱ͉̋
+* ⁱ͉́
+* ⁱ͉̂
+* ⁱ͉̏
+* ⁱ͉̊
+* ⁱ͉̃
+* ⁱ͉͊
+* ⁱ͉̀
+* ⁱ͉̇
+* ⁱ͉̅
+* ⁱ͉̄
+* ⁱ͉̌
+* ⁱ͉͌
+* ⁱ͉̽
+* ⁱ͉̆
+* ⁱ̪͆
+* ⁱ̪̈
+* ⁱ̪͋
+* ⁱ̪̋
+* ⁱ̪́
+* ⁱ̪̂
+* ⁱ̪̏
+* ⁱ̪̊
+* ⁱ̪̃
+* ⁱ̪͊
+* ⁱ̪̀
+* ⁱ̪̇
+* ⁱ̪̅
+* ⁱ̪̄
+* ⁱ̪̌
+* ⁱ̪͌
+* ⁱ̪̽
+* ⁱ̪̆
+* ⁱ̨͆
+* ⁱ̨͋
+* ⁱ̨̏
+* ⁱ̨͊
+* ⁱ̨̅
+* ⁱ̨͌
+* ⁱ̨̽
+* ⁱ̧͆
+* ⁱ̧͋
+* ⁱ̧̏
+* ⁱ̧͊
+* ⁱ̧̅
+* ⁱ̧͌
+* ⁱ̧̽
+* ⁱ̼͆
+* ⁱ̼̈
+* ⁱ̼͋
+* ⁱ̼̋
+* ⁱ̼́
+* ⁱ̼̂
+* ⁱ̼̏
+* ⁱ̼̊
+* ⁱ̼̃
+* ⁱ̼͊
+* ⁱ̼̀
+* ⁱ̼̇
+* ⁱ̼̅
+* ⁱ̼̄
+* ⁱ̼̌
+* ⁱ̼͌
+* ⁱ̼̽
+* ⁱ̼̆
+* ⁱ̩͆
+* ⁱ̩̈
+* ⁱ̩͋
+* ⁱ̩̋
+* ⁱ̩́
+* ⁱ̩̂
+* ⁱ̩̏
+* ⁱ̩̊
+* ⁱ̩̃
+* ⁱ̩͊
+* ⁱ̩̀
+* ⁱ̩̇
+* ⁱ̩̅
+* ⁱ̩̄
+* ⁱ̩̌
+* ⁱ̩͌
+* ⁱ̩̽
+* ⁱ̩̆
+* ⁱ̜͆
+* ⁱ̜̈
+* ⁱ̜͋
+* ⁱ̜̋
+* ⁱ̜́
+* ⁱ̜̂
+* ⁱ̜̏
+* ⁱ̜̊
+* ⁱ̜̃
+* ⁱ̜͊
+* ⁱ̜̀
+* ⁱ̜̇
+* ⁱ̜̅
+* ⁱ̜̄
+* ⁱ̜̌
+* ⁱ̜͌
+* ⁱ̜̽
+* ⁱ̜̆
+* ⁱ̦͆
+* ⁱ̦͋
+* ⁱ̦̏
+* ⁱ̦͊
+* ⁱ̦̅
+* ⁱ̦͌
+* ⁱ̦̽
+* ⁱ̘͆
+* ⁱ̘̈
+* ⁱ̘͋
+* ⁱ̘̋
+* ⁱ̘́
+* ⁱ̘̂
+* ⁱ̘̏
+* ⁱ̘̊
+* ⁱ̘̃
+* ⁱ̘͊
+* ⁱ̘̀
+* ⁱ̘̇
+* ⁱ̘̅
+* ⁱ̘̄
+* ⁱ̘̌
+* ⁱ̘͌
+* ⁱ̘̽
+* ⁱ̘̆
+* ⁱ̲͆
+* ⁱ̲̈
+* ⁱ̲͋
+* ⁱ̲̋
+* ⁱ̲́
+* ⁱ̲̂
+* ⁱ̲̏
+* ⁱ̲̊
+* ⁱ̲̃
+* ⁱ̲͊
+* ⁱ̲̀
+* ⁱ̲̇
+* ⁱ̲̅
+* ⁱ̲̄
+* ⁱ̲̌
+* ⁱ̲͌
+* ⁱ̲̽
+* ⁱ̲̆
+* ⁱ͎͆
+* ⁱ͎̈
+* ⁱ͎͋
+* ⁱ͎̋
+* ⁱ͎́
+* ⁱ͎̂
+* ⁱ͎̏
+* ⁱ͎̊
+* ⁱ͎̃
+* ⁱ͎͊
+* ⁱ͎̀
+* ⁱ͎̇
+* ⁱ͎̅
+* ⁱ͎̄
+* ⁱ͎̌
+* ⁱ͎͌
+* ⁱ͎̽
+* ⁱ͎̆
+* ⁱ̰͆
+* ⁱ̰̈
+* ⁱ̰͋
+* ⁱ̰̋
+* ⁱ̰́
+* ⁱ̰̂
+* ⁱ̰̏
+* ⁱ̰̊
+* ⁱ̰̃
+* ⁱ̰͊
+* ⁱ̰̀
+* ⁱ̰̇
+* ⁱ̰̅
+* ⁱ̰̄
+* ⁱ̰̌
+* ⁱ̰͌
+* ⁱ̰̽
+* ⁱ̰̆
+* ⁱ͇͆
+* ⁱ͇̈
+* ⁱ͇͋
+* ⁱ͇̋
+* ⁱ͇́
+* ⁱ͇̂
+* ⁱ͇̏
+* ⁱ͇̊
+* ⁱ͇̃
+* ⁱ͇͊
+* ⁱ͇̀
+* ⁱ͇̇
+* ⁱ͇̅
+* ⁱ͇̄
+* ⁱ͇̌
+* ⁱ͇͌
+* ⁱ͇̽
+* ⁱ͇̆
+* ⁱ̥͆
+* ⁱ̥̈
+* ⁱ̥͋
+* ⁱ̥̋
+* ⁱ̥́
+* ⁱ̥̂
+* ⁱ̥̏
+* ⁱ̥̊
+* ⁱ̥̃
+* ⁱ̥͊
+* ⁱ̥̀
+* ⁱ̥̇
+* ⁱ̥̅
+* ⁱ̥̄
+* ⁱ̥̌
+* ⁱ̥͌
+* ⁱ̥̽
+* ⁱ̥̆
+* ⁱ̟͆
+* ⁱ̟̈
+* ⁱ̟͋
+* ⁱ̟̋
+* ⁱ̟́
+* ⁱ̟̂
+* ⁱ̟̏
+* ⁱ̟̊
+* ⁱ̟̃
+* ⁱ̟͊
+* ⁱ̟̀
+* ⁱ̟̇
+* ⁱ̟̅
+* ⁱ̟̄
+* ⁱ̟̌
+* ⁱ̟͌
+* ⁱ̟̽
+* ⁱ̟̆
+* ⁱ̺͆
+* ⁱ̺̈
+* ⁱ̺͋
+* ⁱ̺̋
+* ⁱ̺́
+* ⁱ̺̂
+* ⁱ̺̏
+* ⁱ̺̊
+* ⁱ̺̃
+* ⁱ̺͊
+* ⁱ̺̀
+* ⁱ̺̇
+* ⁱ̺̅
+* ⁱ̺̄
+* ⁱ̺̌
+* ⁱ̺͌
+* ⁱ̺̽
+* ⁱ̺̆
+* ⁱ͍͆
+* ⁱ͍̈
+* ⁱ͍͋
+* ⁱ͍̋
+* ⁱ͍́
+* ⁱ͍̂
+* ⁱ͍̏
+* ⁱ͍̊
+* ⁱ͍̃
+* ⁱ͍͊
+* ⁱ͍̀
+* ⁱ͍̇
+* ⁱ͍̅
+* ⁱ͍̄
+* ⁱ͍̌
+* ⁱ͍͌
+* ⁱ͍̽
+* ⁱ͍̆
+* ⁱ̝͆
+* ⁱ̝̈
+* ⁱ̝͋
+* ⁱ̝̋
+* ⁱ̝́
+* ⁱ̝̂
+* ⁱ̝̏
+* ⁱ̝̊
+* ⁱ̝̃
+* ⁱ̝͊
+* ⁱ̝̀
+* ⁱ̝̇
+* ⁱ̝̅
+* ⁱ̝̄
+* ⁱ̝̌
+* ⁱ̝͌
+* ⁱ̝̽
+* ⁱ̝̆
+* ⁱ̻͆
+* ⁱ̻̈
+* ⁱ̻͋
+* ⁱ̻̋
+* ⁱ̻́
+* ⁱ̻̂
+* ⁱ̻̏
+* ⁱ̻̊
+* ⁱ̻̃
+* ⁱ̻͊
+* ⁱ̻̀
+* ⁱ̻̇
+* ⁱ̻̅
+* ⁱ̻̄
+* ⁱ̻̌
+* ⁱ̻͌
+* ⁱ̻̽
+* ⁱ̻̆
+* ⁱ̞͆
+* ⁱ̞̈
+* ⁱ̞͋
+* ⁱ̞̋
+* ⁱ̞́
+* ⁱ̞̂
+* ⁱ̞̏
+* ⁱ̞̊
+* ⁱ̞̃
+* ⁱ̞͊
+* ⁱ̞̀
+* ⁱ̞̇
+* ⁱ̞̅
+* ⁱ̞̄
+* ⁱ̞̌
+* ⁱ̞͌
+* ⁱ̞̽
+* ⁱ̞̆
+* ⁱ̹͆
+* ⁱ̹̈
+* ⁱ̹͋
+* ⁱ̹̋
+* ⁱ̹́
+* ⁱ̹̂
+* ⁱ̹̏
+* ⁱ̹̊
+* ⁱ̹̃
+* ⁱ̹͊
+* ⁱ̹̀
+* ⁱ̹̇
+* ⁱ̹̅
+* ⁱ̹̄
+* ⁱ̹̌
+* ⁱ̹͌
+* ⁱ̹̽
+* ⁱ̹̆
+* ⁱ͆
+* ⁱ̈
+* ⁱ͋
+* ⁱ̋
+* ⁱ́
+* ⁱ̂
+* ⁱ̏
+* ⁱ̊
+* ⁱ̃
+* ⁱ͊
+* ⁱ̀
+* ⁱ̇
+* ⁱ̅
+* ⁱ̄
+* ⁱ̌
+* ⁱ͌
+* ⁱ̽
+* ⁱ̆ [code: soft-dotted]
   
   
 
@@ -1826,243 +2070,6 @@ replace the dot. (soft_dotted)</summary>
 - ⚠️ **WARN** OS/2 VendorID value 'MSTR' is not yet recognized.
 If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
  [code: unknown]
-  
-  
-
-</div>
-</details>
-
-
-</div>
-</details>
-
-
-<details><summary>[1] fonts/variable</summary>
-<div>
-
-
-<details>
-    <summary>⚠️ <b>WARN</b> Check for codepoints not covered by METADATA subsets. (googlefonts/metadata/unreachable_subsetting)</summary>
-    <div>
-
-
-
-
-
-
-
-
-- ⚠️ **WARN** fonts/variable/Alyamama[wght].ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.
-
-* U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
-* U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
-* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
-* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee
-* U+0305 COMBINING OVERLINE: try adding one of: elbasan, glagolitic, gothic, math, coptic
-* U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
-* U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, syriac, duployan, malayalam, math, tifinagh, todhri, old-permic, coptic, canadian-aboriginal, hebrew
-* U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan
-* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
-* U+030C COMBINING CARON: try adding one of: cherokee, tai-le
-* U+031A COMBINING LEFT ANGLE ABOVE: try adding math
-* U+0320 COMBINING MINUS SIGN BELOW: try adding syriac
-* U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, duployan, cherokee
-* U+0325 COMBINING RING BELOW: try adding syriac
-* U+0326 COMBINING COMMA BELOW: try adding math
-* U+0327 COMBINING CEDILLA: try adding math
-* U+032C COMBINING CARON BELOW: try adding math
-* U+0330 COMBINING TILDE BELOW: try adding one of: syriac, cherokee, math
-* U+0332 COMBINING LOW LINE: try adding math
-* U+033A COMBINING INVERTED BRIDGE BELOW: try adding math
-* U+0346 COMBINING BRIDGE ABOVE: try adding math
-* U+034D COMBINING LEFT RIGHT ARROW BELOW: try adding math
-* U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic
-* U+060C ARABIC COMMA: try adding one of: hanifi-rohingya, nko, syriac, thaana, yezidi, garay, arabic
-* U+060D ARABIC DATE SEPARATOR: try adding arabic
-* U+0615 ARABIC SMALL HIGH TAH: try adding arabic
-* U+061B ARABIC SEMICOLON: try adding one of: thaana, yezidi, syriac, hanifi-rohingya, nko, arabic, garay
-* U+061F ARABIC QUESTION MARK: try adding one of: nko, arabic, adlam, garay, thaana, syriac, yezidi, hanifi-rohingya
-* U+0621 ARABIC LETTER HAMZA: try adding one of: arabic, syriac
-* U+0622 ARABIC LETTER ALEF WITH MADDA ABOVE: try adding arabic
-* U+0623 ARABIC LETTER ALEF WITH HAMZA ABOVE: try adding arabic
-* U+0624 ARABIC LETTER WAW WITH HAMZA ABOVE: try adding arabic
-* U+0625 ARABIC LETTER ALEF WITH HAMZA BELOW: try adding arabic
-* U+0626 ARABIC LETTER YEH WITH HAMZA ABOVE: try adding arabic
-* U+0627 ARABIC LETTER ALEF: try adding one of: indic-siyaq-numbers, arabic
-* U+0628 ARABIC LETTER BEH: try adding arabic
-* U+0629 ARABIC LETTER TEH MARBUTA: try adding arabic
-* U+062A ARABIC LETTER TEH: try adding arabic
-* U+062B ARABIC LETTER THEH: try adding arabic
-* U+062C ARABIC LETTER JEEM: try adding arabic
-* U+062D ARABIC LETTER HAH: try adding arabic
-* U+062E ARABIC LETTER KHAH: try adding arabic
-* U+062F ARABIC LETTER DAL: try adding arabic
-* U+0630 ARABIC LETTER THAL: try adding arabic
-* U+0631 ARABIC LETTER REH: try adding arabic
-* U+0632 ARABIC LETTER ZAIN: try adding arabic
-* U+0633 ARABIC LETTER SEEN: try adding arabic
-* U+0634 ARABIC LETTER SHEEN: try adding arabic
-* U+0635 ARABIC LETTER SAD: try adding arabic
-* U+0636 ARABIC LETTER DAD: try adding arabic
-* U+0637 ARABIC LETTER TAH: try adding arabic
-* U+0638 ARABIC LETTER ZAH: try adding arabic
-* U+0639 ARABIC LETTER AIN: try adding arabic
-* U+063A ARABIC LETTER GHAIN: try adding arabic
-* U+0640 ARABIC TATWEEL: try adding one of: mandaic, psalter-pahlavi, syriac, hanifi-rohingya, adlam, old-uyghur, arabic, sogdian, manichaean
-* U+0641 ARABIC LETTER FEH: try adding arabic
-* U+0642 ARABIC LETTER QAF: try adding arabic
-* U+0643 ARABIC LETTER KAF: try adding arabic
-* U+0644 ARABIC LETTER LAM: try adding arabic
-* U+0645 ARABIC LETTER MEEM: try adding arabic
-* U+0646 ARABIC LETTER NOON: try adding arabic
-* U+0647 ARABIC LETTER HEH: try adding arabic
-* U+0648 ARABIC LETTER WAW: try adding arabic
-* U+0649 ARABIC LETTER ALEF MAKSURA: try adding arabic
-* U+064A ARABIC LETTER YEH: try adding arabic
-* U+064B ARABIC FATHATAN: try adding one of: arabic, syriac
-* U+064C ARABIC DAMMATAN: try adding one of: arabic, syriac
-* U+064D ARABIC KASRATAN: try adding one of: arabic, syriac
-* U+064E ARABIC FATHA: try adding one of: arabic, syriac
-* U+064F ARABIC DAMMA: try adding one of: arabic, syriac
-* U+0650 ARABIC KASRA: try adding one of: arabic, syriac
-* U+0651 ARABIC SHADDA: try adding one of: arabic, syriac
-* U+0652 ARABIC SUKUN: try adding one of: arabic, syriac
-* U+0653 ARABIC MADDAH ABOVE: try adding one of: arabic, syriac
-* U+0654 ARABIC HAMZA ABOVE: try adding one of: syriac, arabic
-* U+0655 ARABIC HAMZA BELOW: try adding one of: syriac, arabic
-* U+0656 ARABIC SUBSCRIPT ALEF: try adding arabic
-* U+0657 ARABIC INVERTED DAMMA: try adding arabic
-* U+0658 ARABIC MARK NOON GHUNNA: try adding arabic
-* U+0660 ARABIC-INDIC DIGIT ZERO: try adding one of: hanifi-rohingya, yezidi, thaana, arabic, syriac, indic-siyaq-numbers
-* U+0661 ARABIC-INDIC DIGIT ONE: try adding one of: syriac, arabic, indic-siyaq-numbers, thaana, yezidi
-* U+0662 ARABIC-INDIC DIGIT TWO: try adding one of: syriac, thaana, indic-siyaq-numbers, yezidi, arabic
-* U+0663 ARABIC-INDIC DIGIT THREE: try adding one of: syriac, arabic, indic-siyaq-numbers, thaana, yezidi
-* U+0664 ARABIC-INDIC DIGIT FOUR: try adding one of: indic-siyaq-numbers, thaana, yezidi, arabic, syriac
-* U+0665 ARABIC-INDIC DIGIT FIVE: try adding one of: syriac, yezidi, indic-siyaq-numbers, thaana, arabic
-* U+0666 ARABIC-INDIC DIGIT SIX: try adding one of: indic-siyaq-numbers, thaana, yezidi, arabic, syriac
-* U+0667 ARABIC-INDIC DIGIT SEVEN: try adding one of: syriac, thaana, yezidi, indic-siyaq-numbers, arabic
-* U+0668 ARABIC-INDIC DIGIT EIGHT: try adding one of: arabic, syriac, thaana, indic-siyaq-numbers, yezidi
-* U+0669 ARABIC-INDIC DIGIT NINE: try adding one of: syriac, yezidi, indic-siyaq-numbers, arabic, thaana
-* U+066B ARABIC DECIMAL SEPARATOR: try adding one of: thaana, syriac, arabic
-* U+066C ARABIC THOUSANDS SEPARATOR: try adding one of: syriac, thaana, arabic
-* U+066D ARABIC FIVE POINTED STAR: try adding arabic
-* U+066E ARABIC LETTER DOTLESS BEH: try adding arabic
-* U+066F ARABIC LETTER DOTLESS QAF: try adding arabic
-* U+0670 ARABIC LETTER SUPERSCRIPT ALEF: try adding one of: arabic, syriac
-* U+0671 ARABIC LETTER ALEF WASLA: try adding arabic
-* U+0679 ARABIC LETTER TTEH: try adding arabic
-* U+067A ARABIC LETTER TTEHEH: try adding arabic
-* U+067B ARABIC LETTER BEEH: try adding arabic
-* U+067C ARABIC LETTER TEH WITH RING: try adding arabic
-* U+067D ARABIC LETTER TEH WITH THREE DOTS ABOVE DOWNWARDS: try adding arabic
-* U+067E ARABIC LETTER PEH: try adding arabic
-* U+0686 ARABIC LETTER TCHEH: try adding arabic
-* U+0688 ARABIC LETTER DDAL: try adding arabic
-* U+068E ARABIC LETTER DUL: try adding arabic
-* U+0691 ARABIC LETTER RREH: try adding arabic
-* U+0698 ARABIC LETTER JEH: try adding arabic
-* U+069C ARABIC LETTER SEEN WITH THREE DOTS BELOW AND THREE DOTS ABOVE: try adding arabic
-* U+06A1 ARABIC LETTER DOTLESS FEH: try adding arabic
-* U+06A2 ARABIC LETTER FEH WITH DOT MOVED BELOW: try adding arabic
-* U+06A4 ARABIC LETTER VEH: try adding arabic
-* U+06A5 ARABIC LETTER FEH WITH THREE DOTS BELOW: try adding arabic
-* U+06A7 ARABIC LETTER QAF WITH DOT ABOVE: try adding arabic
-* U+06A8 ARABIC LETTER QAF WITH THREE DOTS ABOVE: try adding arabic
-* U+06A9 ARABIC LETTER KEHEH: try adding arabic
-* U+06AF ARABIC LETTER GAF: try adding arabic
-* U+06BA ARABIC LETTER NOON GHUNNA: try adding arabic
-* U+06BE ARABIC LETTER HEH DOACHASHMEE: try adding arabic
-* U+06C1 ARABIC LETTER HEH GOAL: try adding arabic
-* U+06C2 ARABIC LETTER HEH GOAL WITH HAMZA ABOVE: try adding arabic
-* U+06C3 ARABIC LETTER TEH MARBUTA GOAL: try adding arabic
-* U+06CA ARABIC LETTER WAW WITH TWO DOTS ABOVE: try adding arabic
-* U+06CC ARABIC LETTER FARSI YEH: try adding arabic
-* U+06CF ARABIC LETTER WAW WITH DOT ABOVE: try adding arabic
-* U+06D2 ARABIC LETTER YEH BARREE: try adding arabic
-* U+06D3 ARABIC LETTER YEH BARREE WITH HAMZA ABOVE: try adding arabic
-* U+06DB ARABIC SMALL HIGH THREE DOTS: try adding arabic
-* U+06F0 EXTENDED ARABIC-INDIC DIGIT ZERO: try adding one of: indic-siyaq-numbers, arabic
-* U+06F1 EXTENDED ARABIC-INDIC DIGIT ONE: try adding one of: indic-siyaq-numbers, arabic
-* U+06F2 EXTENDED ARABIC-INDIC DIGIT TWO: try adding one of: arabic, indic-siyaq-numbers
-* U+06F3 EXTENDED ARABIC-INDIC DIGIT THREE: try adding one of: indic-siyaq-numbers, arabic
-* U+06F4 EXTENDED ARABIC-INDIC DIGIT FOUR: try adding one of: arabic, indic-siyaq-numbers
-* U+06F5 EXTENDED ARABIC-INDIC DIGIT FIVE: try adding one of: indic-siyaq-numbers, arabic
-* U+06F6 EXTENDED ARABIC-INDIC DIGIT SIX: try adding one of: arabic, indic-siyaq-numbers
-* U+06F7 EXTENDED ARABIC-INDIC DIGIT SEVEN: try adding one of: arabic, indic-siyaq-numbers
-* U+06F8 EXTENDED ARABIC-INDIC DIGIT EIGHT: try adding one of: indic-siyaq-numbers, arabic
-* U+06F9 EXTENDED ARABIC-INDIC DIGIT NINE: try adding one of: arabic, indic-siyaq-numbers
-* U+0763 ARABIC LETTER KEHEH WITH THREE DOTS ABOVE: try adding arabic
-* U+1EBC LATIN CAPITAL LETTER E WITH TILDE: try adding vietnamese
-* U+1EBD LATIN SMALL LETTER E WITH TILDE: try adding vietnamese
-* U+2016 DOUBLE VERTICAL LINE: try adding math
-* U+2021 DOUBLE DAGGER: try adding adlam
-* U+2030 PER MILLE SIGN: try adding adlam
-* U+2070 SUPERSCRIPT ZERO: try adding math
-* U+2071 SUPERSCRIPT LATIN SMALL LETTER I: try adding math
-* U+2074 SUPERSCRIPT FOUR: try adding math
-* U+2075 SUPERSCRIPT FIVE: try adding math
-* U+2076 SUPERSCRIPT SIX: try adding math
-* U+2077 SUPERSCRIPT SEVEN: try adding math
-* U+2078 SUPERSCRIPT EIGHT: try adding math
-* U+2079 SUPERSCRIPT NINE: try adding math
-* U+207A SUPERSCRIPT PLUS SIGN: try adding math
-* U+207B SUPERSCRIPT MINUS: try adding math
-* U+207C SUPERSCRIPT EQUALS SIGN: try adding math
-* U+207D SUPERSCRIPT LEFT PARENTHESIS: try adding math
-* U+207E SUPERSCRIPT RIGHT PARENTHESIS: try adding math
-* U+207F SUPERSCRIPT LATIN SMALL LETTER N: try adding math
-* U+2080 SUBSCRIPT ZERO: try adding math
-* U+2081 SUBSCRIPT ONE: try adding math
-* U+2082 SUBSCRIPT TWO: try adding math
-* U+2083 SUBSCRIPT THREE: try adding math
-* U+2084 SUBSCRIPT FOUR: try adding math
-* U+2085 SUBSCRIPT FIVE: try adding math
-* U+2086 SUBSCRIPT SIX: try adding math
-* U+2087 SUBSCRIPT SEVEN: try adding math
-* U+2088 SUBSCRIPT EIGHT: try adding math
-* U+2089 SUBSCRIPT NINE: try adding math
-* U+208A SUBSCRIPT PLUS SIGN: try adding math
-* U+208B SUBSCRIPT MINUS: try adding math
-* U+208C SUBSCRIPT EQUALS SIGN: try adding math
-* U+208D SUBSCRIPT LEFT PARENTHESIS: try adding math
-* U+208E SUBSCRIPT RIGHT PARENTHESIS: try adding math
-* U+2090 LATIN SUBSCRIPT SMALL LETTER A: try adding math
-* U+2091 LATIN SUBSCRIPT SMALL LETTER E: try adding math
-* U+2092 LATIN SUBSCRIPT SMALL LETTER O: try adding math
-* U+2093 LATIN SUBSCRIPT SMALL LETTER X: try adding math
-* U+2094 LATIN SUBSCRIPT SMALL LETTER SCHWA: try adding math
-* U+2095 LATIN SUBSCRIPT SMALL LETTER H: try adding math
-* U+2096 LATIN SUBSCRIPT SMALL LETTER K: try adding math
-* U+2097 LATIN SUBSCRIPT SMALL LETTER L: try adding math
-* U+2098 LATIN SUBSCRIPT SMALL LETTER M: try adding math
-* U+2099 LATIN SUBSCRIPT SMALL LETTER N: try adding math
-* U+209A LATIN SUBSCRIPT SMALL LETTER P: try adding math
-* U+209B LATIN SUBSCRIPT SMALL LETTER S: try adding math
-* U+209C LATIN SUBSCRIPT SMALL LETTER T: try adding math
-* U+2117 SOUND RECORDING COPYRIGHT: try adding math
-* U+215B VULGAR FRACTION ONE EIGHTH: try adding symbols
-* U+215C VULGAR FRACTION THREE EIGHTHS: try adding symbols
-* U+215D VULGAR FRACTION FIVE EIGHTHS: try adding symbols
-* U+215E VULGAR FRACTION SEVEN EIGHTHS: try adding symbols
-* U+215F FRACTION NUMERATOR ONE: try adding symbols
-* U+2202 PARTIAL DIFFERENTIAL: try adding math
-* U+2206 INCREMENT: try adding math
-* U+220F N-ARY PRODUCT: try adding math
-* U+2211 N-ARY SUMMATION: try adding math
-* U+221A SQUARE ROOT: try adding math
-* U+221E INFINITY: try adding math
-* U+222B INTEGRAL: try adding math
-* U+2248 ALMOST EQUAL TO: try adding math
-* U+2260 NOT EQUAL TO: try adding math
-* U+2264 LESS-THAN OR EQUAL TO: try adding math
-* U+2265 GREATER-THAN OR EQUAL TO: try adding math
-* U+25CA LOZENGE: try adding one of: symbols, math
-* U+25CC DOTTED CIRCLE: try adding one of: mende-kikakui, pahawh-hmong, tai-tham, armenian, math, saurashtra, javanese, canadian-aboriginal, duployan, coptic, modi, new-tai-lue, hanunoo, sundanese, syloti-nagri, cham, music, mahajani, tibetan, takri, yi, tai-le, gujarati, caucasian-albanian, bassa-vah, kaithi, dogra, khojki, meetei-mayek, tagalog, brahmi, hebrew, buginese, lao, sharada, sinhala, newa, khmer, batak, buhid, phags-pa, bengali, hanifi-rohingya, nko, mongolian, psalter-pahlavi, thai, zanabazar-square, balinese, soyombo, telugu, kayah-li, mandaic, oriya, malayalam, myanmar, marchen, manichaean, siddham, tai-viet, syriac, devanagari, symbols, kannada, masaram-gondi, bhaiksuki, gunjala-gondi, tirhuta, rejang, osage, old-permic, ahom, adlam, chakma, grantha, khudawadi, gurmukhi, miao, tamil, thaana, sogdian, warang-citi, tifinagh, lepcha, wancho, kharoshthi, limbu, elbasan, tagbanwa
-* U+FDFA ARABIC LIGATURE SALLALLAHOU ALAYHE WASALLAM: try adding arabic
-* U+FDFB ARABIC LIGATURE JALLAJALALOUHOU: try adding arabic
-* U+FDFC RIAL SIGN: try adding arabic
-
-Or you can add the above codepoints to one of the subsets supported by the font: greek, latin-ext, latin [code: unreachable-subsetting]
   
   
 
