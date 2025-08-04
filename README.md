@@ -36,7 +36,7 @@ The Latin glyphs are based on the open-source typeface [**UNAL Ancízar**](https
 
 ## Variable Font Axes
 
-Radio-canada Display has the following axes:
+Alyamama has the following axes:
 
 Axis | Tag | Range | Default | Static Instances
 --- | --- | --- | --- | ---
@@ -45,6 +45,7 @@ Weight | wght | 300 to 900 | 400 | Light, Regular, Semibold, Bold, ExtraBold, Bl
 #### `wght` (Weight) Axis
 
 The `wght` axis spans Light (300) to Black (900).
+
 ![Image](documentation/weight-axis.gif)
 
 ---
