@@ -2,8 +2,11 @@
 # $ pip install git+https://github.com/typemytype/drawbot
 # $ gifsicle -i animated-vf-specimen-001.gif -O3 --colors 32 -o anim-001.gif
 
-# Note: The monospace font Input is used in this document and needs
-# to be installed for an exact rebuild: https://input.fontbureau.com/
+# This script is meant to be run from the root level
+# of your font's git repository. For example, from a Unix terminal:
+# $ git clone my-font
+# $ cd my-font
+# $ python3 documentation/image0.py --output documentation/image0.png
 
 from drawBot import *
 import math
@@ -14,7 +17,6 @@ H = 256  # Height
 M = 64  # Margin
 U = 32  # Unit (Grid Unit)
 F = 64  # Frames (Animation)
-
 
 # REMAP INPUT RANGE TO VARIABLE FONT AXIS RANGE
 # (E.G. SINE WAVE(-1,1) to WGHT(100,900))
@@ -65,6 +67,6 @@ for frame in range(F - 1):
 
 # SAVE THE ANIMATION IN THIS SCRIPT'S DIRECTORY
 saveImage("documentation/weight-axis.gif")
-
+print("DrawBot: Done")
 # END DRAWBOT
 endDrawing()
