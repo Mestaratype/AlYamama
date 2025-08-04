@@ -19,7 +19,7 @@
 
 The Latin glyphs are based on the open-source typeface [**UNAL Ancízar**](https://github.com/UNAL-OMD/UNAL-Ancizar).
 
-## Design Concept
+### Design Concept
 
  **Alyamama** typeface is a Naskh-style advertising font. This isn’t another Buotros Ads, Muna, or Al Mohannad Bold. **Alyamama** a new generation of Arabic typefaces that blend the elegance of traditional Naskh with modern design technolegies. Built as a variable font with clean, optimized outlines, it’s engineered for today’s high-resolution screens.
 
@@ -31,9 +31,23 @@ The Latin glyphs are based on the open-source typeface [**UNAL Ancízar**](https
 
 ---
 
-
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
+
+## Variable Font Axes
+
+Radio-canada Display has the following axes:
+
+Axis | Tag | Range | Default | Static Instances
+--- | --- | --- | --- | ---
+Weight | wght | 300 to 900 | 400 | Light, Regular, Semibold, Bold, ExtraBold, Black
+
+#### `wght` (Weight) Axis
+
+The `wght` axis spans Light (300) to Black (900).
+![Image](documentation/weight-axis.gif)
+
+---
 
 ## About
 
