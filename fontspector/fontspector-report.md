@@ -12,6 +12,1759 @@ fontspector version: 1.3.0
 
 
 
+<details><summary>[4] fonts/variable/Alyamama[wght].ttf</summary>
+<div>
+
+
+<details>
+    <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. (contour_count)</summary>
+    <div>
+
+
+
+
+
+
+
+
+- ⚠️ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are
+     infered from the typical ammounts of contours observed in a
+     large collection of reference font families. The divergences
+     listed below may simply indicate a significantly different
+     design on some of your glyphs. On the other hand, some of these
+     may flag actual bugs in the font such as glyphs mapped to an
+     incorrect codepoint. Please consider reviewing the design and
+     codepoint assignment of these to make sure they are correct.
+
+
+    The following glyphs do not have the recommended number of contours:
+* uni1D6D (U+1D6D): found 3, expected one of: {2}
+* uni02A3 (U+02A3): found 2, expected one of: {3}
+* uni0258 (U+0258): found 1, expected one of: {2}
+* uni1D6E (U+1D6E): found 2, expected one of: {1}
+* uni02A1 (U+02A1): found 2, expected one of: {1}
+* uni02A2 (U+02A2): found 2, expected one of: {1}
+* uni026E (U+026E): found 2, expected one of: {1}
+* uni1D72 (U+1D72): found 2, expected one of: {1}
+* uni1D74 (U+1D74): found 3, expected one of: {1}
+* uni1D75 (U+1D75): found 3, expected one of: {1}
+* uni021B.1 (U+021B): found 1, expected one of: {2, 3, 4}
+* uni1D76 (U+1D76): found 3, expected one of: {1}
+* uni01C2 (U+01C2): found 3, expected one of: {1}
+* uni0621 (U+0621): found 2, expected one of: {1}
+* uni0623 (U+0623): found 3, expected one of: {2}
+* uni0625 (U+0625): found 3, expected one of: {2}
+* uni066E (U+066E): found 2, expected one of: {1}
+* uni066E.fina (unencoded): found 3, expected one of: {1}
+* uni066E.medi (unencoded): found 2, expected one of: {1}
+* uni0628 (U+0628): found 3, expected one of: {2}
+* uni067E (U+067E): found 5, expected one of: {4}
+* uni067B (U+067B): found 4, expected one of: {2, 3}
+* uni062A (U+062A): found 4, expected one of: {2, 3}
+* uni067C (U+067C): found 6, expected one of: {4, 5}
+* uni067D (U+067D): found 5, expected one of: {3, 4}
+* uni062B (U+062B): found 5, expected one of: {4, 3, 2}
+* uni067A (U+067A): found 4, expected one of: {3, 0, 2}
+* uni0686 (U+0686): found 5, expected one of: {4, 0, 3}
+* uni0631 (U+0631): found 2, expected one of: {1}
+* uni0632 (U+0632): found 3, expected one of: {2}
+* uni0698 (U+0698): found 5, expected one of: {4}
+* uni0633 (U+0633): found 6, expected one of: {1, 3}
+* uni0634 (U+0634): found 9, expected one of: {0, 4, 3, 6}
+* uni069C (U+069C): found 12, expected one of: {5, 7, 9}
+* uni0635 (U+0635): found 5, expected one of: {2}
+* uni0636 (U+0636): found 6, expected one of: {3}
+* uni0637 (U+0637): found 4, expected one of: {2, 3}
+* uni0638 (U+0638): found 5, expected one of: {4, 3}
+* uni0639 (U+0639): found 2, expected one of: {1}
+* uni0641 (U+0641): found 5, expected one of: {2, 3}
+* uni06A4 (U+06A4): found 7, expected one of: {0, 5, 4}
+* uni06A1 (U+06A1): found 4, expected one of: {2, 1}
+* uni06A1.fina (unencoded): found 4, expected one of: {2}
+* uni06A2 (U+06A2): found 5, expected one of: {3}
+* uni06A5 (U+06A5): found 7, expected one of: {5, 4}
+* uni066F.fina (unencoded): found 3, expected one of: {2}
+* uni0643 (U+0643): found 4, expected one of: {1, 2}
+* uni06A9 (U+06A9): found 4, expected one of: {1}
+* uni0763 (U+0763): found 7, expected one of: {4, 3}
+* uni0763.fina (unencoded): found 8, expected one of: {4, 3}
+* uni0763.medi (unencoded): found 7, expected one of: {5, 3, 4}
+* uni0763.init (unencoded): found 6, expected one of: {4, 3}
+* uni06AF (U+06AF): found 5, expected one of: {2}
+* uni0644 (U+0644): found 2, expected one of: {1}
+* uni0645 (U+0645): found 3, expected one of: {2, 1}
+* uni0646 (U+0646): found 3, expected one of: {2}
+* uni06BA (U+06BA): found 2, expected one of: {1}
+* uni06BA.medi (unencoded): found 2, expected one of: {1}
+* uni0647 (U+0647): found 1, expected one of: {2}
+* uni06C1 (U+06C1): found 1, expected one of: {2}
+* uni06BE (U+06BE): found 4, expected one of: {1, 2, 3}
+* uni0624 (U+0624): found 4, expected one of: {2, 3}
+* uni0649 (U+0649): found 2, expected one of: {1}
+* uni064A (U+064A): found 4, expected one of: {2, 3}
+* uni0626 (U+0626): found 4, expected one of: {2}
+* uni06CC (U+06CC): found 2, expected one of: {1}
+* uni06440671 (unencoded): found 6, expected one of: {4}
+* uni06440671.fina (unencoded): found 5, expected one of: {3}
+* uni0663 (U+0663): found 3, expected one of: {1}
+* uni0666 (U+0666): found 2, expected one of: {1}
+* uni0669 (U+0669): found 1, expected one of: {2}
+* uni06F3 (U+06F3): found 3, expected one of: {1}
+* uni06F4 (U+06F4): found 3, expected one of: {1}
+* uni06F6 (U+06F6): found 2, expected one of: {1}
+* uni06F9 (U+06F9): found 1, expected one of: {2}
+* uni06F4.urdu (unencoded): found 3, expected one of: {1}
+* uni066D (U+066D): found 6, expected one of: {1}
+* asterisk (U+002A): found 6, expected one of: {5, 1, 3, 2}
+* uniFDFC (U+FDFC): found 8, expected one of: {5, 4, 6}
+* uni02E5 (U+02E5): found 2, expected one of: {1}
+* uni02E9 (U+02E9): found 2, expected one of: {1}
+* uni02E6 (U+02E6): found 2, expected one of: {1}
+* uni02E8 (U+02E8): found 2, expected one of: {1}
+* uni02E7 (U+02E7): found 2, expected one of: {1}
+* uni02DE (U+02DE): found 2, expected one of: {1}
+* uni2117 (U+2117): found 2, expected one of: {4, 3}
+* uni0654 (U+0654): found 2, expected one of: {1}
+* uni0655 (U+0655): found 2, expected one of: {1}
+* uni0654064F (unencoded): found 4, expected one of: {3}
+* uni0654064C (unencoded): found 5, expected one of: {3}
+* uni0654064E (unencoded): found 3, expected one of: {2}
+* uni0654064B (unencoded): found 4, expected one of: {3}
+* uni06550650 (unencoded): found 3, expected one of: {2}
+* uni0655064D (unencoded): found 4, expected one of: {3}
+* uni064C (U+064C): found 3, expected one of: {2}
+* uni0651 (U+0651): found 2, expected one of: {1}
+* uni0651064C (unencoded): found 5, expected one of: {2, 3}
+* uni0651064D (unencoded): found 4, expected one of: {3}
+* uni0651064E (unencoded): found 3, expected one of: {2}
+* uni0651064F (unencoded): found 4, expected one of: {3, 2}
+* uni06510650 (unencoded): found 3, expected one of: {2}
+* uni06510670 (unencoded): found 3, expected one of: {2}
+* uni0652 (U+0652): found 1, expected one of: {2}
+* uni031A (U+031A): found 2, expected one of: {1}
+* uni032A (U+032A): found 3, expected one of: {1}
+* uni033A (U+033A): found 3, expected one of: {1}
+* uni033B (U+033B): found 6, expected one of: {2}
+* uni0346 (U+0346): found 3, expected one of: {1}
+* uni0349 (U+0349): found 2, expected one of: {1}
+* uni034A (U+034A): found 2, expected one of: {1} [code: contour-count]
+  
+  
+
+</div>
+</details>
+
+
+
+
+
+<details>
+    <summary>⚠️ <b>WARN</b> Shapes languages in all GF glyphsets. (googlefonts/glyphsets/shape_languages)</summary>
+    <div>
+
+
+
+
+
+
+
+
+- ⚠️ **WARN** Warning language shaping:
+
+| Message                                                               | Languages              |
+|-----------------------------------------------------------------------|------------------------|
+| Auxiliary orthography codepoints:                                     | * el_Grek (Greek)      |
+|   The following auxiliary characters are missing from the font: ἀ     |                        |
+|   The following auxiliary characters are missing from the font: ἄ     |                        |
+|   The following auxiliary characters are missing from the font: ἂ     |                        |
+|   The following auxiliary characters are missing from the font: ἆ     |                        |
+|   The following auxiliary characters are missing from the font: ἁ     |                        |
+|   The following auxiliary characters are missing from the font: ἅ     |                        |
+|   The following auxiliary characters are missing from the font: ἃ     |                        |
+|   The following auxiliary characters are missing from the font: ἇ     |                        |
+|   The following auxiliary characters are missing from the font: ᾶ     |                        |
+|   The following auxiliary characters are missing from the font: ἐ     |                        |
+|   The following auxiliary characters are missing from the font: ἔ     |                        |
+|   The following auxiliary characters are missing from the font: ἒ     |                        |
+|   The following auxiliary characters are missing from the font: ἑ     |                        |
+|   The following auxiliary characters are missing from the font: ἕ     |                        |
+|   The following auxiliary characters are missing from the font: ἓ     |                        |
+|   The following auxiliary characters are missing from the font: ἠ     |                        |
+|   The following auxiliary characters are missing from the font: ἤ     |                        |
+|   The following auxiliary characters are missing from the font: ἢ     |                        |
+|   The following auxiliary characters are missing from the font: ἦ     |                        |
+|   The following auxiliary characters are missing from the font: ἡ     |                        |
+|   The following auxiliary characters are missing from the font: ἥ     |                        |
+|   The following auxiliary characters are missing from the font: ἣ     |                        |
+|   The following auxiliary characters are missing from the font: ἧ     |                        |
+|   The following auxiliary characters are missing from the font: ῆ     |                        |
+|   The following auxiliary characters are missing from the font: ἰ     |                        |
+|   The following auxiliary characters are missing from the font: ἴ     |                        |
+|   The following auxiliary characters are missing from the font: ἲ     |                        |
+|   The following auxiliary characters are missing from the font: ἶ     |                        |
+|   The following auxiliary characters are missing from the font: ἱ     |                        |
+|   The following auxiliary characters are missing from the font: ἵ     |                        |
+|   The following auxiliary characters are missing from the font: ἳ     |                        |
+|   The following auxiliary characters are missing from the font: ἷ     |                        |
+|   The following auxiliary characters are missing from the font: ῖ     |                        |
+|   The following auxiliary characters are missing from the font: ῗ     |                        |
+|   The following auxiliary characters are missing from the font: ὄ     |                        |
+|   The following auxiliary characters are missing from the font: ὂ     |                        |
+|   The following auxiliary characters are missing from the font: ὃ     |                        |
+|   The following auxiliary characters are missing from the font: ὐ     |                        |
+|   The following auxiliary characters are missing from the font: ὔ     |                        |
+|   The following auxiliary characters are missing from the font: ὒ     |                        |
+|   The following auxiliary characters are missing from the font: ὖ     |                        |
+|   The following auxiliary characters are missing from the font: ὑ     |                        |
+|   The following auxiliary characters are missing from the font: ὕ     |                        |
+|   The following auxiliary characters are missing from the font: ὓ     |                        |
+|   The following auxiliary characters are missing from the font: ὗ     |                        |
+|   The following auxiliary characters are missing from the font: ῦ     |                        |
+|   The following auxiliary characters are missing from the font: ῧ     |                        |
+|   The following auxiliary characters are missing from the font: ὤ     |                        |
+|   The following auxiliary characters are missing from the font: ὢ     |                        |
+|   The following auxiliary characters are missing from the font: ὦ     |                        |
+|   The following auxiliary characters are missing from the font: ὥ     |                        |
+|   The following auxiliary characters are missing from the font: ὣ     |                        |
+|   The following auxiliary characters are missing from the font: ὧ     |                        |
+|   The following auxiliary characters are missing from the font: ῶ     |                        |
+| Auxiliary orthography codepoints:                                     | * de_Latn (German)     |
+|   The following auxiliary characters are missing from the font: ſ     | * fr_Latn (French)     |
+| Auxiliary orthography codepoints:                                     | * fi_Latn (Finnish)    |
+|   The following auxiliary characters are missing from the font: Ǥ     |                        |
+|   The following auxiliary characters are missing from the font: Ʒ     |                        |
+|   The following auxiliary characters are missing from the font: Ǯ     |                        |
+|   The following auxiliary characters are missing from the font: ǥ     |                        |
+|   The following auxiliary characters are missing from the font: ʒ     |                        |
+|   The following auxiliary characters are missing from the font: ǯ     |                        |
+| Auxiliary orthography codepoints:                                     | * ur_Arab (Urdu)       |
+|   The following auxiliary characters are missing from the font: ؀؁؂؃‌‍‏  |                        |
+| Auxiliary orthography codepoints:                                     | * lt_Latn (Lithuanian) |
+|   Shaper didn't attach tildecomb to uni0237 when shaping the text 'j̃' |                        | [code: warning-language-shaping]
+  
+  
+
+</div>
+</details>
+
+
+
+
+
+<details>
+    <summary>⚠️ <b>WARN</b> Ensure soft_dotted characters lose their dot when combined with marks that
+replace the dot. (soft_dotted)</summary>
+    <div>
+
+
+
+
+
+
+
+
+- ⚠️ **WARN** The dot of soft dotted characters used in orthographies _must_ disappear in the following strings: * į̄
+* į̌
+* į̀
+* į̃
+* į̂
+* į́The dot of soft dotted characters _should_ disappear in other cases, for example: * ʲ̟̄
+* ʲ̟̅
+* ʲ̟͊
+* ʲ̟̌
+* ʲ̟̀
+* ʲ̟̆
+* ʲ̟͌
+* ʲ̟̇
+* ʲ̟͋
+* ʲ̟͆
+* ʲ̟̋
+* ʲ̟̈
+* ʲ̟̃
+* ʲ̟̊
+* ʲ̟̏
+* ʲ̟̂
+* ʲ̟́
+* ʲ̟̽
+* ʲ͈̄
+* ʲ͈̅
+* ʲ͈͊
+* ʲ͈̌
+* ʲ͈̀
+* ʲ͈̆
+* ʲ͈͌
+* ʲ͈̇
+* ʲ͈͋
+* ʲ͈͆
+* ʲ͈̋
+* ʲ͈̈
+* ʲ͈̃
+* ʲ͈̊
+* ʲ͈̏
+* ʲ͈̂
+* ʲ͈́
+* ʲ͈̽
+* ʲ̲̄
+* ʲ̲̅
+* ʲ̲͊
+* ʲ̲̌
+* ʲ̲̀
+* ʲ̲̆
+* ʲ̲͌
+* ʲ̲̇
+* ʲ̲͋
+* ʲ̲͆
+* ʲ̲̋
+* ʲ̲̈
+* ʲ̲̃
+* ʲ̲̊
+* ʲ̲̏
+* ʲ̲̂
+* ʲ̲́
+* ʲ̲̽
+* ʲ̥̄
+* ʲ̥̅
+* ʲ̥͊
+* ʲ̥̌
+* ʲ̥̀
+* ʲ̥̆
+* ʲ̥͌
+* ʲ̥̇
+* ʲ̥͋
+* ʲ̥͆
+* ʲ̥̋
+* ʲ̥̈
+* ʲ̥̃
+* ʲ̥̊
+* ʲ̥̏
+* ʲ̥̂
+* ʲ̥́
+* ʲ̥̽
+* ʲ͍̄
+* ʲ͍̅
+* ʲ͍͊
+* ʲ͍̌
+* ʲ͍̀
+* ʲ͍̆
+* ʲ͍͌
+* ʲ͍̇
+* ʲ͍͋
+* ʲ͍͆
+* ʲ͍̋
+* ʲ͍̈
+* ʲ͍̃
+* ʲ͍̊
+* ʲ͍̏
+* ʲ͍̂
+* ʲ͍́
+* ʲ͍̽
+* ʲ̪̄
+* ʲ̪̅
+* ʲ̪͊
+* ʲ̪̌
+* ʲ̪̀
+* ʲ̪̆
+* ʲ̪͌
+* ʲ̪̇
+* ʲ̪͋
+* ʲ̪͆
+* ʲ̪̋
+* ʲ̪̈
+* ʲ̪̃
+* ʲ̪̊
+* ʲ̪̏
+* ʲ̪̂
+* ʲ̪́
+* ʲ̪̽
+* ʲ͉̄
+* ʲ͉̅
+* ʲ͉͊
+* ʲ͉̌
+* ʲ͉̀
+* ʲ͉̆
+* ʲ͉͌
+* ʲ͉̇
+* ʲ͉͋
+* ʲ͉͆
+* ʲ͉̋
+* ʲ͉̈
+* ʲ͉̃
+* ʲ͉̊
+* ʲ͉̏
+* ʲ͉̂
+* ʲ͉́
+* ʲ͉̽
+* ʲ̠̄
+* ʲ̠̅
+* ʲ̠͊
+* ʲ̠̌
+* ʲ̠̀
+* ʲ̠̆
+* ʲ̠͌
+* ʲ̠̇
+* ʲ̠͋
+* ʲ̠͆
+* ʲ̠̋
+* ʲ̠̈
+* ʲ̠̃
+* ʲ̠̊
+* ʲ̠̏
+* ʲ̠̂
+* ʲ̠́
+* ʲ̠̽
+* ʲ̘̄
+* ʲ̘̅
+* ʲ̘͊
+* ʲ̘̌
+* ʲ̘̀
+* ʲ̘̆
+* ʲ̘͌
+* ʲ̘̇
+* ʲ̘͋
+* ʲ̘͆
+* ʲ̘̋
+* ʲ̘̈
+* ʲ̘̃
+* ʲ̘̊
+* ʲ̘̏
+* ʲ̘̂
+* ʲ̘́
+* ʲ̘̽
+* ʲ̦̅
+* ʲ̦͊
+* ʲ̦͌
+* ʲ̦͋
+* ʲ̦͆
+* ʲ̦̏
+* ʲ̦̽
+* ʲ̨̅
+* ʲ̨͊
+* ʲ̨͌
+* ʲ̨͋
+* ʲ̨͆
+* ʲ̨̏
+* ʲ̨̽
+* ʲ͎̄
+* ʲ͎̅
+* ʲ͎͊
+* ʲ͎̌
+* ʲ͎̀
+* ʲ͎̆
+* ʲ͎͌
+* ʲ͎̇
+* ʲ͎͋
+* ʲ͎͆
+* ʲ͎̋
+* ʲ͎̈
+* ʲ͎̃
+* ʲ͎̊
+* ʲ͎̏
+* ʲ͎̂
+* ʲ͎́
+* ʲ͎̽
+* ʲ̴̄
+* ʲ̴̅
+* ʲ̴͊
+* ʲ̴̌
+* ʲ̴̀
+* ʲ̴̆
+* ʲ̴͌
+* ʲ̴̇
+* ʲ̴͋
+* ʲ̴͆
+* ʲ̴̋
+* ʲ̴̈
+* ʲ̴̃
+* ʲ̴̊
+* ʲ̴̏
+* ʲ̴̂
+* ʲ̴́
+* ʲ̴̽
+* ʲ̬̄
+* ʲ̬̅
+* ʲ̬͊
+* ʲ̬̌
+* ʲ̬̀
+* ʲ̬̆
+* ʲ̬͌
+* ʲ̬̇
+* ʲ̬͋
+* ʲ̬͆
+* ʲ̬̋
+* ʲ̬̈
+* ʲ̬̃
+* ʲ̬̊
+* ʲ̬̏
+* ʲ̬̂
+* ʲ̬́
+* ʲ̬̽
+* ʲ̤̄
+* ʲ̤̅
+* ʲ̤͊
+* ʲ̤̌
+* ʲ̤̀
+* ʲ̤̆
+* ʲ̤͌
+* ʲ̤̇
+* ʲ̤͋
+* ʲ̤͆
+* ʲ̤̋
+* ʲ̤̈
+* ʲ̤̃
+* ʲ̤̊
+* ʲ̤̏
+* ʲ̤̂
+* ʲ̤́
+* ʲ̤̽
+* ʲ̰̄
+* ʲ̰̅
+* ʲ̰͊
+* ʲ̰̌
+* ʲ̰̀
+* ʲ̰̆
+* ʲ̰͌
+* ʲ̰̇
+* ʲ̰͋
+* ʲ̰͆
+* ʲ̰̋
+* ʲ̰̈
+* ʲ̰̃
+* ʲ̰̊
+* ʲ̰̏
+* ʲ̰̂
+* ʲ̰́
+* ʲ̰̽
+* ʲ̝̄
+* ʲ̝̅
+* ʲ̝͊
+* ʲ̝̌
+* ʲ̝̀
+* ʲ̝̆
+* ʲ̝͌
+* ʲ̝̇
+* ʲ̝͋
+* ʲ̝͆
+* ʲ̝̋
+* ʲ̝̈
+* ʲ̝̃
+* ʲ̝̊
+* ʲ̝̏
+* ʲ̝̂
+* ʲ̝́
+* ʲ̝̽
+* ʲ̙̄
+* ʲ̙̅
+* ʲ̙͊
+* ʲ̙̌
+* ʲ̙̀
+* ʲ̙̆
+* ʲ̙͌
+* ʲ̙̇
+* ʲ̙͋
+* ʲ̙͆
+* ʲ̙̋
+* ʲ̙̈
+* ʲ̙̃
+* ʲ̙̊
+* ʲ̙̏
+* ʲ̙̂
+* ʲ̙́
+* ʲ̙̽
+* ʲ̞̄
+* ʲ̞̅
+* ʲ̞͊
+* ʲ̞̌
+* ʲ̞̀
+* ʲ̞̆
+* ʲ̞͌
+* ʲ̞̇
+* ʲ̞͋
+* ʲ̞͆
+* ʲ̞̋
+* ʲ̞̈
+* ʲ̞̃
+* ʲ̞̊
+* ʲ̞̏
+* ʲ̞̂
+* ʲ̞́
+* ʲ̞̽
+* ʲ̜̄
+* ʲ̜̅
+* ʲ̜͊
+* ʲ̜̌
+* ʲ̜̀
+* ʲ̜̆
+* ʲ̜͌
+* ʲ̜̇
+* ʲ̜͋
+* ʲ̜͆
+* ʲ̜̋
+* ʲ̜̈
+* ʲ̜̃
+* ʲ̜̊
+* ʲ̜̏
+* ʲ̜̂
+* ʲ̜́
+* ʲ̜̽
+* ʲ̧̅
+* ʲ̧͊
+* ʲ̧͌
+* ʲ̧͋
+* ʲ̧͆
+* ʲ̧̏
+* ʲ̧̽
+* ʲ͇̄
+* ʲ͇̅
+* ʲ͇͊
+* ʲ͇̌
+* ʲ͇̀
+* ʲ͇̆
+* ʲ͇͌
+* ʲ͇̇
+* ʲ͇͋
+* ʲ͇͆
+* ʲ͇̋
+* ʲ͇̈
+* ʲ͇̃
+* ʲ͇̊
+* ʲ͇̏
+* ʲ͇̂
+* ʲ͇́
+* ʲ͇̽
+* ʲ̺̄
+* ʲ̺̅
+* ʲ̺͊
+* ʲ̺̌
+* ʲ̺̀
+* ʲ̺̆
+* ʲ̺͌
+* ʲ̺̇
+* ʲ̺͋
+* ʲ̺͆
+* ʲ̺̋
+* ʲ̺̈
+* ʲ̺̃
+* ʲ̺̊
+* ʲ̺̏
+* ʲ̺̂
+* ʲ̺́
+* ʲ̺̽
+* ʲ̩̄
+* ʲ̩̅
+* ʲ̩͊
+* ʲ̩̌
+* ʲ̩̀
+* ʲ̩̆
+* ʲ̩͌
+* ʲ̩̇
+* ʲ̩͋
+* ʲ̩͆
+* ʲ̩̋
+* ʲ̩̈
+* ʲ̩̃
+* ʲ̩̊
+* ʲ̩̏
+* ʲ̩̂
+* ʲ̩́
+* ʲ̩̽
+* ʲ̼̄
+* ʲ̼̅
+* ʲ̼͊
+* ʲ̼̌
+* ʲ̼̀
+* ʲ̼̆
+* ʲ̼͌
+* ʲ̼̇
+* ʲ̼͋
+* ʲ̼͆
+* ʲ̼̋
+* ʲ̼̈
+* ʲ̼̃
+* ʲ̼̊
+* ʲ̼̏
+* ʲ̼̂
+* ʲ̼́
+* ʲ̼̽
+* ʲ̹̄
+* ʲ̹̅
+* ʲ̹͊
+* ʲ̹̌
+* ʲ̹̀
+* ʲ̹̆
+* ʲ̹͌
+* ʲ̹̇
+* ʲ̹͋
+* ʲ̹͆
+* ʲ̹̋
+* ʲ̹̈
+* ʲ̹̃
+* ʲ̹̊
+* ʲ̹̏
+* ʲ̹̂
+* ʲ̹́
+* ʲ̹̽
+* ʲ̻̄
+* ʲ̻̅
+* ʲ̻͊
+* ʲ̻̌
+* ʲ̻̀
+* ʲ̻̆
+* ʲ̻͌
+* ʲ̻̇
+* ʲ̻͋
+* ʲ̻͆
+* ʲ̻̋
+* ʲ̻̈
+* ʲ̻̃
+* ʲ̻̊
+* ʲ̻̏
+* ʲ̻̂
+* ʲ̻́
+* ʲ̻̽
+* ʲ̄
+* ʲ̅
+* ʲ͊
+* ʲ̌
+* ʲ̀
+* ʲ̆
+* ʲ͌
+* ʲ̇
+* ʲ͋
+* ʲ͆
+* ʲ̋
+* ʲ̈
+* ʲ̃
+* ʲ̊
+* ʲ̏
+* ʲ̂
+* ʲ́
+* ʲ̽
+* j̟̅
+* j͈̅
+* j̲̅
+* j̥̅
+* j͍̅
+* j̪̅
+* j͉̅
+* j̠̅
+* j̘̅
+* j̦̅
+* j̨̅
+* j͎̅
+* j̴̅
+* j̬̅
+* j̤̅
+* j̰̅
+* j̝̅
+* j̙̅
+* j̞̅
+* j̜̅
+* j̧̅
+* j͇̅
+* j̺̅
+* j̩̅
+* j̼̅
+* j̹̅
+* j̻̅
+* j̅
+* ⁱ̟̄
+* ⁱ̟̅
+* ⁱ̟͊
+* ⁱ̟̌
+* ⁱ̟̀
+* ⁱ̟̆
+* ⁱ̟͌
+* ⁱ̟̇
+* ⁱ̟͋
+* ⁱ̟͆
+* ⁱ̟̋
+* ⁱ̟̈
+* ⁱ̟̃
+* ⁱ̟̊
+* ⁱ̟̏
+* ⁱ̟̂
+* ⁱ̟́
+* ⁱ̟̽
+* ⁱ͈̄
+* ⁱ͈̅
+* ⁱ͈͊
+* ⁱ͈̌
+* ⁱ͈̀
+* ⁱ͈̆
+* ⁱ͈͌
+* ⁱ͈̇
+* ⁱ͈͋
+* ⁱ͈͆
+* ⁱ͈̋
+* ⁱ͈̈
+* ⁱ͈̃
+* ⁱ͈̊
+* ⁱ͈̏
+* ⁱ͈̂
+* ⁱ͈́
+* ⁱ͈̽
+* ⁱ̲̄
+* ⁱ̲̅
+* ⁱ̲͊
+* ⁱ̲̌
+* ⁱ̲̀
+* ⁱ̲̆
+* ⁱ̲͌
+* ⁱ̲̇
+* ⁱ̲͋
+* ⁱ̲͆
+* ⁱ̲̋
+* ⁱ̲̈
+* ⁱ̲̃
+* ⁱ̲̊
+* ⁱ̲̏
+* ⁱ̲̂
+* ⁱ̲́
+* ⁱ̲̽
+* ⁱ̥̄
+* ⁱ̥̅
+* ⁱ̥͊
+* ⁱ̥̌
+* ⁱ̥̀
+* ⁱ̥̆
+* ⁱ̥͌
+* ⁱ̥̇
+* ⁱ̥͋
+* ⁱ̥͆
+* ⁱ̥̋
+* ⁱ̥̈
+* ⁱ̥̃
+* ⁱ̥̊
+* ⁱ̥̏
+* ⁱ̥̂
+* ⁱ̥́
+* ⁱ̥̽
+* ⁱ͍̄
+* ⁱ͍̅
+* ⁱ͍͊
+* ⁱ͍̌
+* ⁱ͍̀
+* ⁱ͍̆
+* ⁱ͍͌
+* ⁱ͍̇
+* ⁱ͍͋
+* ⁱ͍͆
+* ⁱ͍̋
+* ⁱ͍̈
+* ⁱ͍̃
+* ⁱ͍̊
+* ⁱ͍̏
+* ⁱ͍̂
+* ⁱ͍́
+* ⁱ͍̽
+* ⁱ̪̄
+* ⁱ̪̅
+* ⁱ̪͊
+* ⁱ̪̌
+* ⁱ̪̀
+* ⁱ̪̆
+* ⁱ̪͌
+* ⁱ̪̇
+* ⁱ̪͋
+* ⁱ̪͆
+* ⁱ̪̋
+* ⁱ̪̈
+* ⁱ̪̃
+* ⁱ̪̊
+* ⁱ̪̏
+* ⁱ̪̂
+* ⁱ̪́
+* ⁱ̪̽
+* ⁱ͉̄
+* ⁱ͉̅
+* ⁱ͉͊
+* ⁱ͉̌
+* ⁱ͉̀
+* ⁱ͉̆
+* ⁱ͉͌
+* ⁱ͉̇
+* ⁱ͉͋
+* ⁱ͉͆
+* ⁱ͉̋
+* ⁱ͉̈
+* ⁱ͉̃
+* ⁱ͉̊
+* ⁱ͉̏
+* ⁱ͉̂
+* ⁱ͉́
+* ⁱ͉̽
+* ⁱ̠̄
+* ⁱ̠̅
+* ⁱ̠͊
+* ⁱ̠̌
+* ⁱ̠̀
+* ⁱ̠̆
+* ⁱ̠͌
+* ⁱ̠̇
+* ⁱ̠͋
+* ⁱ̠͆
+* ⁱ̠̋
+* ⁱ̠̈
+* ⁱ̠̃
+* ⁱ̠̊
+* ⁱ̠̏
+* ⁱ̠̂
+* ⁱ̠́
+* ⁱ̠̽
+* ⁱ̘̄
+* ⁱ̘̅
+* ⁱ̘͊
+* ⁱ̘̌
+* ⁱ̘̀
+* ⁱ̘̆
+* ⁱ̘͌
+* ⁱ̘̇
+* ⁱ̘͋
+* ⁱ̘͆
+* ⁱ̘̋
+* ⁱ̘̈
+* ⁱ̘̃
+* ⁱ̘̊
+* ⁱ̘̏
+* ⁱ̘̂
+* ⁱ̘́
+* ⁱ̘̽
+* ⁱ̦̅
+* ⁱ̦͊
+* ⁱ̦͌
+* ⁱ̦͋
+* ⁱ̦͆
+* ⁱ̦̏
+* ⁱ̦̽
+* ⁱ̨̅
+* ⁱ̨͊
+* ⁱ̨͌
+* ⁱ̨͋
+* ⁱ̨͆
+* ⁱ̨̏
+* ⁱ̨̽
+* ⁱ͎̄
+* ⁱ͎̅
+* ⁱ͎͊
+* ⁱ͎̌
+* ⁱ͎̀
+* ⁱ͎̆
+* ⁱ͎͌
+* ⁱ͎̇
+* ⁱ͎͋
+* ⁱ͎͆
+* ⁱ͎̋
+* ⁱ͎̈
+* ⁱ͎̃
+* ⁱ͎̊
+* ⁱ͎̏
+* ⁱ͎̂
+* ⁱ͎́
+* ⁱ͎̽
+* ⁱ̴̄
+* ⁱ̴̅
+* ⁱ̴͊
+* ⁱ̴̌
+* ⁱ̴̀
+* ⁱ̴̆
+* ⁱ̴͌
+* ⁱ̴̇
+* ⁱ̴͋
+* ⁱ̴͆
+* ⁱ̴̋
+* ⁱ̴̈
+* ⁱ̴̃
+* ⁱ̴̊
+* ⁱ̴̏
+* ⁱ̴̂
+* ⁱ̴́
+* ⁱ̴̽
+* ⁱ̬̄
+* ⁱ̬̅
+* ⁱ̬͊
+* ⁱ̬̌
+* ⁱ̬̀
+* ⁱ̬̆
+* ⁱ̬͌
+* ⁱ̬̇
+* ⁱ̬͋
+* ⁱ̬͆
+* ⁱ̬̋
+* ⁱ̬̈
+* ⁱ̬̃
+* ⁱ̬̊
+* ⁱ̬̏
+* ⁱ̬̂
+* ⁱ̬́
+* ⁱ̬̽
+* ⁱ̤̄
+* ⁱ̤̅
+* ⁱ̤͊
+* ⁱ̤̌
+* ⁱ̤̀
+* ⁱ̤̆
+* ⁱ̤͌
+* ⁱ̤̇
+* ⁱ̤͋
+* ⁱ̤͆
+* ⁱ̤̋
+* ⁱ̤̈
+* ⁱ̤̃
+* ⁱ̤̊
+* ⁱ̤̏
+* ⁱ̤̂
+* ⁱ̤́
+* ⁱ̤̽
+* ⁱ̰̄
+* ⁱ̰̅
+* ⁱ̰͊
+* ⁱ̰̌
+* ⁱ̰̀
+* ⁱ̰̆
+* ⁱ̰͌
+* ⁱ̰̇
+* ⁱ̰͋
+* ⁱ̰͆
+* ⁱ̰̋
+* ⁱ̰̈
+* ⁱ̰̃
+* ⁱ̰̊
+* ⁱ̰̏
+* ⁱ̰̂
+* ⁱ̰́
+* ⁱ̰̽
+* ⁱ̝̄
+* ⁱ̝̅
+* ⁱ̝͊
+* ⁱ̝̌
+* ⁱ̝̀
+* ⁱ̝̆
+* ⁱ̝͌
+* ⁱ̝̇
+* ⁱ̝͋
+* ⁱ̝͆
+* ⁱ̝̋
+* ⁱ̝̈
+* ⁱ̝̃
+* ⁱ̝̊
+* ⁱ̝̏
+* ⁱ̝̂
+* ⁱ̝́
+* ⁱ̝̽
+* ⁱ̙̄
+* ⁱ̙̅
+* ⁱ̙͊
+* ⁱ̙̌
+* ⁱ̙̀
+* ⁱ̙̆
+* ⁱ̙͌
+* ⁱ̙̇
+* ⁱ̙͋
+* ⁱ̙͆
+* ⁱ̙̋
+* ⁱ̙̈
+* ⁱ̙̃
+* ⁱ̙̊
+* ⁱ̙̏
+* ⁱ̙̂
+* ⁱ̙́
+* ⁱ̙̽
+* ⁱ̞̄
+* ⁱ̞̅
+* ⁱ̞͊
+* ⁱ̞̌
+* ⁱ̞̀
+* ⁱ̞̆
+* ⁱ̞͌
+* ⁱ̞̇
+* ⁱ̞͋
+* ⁱ̞͆
+* ⁱ̞̋
+* ⁱ̞̈
+* ⁱ̞̃
+* ⁱ̞̊
+* ⁱ̞̏
+* ⁱ̞̂
+* ⁱ̞́
+* ⁱ̞̽
+* ⁱ̜̄
+* ⁱ̜̅
+* ⁱ̜͊
+* ⁱ̜̌
+* ⁱ̜̀
+* ⁱ̜̆
+* ⁱ̜͌
+* ⁱ̜̇
+* ⁱ̜͋
+* ⁱ̜͆
+* ⁱ̜̋
+* ⁱ̜̈
+* ⁱ̜̃
+* ⁱ̜̊
+* ⁱ̜̏
+* ⁱ̜̂
+* ⁱ̜́
+* ⁱ̜̽
+* ⁱ̧̅
+* ⁱ̧͊
+* ⁱ̧͌
+* ⁱ̧͋
+* ⁱ̧͆
+* ⁱ̧̏
+* ⁱ̧̽
+* ⁱ͇̄
+* ⁱ͇̅
+* ⁱ͇͊
+* ⁱ͇̌
+* ⁱ͇̀
+* ⁱ͇̆
+* ⁱ͇͌
+* ⁱ͇̇
+* ⁱ͇͋
+* ⁱ͇͆
+* ⁱ͇̋
+* ⁱ͇̈
+* ⁱ͇̃
+* ⁱ͇̊
+* ⁱ͇̏
+* ⁱ͇̂
+* ⁱ͇́
+* ⁱ͇̽
+* ⁱ̺̄
+* ⁱ̺̅
+* ⁱ̺͊
+* ⁱ̺̌
+* ⁱ̺̀
+* ⁱ̺̆
+* ⁱ̺͌
+* ⁱ̺̇
+* ⁱ̺͋
+* ⁱ̺͆
+* ⁱ̺̋
+* ⁱ̺̈
+* ⁱ̺̃
+* ⁱ̺̊
+* ⁱ̺̏
+* ⁱ̺̂
+* ⁱ̺́
+* ⁱ̺̽
+* ⁱ̩̄
+* ⁱ̩̅
+* ⁱ̩͊
+* ⁱ̩̌
+* ⁱ̩̀
+* ⁱ̩̆
+* ⁱ̩͌
+* ⁱ̩̇
+* ⁱ̩͋
+* ⁱ̩͆
+* ⁱ̩̋
+* ⁱ̩̈
+* ⁱ̩̃
+* ⁱ̩̊
+* ⁱ̩̏
+* ⁱ̩̂
+* ⁱ̩́
+* ⁱ̩̽
+* ⁱ̼̄
+* ⁱ̼̅
+* ⁱ̼͊
+* ⁱ̼̌
+* ⁱ̼̀
+* ⁱ̼̆
+* ⁱ̼͌
+* ⁱ̼̇
+* ⁱ̼͋
+* ⁱ̼͆
+* ⁱ̼̋
+* ⁱ̼̈
+* ⁱ̼̃
+* ⁱ̼̊
+* ⁱ̼̏
+* ⁱ̼̂
+* ⁱ̼́
+* ⁱ̼̽
+* ⁱ̹̄
+* ⁱ̹̅
+* ⁱ̹͊
+* ⁱ̹̌
+* ⁱ̹̀
+* ⁱ̹̆
+* ⁱ̹͌
+* ⁱ̹̇
+* ⁱ̹͋
+* ⁱ̹͆
+* ⁱ̹̋
+* ⁱ̹̈
+* ⁱ̹̃
+* ⁱ̹̊
+* ⁱ̹̏
+* ⁱ̹̂
+* ⁱ̹́
+* ⁱ̹̽
+* ⁱ̻̄
+* ⁱ̻̅
+* ⁱ̻͊
+* ⁱ̻̌
+* ⁱ̻̀
+* ⁱ̻̆
+* ⁱ̻͌
+* ⁱ̻̇
+* ⁱ̻͋
+* ⁱ̻͆
+* ⁱ̻̋
+* ⁱ̻̈
+* ⁱ̻̃
+* ⁱ̻̊
+* ⁱ̻̏
+* ⁱ̻̂
+* ⁱ̻́
+* ⁱ̻̽
+* ⁱ̄
+* ⁱ̅
+* ⁱ͊
+* ⁱ̌
+* ⁱ̀
+* ⁱ̆
+* ⁱ͌
+* ⁱ̇
+* ⁱ͋
+* ⁱ͆
+* ⁱ̋
+* ⁱ̈
+* ⁱ̃
+* ⁱ̊
+* ⁱ̏
+* ⁱ̂
+* ⁱ́
+* ⁱ̽
+* i̟̅
+* i͈̅
+* i̲̅
+* i̥̅
+* i͍̅
+* i̪̅
+* i͉̅
+* i̠̅
+* i̘̅
+* i̦̅
+* i͎̅
+* i̴̅
+* i̬̅
+* i̤̅
+* ḭ̅
+* i̝̅
+* i̙̅
+* i̞̅
+* i̜̅
+* i̧̅
+* i͇̅
+* i̺̅
+* i̩̅
+* i̼̅
+* i̹̅
+* i̻̅
+* i̅
+* į̟̄
+* į̟̅
+* į̟͊
+* į̟̌
+* į̟̀
+* į̟̆
+* į̟͌
+* į̟̇
+* į̟͋
+* į̟͆
+* į̟̋
+* į̟̈
+* į̟̃
+* į̟̊
+* į̟̏
+* į̟̂
+* į̟́
+* į̟̽
+* į͈̄
+* į͈̅
+* į͈͊
+* į͈̌
+* į͈̀
+* į͈̆
+* į͈͌
+* į͈̇
+* į͈͋
+* į͈͆
+* į͈̋
+* į͈̈
+* į͈̃
+* į͈̊
+* į͈̏
+* į͈̂
+* į͈́
+* į͈̽
+* į̲̄
+* į̲̅
+* į̲͊
+* į̲̌
+* į̲̀
+* į̲̆
+* į̲͌
+* į̲̇
+* į̲͋
+* į̲͆
+* į̲̋
+* į̲̈
+* į̲̃
+* į̲̊
+* į̲̏
+* į̲̂
+* į̲́
+* į̲̽
+* į̥̄
+* į̥̅
+* į̥͊
+* į̥̌
+* į̥̀
+* į̥̆
+* į̥͌
+* į̥̇
+* į̥͋
+* į̥͆
+* į̥̋
+* į̥̈
+* į̥̃
+* į̥̊
+* į̥̏
+* į̥̂
+* į̥́
+* į̥̽
+* į͍̄
+* į͍̅
+* į͍͊
+* į͍̌
+* į͍̀
+* į͍̆
+* į͍͌
+* į͍̇
+* į͍͋
+* į͍͆
+* į͍̋
+* į͍̈
+* į͍̃
+* į͍̊
+* į͍̏
+* į͍̂
+* į͍́
+* į͍̽
+* į̪̄
+* į̪̅
+* į̪͊
+* į̪̌
+* į̪̀
+* į̪̆
+* į̪͌
+* į̪̇
+* į̪͋
+* į̪͆
+* į̪̋
+* į̪̈
+* į̪̃
+* į̪̊
+* į̪̏
+* į̪̂
+* į̪́
+* į̪̽
+* į͉̄
+* į͉̅
+* į͉͊
+* į͉̌
+* į͉̀
+* į͉̆
+* į͉͌
+* į͉̇
+* į͉͋
+* į͉͆
+* į͉̋
+* į͉̈
+* į͉̃
+* į͉̊
+* į͉̏
+* į͉̂
+* į͉́
+* į͉̽
+* į̠̄
+* į̠̅
+* į̠͊
+* į̠̌
+* į̠̀
+* į̠̆
+* į̠͌
+* į̠̇
+* į̠͋
+* į̠͆
+* į̠̋
+* į̠̈
+* į̠̃
+* į̠̊
+* į̠̏
+* į̠̂
+* į̠́
+* į̠̽
+* į̘̄
+* į̘̅
+* į̘͊
+* į̘̌
+* į̘̀
+* į̘̆
+* į̘͌
+* į̘̇
+* į̘͋
+* į̘͆
+* į̘̋
+* į̘̈
+* į̘̃
+* į̘̊
+* į̘̏
+* į̘̂
+* į̘́
+* į̘̽
+* į̦̅
+* į̦͊
+* į̦͌
+* į̦͋
+* į̦͆
+* į̦̏
+* į̦̽
+* į̨̅
+* į̨͊
+* į̨͌
+* į̨͋
+* į̨͆
+* į̨̏
+* į̨̽
+* į͎̄
+* į͎̅
+* į͎͊
+* į͎̌
+* į͎̀
+* į͎̆
+* į͎͌
+* į͎̇
+* į͎͋
+* į͎͆
+* į͎̋
+* į͎̈
+* į͎̃
+* į͎̊
+* į͎̏
+* į͎̂
+* į͎́
+* į͎̽
+* į̴̄
+* į̴̅
+* į̴͊
+* į̴̌
+* į̴̀
+* į̴̆
+* į̴͌
+* į̴̇
+* į̴͋
+* į̴͆
+* į̴̋
+* į̴̈
+* į̴̃
+* į̴̊
+* į̴̏
+* į̴̂
+* į̴́
+* į̴̽
+* į̬̄
+* į̬̅
+* į̬͊
+* į̬̌
+* į̬̀
+* į̬̆
+* į̬͌
+* į̬̇
+* į̬͋
+* į̬͆
+* į̬̋
+* į̬̈
+* į̬̃
+* į̬̊
+* į̬̏
+* į̬̂
+* į̬́
+* į̬̽
+* į̤̄
+* į̤̅
+* į̤͊
+* į̤̌
+* į̤̀
+* į̤̆
+* į̤͌
+* į̤̇
+* į̤͋
+* į̤͆
+* į̤̋
+* į̤̈
+* į̤̃
+* į̤̊
+* į̤̏
+* į̤̂
+* į̤́
+* į̤̽
+* į̰̄
+* į̰̅
+* į̰͊
+* į̰̌
+* į̰̀
+* į̰̆
+* į̰͌
+* į̰̇
+* į̰͋
+* į̰͆
+* į̰̋
+* į̰̈
+* į̰̃
+* į̰̊
+* į̰̏
+* į̰̂
+* į̰́
+* į̰̽
+* į̝̄
+* į̝̅
+* į̝͊
+* į̝̌
+* į̝̀
+* į̝̆
+* į̝͌
+* į̝̇
+* į̝͋
+* į̝͆
+* į̝̋
+* į̝̈
+* į̝̃
+* į̝̊
+* į̝̏
+* į̝̂
+* į̝́
+* į̝̽
+* į̙̄
+* į̙̅
+* į̙͊
+* į̙̌
+* į̙̀
+* į̙̆
+* į̙͌
+* į̙̇
+* į̙͋
+* į̙͆
+* į̙̋
+* į̙̈
+* į̙̃
+* į̙̊
+* į̙̏
+* į̙̂
+* į̙́
+* į̙̽
+* į̞̄
+* į̞̅
+* į̞͊
+* į̞̌
+* į̞̀
+* į̞̆
+* į̞͌
+* į̞̇
+* į̞͋
+* į̞͆
+* į̞̋
+* į̞̈
+* į̞̃
+* į̞̊
+* į̞̏
+* į̞̂
+* į̞́
+* į̞̽
+* į̜̄
+* į̜̅
+* į̜͊
+* į̜̌
+* į̜̀
+* į̜̆
+* į̜͌
+* į̜̇
+* į̜͋
+* į̜͆
+* į̜̋
+* į̜̈
+* į̜̃
+* į̜̊
+* į̜̏
+* į̜̂
+* į̜́
+* į̜̽
+* į̧̅
+* į̧͊
+* į̧͌
+* į̧͋
+* į̧͆
+* į̧̏
+* į̧̽
+* į͇̄
+* į͇̅
+* į͇͊
+* į͇̌
+* į͇̀
+* į͇̆
+* į͇͌
+* į͇̇
+* į͇͋
+* į͇͆
+* į͇̋
+* į͇̈
+* į͇̃
+* į͇̊
+* į͇̏
+* į͇̂
+* į͇́
+* į͇̽
+* į̺̄
+* į̺̅
+* į̺͊
+* į̺̌
+* į̺̀
+* į̺̆
+* į̺͌
+* į̺̇
+* į̺͋
+* į̺͆
+* į̺̋
+* į̺̈
+* į̺̃
+* į̺̊
+* į̺̏
+* į̺̂
+* į̺́
+* į̺̽
+* į̩̄
+* į̩̅
+* į̩͊
+* į̩̌
+* į̩̀
+* į̩̆
+* į̩͌
+* į̩̇
+* į̩͋
+* į̩͆
+* į̩̋
+* į̩̈
+* į̩̃
+* į̩̊
+* į̩̏
+* į̩̂
+* į̩́
+* į̩̽
+* į̼̄
+* į̼̅
+* į̼͊
+* į̼̌
+* į̼̀
+* į̼̆
+* į̼͌
+* į̼̇
+* į̼͋
+* į̼͆
+* į̼̋
+* į̼̈
+* į̼̃
+* į̼̊
+* į̼̏
+* į̼̂
+* į̼́
+* į̼̽
+* į̹̄
+* į̹̅
+* į̹͊
+* į̹̌
+* į̹̀
+* į̹̆
+* į̹͌
+* į̹̇
+* į̹͋
+* į̹͆
+* į̹̋
+* į̹̈
+* į̹̃
+* į̹̊
+* į̹̏
+* į̹̂
+* į̹́
+* į̹̽
+* į̻̄
+* į̻̅
+* į̻͊
+* į̻̌
+* į̻̀
+* į̻̆
+* į̻͌
+* į̻̇
+* į̻͋
+* į̻͆
+* į̻̋
+* į̻̈
+* į̻̃
+* į̻̊
+* į̻̏
+* į̻̂
+* į̻́
+* į̻̽
+* į̅
+* į͊
+* į̆
+* į͌
+* į̇
+* į͋
+* į͆
+* į̋
+* į̈
+* į̊
+* į̏
+* į̽ [code: soft-dotted]
+  
+  
+
+</div>
+</details>
+
+
+
+
+
+<details>
+    <summary>⚠️ <b>WARN</b> Checking OS/2 achVendID. (googlefonts/vendor_id)</summary>
+    <div>
+
+
+
+
+
+
+
+
+- ⚠️ **WARN** OS/2 VendorID value 'MSTR' is not yet recognized.
+If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
+ [code: unknown]
+  
+  
+
+</div>
+</details>
+
+
+</div>
+</details>
+
+
 <details><summary>[1] fonts/variable</summary>
 <div>
 
@@ -30,35 +1783,35 @@ fontspector version: 1.3.0
 - ⚠️ **WARN** fonts/variable/Alyamama[wght].ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.
 
 * U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
-* U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
-* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
+* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
+* U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
 * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math
-* U+0305 COMBINING OVERLINE: try adding one of: elbasan, coptic, glagolitic, gothic, math
+* U+0305 COMBINING OVERLINE: try adding one of: gothic, coptic, elbasan, glagolitic, math
 * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
-* U+0307 COMBINING DOT ABOVE: try adding one of: math, malayalam, syriac, tai-le, coptic, canadian-aboriginal, hebrew, old-permic, tifinagh, duployan, todhri
+* U+0307 COMBINING DOT ABOVE: try adding one of: duployan, hebrew, tai-le, malayalam, syriac, todhri, math, coptic, canadian-aboriginal, old-permic, tifinagh
 * U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac
-* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
+* U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
 * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
 * U+031A COMBINING LEFT ANGLE ABOVE: try adding math
 * U+0320 COMBINING MINUS SIGN BELOW: try adding syriac
-* U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac, duployan
+* U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, duployan, cherokee
 * U+0325 COMBINING RING BELOW: try adding syriac
 * U+0326 COMBINING COMMA BELOW: try adding math
 * U+0327 COMBINING CEDILLA: try adding math
 * U+032C COMBINING CARON BELOW: try adding math
-* U+0330 COMBINING TILDE BELOW: try adding one of: math, syriac, cherokee
+* U+0330 COMBINING TILDE BELOW: try adding one of: math, cherokee, syriac
 * U+0332 COMBINING LOW LINE: try adding math
 * U+033A COMBINING INVERTED BRIDGE BELOW: try adding math
 * U+0346 COMBINING BRIDGE ABOVE: try adding math
 * U+034D COMBINING LEFT RIGHT ARROW BELOW: try adding math
 * U+0361 COMBINING DOUBLE INVERTED BREVE: try adding coptic
 * U+0609 ARABIC-INDIC PER MILLE SIGN: try adding arabic
-* U+060C ARABIC COMMA: try adding one of: garay, nko, syriac, thaana, arabic, yezidi, hanifi-rohingya
+* U+060C ARABIC COMMA: try adding one of: yezidi, hanifi-rohingya, arabic, garay, nko, syriac, thaana
 * U+060D ARABIC DATE SEPARATOR: try adding arabic
 * U+0615 ARABIC SMALL HIGH TAH: try adding arabic
-* U+061B ARABIC SEMICOLON: try adding one of: thaana, garay, syriac, yezidi, hanifi-rohingya, nko, arabic
-* U+061F ARABIC QUESTION MARK: try adding one of: nko, arabic, garay, hanifi-rohingya, adlam, syriac, yezidi, thaana
-* U+0621 ARABIC LETTER HAMZA: try adding one of: arabic, syriac
+* U+061B ARABIC SEMICOLON: try adding one of: hanifi-rohingya, thaana, garay, arabic, nko, syriac, yezidi
+* U+061F ARABIC QUESTION MARK: try adding one of: nko, adlam, arabic, yezidi, hanifi-rohingya, syriac, thaana, garay
+* U+0621 ARABIC LETTER HAMZA: try adding one of: syriac, arabic
 * U+0622 ARABIC LETTER ALEF WITH MADDA ABOVE: try adding arabic
 * U+0623 ARABIC LETTER ALEF WITH HAMZA ABOVE: try adding arabic
 * U+0624 ARABIC LETTER WAW WITH HAMZA ABOVE: try adding arabic
@@ -84,7 +1837,7 @@ fontspector version: 1.3.0
 * U+0638 ARABIC LETTER ZAH: try adding arabic
 * U+0639 ARABIC LETTER AIN: try adding arabic
 * U+063A ARABIC LETTER GHAIN: try adding arabic
-* U+0640 ARABIC TATWEEL: try adding one of: old-uyghur, sogdian, syriac, arabic, hanifi-rohingya, mandaic, adlam, manichaean, psalter-pahlavi
+* U+0640 ARABIC TATWEEL: try adding one of: hanifi-rohingya, syriac, psalter-pahlavi, mandaic, old-uyghur, arabic, sogdian, adlam, manichaean
 * U+0641 ARABIC LETTER FEH: try adding arabic
 * U+0642 ARABIC LETTER QAF: try adding arabic
 * U+0643 ARABIC LETTER KAF: try adding arabic
@@ -96,36 +1849,36 @@ fontspector version: 1.3.0
 * U+0649 ARABIC LETTER ALEF MAKSURA: try adding arabic
 * U+064A ARABIC LETTER YEH: try adding arabic
 * U+064B ARABIC FATHATAN: try adding one of: arabic, syriac
-* U+064C ARABIC DAMMATAN: try adding one of: arabic, syriac
-* U+064D ARABIC KASRATAN: try adding one of: syriac, arabic
-* U+064E ARABIC FATHA: try adding one of: arabic, syriac
-* U+064F ARABIC DAMMA: try adding one of: syriac, arabic
+* U+064C ARABIC DAMMATAN: try adding one of: syriac, arabic
+* U+064D ARABIC KASRATAN: try adding one of: arabic, syriac
+* U+064E ARABIC FATHA: try adding one of: syriac, arabic
+* U+064F ARABIC DAMMA: try adding one of: arabic, syriac
 * U+0650 ARABIC KASRA: try adding one of: syriac, arabic
-* U+0651 ARABIC SHADDA: try adding one of: arabic, syriac
+* U+0651 ARABIC SHADDA: try adding one of: syriac, arabic
 * U+0652 ARABIC SUKUN: try adding one of: arabic, syriac
 * U+0653 ARABIC MADDAH ABOVE: try adding one of: arabic, syriac
-* U+0654 ARABIC HAMZA ABOVE: try adding one of: arabic, syriac
+* U+0654 ARABIC HAMZA ABOVE: try adding one of: syriac, arabic
 * U+0655 ARABIC HAMZA BELOW: try adding one of: arabic, syriac
 * U+0656 ARABIC SUBSCRIPT ALEF: try adding arabic
 * U+0657 ARABIC INVERTED DAMMA: try adding arabic
 * U+0658 ARABIC MARK NOON GHUNNA: try adding arabic
-* U+0660 ARABIC-INDIC DIGIT ZERO: try adding one of: thaana, yezidi, indic-siyaq-numbers, syriac, arabic, hanifi-rohingya
-* U+0661 ARABIC-INDIC DIGIT ONE: try adding one of: thaana, arabic, yezidi, indic-siyaq-numbers, syriac
-* U+0662 ARABIC-INDIC DIGIT TWO: try adding one of: arabic, yezidi, syriac, thaana, indic-siyaq-numbers
-* U+0663 ARABIC-INDIC DIGIT THREE: try adding one of: thaana, syriac, arabic, yezidi, indic-siyaq-numbers
-* U+0664 ARABIC-INDIC DIGIT FOUR: try adding one of: arabic, yezidi, thaana, syriac, indic-siyaq-numbers
-* U+0665 ARABIC-INDIC DIGIT FIVE: try adding one of: arabic, indic-siyaq-numbers, thaana, yezidi, syriac
-* U+0666 ARABIC-INDIC DIGIT SIX: try adding one of: yezidi, syriac, arabic, indic-siyaq-numbers, thaana
-* U+0667 ARABIC-INDIC DIGIT SEVEN: try adding one of: arabic, yezidi, thaana, indic-siyaq-numbers, syriac
-* U+0668 ARABIC-INDIC DIGIT EIGHT: try adding one of: arabic, thaana, syriac, yezidi, indic-siyaq-numbers
-* U+0669 ARABIC-INDIC DIGIT NINE: try adding one of: indic-siyaq-numbers, yezidi, syriac, arabic, thaana
-* U+066A ARABIC PERCENT SIGN: try adding one of: arabic, syriac, thaana, nko
-* U+066B ARABIC DECIMAL SEPARATOR: try adding one of: thaana, syriac, arabic
-* U+066C ARABIC THOUSANDS SEPARATOR: try adding one of: arabic, syriac, thaana
+* U+0660 ARABIC-INDIC DIGIT ZERO: try adding one of: thaana, yezidi, arabic, hanifi-rohingya, syriac, indic-siyaq-numbers
+* U+0661 ARABIC-INDIC DIGIT ONE: try adding one of: arabic, indic-siyaq-numbers, thaana, syriac, yezidi
+* U+0662 ARABIC-INDIC DIGIT TWO: try adding one of: yezidi, syriac, thaana, arabic, indic-siyaq-numbers
+* U+0663 ARABIC-INDIC DIGIT THREE: try adding one of: indic-siyaq-numbers, syriac, yezidi, thaana, arabic
+* U+0664 ARABIC-INDIC DIGIT FOUR: try adding one of: yezidi, thaana, arabic, indic-siyaq-numbers, syriac
+* U+0665 ARABIC-INDIC DIGIT FIVE: try adding one of: arabic, thaana, yezidi, syriac, indic-siyaq-numbers
+* U+0666 ARABIC-INDIC DIGIT SIX: try adding one of: yezidi, arabic, syriac, thaana, indic-siyaq-numbers
+* U+0667 ARABIC-INDIC DIGIT SEVEN: try adding one of: arabic, yezidi, syriac, indic-siyaq-numbers, thaana
+* U+0668 ARABIC-INDIC DIGIT EIGHT: try adding one of: arabic, yezidi, syriac, indic-siyaq-numbers, thaana
+* U+0669 ARABIC-INDIC DIGIT NINE: try adding one of: thaana, indic-siyaq-numbers, yezidi, syriac, arabic
+* U+066A ARABIC PERCENT SIGN: try adding one of: arabic, nko, syriac, thaana
+* U+066B ARABIC DECIMAL SEPARATOR: try adding one of: arabic, syriac, thaana
+* U+066C ARABIC THOUSANDS SEPARATOR: try adding one of: syriac, thaana, arabic
 * U+066D ARABIC FIVE POINTED STAR: try adding arabic
 * U+066E ARABIC LETTER DOTLESS BEH: try adding arabic
 * U+066F ARABIC LETTER DOTLESS QAF: try adding arabic
-* U+0670 ARABIC LETTER SUPERSCRIPT ALEF: try adding one of: syriac, arabic
+* U+0670 ARABIC LETTER SUPERSCRIPT ALEF: try adding one of: arabic, syriac
 * U+0671 ARABIC LETTER ALEF WASLA: try adding arabic
 * U+0679 ARABIC LETTER TTEH: try adding arabic
 * U+067A ARABIC LETTER TTEHEH: try adding arabic
@@ -157,18 +1910,18 @@ fontspector version: 1.3.0
 * U+06CF ARABIC LETTER WAW WITH DOT ABOVE: try adding arabic
 * U+06D2 ARABIC LETTER YEH BARREE: try adding arabic
 * U+06D3 ARABIC LETTER YEH BARREE WITH HAMZA ABOVE: try adding arabic
-* U+06D4 ARABIC FULL STOP: try adding one of: arabic, hanifi-rohingya, yezidi
+* U+06D4 ARABIC FULL STOP: try adding one of: hanifi-rohingya, arabic, yezidi
 * U+06DB ARABIC SMALL HIGH THREE DOTS: try adding arabic
 * U+06F0 EXTENDED ARABIC-INDIC DIGIT ZERO: try adding one of: arabic, indic-siyaq-numbers
 * U+06F1 EXTENDED ARABIC-INDIC DIGIT ONE: try adding one of: arabic, indic-siyaq-numbers
-* U+06F2 EXTENDED ARABIC-INDIC DIGIT TWO: try adding one of: indic-siyaq-numbers, arabic
+* U+06F2 EXTENDED ARABIC-INDIC DIGIT TWO: try adding one of: arabic, indic-siyaq-numbers
 * U+06F3 EXTENDED ARABIC-INDIC DIGIT THREE: try adding one of: arabic, indic-siyaq-numbers
-* U+06F4 EXTENDED ARABIC-INDIC DIGIT FOUR: try adding one of: indic-siyaq-numbers, arabic
+* U+06F4 EXTENDED ARABIC-INDIC DIGIT FOUR: try adding one of: arabic, indic-siyaq-numbers
 * U+06F5 EXTENDED ARABIC-INDIC DIGIT FIVE: try adding one of: indic-siyaq-numbers, arabic
-* U+06F6 EXTENDED ARABIC-INDIC DIGIT SIX: try adding one of: arabic, indic-siyaq-numbers
+* U+06F6 EXTENDED ARABIC-INDIC DIGIT SIX: try adding one of: indic-siyaq-numbers, arabic
 * U+06F7 EXTENDED ARABIC-INDIC DIGIT SEVEN: try adding one of: arabic, indic-siyaq-numbers
-* U+06F8 EXTENDED ARABIC-INDIC DIGIT EIGHT: try adding one of: indic-siyaq-numbers, arabic
-* U+06F9 EXTENDED ARABIC-INDIC DIGIT NINE: try adding one of: arabic, indic-siyaq-numbers
+* U+06F8 EXTENDED ARABIC-INDIC DIGIT EIGHT: try adding one of: arabic, indic-siyaq-numbers
+* U+06F9 EXTENDED ARABIC-INDIC DIGIT NINE: try adding one of: indic-siyaq-numbers, arabic
 * U+0763 ARABIC LETTER KEHEH WITH THREE DOTS ABOVE: try adding arabic
 * U+1EBC LATIN CAPITAL LETTER E WITH TILDE: try adding vietnamese
 * U+1EBD LATIN SMALL LETTER E WITH TILDE: try adding vietnamese
@@ -235,1767 +1988,14 @@ fontspector version: 1.3.0
 * U+2264 LESS-THAN OR EQUAL TO: try adding math
 * U+2265 GREATER-THAN OR EQUAL TO: try adding math
 * U+25CA LOZENGE: try adding one of: math, symbols
-* U+25CC DOTTED CIRCLE: try adding one of: devanagari, elbasan, osage, balinese, adlam, dogra, music, kharoshthi, math, bengali, buhid, cham, khojki, tagalog, buginese, limbu, new-tai-lue, syriac, tai-le, hanunoo, mahajani, meetei-mayek, newa, marchen, canadian-aboriginal, caucasian-albanian, symbols, saurashtra, tibetan, thaana, zanabazar-square, old-permic, duployan, hebrew, gujarati, manichaean, nko, javanese, gurmukhi, batak, sharada, gunjala-gondi, mende-kikakui, tai-viet, phags-pa, psalter-pahlavi, mandaic, myanmar, thai, malayalam, tirhuta, oriya, takri, khmer, khudawadi, wancho, soyombo, lao, bhaiksuki, kaithi, rejang, tagbanwa, sundanese, kannada, bassa-vah, hanifi-rohingya, ahom, lepcha, tai-tham, mongolian, tamil, miao, masaram-gondi, grantha, coptic, kayah-li, modi, brahmi, pahawh-hmong, siddham, sinhala, sogdian, telugu, warang-citi, syloti-nagri, chakma, tifinagh, yi, armenian
-* U+FD3E ORNATE LEFT PARENTHESIS: try adding one of: arabic, nko
+* U+25CC DOTTED CIRCLE: try adding one of: lao, malayalam, telugu, cham, syriac, kannada, tai-le, marchen, soyombo, tirhuta, psalter-pahlavi, sharada, masaram-gondi, devanagari, duployan, tai-tham, tamil, buginese, thaana, elbasan, canadian-aboriginal, nko, batak, phags-pa, tai-viet, math, mandaic, music, oriya, chakma, tifinagh, warang-citi, manichaean, gurmukhi, hanunoo, javanese, saurashtra, siddham, sinhala, symbols, zanabazar-square, sogdian, modi, mahajani, mende-kikakui, balinese, kayah-li, bhaiksuki, coptic, limbu, takri, kaithi, adlam, bassa-vah, old-permic, khmer, khudawadi, syloti-nagri, bengali, rejang, thai, wancho, dogra, kharoshthi, sundanese, gunjala-gondi, new-tai-lue, pahawh-hmong, tagbanwa, buhid, mongolian, armenian, brahmi, meetei-mayek, newa, yi, myanmar, grantha, osage, hanifi-rohingya, tagalog, caucasian-albanian, khojki, gujarati, lepcha, miao, ahom, tibetan, hebrew
+* U+FD3E ORNATE LEFT PARENTHESIS: try adding one of: nko, arabic
 * U+FD3F ORNATE RIGHT PARENTHESIS: try adding one of: arabic, nko
 * U+FDFA ARABIC LIGATURE SALLALLAHOU ALAYHE WASALLAM: try adding arabic
 * U+FDFB ARABIC LIGATURE JALLAJALALOUHOU: try adding arabic
 * U+FDFC RIAL SIGN: try adding arabic
 
 Or you can add the above codepoints to one of the subsets supported by the font: greek, latin-ext, latin [code: unreachable-subsetting]
-  
-  
-
-</div>
-</details>
-
-
-</div>
-</details>
-
-
-<details><summary>[4] fonts/variable/Alyamama[wght].ttf</summary>
-<div>
-
-
-<details>
-    <summary>⚠️ <b>WARN</b> Check if each glyph has the recommended amount of contours. (contour_count)</summary>
-    <div>
-
-
-
-
-
-
-
-
-- ⚠️ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are
-     infered from the typical ammounts of contours observed in a
-     large collection of reference font families. The divergences
-     listed below may simply indicate a significantly different
-     design on some of your glyphs. On the other hand, some of these
-     may flag actual bugs in the font such as glyphs mapped to an
-     incorrect codepoint. Please consider reviewing the design and
-     codepoint assignment of these to make sure they are correct.
-
-
-    The following glyphs do not have the recommended number of contours:
-* uni1D6D (U+1D6D): found 3, expected one of: {2}
-* uni02A3 (U+02A3): found 2, expected one of: {3}
-* uni0258 (U+0258): found 1, expected one of: {2}
-* uni1D6E (U+1D6E): found 2, expected one of: {1}
-* uni02A1 (U+02A1): found 2, expected one of: {1}
-* uni02A2 (U+02A2): found 2, expected one of: {1}
-* uni026E (U+026E): found 2, expected one of: {1}
-* uni1D72 (U+1D72): found 2, expected one of: {1}
-* uni1D74 (U+1D74): found 3, expected one of: {1}
-* uni1D75 (U+1D75): found 3, expected one of: {1}
-* uni021B.1 (U+021B): found 1, expected one of: {2, 4, 3}
-* uni1D76 (U+1D76): found 3, expected one of: {1}
-* uni01C2 (U+01C2): found 3, expected one of: {1}
-* uni0621 (U+0621): found 2, expected one of: {1}
-* uni0623 (U+0623): found 3, expected one of: {2}
-* uni0625 (U+0625): found 3, expected one of: {2}
-* uni066E (U+066E): found 2, expected one of: {1}
-* uni066E.fina (unencoded): found 3, expected one of: {1}
-* uni066E.medi (unencoded): found 2, expected one of: {1}
-* uni0628 (U+0628): found 3, expected one of: {2}
-* uni067E (U+067E): found 5, expected one of: {4}
-* uni067B (U+067B): found 4, expected one of: {2, 3}
-* uni062A (U+062A): found 4, expected one of: {3, 2}
-* uni067C (U+067C): found 6, expected one of: {4, 5}
-* uni067D (U+067D): found 5, expected one of: {3, 4}
-* uni062B (U+062B): found 5, expected one of: {4, 3, 2}
-* uni067A (U+067A): found 4, expected one of: {0, 2, 3}
-* uni0686 (U+0686): found 5, expected one of: {0, 3, 4}
-* uni0631 (U+0631): found 2, expected one of: {1}
-* uni0632 (U+0632): found 3, expected one of: {2}
-* uni0698 (U+0698): found 5, expected one of: {4}
-* uni0633 (U+0633): found 6, expected one of: {3, 1}
-* uni0634 (U+0634): found 9, expected one of: {4, 6, 3, 0}
-* uni069C (U+069C): found 12, expected one of: {9, 5, 7}
-* uni0635 (U+0635): found 5, expected one of: {2}
-* uni0636 (U+0636): found 6, expected one of: {3}
-* uni0637 (U+0637): found 4, expected one of: {2, 3}
-* uni0638 (U+0638): found 5, expected one of: {3, 4}
-* uni0639 (U+0639): found 2, expected one of: {1}
-* uni0641 (U+0641): found 5, expected one of: {3, 2}
-* uni06A4 (U+06A4): found 7, expected one of: {4, 5, 0}
-* uni06A1 (U+06A1): found 4, expected one of: {2, 1}
-* uni06A1.fina (unencoded): found 4, expected one of: {2}
-* uni06A2 (U+06A2): found 5, expected one of: {3}
-* uni06A5 (U+06A5): found 7, expected one of: {5, 4}
-* uni066F.fina (unencoded): found 3, expected one of: {2}
-* uni0643 (U+0643): found 4, expected one of: {1, 2}
-* uni06A9 (U+06A9): found 4, expected one of: {1}
-* uni0763 (U+0763): found 7, expected one of: {3, 4}
-* uni0763.fina (unencoded): found 8, expected one of: {3, 4}
-* uni0763.medi (unencoded): found 7, expected one of: {3, 5, 4}
-* uni0763.init (unencoded): found 6, expected one of: {4, 3}
-* uni06AF (U+06AF): found 5, expected one of: {2}
-* uni0644 (U+0644): found 2, expected one of: {1}
-* uni0645 (U+0645): found 3, expected one of: {1, 2}
-* uni0646 (U+0646): found 3, expected one of: {2}
-* uni06BA (U+06BA): found 2, expected one of: {1}
-* uni06BA.medi (unencoded): found 2, expected one of: {1}
-* uni0647 (U+0647): found 1, expected one of: {2}
-* uni06C1 (U+06C1): found 1, expected one of: {2}
-* uni06BE (U+06BE): found 4, expected one of: {2, 3, 1}
-* uni0624 (U+0624): found 4, expected one of: {2, 3}
-* uni0649 (U+0649): found 2, expected one of: {1}
-* uni064A (U+064A): found 4, expected one of: {3, 2}
-* uni0626 (U+0626): found 4, expected one of: {2}
-* uni06CC (U+06CC): found 2, expected one of: {1}
-* uni06440671 (unencoded): found 6, expected one of: {4}
-* uni06440671.fina (unencoded): found 5, expected one of: {3}
-* uni0663 (U+0663): found 3, expected one of: {1}
-* uni0666 (U+0666): found 2, expected one of: {1}
-* uni0669 (U+0669): found 1, expected one of: {2}
-* uni06F3 (U+06F3): found 3, expected one of: {1}
-* uni06F4 (U+06F4): found 3, expected one of: {1}
-* uni06F6 (U+06F6): found 2, expected one of: {1}
-* uni06F9 (U+06F9): found 1, expected one of: {2}
-* uni06F4.urdu (unencoded): found 3, expected one of: {1}
-* uni066D (U+066D): found 6, expected one of: {1}
-* asterisk (U+002A): found 6, expected one of: {1, 3, 5, 2}
-* uniFDFC (U+FDFC): found 8, expected one of: {4, 6, 5}
-* uni02E5 (U+02E5): found 2, expected one of: {1}
-* uni02E9 (U+02E9): found 2, expected one of: {1}
-* uni02E6 (U+02E6): found 2, expected one of: {1}
-* uni02E8 (U+02E8): found 2, expected one of: {1}
-* uni02E7 (U+02E7): found 2, expected one of: {1}
-* uni02DE (U+02DE): found 2, expected one of: {1}
-* uni2117 (U+2117): found 2, expected one of: {4, 3}
-* uni0654 (U+0654): found 2, expected one of: {1}
-* uni0655 (U+0655): found 2, expected one of: {1}
-* uni0654064F (unencoded): found 4, expected one of: {3}
-* uni0654064C (unencoded): found 5, expected one of: {3}
-* uni0654064E (unencoded): found 3, expected one of: {2}
-* uni0654064B (unencoded): found 4, expected one of: {3}
-* uni06550650 (unencoded): found 3, expected one of: {2}
-* uni0655064D (unencoded): found 4, expected one of: {3}
-* uni064C (U+064C): found 3, expected one of: {2}
-* uni0651 (U+0651): found 2, expected one of: {1}
-* uni0651064C (unencoded): found 5, expected one of: {3, 2}
-* uni0651064D (unencoded): found 4, expected one of: {3}
-* uni0651064E (unencoded): found 3, expected one of: {2}
-* uni0651064F (unencoded): found 4, expected one of: {3, 2}
-* uni06510650 (unencoded): found 3, expected one of: {2}
-* uni06510670 (unencoded): found 3, expected one of: {2}
-* uni0652 (U+0652): found 1, expected one of: {2}
-* uni031A (U+031A): found 2, expected one of: {1}
-* uni032A (U+032A): found 3, expected one of: {1}
-* uni033A (U+033A): found 3, expected one of: {1}
-* uni033B (U+033B): found 6, expected one of: {2}
-* uni0346 (U+0346): found 3, expected one of: {1}
-* uni0349 (U+0349): found 2, expected one of: {1}
-* uni034A (U+034A): found 2, expected one of: {1} [code: contour-count]
-  
-  
-
-</div>
-</details>
-
-
-
-
-
-<details>
-    <summary>⚠️ <b>WARN</b> Shapes languages in all GF glyphsets. (googlefonts/glyphsets/shape_languages)</summary>
-    <div>
-
-
-
-
-
-
-
-
-- ⚠️ **WARN** Warning language shaping:
-
-| Message                                                               | Languages              |
-|-----------------------------------------------------------------------|------------------------|
-| Auxiliary orthography codepoints:                                     | * ur_Arab (Urdu)       |
-|   The following auxiliary characters are missing from the font: ؀؁؂؃‌‍‏  |                        |
-| Auxiliary orthography codepoints:                                     | * de_Latn (German)     |
-|   The following auxiliary characters are missing from the font: ſ     | * fr_Latn (French)     |
-| Auxiliary orthography codepoints:                                     | * lt_Latn (Lithuanian) |
-|   Shaper didn't attach tildecomb to uni0237 when shaping the text 'j̃' |                        |
-| Auxiliary orthography codepoints:                                     | * el_Grek (Greek)      |
-|   The following auxiliary characters are missing from the font: ἀ     |                        |
-|   The following auxiliary characters are missing from the font: ἄ     |                        |
-|   The following auxiliary characters are missing from the font: ἂ     |                        |
-|   The following auxiliary characters are missing from the font: ἆ     |                        |
-|   The following auxiliary characters are missing from the font: ἁ     |                        |
-|   The following auxiliary characters are missing from the font: ἅ     |                        |
-|   The following auxiliary characters are missing from the font: ἃ     |                        |
-|   The following auxiliary characters are missing from the font: ἇ     |                        |
-|   The following auxiliary characters are missing from the font: ᾶ     |                        |
-|   The following auxiliary characters are missing from the font: ἐ     |                        |
-|   The following auxiliary characters are missing from the font: ἔ     |                        |
-|   The following auxiliary characters are missing from the font: ἒ     |                        |
-|   The following auxiliary characters are missing from the font: ἑ     |                        |
-|   The following auxiliary characters are missing from the font: ἕ     |                        |
-|   The following auxiliary characters are missing from the font: ἓ     |                        |
-|   The following auxiliary characters are missing from the font: ἠ     |                        |
-|   The following auxiliary characters are missing from the font: ἤ     |                        |
-|   The following auxiliary characters are missing from the font: ἢ     |                        |
-|   The following auxiliary characters are missing from the font: ἦ     |                        |
-|   The following auxiliary characters are missing from the font: ἡ     |                        |
-|   The following auxiliary characters are missing from the font: ἥ     |                        |
-|   The following auxiliary characters are missing from the font: ἣ     |                        |
-|   The following auxiliary characters are missing from the font: ἧ     |                        |
-|   The following auxiliary characters are missing from the font: ῆ     |                        |
-|   The following auxiliary characters are missing from the font: ἰ     |                        |
-|   The following auxiliary characters are missing from the font: ἴ     |                        |
-|   The following auxiliary characters are missing from the font: ἲ     |                        |
-|   The following auxiliary characters are missing from the font: ἶ     |                        |
-|   The following auxiliary characters are missing from the font: ἱ     |                        |
-|   The following auxiliary characters are missing from the font: ἵ     |                        |
-|   The following auxiliary characters are missing from the font: ἳ     |                        |
-|   The following auxiliary characters are missing from the font: ἷ     |                        |
-|   The following auxiliary characters are missing from the font: ῖ     |                        |
-|   The following auxiliary characters are missing from the font: ῗ     |                        |
-|   The following auxiliary characters are missing from the font: ὄ     |                        |
-|   The following auxiliary characters are missing from the font: ὂ     |                        |
-|   The following auxiliary characters are missing from the font: ὃ     |                        |
-|   The following auxiliary characters are missing from the font: ὐ     |                        |
-|   The following auxiliary characters are missing from the font: ὔ     |                        |
-|   The following auxiliary characters are missing from the font: ὒ     |                        |
-|   The following auxiliary characters are missing from the font: ὖ     |                        |
-|   The following auxiliary characters are missing from the font: ὑ     |                        |
-|   The following auxiliary characters are missing from the font: ὕ     |                        |
-|   The following auxiliary characters are missing from the font: ὓ     |                        |
-|   The following auxiliary characters are missing from the font: ὗ     |                        |
-|   The following auxiliary characters are missing from the font: ῦ     |                        |
-|   The following auxiliary characters are missing from the font: ῧ     |                        |
-|   The following auxiliary characters are missing from the font: ὤ     |                        |
-|   The following auxiliary characters are missing from the font: ὢ     |                        |
-|   The following auxiliary characters are missing from the font: ὦ     |                        |
-|   The following auxiliary characters are missing from the font: ὥ     |                        |
-|   The following auxiliary characters are missing from the font: ὣ     |                        |
-|   The following auxiliary characters are missing from the font: ὧ     |                        |
-|   The following auxiliary characters are missing from the font: ῶ     |                        |
-| Auxiliary orthography codepoints:                                     | * fi_Latn (Finnish)    |
-|   The following auxiliary characters are missing from the font: Ǥ     |                        |
-|   The following auxiliary characters are missing from the font: Ʒ     |                        |
-|   The following auxiliary characters are missing from the font: Ǯ     |                        |
-|   The following auxiliary characters are missing from the font: ǥ     |                        |
-|   The following auxiliary characters are missing from the font: ʒ     |                        |
-|   The following auxiliary characters are missing from the font: ǯ     |                        | [code: warning-language-shaping]
-  
-  
-
-</div>
-</details>
-
-
-
-
-
-<details>
-    <summary>⚠️ <b>WARN</b> Ensure soft_dotted characters lose their dot when combined with marks that
-replace the dot. (soft_dotted)</summary>
-    <div>
-
-
-
-
-
-
-
-
-- ⚠️ **WARN** The dot of soft dotted characters used in orthographies _must_ disappear in the following strings: * į̂
-* į̃
-* į́
-* į̀
-* į̌
-* į̄The dot of soft dotted characters _should_ disappear in other cases, for example: * ʲ̦͌
-* ʲ̦̽
-* ʲ̦̏
-* ʲ̦͊
-* ʲ̦͋
-* ʲ̦͆
-* ʲ̦̅
-* ʲ̩̂
-* ʲ̩͌
-* ʲ̩̽
-* ʲ̩̏
-* ʲ̩̃
-* ʲ̩́
-* ʲ̩̀
-* ʲ̩͊
-* ʲ̩̈
-* ʲ̩̋
-* ʲ̩̆
-* ʲ̩͋
-* ʲ̩̇
-* ʲ̩̌
-* ʲ̩̊
-* ʲ̩̄
-* ʲ̩͆
-* ʲ̩̅
-* ʲ̧͌
-* ʲ̧̽
-* ʲ̧̏
-* ʲ̧͊
-* ʲ̧͋
-* ʲ̧͆
-* ʲ̧̅
-* ʲ̞̂
-* ʲ̞͌
-* ʲ̞̽
-* ʲ̞̏
-* ʲ̞̃
-* ʲ̞́
-* ʲ̞̀
-* ʲ̞͊
-* ʲ̞̈
-* ʲ̞̋
-* ʲ̞̆
-* ʲ̞͋
-* ʲ̞̇
-* ʲ̞̌
-* ʲ̞̊
-* ʲ̞̄
-* ʲ̞͆
-* ʲ̞̅
-* ʲ̪̂
-* ʲ̪͌
-* ʲ̪̽
-* ʲ̪̏
-* ʲ̪̃
-* ʲ̪́
-* ʲ̪̀
-* ʲ̪͊
-* ʲ̪̈
-* ʲ̪̋
-* ʲ̪̆
-* ʲ̪͋
-* ʲ̪̇
-* ʲ̪̌
-* ʲ̪̊
-* ʲ̪̄
-* ʲ̪͆
-* ʲ̪̅
-* ʲ̠̂
-* ʲ̠͌
-* ʲ̠̽
-* ʲ̠̏
-* ʲ̠̃
-* ʲ̠́
-* ʲ̠̀
-* ʲ̠͊
-* ʲ̠̈
-* ʲ̠̋
-* ʲ̠̆
-* ʲ̠͋
-* ʲ̠̇
-* ʲ̠̌
-* ʲ̠̊
-* ʲ̠̄
-* ʲ̠͆
-* ʲ̠̅
-* ʲ̺̂
-* ʲ̺͌
-* ʲ̺̽
-* ʲ̺̏
-* ʲ̺̃
-* ʲ̺́
-* ʲ̺̀
-* ʲ̺͊
-* ʲ̺̈
-* ʲ̺̋
-* ʲ̺̆
-* ʲ̺͋
-* ʲ̺̇
-* ʲ̺̌
-* ʲ̺̊
-* ʲ̺̄
-* ʲ̺͆
-* ʲ̺̅
-* ʲ̰̂
-* ʲ̰͌
-* ʲ̰̽
-* ʲ̰̏
-* ʲ̰̃
-* ʲ̰́
-* ʲ̰̀
-* ʲ̰͊
-* ʲ̰̈
-* ʲ̰̋
-* ʲ̰̆
-* ʲ̰͋
-* ʲ̰̇
-* ʲ̰̌
-* ʲ̰̊
-* ʲ̰̄
-* ʲ̰͆
-* ʲ̰̅
-* ʲ̻̂
-* ʲ̻͌
-* ʲ̻̽
-* ʲ̻̏
-* ʲ̻̃
-* ʲ̻́
-* ʲ̻̀
-* ʲ̻͊
-* ʲ̻̈
-* ʲ̻̋
-* ʲ̻̆
-* ʲ̻͋
-* ʲ̻̇
-* ʲ̻̌
-* ʲ̻̊
-* ʲ̻̄
-* ʲ̻͆
-* ʲ̻̅
-* ʲ̘̂
-* ʲ̘͌
-* ʲ̘̽
-* ʲ̘̏
-* ʲ̘̃
-* ʲ̘́
-* ʲ̘̀
-* ʲ̘͊
-* ʲ̘̈
-* ʲ̘̋
-* ʲ̘̆
-* ʲ̘͋
-* ʲ̘̇
-* ʲ̘̌
-* ʲ̘̊
-* ʲ̘̄
-* ʲ̘͆
-* ʲ̘̅
-* ʲ̥̂
-* ʲ̥͌
-* ʲ̥̽
-* ʲ̥̏
-* ʲ̥̃
-* ʲ̥́
-* ʲ̥̀
-* ʲ̥͊
-* ʲ̥̈
-* ʲ̥̋
-* ʲ̥̆
-* ʲ̥͋
-* ʲ̥̇
-* ʲ̥̌
-* ʲ̥̊
-* ʲ̥̄
-* ʲ̥͆
-* ʲ̥̅
-* ʲ͍̂
-* ʲ͍͌
-* ʲ͍̽
-* ʲ͍̏
-* ʲ͍̃
-* ʲ͍́
-* ʲ͍̀
-* ʲ͍͊
-* ʲ͍̈
-* ʲ͍̋
-* ʲ͍̆
-* ʲ͍͋
-* ʲ͍̇
-* ʲ͍̌
-* ʲ͍̊
-* ʲ͍̄
-* ʲ͍͆
-* ʲ͍̅
-* ʲ͎̂
-* ʲ͎͌
-* ʲ͎̽
-* ʲ͎̏
-* ʲ͎̃
-* ʲ͎́
-* ʲ͎̀
-* ʲ͎͊
-* ʲ͎̈
-* ʲ͎̋
-* ʲ͎̆
-* ʲ͎͋
-* ʲ͎̇
-* ʲ͎̌
-* ʲ͎̊
-* ʲ͎̄
-* ʲ͎͆
-* ʲ͎̅
-* ʲ͉̂
-* ʲ͉͌
-* ʲ͉̽
-* ʲ͉̏
-* ʲ͉̃
-* ʲ͉́
-* ʲ͉̀
-* ʲ͉͊
-* ʲ͉̈
-* ʲ͉̋
-* ʲ͉̆
-* ʲ͉͋
-* ʲ͉̇
-* ʲ͉̌
-* ʲ͉̊
-* ʲ͉̄
-* ʲ͉͆
-* ʲ͉̅
-* ʲ̴̂
-* ʲ̴͌
-* ʲ̴̽
-* ʲ̴̏
-* ʲ̴̃
-* ʲ̴́
-* ʲ̴̀
-* ʲ̴͊
-* ʲ̴̈
-* ʲ̴̋
-* ʲ̴̆
-* ʲ̴͋
-* ʲ̴̇
-* ʲ̴̌
-* ʲ̴̊
-* ʲ̴̄
-* ʲ̴͆
-* ʲ̴̅
-* ʲ̼̂
-* ʲ̼͌
-* ʲ̼̽
-* ʲ̼̏
-* ʲ̼̃
-* ʲ̼́
-* ʲ̼̀
-* ʲ̼͊
-* ʲ̼̈
-* ʲ̼̋
-* ʲ̼̆
-* ʲ̼͋
-* ʲ̼̇
-* ʲ̼̌
-* ʲ̼̊
-* ʲ̼̄
-* ʲ̼͆
-* ʲ̼̅
-* ʲ̤̂
-* ʲ̤͌
-* ʲ̤̽
-* ʲ̤̏
-* ʲ̤̃
-* ʲ̤́
-* ʲ̤̀
-* ʲ̤͊
-* ʲ̤̈
-* ʲ̤̋
-* ʲ̤̆
-* ʲ̤͋
-* ʲ̤̇
-* ʲ̤̌
-* ʲ̤̊
-* ʲ̤̄
-* ʲ̤͆
-* ʲ̤̅
-* ʲ̜̂
-* ʲ̜͌
-* ʲ̜̽
-* ʲ̜̏
-* ʲ̜̃
-* ʲ̜́
-* ʲ̜̀
-* ʲ̜͊
-* ʲ̜̈
-* ʲ̜̋
-* ʲ̜̆
-* ʲ̜͋
-* ʲ̜̇
-* ʲ̜̌
-* ʲ̜̊
-* ʲ̜̄
-* ʲ̜͆
-* ʲ̜̅
-* ʲ̟̂
-* ʲ̟͌
-* ʲ̟̽
-* ʲ̟̏
-* ʲ̟̃
-* ʲ̟́
-* ʲ̟̀
-* ʲ̟͊
-* ʲ̟̈
-* ʲ̟̋
-* ʲ̟̆
-* ʲ̟͋
-* ʲ̟̇
-* ʲ̟̌
-* ʲ̟̊
-* ʲ̟̄
-* ʲ̟͆
-* ʲ̟̅
-* ʲ̨͌
-* ʲ̨̽
-* ʲ̨̏
-* ʲ̨͊
-* ʲ̨͋
-* ʲ̨͆
-* ʲ̨̅
-* ʲ̝̂
-* ʲ̝͌
-* ʲ̝̽
-* ʲ̝̏
-* ʲ̝̃
-* ʲ̝́
-* ʲ̝̀
-* ʲ̝͊
-* ʲ̝̈
-* ʲ̝̋
-* ʲ̝̆
-* ʲ̝͋
-* ʲ̝̇
-* ʲ̝̌
-* ʲ̝̊
-* ʲ̝̄
-* ʲ̝͆
-* ʲ̝̅
-* ʲ͇̂
-* ʲ͇͌
-* ʲ͇̽
-* ʲ͇̏
-* ʲ͇̃
-* ʲ͇́
-* ʲ͇̀
-* ʲ͇͊
-* ʲ͇̈
-* ʲ͇̋
-* ʲ͇̆
-* ʲ͇͋
-* ʲ͇̇
-* ʲ͇̌
-* ʲ͇̊
-* ʲ͇̄
-* ʲ͇͆
-* ʲ͇̅
-* ʲ̬̂
-* ʲ̬͌
-* ʲ̬̽
-* ʲ̬̏
-* ʲ̬̃
-* ʲ̬́
-* ʲ̬̀
-* ʲ̬͊
-* ʲ̬̈
-* ʲ̬̋
-* ʲ̬̆
-* ʲ̬͋
-* ʲ̬̇
-* ʲ̬̌
-* ʲ̬̊
-* ʲ̬̄
-* ʲ̬͆
-* ʲ̬̅
-* ʲ̙̂
-* ʲ̙͌
-* ʲ̙̽
-* ʲ̙̏
-* ʲ̙̃
-* ʲ̙́
-* ʲ̙̀
-* ʲ̙͊
-* ʲ̙̈
-* ʲ̙̋
-* ʲ̙̆
-* ʲ̙͋
-* ʲ̙̇
-* ʲ̙̌
-* ʲ̙̊
-* ʲ̙̄
-* ʲ̙͆
-* ʲ̙̅
-* ʲ͈̂
-* ʲ͈͌
-* ʲ͈̽
-* ʲ͈̏
-* ʲ͈̃
-* ʲ͈́
-* ʲ͈̀
-* ʲ͈͊
-* ʲ͈̈
-* ʲ͈̋
-* ʲ͈̆
-* ʲ͈͋
-* ʲ͈̇
-* ʲ͈̌
-* ʲ͈̊
-* ʲ͈̄
-* ʲ͈͆
-* ʲ͈̅
-* ʲ̲̂
-* ʲ̲͌
-* ʲ̲̽
-* ʲ̲̏
-* ʲ̲̃
-* ʲ̲́
-* ʲ̲̀
-* ʲ̲͊
-* ʲ̲̈
-* ʲ̲̋
-* ʲ̲̆
-* ʲ̲͋
-* ʲ̲̇
-* ʲ̲̌
-* ʲ̲̊
-* ʲ̲̄
-* ʲ̲͆
-* ʲ̲̅
-* ʲ̹̂
-* ʲ̹͌
-* ʲ̹̽
-* ʲ̹̏
-* ʲ̹̃
-* ʲ̹́
-* ʲ̹̀
-* ʲ̹͊
-* ʲ̹̈
-* ʲ̹̋
-* ʲ̹̆
-* ʲ̹͋
-* ʲ̹̇
-* ʲ̹̌
-* ʲ̹̊
-* ʲ̹̄
-* ʲ̹͆
-* ʲ̹̅
-* ʲ̂
-* ʲ͌
-* ʲ̽
-* ʲ̏
-* ʲ̃
-* ʲ́
-* ʲ̀
-* ʲ͊
-* ʲ̈
-* ʲ̋
-* ʲ̆
-* ʲ͋
-* ʲ̇
-* ʲ̌
-* ʲ̊
-* ʲ̄
-* ʲ͆
-* ʲ̅
-* i̦̅
-* i̩̅
-* i̧̅
-* i̞̅
-* i̪̅
-* i̠̅
-* i̺̅
-* ḭ̅
-* i̻̅
-* i̘̅
-* i̥̅
-* i͍̅
-* i͎̅
-* i͉̅
-* i̴̅
-* i̼̅
-* i̤̅
-* i̜̅
-* i̟̅
-* i̝̅
-* i͇̅
-* i̬̅
-* i̙̅
-* i͈̅
-* i̲̅
-* i̹̅
-* i̅
-* į̦͌
-* į̦̽
-* į̦̏
-* į̦͊
-* į̦͋
-* į̦͆
-* į̦̅
-* į̩̂
-* į̩͌
-* į̩̽
-* į̩̏
-* į̩̃
-* į̩́
-* į̩̀
-* į̩͊
-* į̩̈
-* į̩̋
-* į̩̆
-* į̩͋
-* į̩̇
-* į̩̌
-* į̩̊
-* į̩̄
-* į̩͆
-* į̩̅
-* į̧͌
-* į̧̽
-* į̧̏
-* į̧͊
-* į̧͋
-* į̧͆
-* į̧̅
-* į̞̂
-* į̞͌
-* į̞̽
-* į̞̏
-* į̞̃
-* į̞́
-* į̞̀
-* į̞͊
-* į̞̈
-* į̞̋
-* į̞̆
-* į̞͋
-* į̞̇
-* į̞̌
-* į̞̊
-* į̞̄
-* į̞͆
-* į̞̅
-* į̪̂
-* į̪͌
-* į̪̽
-* į̪̏
-* į̪̃
-* į̪́
-* į̪̀
-* į̪͊
-* į̪̈
-* į̪̋
-* į̪̆
-* į̪͋
-* į̪̇
-* į̪̌
-* į̪̊
-* į̪̄
-* į̪͆
-* į̪̅
-* į̠̂
-* į̠͌
-* į̠̽
-* į̠̏
-* į̠̃
-* į̠́
-* į̠̀
-* į̠͊
-* į̠̈
-* į̠̋
-* į̠̆
-* į̠͋
-* į̠̇
-* į̠̌
-* į̠̊
-* į̠̄
-* į̠͆
-* į̠̅
-* į̺̂
-* į̺͌
-* į̺̽
-* į̺̏
-* į̺̃
-* į̺́
-* į̺̀
-* į̺͊
-* į̺̈
-* į̺̋
-* į̺̆
-* į̺͋
-* į̺̇
-* į̺̌
-* į̺̊
-* į̺̄
-* į̺͆
-* į̺̅
-* į̰̂
-* į̰͌
-* į̰̽
-* į̰̏
-* į̰̃
-* į̰́
-* į̰̀
-* į̰͊
-* į̰̈
-* į̰̋
-* į̰̆
-* į̰͋
-* į̰̇
-* į̰̌
-* į̰̊
-* į̰̄
-* į̰͆
-* į̰̅
-* į̻̂
-* į̻͌
-* į̻̽
-* į̻̏
-* į̻̃
-* į̻́
-* į̻̀
-* į̻͊
-* į̻̈
-* į̻̋
-* į̻̆
-* į̻͋
-* į̻̇
-* į̻̌
-* į̻̊
-* į̻̄
-* į̻͆
-* į̻̅
-* į̘̂
-* į̘͌
-* į̘̽
-* į̘̏
-* į̘̃
-* į̘́
-* į̘̀
-* į̘͊
-* į̘̈
-* į̘̋
-* į̘̆
-* į̘͋
-* į̘̇
-* į̘̌
-* į̘̊
-* į̘̄
-* į̘͆
-* į̘̅
-* į̥̂
-* į̥͌
-* į̥̽
-* į̥̏
-* į̥̃
-* į̥́
-* į̥̀
-* į̥͊
-* į̥̈
-* į̥̋
-* į̥̆
-* į̥͋
-* į̥̇
-* į̥̌
-* į̥̊
-* į̥̄
-* į̥͆
-* į̥̅
-* į͍̂
-* į͍͌
-* į͍̽
-* į͍̏
-* į͍̃
-* į͍́
-* į͍̀
-* į͍͊
-* į͍̈
-* į͍̋
-* į͍̆
-* į͍͋
-* į͍̇
-* į͍̌
-* į͍̊
-* į͍̄
-* į͍͆
-* į͍̅
-* į͎̂
-* į͎͌
-* į͎̽
-* į͎̏
-* į͎̃
-* į͎́
-* į͎̀
-* į͎͊
-* į͎̈
-* į͎̋
-* į͎̆
-* į͎͋
-* į͎̇
-* į͎̌
-* į͎̊
-* į͎̄
-* į͎͆
-* į͎̅
-* į͉̂
-* į͉͌
-* į͉̽
-* į͉̏
-* į͉̃
-* į͉́
-* į͉̀
-* į͉͊
-* į͉̈
-* į͉̋
-* į͉̆
-* į͉͋
-* į͉̇
-* į͉̌
-* į͉̊
-* į͉̄
-* į͉͆
-* į͉̅
-* į̴̂
-* į̴͌
-* į̴̽
-* į̴̏
-* į̴̃
-* į̴́
-* į̴̀
-* į̴͊
-* į̴̈
-* į̴̋
-* į̴̆
-* į̴͋
-* į̴̇
-* į̴̌
-* į̴̊
-* į̴̄
-* į̴͆
-* į̴̅
-* į̼̂
-* į̼͌
-* į̼̽
-* į̼̏
-* į̼̃
-* į̼́
-* į̼̀
-* į̼͊
-* į̼̈
-* į̼̋
-* į̼̆
-* į̼͋
-* į̼̇
-* į̼̌
-* į̼̊
-* į̼̄
-* į̼͆
-* į̼̅
-* į̤̂
-* į̤͌
-* į̤̽
-* į̤̏
-* į̤̃
-* į̤́
-* į̤̀
-* į̤͊
-* į̤̈
-* į̤̋
-* į̤̆
-* į̤͋
-* į̤̇
-* į̤̌
-* į̤̊
-* į̤̄
-* į̤͆
-* į̤̅
-* į̜̂
-* į̜͌
-* į̜̽
-* į̜̏
-* į̜̃
-* į̜́
-* į̜̀
-* į̜͊
-* į̜̈
-* į̜̋
-* į̜̆
-* į̜͋
-* į̜̇
-* į̜̌
-* į̜̊
-* į̜̄
-* į̜͆
-* į̜̅
-* į̟̂
-* į̟͌
-* į̟̽
-* į̟̏
-* į̟̃
-* į̟́
-* į̟̀
-* į̟͊
-* į̟̈
-* į̟̋
-* į̟̆
-* į̟͋
-* į̟̇
-* į̟̌
-* į̟̊
-* į̟̄
-* į̟͆
-* į̟̅
-* į̨͌
-* į̨̽
-* į̨̏
-* į̨͊
-* į̨͋
-* į̨͆
-* į̨̅
-* į̝̂
-* į̝͌
-* į̝̽
-* į̝̏
-* į̝̃
-* į̝́
-* į̝̀
-* į̝͊
-* į̝̈
-* į̝̋
-* į̝̆
-* į̝͋
-* į̝̇
-* į̝̌
-* į̝̊
-* į̝̄
-* į̝͆
-* į̝̅
-* į͇̂
-* į͇͌
-* į͇̽
-* į͇̏
-* į͇̃
-* į͇́
-* į͇̀
-* į͇͊
-* į͇̈
-* į͇̋
-* į͇̆
-* į͇͋
-* į͇̇
-* į͇̌
-* į͇̊
-* į͇̄
-* į͇͆
-* į͇̅
-* į̬̂
-* į̬͌
-* į̬̽
-* į̬̏
-* į̬̃
-* į̬́
-* į̬̀
-* į̬͊
-* į̬̈
-* į̬̋
-* į̬̆
-* į̬͋
-* į̬̇
-* į̬̌
-* į̬̊
-* į̬̄
-* į̬͆
-* į̬̅
-* į̙̂
-* į̙͌
-* į̙̽
-* į̙̏
-* į̙̃
-* į̙́
-* į̙̀
-* į̙͊
-* į̙̈
-* į̙̋
-* į̙̆
-* į̙͋
-* į̙̇
-* į̙̌
-* į̙̊
-* į̙̄
-* į̙͆
-* į̙̅
-* į͈̂
-* į͈͌
-* į͈̽
-* į͈̏
-* į͈̃
-* į͈́
-* į͈̀
-* į͈͊
-* į͈̈
-* į͈̋
-* į͈̆
-* į͈͋
-* į͈̇
-* į͈̌
-* į͈̊
-* į͈̄
-* į͈͆
-* į͈̅
-* į̲̂
-* į̲͌
-* į̲̽
-* į̲̏
-* į̲̃
-* į̲́
-* į̲̀
-* į̲͊
-* į̲̈
-* į̲̋
-* į̲̆
-* į̲͋
-* į̲̇
-* į̲̌
-* į̲̊
-* į̲̄
-* į̲͆
-* į̲̅
-* į̹̂
-* į̹͌
-* į̹̽
-* į̹̏
-* į̹̃
-* į̹́
-* į̹̀
-* į̹͊
-* į̹̈
-* į̹̋
-* į̹̆
-* į̹͋
-* į̹̇
-* į̹̌
-* į̹̊
-* į̹̄
-* į̹͆
-* į̹̅
-* į͌
-* į̽
-* į̏
-* į͊
-* į̈
-* į̋
-* į̆
-* į͋
-* į̇
-* į̊
-* į͆
-* į̅
-* ⁱ̦͌
-* ⁱ̦̽
-* ⁱ̦̏
-* ⁱ̦͊
-* ⁱ̦͋
-* ⁱ̦͆
-* ⁱ̦̅
-* ⁱ̩̂
-* ⁱ̩͌
-* ⁱ̩̽
-* ⁱ̩̏
-* ⁱ̩̃
-* ⁱ̩́
-* ⁱ̩̀
-* ⁱ̩͊
-* ⁱ̩̈
-* ⁱ̩̋
-* ⁱ̩̆
-* ⁱ̩͋
-* ⁱ̩̇
-* ⁱ̩̌
-* ⁱ̩̊
-* ⁱ̩̄
-* ⁱ̩͆
-* ⁱ̩̅
-* ⁱ̧͌
-* ⁱ̧̽
-* ⁱ̧̏
-* ⁱ̧͊
-* ⁱ̧͋
-* ⁱ̧͆
-* ⁱ̧̅
-* ⁱ̞̂
-* ⁱ̞͌
-* ⁱ̞̽
-* ⁱ̞̏
-* ⁱ̞̃
-* ⁱ̞́
-* ⁱ̞̀
-* ⁱ̞͊
-* ⁱ̞̈
-* ⁱ̞̋
-* ⁱ̞̆
-* ⁱ̞͋
-* ⁱ̞̇
-* ⁱ̞̌
-* ⁱ̞̊
-* ⁱ̞̄
-* ⁱ̞͆
-* ⁱ̞̅
-* ⁱ̪̂
-* ⁱ̪͌
-* ⁱ̪̽
-* ⁱ̪̏
-* ⁱ̪̃
-* ⁱ̪́
-* ⁱ̪̀
-* ⁱ̪͊
-* ⁱ̪̈
-* ⁱ̪̋
-* ⁱ̪̆
-* ⁱ̪͋
-* ⁱ̪̇
-* ⁱ̪̌
-* ⁱ̪̊
-* ⁱ̪̄
-* ⁱ̪͆
-* ⁱ̪̅
-* ⁱ̠̂
-* ⁱ̠͌
-* ⁱ̠̽
-* ⁱ̠̏
-* ⁱ̠̃
-* ⁱ̠́
-* ⁱ̠̀
-* ⁱ̠͊
-* ⁱ̠̈
-* ⁱ̠̋
-* ⁱ̠̆
-* ⁱ̠͋
-* ⁱ̠̇
-* ⁱ̠̌
-* ⁱ̠̊
-* ⁱ̠̄
-* ⁱ̠͆
-* ⁱ̠̅
-* ⁱ̺̂
-* ⁱ̺͌
-* ⁱ̺̽
-* ⁱ̺̏
-* ⁱ̺̃
-* ⁱ̺́
-* ⁱ̺̀
-* ⁱ̺͊
-* ⁱ̺̈
-* ⁱ̺̋
-* ⁱ̺̆
-* ⁱ̺͋
-* ⁱ̺̇
-* ⁱ̺̌
-* ⁱ̺̊
-* ⁱ̺̄
-* ⁱ̺͆
-* ⁱ̺̅
-* ⁱ̰̂
-* ⁱ̰͌
-* ⁱ̰̽
-* ⁱ̰̏
-* ⁱ̰̃
-* ⁱ̰́
-* ⁱ̰̀
-* ⁱ̰͊
-* ⁱ̰̈
-* ⁱ̰̋
-* ⁱ̰̆
-* ⁱ̰͋
-* ⁱ̰̇
-* ⁱ̰̌
-* ⁱ̰̊
-* ⁱ̰̄
-* ⁱ̰͆
-* ⁱ̰̅
-* ⁱ̻̂
-* ⁱ̻͌
-* ⁱ̻̽
-* ⁱ̻̏
-* ⁱ̻̃
-* ⁱ̻́
-* ⁱ̻̀
-* ⁱ̻͊
-* ⁱ̻̈
-* ⁱ̻̋
-* ⁱ̻̆
-* ⁱ̻͋
-* ⁱ̻̇
-* ⁱ̻̌
-* ⁱ̻̊
-* ⁱ̻̄
-* ⁱ̻͆
-* ⁱ̻̅
-* ⁱ̘̂
-* ⁱ̘͌
-* ⁱ̘̽
-* ⁱ̘̏
-* ⁱ̘̃
-* ⁱ̘́
-* ⁱ̘̀
-* ⁱ̘͊
-* ⁱ̘̈
-* ⁱ̘̋
-* ⁱ̘̆
-* ⁱ̘͋
-* ⁱ̘̇
-* ⁱ̘̌
-* ⁱ̘̊
-* ⁱ̘̄
-* ⁱ̘͆
-* ⁱ̘̅
-* ⁱ̥̂
-* ⁱ̥͌
-* ⁱ̥̽
-* ⁱ̥̏
-* ⁱ̥̃
-* ⁱ̥́
-* ⁱ̥̀
-* ⁱ̥͊
-* ⁱ̥̈
-* ⁱ̥̋
-* ⁱ̥̆
-* ⁱ̥͋
-* ⁱ̥̇
-* ⁱ̥̌
-* ⁱ̥̊
-* ⁱ̥̄
-* ⁱ̥͆
-* ⁱ̥̅
-* ⁱ͍̂
-* ⁱ͍͌
-* ⁱ͍̽
-* ⁱ͍̏
-* ⁱ͍̃
-* ⁱ͍́
-* ⁱ͍̀
-* ⁱ͍͊
-* ⁱ͍̈
-* ⁱ͍̋
-* ⁱ͍̆
-* ⁱ͍͋
-* ⁱ͍̇
-* ⁱ͍̌
-* ⁱ͍̊
-* ⁱ͍̄
-* ⁱ͍͆
-* ⁱ͍̅
-* ⁱ͎̂
-* ⁱ͎͌
-* ⁱ͎̽
-* ⁱ͎̏
-* ⁱ͎̃
-* ⁱ͎́
-* ⁱ͎̀
-* ⁱ͎͊
-* ⁱ͎̈
-* ⁱ͎̋
-* ⁱ͎̆
-* ⁱ͎͋
-* ⁱ͎̇
-* ⁱ͎̌
-* ⁱ͎̊
-* ⁱ͎̄
-* ⁱ͎͆
-* ⁱ͎̅
-* ⁱ͉̂
-* ⁱ͉͌
-* ⁱ͉̽
-* ⁱ͉̏
-* ⁱ͉̃
-* ⁱ͉́
-* ⁱ͉̀
-* ⁱ͉͊
-* ⁱ͉̈
-* ⁱ͉̋
-* ⁱ͉̆
-* ⁱ͉͋
-* ⁱ͉̇
-* ⁱ͉̌
-* ⁱ͉̊
-* ⁱ͉̄
-* ⁱ͉͆
-* ⁱ͉̅
-* ⁱ̴̂
-* ⁱ̴͌
-* ⁱ̴̽
-* ⁱ̴̏
-* ⁱ̴̃
-* ⁱ̴́
-* ⁱ̴̀
-* ⁱ̴͊
-* ⁱ̴̈
-* ⁱ̴̋
-* ⁱ̴̆
-* ⁱ̴͋
-* ⁱ̴̇
-* ⁱ̴̌
-* ⁱ̴̊
-* ⁱ̴̄
-* ⁱ̴͆
-* ⁱ̴̅
-* ⁱ̼̂
-* ⁱ̼͌
-* ⁱ̼̽
-* ⁱ̼̏
-* ⁱ̼̃
-* ⁱ̼́
-* ⁱ̼̀
-* ⁱ̼͊
-* ⁱ̼̈
-* ⁱ̼̋
-* ⁱ̼̆
-* ⁱ̼͋
-* ⁱ̼̇
-* ⁱ̼̌
-* ⁱ̼̊
-* ⁱ̼̄
-* ⁱ̼͆
-* ⁱ̼̅
-* ⁱ̤̂
-* ⁱ̤͌
-* ⁱ̤̽
-* ⁱ̤̏
-* ⁱ̤̃
-* ⁱ̤́
-* ⁱ̤̀
-* ⁱ̤͊
-* ⁱ̤̈
-* ⁱ̤̋
-* ⁱ̤̆
-* ⁱ̤͋
-* ⁱ̤̇
-* ⁱ̤̌
-* ⁱ̤̊
-* ⁱ̤̄
-* ⁱ̤͆
-* ⁱ̤̅
-* ⁱ̜̂
-* ⁱ̜͌
-* ⁱ̜̽
-* ⁱ̜̏
-* ⁱ̜̃
-* ⁱ̜́
-* ⁱ̜̀
-* ⁱ̜͊
-* ⁱ̜̈
-* ⁱ̜̋
-* ⁱ̜̆
-* ⁱ̜͋
-* ⁱ̜̇
-* ⁱ̜̌
-* ⁱ̜̊
-* ⁱ̜̄
-* ⁱ̜͆
-* ⁱ̜̅
-* ⁱ̟̂
-* ⁱ̟͌
-* ⁱ̟̽
-* ⁱ̟̏
-* ⁱ̟̃
-* ⁱ̟́
-* ⁱ̟̀
-* ⁱ̟͊
-* ⁱ̟̈
-* ⁱ̟̋
-* ⁱ̟̆
-* ⁱ̟͋
-* ⁱ̟̇
-* ⁱ̟̌
-* ⁱ̟̊
-* ⁱ̟̄
-* ⁱ̟͆
-* ⁱ̟̅
-* ⁱ̨͌
-* ⁱ̨̽
-* ⁱ̨̏
-* ⁱ̨͊
-* ⁱ̨͋
-* ⁱ̨͆
-* ⁱ̨̅
-* ⁱ̝̂
-* ⁱ̝͌
-* ⁱ̝̽
-* ⁱ̝̏
-* ⁱ̝̃
-* ⁱ̝́
-* ⁱ̝̀
-* ⁱ̝͊
-* ⁱ̝̈
-* ⁱ̝̋
-* ⁱ̝̆
-* ⁱ̝͋
-* ⁱ̝̇
-* ⁱ̝̌
-* ⁱ̝̊
-* ⁱ̝̄
-* ⁱ̝͆
-* ⁱ̝̅
-* ⁱ͇̂
-* ⁱ͇͌
-* ⁱ͇̽
-* ⁱ͇̏
-* ⁱ͇̃
-* ⁱ͇́
-* ⁱ͇̀
-* ⁱ͇͊
-* ⁱ͇̈
-* ⁱ͇̋
-* ⁱ͇̆
-* ⁱ͇͋
-* ⁱ͇̇
-* ⁱ͇̌
-* ⁱ͇̊
-* ⁱ͇̄
-* ⁱ͇͆
-* ⁱ͇̅
-* ⁱ̬̂
-* ⁱ̬͌
-* ⁱ̬̽
-* ⁱ̬̏
-* ⁱ̬̃
-* ⁱ̬́
-* ⁱ̬̀
-* ⁱ̬͊
-* ⁱ̬̈
-* ⁱ̬̋
-* ⁱ̬̆
-* ⁱ̬͋
-* ⁱ̬̇
-* ⁱ̬̌
-* ⁱ̬̊
-* ⁱ̬̄
-* ⁱ̬͆
-* ⁱ̬̅
-* ⁱ̙̂
-* ⁱ̙͌
-* ⁱ̙̽
-* ⁱ̙̏
-* ⁱ̙̃
-* ⁱ̙́
-* ⁱ̙̀
-* ⁱ̙͊
-* ⁱ̙̈
-* ⁱ̙̋
-* ⁱ̙̆
-* ⁱ̙͋
-* ⁱ̙̇
-* ⁱ̙̌
-* ⁱ̙̊
-* ⁱ̙̄
-* ⁱ̙͆
-* ⁱ̙̅
-* ⁱ͈̂
-* ⁱ͈͌
-* ⁱ͈̽
-* ⁱ͈̏
-* ⁱ͈̃
-* ⁱ͈́
-* ⁱ͈̀
-* ⁱ͈͊
-* ⁱ͈̈
-* ⁱ͈̋
-* ⁱ͈̆
-* ⁱ͈͋
-* ⁱ͈̇
-* ⁱ͈̌
-* ⁱ͈̊
-* ⁱ͈̄
-* ⁱ͈͆
-* ⁱ͈̅
-* ⁱ̲̂
-* ⁱ̲͌
-* ⁱ̲̽
-* ⁱ̲̏
-* ⁱ̲̃
-* ⁱ̲́
-* ⁱ̲̀
-* ⁱ̲͊
-* ⁱ̲̈
-* ⁱ̲̋
-* ⁱ̲̆
-* ⁱ̲͋
-* ⁱ̲̇
-* ⁱ̲̌
-* ⁱ̲̊
-* ⁱ̲̄
-* ⁱ̲͆
-* ⁱ̲̅
-* ⁱ̹̂
-* ⁱ̹͌
-* ⁱ̹̽
-* ⁱ̹̏
-* ⁱ̹̃
-* ⁱ̹́
-* ⁱ̹̀
-* ⁱ̹͊
-* ⁱ̹̈
-* ⁱ̹̋
-* ⁱ̹̆
-* ⁱ̹͋
-* ⁱ̹̇
-* ⁱ̹̌
-* ⁱ̹̊
-* ⁱ̹̄
-* ⁱ̹͆
-* ⁱ̹̅
-* ⁱ̂
-* ⁱ͌
-* ⁱ̽
-* ⁱ̏
-* ⁱ̃
-* ⁱ́
-* ⁱ̀
-* ⁱ͊
-* ⁱ̈
-* ⁱ̋
-* ⁱ̆
-* ⁱ͋
-* ⁱ̇
-* ⁱ̌
-* ⁱ̊
-* ⁱ̄
-* ⁱ͆
-* ⁱ̅
-* j̦̅
-* j̩̅
-* j̧̅
-* j̞̅
-* j̪̅
-* j̠̅
-* j̺̅
-* j̰̅
-* j̻̅
-* j̘̅
-* j̥̅
-* j͍̅
-* j͎̅
-* j͉̅
-* j̴̅
-* j̼̅
-* j̤̅
-* j̜̅
-* j̟̅
-* j̨̅
-* j̝̅
-* j͇̅
-* j̬̅
-* j̙̅
-* j͈̅
-* j̲̅
-* j̹̅
-* j̅ [code: soft-dotted]
-  
-  
-
-</div>
-</details>
-
-
-
-
-
-<details>
-    <summary>⚠️ <b>WARN</b> Checking OS/2 achVendID. (googlefonts/vendor_id)</summary>
-    <div>
-
-
-
-
-
-
-
-
-- ⚠️ **WARN** OS/2 VendorID value 'MSTR' is not yet recognized.
-If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
- [code: unknown]
   
   
 
