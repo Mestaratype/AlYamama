@@ -1,8 +1,10 @@
 {
-.appVersion = "3508";
+.appVersion = "3509";
 .formatVersion = 3;
 DisplayStrings = (
-"نن/noonghunna-ar.fina ںن ن"
+"نن/noonghunna-ar.fina ںن ن",
+"/tah-ar.init",
+"/lam-ar.fina"
 );
 axes = (
 {
@@ -66895,7 +66897,7 @@ metricRight = "kashida-ar";
 {
 color = 4;
 glyphname = "tah-ar.init";
-lastChange = "2026-01-09 23:29:14 +0000";
+lastChange = "2026-01-11 18:08:42 +0000";
 layers = (
 {
 anchors = (
@@ -66998,7 +67000,7 @@ pos = (148,0);
 ref = _part.sadcurve;
 }
 );
-width = 694;
+width = 732;
 }
 );
 metricLeft = "kashida-ar";
@@ -67103,7 +67105,7 @@ width = 755;
 },
 {
 glyphname = "zah-ar.init";
-lastChange = "2025-07-30 14:38:25 +0000";
+lastChange = "2026-01-11 18:08:50 +0000";
 layers = (
 {
 layerId = "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5";
@@ -67129,7 +67131,7 @@ pos = (295,34);
 ref = "dotabove-ar";
 }
 );
-width = 694;
+width = 732;
 }
 );
 },
@@ -70358,7 +70360,7 @@ unicode = 1604;
 {
 color = 4;
 glyphname = "lam-ar.fina";
-lastChange = "2026-01-10 21:03:00 +0000";
+lastChange = "2026-01-11 18:09:03 +0000";
 layers = (
 {
 anchors = (
@@ -70428,7 +70430,7 @@ name = "🔥";
 },
 {
 alignment = -1;
-pos = (401,0);
+pos = (391,0);
 ref = "alef-ar.fina";
 },
 {
@@ -138496,6 +138498,7 @@ oV = "176";
 tH = "50";
 };
 };
+GSDontShowVersionAlert = 1;
 KernOnKerningWeightLimit = 6000;
 KernOnRegenerateGroups = 1;
 KernOnVersion = "1.24";
