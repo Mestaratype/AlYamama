@@ -1,5 +1,5 @@
 {
-.appVersion = "3509";
+.appVersion = "3512";
 .formatVersion = 3;
 DisplayStrings = (
 "جمعة المصمم",
@@ -85891,7 +85891,7 @@ unicode = 1637;
 },
 {
 glyphname = "six-ar";
-lastChange = "2025-12-25 16:08:00 +0000";
+lastChange = "2026-01-20 10:27:50 +0000";
 layers = (
 {
 background = {
@@ -85926,9 +85926,9 @@ nodes = (
 (50,636,l),
 (71,574,l),
 (321,574,l),
-(401,0,l),
-(409,0,l),
-(454,65,l)
+(391,0,l),
+(399,0,l),
+(444,65,l)
 );
 }
 );
@@ -85967,9 +85967,9 @@ nodes = (
 (25,693,l),
 (65,547,l),
 (308,547,l),
-(406,0,l),
-(430,0,l),
-(540,132,l)
+(366,0,l),
+(390,0,l),
+(500,132,l)
 );
 }
 );
@@ -139452,7 +139452,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 The Alyamama Project Authors (https://www.github.com/MestaraType/AlYamama)";
+value = "Copyright 2025 The Alyamama Project Authors (https://github.com/MestaraType/AlYamama)";
 }
 );
 },
