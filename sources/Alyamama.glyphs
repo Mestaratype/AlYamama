@@ -743,6 +743,7 @@ sub lamVabove-ar by lamVabove-ar.fina;
 sub meem-ar by meem-ar.fina;
 sub noon-ar by noon-ar.fina;
 sub noonghunna-ar by noonghunna-ar.fina;
+sub noonThreedotsabove-ar by noonThreedotsabove-ar.fina;
 sub heh-ar by heh-ar.fina;
 sub hehgoal-ar by hehgoal-ar.fina;
 sub hehgoalHamzaabove-ar by hehgoalHamzaabove-ar.fina;
@@ -73110,6 +73111,38 @@ width = 717;
 }
 );
 unicode = 1725;
+},
+{
+glyphname = "noonThreedotsabove-ar.fina";
+lastChange = "2026-02-03 09:11:01 +0000";
+layers = (
+{
+layerId = "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5";
+shapes = (
+{
+ref = "noonghunna-ar.fina";
+},
+{
+pos = (153,-146);
+ref = "threedotsupabove-ar";
+}
+);
+width = 738;
+},
+{
+layerId = m001;
+shapes = (
+{
+ref = "noonghunna-ar.fina";
+},
+{
+pos = (137,-3);
+ref = "threedotsupabove-ar";
+}
+);
+width = 767;
+}
+);
 },
 {
 glyphname = "noonThreedotsabove-ar.medi";
