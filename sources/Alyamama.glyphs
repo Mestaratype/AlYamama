@@ -2,8 +2,7 @@
 .appVersion = "3513";
 .formatVersion = 3;
 DisplayStrings = (
-"جمعة المصمم",
-"ٮ/behDotless-ar.fina سصڡ/fehDotless-ar.fina ٯ/qafDotless-ar.fina ك/kaf-ar.fina ل/lam-ar.fina ں/noonghunna-ar.fina ى/alefMaksura-ar.fina/seen_alefMaksura-ar.liga/sad_alefMaksura-ar.liga/alefMaksura_noon-ar.fina/_part.behEnding/_part.lamCup/_part.naberahYaa/_part.specialYaa/_part.yehCup"
+"السماءءٴ"
 );
 axes = (
 {
@@ -61630,31 +61629,29 @@ unicode = 1569;
 },
 {
 glyphname = "highhamza-ar";
-lastChange = "2026-01-31 21:58:02 +0000";
+lastChange = "2026-02-04 17:16:38 +0000";
 layers = (
 {
 layerId = "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5";
 shapes = (
 {
 alignment = -1;
-pos = (8,322);
+pos = (0,262);
 ref = "hamza-ar";
-scale = (0.8,0.8);
 }
 );
-width = 391;
+width = 463;
 },
 {
 layerId = m001;
 shapes = (
 {
 alignment = -1;
-pos = (8,200);
+pos = (0,195);
 ref = "hamza-ar";
-scale = (0.8,0.8);
 }
 );
-width = 387;
+width = 466;
 }
 );
 metricLeft = "hamza-ar";
@@ -76440,7 +76437,7 @@ unicode = 1746;
 {
 color = 4;
 glyphname = "yehbarree-ar.fina";
-lastChange = "2026-01-13 13:36:46 +0000";
+lastChange = "2026-02-03 10:30:46 +0000";
 layers = (
 {
 anchors = (
@@ -76789,7 +76786,7 @@ unicode = 1600;
 color = 3;
 export = 0;
 glyphname = "meem-ar.fina.001";
-lastChange = "2026-01-10 21:22:12 +0000";
+lastChange = "2026-02-03 10:29:45 +0000";
 layers = (
 {
 anchors = (
@@ -83980,7 +83977,7 @@ metricRight = "fehDotless-ar.init";
 color = 4;
 export = 0;
 glyphname = "fehDotless_alefMaksura-ar.liga.001";
-lastChange = "2026-01-13 13:36:46 +0000";
+lastChange = "2026-02-03 10:28:42 +0000";
 layers = (
 {
 anchors = (
@@ -84016,9 +84013,9 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(519,-80,l),
-(586,-17,l),
-(581,-7,l),
+(619,-80,l),
+(686,-17,l),
+(681,-7,l),
 (82,-7,l),
 (82,58,o),
 (118,108,o),
@@ -84067,7 +84064,7 @@ nodes = (
 );
 }
 );
-width = 641;
+width = 741;
 },
 {
 anchors = (
@@ -84155,9 +84152,9 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(550,-146,l),
-(695,-11,l),
-(687,13,l),
+(650,-146,l),
+(795,-11,l),
+(787,13,l),
 (115,13,l),
 (115,53,o),
 (130,64,o),
@@ -84206,7 +84203,7 @@ nodes = (
 );
 }
 );
-width = 750;
+width = 850;
 }
 );
 metricLeft = "alefMaksura-ar.fina";
@@ -143256,5 +143253,5 @@ m001 = {
 "com.hugojourdan.ColorFlow-selectedLayer-data" = "<null>";
 };
 versionMajor = 1;
-versionMinor = 212;
+versionMinor = 213;
 }
