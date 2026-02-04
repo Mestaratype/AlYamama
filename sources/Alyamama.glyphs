@@ -1,9 +1,6 @@
 {
 .appVersion = "3513";
 .formatVersion = 3;
-DisplayStrings = (
-"السماءءٴ"
-);
 axes = (
 {
 name = Weight;
@@ -61629,9 +61626,19 @@ unicode = 1569;
 },
 {
 glyphname = "highhamza-ar";
-lastChange = "2026-02-04 17:16:38 +0000";
+lastChange = "2026-02-04 17:35:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (232,0);
+},
+{
+name = top;
+pos = (220,575);
+}
+);
 layerId = "E311F2CF-05EC-45EB-99C0-CA1AFFE6A9D5";
 shapes = (
 {
@@ -61643,6 +61650,16 @@ ref = "hamza-ar";
 width = 463;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (233,0);
+},
+{
+name = top;
+pos = (233,612);
+}
+);
 layerId = m001;
 shapes = (
 {
