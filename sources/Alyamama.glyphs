@@ -1,5 +1,5 @@
 {
-.appVersion = "3513";
+.appVersion = "3515";
 .formatVersion = 3;
 axes = (
 {
@@ -140844,7 +140844,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 The Alyamama Project Authors (https://github.com/MestaraType/AlYamama)";
+value = "Copyright 2025 The Alyamama Project Authors (https://github.com/Mestaratype/AlYamama)";
 }
 );
 },
